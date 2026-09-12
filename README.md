@@ -9,7 +9,7 @@ _(재)숲과나눔 풀씨행동연구소 · 한겨레신문 공동주최_
 _공식 원문 날짜 · 사람 검수 계보 · 도착예정정보 재현을 결합한 다중 검증 프레임_
 
 ![status](https://img.shields.io/badge/status-V02%20submission-blue)
-![python](https://img.shields.io/badge/python-3.11-3776AB?logo=python&logoColor=white)
+![python](https://img.shields.io/badge/python-3.12%2B-3776AB?logo=python&logoColor=white)
 ![license](https://img.shields.io/badge/license-MIT-green)
 ![reproducible](https://img.shields.io/badge/reproducible-deterministic-brightgreen)
 ![data](https://img.shields.io/badge/data-public%20only-lightgrey)
@@ -49,8 +49,8 @@ _공식 원문 날짜 · 사람 검수 계보 · 도착예정정보 재현을 �
 
 본 저장소는 이 사적 청구서를 정량화하기 위한 프로젝트다. 단, **“피해 규모를 크게 확정하는 것”이 아니라, 원문·검수·재현이 어긋나지 않는 계산 가능한 최소한의 진술을 유지하는 것**을 목적으로 한다. 그 절제(節制)가 오히려 정책 활용 가능성을 넓힌다.
 
-> 📄 최종 분석보고서 PDF: [`TransportGapAudit_분석보고서.pdf`](./TransportGapAudit_분석보고서.pdf)
-> 📝 논문 초안 (V02): [`교통데이터공모전_논문_V02.docx`](./교통데이터공모전_논문_V02.docx)
+> 📄 논문 V02 PDF (7쪽): [교통데이터공모전_논문_V02.pdf](./exports/submission_v02/교통데이터공모전_논문_V02.pdf)
+> 📝 논문 V02 Word: [교통데이터공모전_논문_V02.docx](./exports/submission_v02/교통데이터공모전_논문_V02.docx)
 
 ---
 
@@ -159,20 +159,23 @@ TAGO 응답의 예측값 변화 간격을 **“도착예정 리셋 간격(predic
 │
 ├── scripts/
 │   └── submission/                        # V02 분석 파이프라인 (재현용)
-│       ├── build_registry.py              # 사건 레지스트리 결합
-│       ├── join_reviews.py                # 사람 검수대장 결합
-│       ├── recheck_documents.py           # 원문 재대조
-│       ├── recompute_gaps.py              # 시차 구간 산술
-│       ├── observe_arrival.py             # TAGO 관측 재집계
-│       ├── headway_proxy.py               # 예측 리셋 간격 프록시
-│       └── generate_report.py             # 표·그림 생성
+│       ├── run_v02.py                     # 저장 자료 기반 V02 통합 재집계
+│       ├── review_v02.py                  # 사람 검수 결합·증거 필드 검사
+│       ├── claims_v02.py                  # 원문 날짜 대조·시차 계산
+│       ├── replay_v02.py                  # 기존 배차 프록시 재현·민감도 분석
+│       ├── windows_v02.py                 # AM/PM 수집 원장·로그·원자료 대조
+│       ├── build_paper_v02.py             # 그림·논문 DOCX 생성
+│       ├── inventory_v02.py               # 원 작업환경 파일 감사
+│       └── release_v02.py                 # 원 작업환경 배포 사본·ZIP 생성
 │
 ├── data/
-│   ├── raw/                               # 원문 (HWP·PDF), Git-ignored 대용량
+│   ├── raw/                               # 배포 검사 후 포함된 원자료
 │   └── source_registry_verified_final_resolution.csv
 │
 ├── evidence/
 │   ├── candidate_registry.csv             # 197행 사건 후보
+│   ├── arrival_raw/                       # 실제 수집한 도착예정 API JSON
+│   ├── arrival_ledger.csv                 # 수집 요청 원장
 │   └── evidence_hash_map.csv              # SHA-256 매핑
 │
 ├── exports/
@@ -187,7 +190,12 @@ TAGO 응답의 예측값 변화 간격을 **“도착예정 리셋 간격(predic
 │       ├── observation_daily.csv
 │       ├── review_summary_v02.json
 │       ├── analysis_summary_v02.json
-│       └── figures/                       # fig1_gap.png, fig2_daily.png
+│       ├── actual_collection_windows_v02.csv
+│       ├── actual_collection_files_v02.csv
+│       ├── figure_1_document_intervals_v02.png
+│       ├── figure_2_coverage_v02.png
+│       ├── 교통데이터공모전_논문_V02.pdf    # 논문 PDF (7쪽)
+│       └── 교통데이터공모전_논문_V02.docx   # 논문 DOCX
 │
 ├── docs/
 │   └── submission_audit_v02/              # 전수 파일 목록·필드 변경·원문 주석
@@ -197,10 +205,8 @@ TAGO 응답의 예측값 변화 간격을 **“도착예정 리셋 간격(predic
 ├── scratch/
 │   └── calc_headway_v7.py                 # 배차 추정 원본 (감사 목적 보존)
 │
-├── tests/                                 # pytest 스위트
-│
-├── TransportGapAudit_분석보고서.pdf         # 공모전 제출본 (8p PDF)
-└── 교통데이터공모전_논문_V02.docx           # 연구논문 초안 (V02)
+├── src/collectors/arrival_snapshot.py      # 실제 수집 모듈
+└── tests/                                 # pytest 스위트
 ```
 
 ---
@@ -211,56 +217,53 @@ TAGO 응답의 예측값 변화 간격을 **“도착예정 리셋 간격(predic
 
 ```bash
 # 저장소 클론
-git clone https://github.com/<user>/transport-gap-audit.git
+git clone https://github.com/lythean1004/transport-gap-audit.git
 cd transport-gap-audit
 
-# 파이썬 3.11 가상환경
-python3.11 -m venv .venv
+# Python 3.12 이상 (pyproject.toml 기준)
+python -m venv .venv
 source .venv/bin/activate
 
 # 의존성 설치
-pip install -r requirements.txt
-# 또는
-pip install -e .
-
-# 인증키 (재관측 시에만 필요; V02 재현에는 불필요)
-cp .env.example .env
-# .env 파일에 TAGO_SERVICE_KEY, VWORLD_KEY 등을 채워 넣음
+python -m pip install -r requirements.txt
+# HWP 원문 처리 의존성 (현재 requirements.txt에 별도 기재되지 않음)
+python -m pip install olefile
 ```
+
+Windows PowerShell에서는 활성화 명령으로 `.\.venv\Scripts\Activate.ps1`을 사용한다. V02 저장 자료 재현에는 API 인증키가 필요하지 않다. 저장소가 비공개이면 접근 권한이 있는 GitHub 계정으로 클론해야 한다.
 
 ### 6.2 V02 결과 재현 (권장, 오프라인)
 
 ```bash
-# 1) 원문·검수 결합
-python -m scripts.submission.build_registry
-python -m scripts.submission.join_reviews
+# 1) 원문·검수 결합, 날짜 대조, 배차 프록시 및 수집 원장 재집계
+python -m scripts.submission.run_v02
 
-# 2) 원문 재대조 및 시차 산출
-python -m scripts.submission.recheck_documents
-python -m scripts.submission.recompute_gaps
+# 2) 그림과 논문 DOCX 생성
+python -m scripts.submission.build_paper_v02
 
-# 3) 도착정보 재집계 및 배차 프록시
-python -m scripts.submission.observe_arrival --replay
-python -m scripts.submission.headway_proxy
-
-# 4) 표·그림·요약 JSON 생성
-python -m scripts.submission.generate_report
-
-# 5) 결정론적 재현 검증
-pytest -q tests/
+# 3) 테스트
+python -m pytest -q
 ```
+
+저장소 루트에서 실행한다. 결과는 `exports/submission_v02/`와 `docs/submission_audit_v02/`에 기록되고, 중간 집계는 `qa/submission_v02/recomputed_v01_schema/`에 생성된다. `run_v02`는 `review_v02`, `claims_v02`, `replay_v02`, `windows_v02`를 순서대로 호출한다.
+
+논문 생성 스크립트는 DOCX와 PNG를 생성한다. PDF는 DOCX를 Word 등의 PDF 내보내기로 별도 변환한 결과이며 자동 갱신되지 않는다. 논문 본문은 V02 검토 시점의 서술을 포함하므로 입력 자료가 바뀌면 수치와 서술을 함께 재검토해야 한다. `inventory_v02`와 `release_v02`는 외부 참조 폴더·배포 작업폴더를 사용하는 감사 도구로, 위 오프라인 재집계의 필수 실행 단계가 아니다.
 
 ### 6.3 최초 관측 재실행 (선택)
 
-TAGO 도착정보 API를 새로 관측하려면 `.env`에 인증키를 설정한 뒤 다음을 실행한다.
+실제 수집 모듈은 `src.collectors.arrival_snapshot`이다. 기존 배치 참조파일은 [run_arrival_snapshot.bat](./docs/submission_audit_v02/batch_reference/run_arrival_snapshot.bat)에 보관되어 있다. 참조파일의 로컬 Python·프로젝트 경로는 원 수집환경 값이므로 다른 환경에서는 그대로 실행하지 않는다.
 
 ```bash
-# 오전 07:00–09:00 · 오후 17:00–19:00 슬롯 관측
-python -m scripts.submission.observe_arrival --live --window am
-python -m scripts.submission.observe_arrival --live --window pm
+# 지원 옵션 확인 (API 호출 없음)
+python -m src.collectors.arrival_snapshot --help
+
+# 가상 실행 (HTTP 호출 및 파일 쓰기 없음)
+python -m src.collectors.arrival_snapshot --dry-run --obs-date 2026-09-07 --slot 0700 --no-sweep
 ```
 
-> ⚠️ 인증키는 저장소에 커밋하지 말 것. `.gitignore`에 `.env`가 등록되어 있으며, `git-secrets` 훅으로 알려진 키 패턴을 차단한다.
+새로운 실제 수집은 `TAGO_SERVICE_KEY` 환경변수, 대상 정류소, 관측 날짜·슬롯, 호출 예산을 확인한 뒤 별도로 수행한다. 단일 명령이 오전·오후 전체 기간을 자동 예약하지 않으며 Windows 예약 작업은 등록하지 않는다.
+
+> 인증키는 저장소에 커밋하지 않는다. `.gitignore`에 `.env` 제외 규칙이 있지만 이것만으로 모든 비밀정보를 차단하지는 않는다. V02 배포 검사 기록은 [release_validation_v02.json](./exports/submission_v02/release_validation_v02.json)에 있다. `git-secrets` 훅 설치는 전제하지 않는다.
 
 ---
 
@@ -268,16 +271,16 @@ python -m scripts.submission.observe_arrival --live --window pm
 
 | 파일 | 규모 | 논문·보고서 대응 위치 |
 |---|---:|---|
-| `facility_document_comparison_v02.csv` | 6행 | §5.1 표 3 (원문 재대조 시차) |
-| `facility_gap_v02.csv` | 5행 | §5.1 대조용 표 (검수 날짜 기준) |
-| `document_date_checks_v02.csv` | 3행 | §5.1 그림 1 · 원문 충돌 근거 |
-| `promise_comparison_v02.csv` | 10행 | §5.1 “목표 대비 차이” |
-| `forward_monitoring_v02.csv` | 5행 | §5.4 전방 모니터링 |
-| `prediction_proxy_all_days_v02.csv` | 180행 | §5.3 노선·일자별 리셋 간격 |
-| `prediction_proxy_sensitivity_v02.csv` | 8행 | §5.3 표 4 민감도 |
-| `observation_daily.csv` | 6행 | §5.3 그림 2 (일별 슬롯 상태) |
-| `review_summary_v02.json` | — | §5.2 검수 요약 |
-| `analysis_summary_v02.json` | — | §2 전체 규모 |
+| [facility_document_comparison_v02.csv](./exports/submission_v02/facility_document_comparison_v02.csv) | 5행 | §5.1 표 3 (원문 재대조 시차) |
+| [facility_gap_v02.csv](./exports/submission_v02/facility_gap_v02.csv) | 5행 | §5.1 대조용 표 (검수 날짜 기준) |
+| [document_date_checks_v02.csv](./exports/submission_v02/document_date_checks_v02.csv) | 3행 | §5.1 그림 1 · 원문 충돌 근거 |
+| [promise_comparison_v02.csv](./exports/submission_v02/promise_comparison_v02.csv) | 10행 | §5.1 “목표 대비 차이” |
+| [forward_monitoring_v02.csv](./exports/submission_v02/forward_monitoring_v02.csv) | 5행 | §5.4 전방 모니터링 |
+| [prediction_proxy_all_days_v02.csv](./exports/submission_v02/prediction_proxy_all_days_v02.csv) | 170행 | §5.3 노선·일자별 리셋 간격 |
+| [prediction_proxy_sensitivity_v02.csv](./exports/submission_v02/prediction_proxy_sensitivity_v02.csv) | 8행 | §5.3 표 4 민감도 |
+| [observation_daily.csv](./exports/submission_v02/observation_daily.csv) | 6행 | §5.3 그림 2 (일별 슬롯 상태) |
+| [review_summary_v02.json](./exports/submission_v02/review_summary_v02.json) | — | §5.2 검수 요약 |
+| [analysis_summary_v02.json](./exports/submission_v02/analysis_summary_v02.json) | — | §2 전체 규모 |
 
 > `facility_gap_v02.csv`는 **사용자의 검수 날짜를 그대로 계산한 대조용 표**다. 원문 날짜 충돌을 반영한 `facility_document_comparison_v02.csv`와 다를 수 있으므로 **단독 인용하지 말 것**.
 
@@ -322,7 +325,7 @@ AI는 **결론의 판단자가 아니라 대량 원문 판독·코드 재구성�
 
 ### 라이선스
 
-- **코드**: [MIT License](./LICENSE)
+- **코드**: MIT로 표기되어 있으나, 현재 저장소에는 별도 `LICENSE` 파일이 포함되어 있지 않다.
 - **문서·분석 결과물**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - **원문 데이터**: 각 원출처의 이용조건을 따른다. 본 저장소는 해시·인용문만 재배포하며 원문 재배포는 별도 확인이 필요하다.
 
@@ -338,7 +341,7 @@ AI는 **결론의 판단자가 아니라 대량 원문 판독·코드 재구성�
   year         = {2026},
   month        = {9},
   version      = {V02},
-  url          = {https://github.com/<user>/transport-gap-audit}
+  url          = {https://github.com/lythean1004/transport-gap-audit}
 }
 ```
 
