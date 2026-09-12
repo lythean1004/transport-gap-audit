@@ -1,0 +1,132 @@
+tests/test_api_common.py::test_fetch_public_api_dry_run
+tests/test_building_hub.py::test_extract_items
+tests/test_building_hub.py::test_fetch_page_auth_error
+tests/test_building_hub.py::test_fetch_page_api_error
+tests/test_building_hub.py::test_fetch_page_http_error
+tests/test_building_hub.py::test_parse_useAprDay
+tests/test_building_hub.py::test_save_to_parquet
+tests/test_building_title.py::test_dry_run
+tests/test_building_title.py::test_items_item_variations
+tests/test_evidence_registry.py::test_validate_registry
+tests/test_evidence_registry.py::test_gate_report_pass
+tests/test_evidence_registry.py::test_gate_report_fail
+tests/test_evidence_registry.py::test_gate_report_fail_precision
+tests/test_full_pdf_refresh.py::test_all_raw_pdfs_are_in_inventory_and_hashes_still_match
+tests/test_full_pdf_refresh.py::test_every_pdf_extracted_or_duplicate_reused
+tests/test_full_pdf_refresh.py::test_every_unique_pdf_is_represented_in_registry
+tests/test_full_pdf_refresh.py::test_registry_keys_and_allowed_linkage_statuses
+tests/test_full_pdf_refresh.py::test_wirye_is_not_closed_by_a_different_rail_station
+tests/test_full_pdf_refresh.py::test_gap_ranges_are_nonnegative_and_misa_uses_first_hanam_line_stage
+tests/test_full_pdf_refresh.py::test_basic_service_uses_timetable_effective_date_when_qa_passes
+tests/test_full_pdf_refresh.py::test_strict_gate_does_not_promote_ai_extraction
+tests/test_full_pdf_refresh.py::test_key_correction_chains_have_one_latest_version
+tests/test_full_pdf_refresh.py::test_targeted_refresh_has_all_requested_and_split_block_rows
+tests/test_full_pdf_refresh.py::test_targeted_refresh_preserves_precision_and_rejects_mismatches
+tests/test_full_pdf_refresh.py::test_evidence_log_has_required_reproducibility_columns_and_stable_ids
+tests/test_full_pdf_refresh.py::test_central_evidence_manifest_covers_every_source_file_and_hashes_match
+tests/test_full_pdf_refresh.py::test_registry_local_evidence_paths_are_centralized
+tests/test_gate_evaluator.py::test_classify_occupancy_event
+tests/test_gate_evaluator.py::test_gate_evaluator_runs
+tests/test_geocode_once.py::test_geocode_ok
+tests/test_geocode_once.py::test_geocode_not_found
+tests/test_geocode_once.py::test_geocode_incorrect_key
+tests/test_kapt_normalizer.py::test_kapt_normalizer
+tests/test_pilots_config.py::test_pilots_config
+tests/test_route_api_spec.py::test_tago_route_findings_doc_exists
+tests/test_route_api_spec.py::test_tago_route_findings_contains_required_operations
+tests/test_route_api_spec.py::test_tago_route_findings_contains_first_last_bus_fields
+tests/test_route_api_spec.py::test_tago_route_findings_contains_headway_fields
+tests/test_route_api_spec.py::test_smoke_raw_files_exist
+tests/test_route_service_hours.py::test_parquet_file_exists
+tests/test_route_service_hours.py::test_parquet_schema_and_columns
+tests/test_route_service_hours.py::test_time_columns_are_string_zero_padded
+tests/test_route_service_hours.py::test_boolean_derivation_null_preservation
+tests/test_secret_redaction.py::test_secret_redaction
+tests/test_smoke_arrival.py::test_smoke_arrival_script_exists
+tests/test_smoke_arrival.py::test_smoke_raw_json_file_created
+tests/test_smoke_arrival.py::test_smoke_log_csv_format
+tests/test_stop_gate.py::test_threshold_is_inclusive[50.0-50-True]
+tests/test_stop_gate.py::test_threshold_is_inclusive[50.000001-50-False]
+tests/test_stop_gate.py::test_threshold_is_inclusive[800.0-800-True]
+tests/test_stop_gate.py::test_threshold_is_inclusive[800.000001-800-False]
+tests/test_stop_gate.py::test_evaluate_gate_integrates_within_thresholds
+tests/test_stop_gate.py::test_evaluate_gate_rejects_non_pending_status
+tests/test_stop_gate.py::test_g4_authoritative_row_selection_order_independent
+tests/test_stop_gate.py::test_ok_empty_smoke_fails_g4_with_no_bus_running_now
+tests/test_stop_gate.py::test_g4_evidence_missing_when_column_absent
+tests/test_stop_gate.py::test_g2_must_recompute_not_trust_column
+tests/test_stop_gate.py::test_g2_stop_not_found
+tests/test_stop_gate.py::test_g3_must_recompute_not_trust_column
+tests/test_stop_gate.py::test_direction_label_empty_or_none_or_nan
+tests/test_stop_gate.py::test_smoke_taken_on_saturday_fails_g4_not_weekday
+tests/test_stop_gate.py::test_g4_time_boundary_weekday
+tests/test_stop_gate.py::test_g4_api_error_reason_not_no_bus_running_now
+tests/test_stop_gate.py::test_g1_citycode_missing
+tests/test_stop_gate.py::test_g1_raw_file_missing_fails
+tests/test_stop_gate.py::test_g5_coord_verify_method_auto_or_api_fails
+tests/test_stop_gate.py::test_g5_coord_verify_method_nan_fails_missing_verifier
+tests/test_stop_gate.py::test_g5_coord_verify_method_token_matching_prevents_false_positive
+tests/test_stop_gate.py::test_g5_missing_verifier
+tests/test_stop_gate.py::test_evaluate_gate_does_not_mutate_input_row
+tests/test_stop_gate.py::test_all_gates_pass_review_status_stays_pending
+tests/test_stop_gate.py::test_gate_result_contract
+tests/test_stop_gate.py::test_compute_registry_content_hash_nfc_nfd_equivalence
+tests/test_stop_gate.py::test_g1_citycode_not_in_raw_fails
+tests/test_stop_gate.py::test_g4_smoke_older_than_30_days_fails_stale
+tests/test_stop_gate.py::test_g5_verified_at_invalid_format_or_future_fails
+tests/test_stop_gate.py::test_g6_direction_equals_nodenm_fails
+tests/test_stop_gate_cli.py::test_promote_stop_refuses_when_not_passed
+tests/test_stop_gate_cli.py::test_promote_stop_refuses_when_zero_row_report
+tests/test_stop_gate_cli.py::test_promote_stop_refuses_when_input_source_mismatch
+tests/test_stop_gate_cli.py::test_promote_refuses_when_registry_content_modified
+tests/test_stop_gate_cli.py::test_promote_consecutive_two_stops_succeeds_with_same_report
+tests/test_stop_gate_cli.py::test_check_7d_preconditions_blocks_when_zero_human_verified
+tests/test_stop_gate_cli.py::test_run_gate_on_registry_rejects_header_mismatch
+tests/test_stop_gate_cli.py::test_promote_stop_refuses_when_gate_version_mismatch
+tests/test_stop_gate_cli.py::test_promote_stop_refuses_when_no_registry_sentinel
+tests/test_stop_gate_cli.py::test_promote_refuses_when_target_not_in_report
+tests/test_stop_gate_cli.py::test_promote_refuses_when_row_count_mismatch
+tests/test_tago_nearby.py::test_haversine_known_values
+tests/test_tago_nearby.py::test_lon_m_per_deg_at
+tests/test_tago_nearby.py::test_dedup_and_empty
+tests/test_tago_nearby.py::test_korea_bounds_rejection
+
+=================================== ERRORS ====================================
+____________________ ERROR collecting tests/test_config.py ____________________
+ImportError while importing test module 'tests\test_config.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+..\..\AppData\Local\Programs\Python\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\test_config.py:4: in <module>
+    from src.config import require_secret, redact_sensitive_url, sanitize_log, get_secret
+E   ImportError: cannot import name 'redact_sensitive_url' from 'src.config' (src\config.py)
+______________ ERROR collecting tests/test_evidence_verifier.py _______________
+ImportError while importing test module 'tests\test_evidence_verifier.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+..\..\AppData\Local\Programs\Python\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\test_evidence_verifier.py:5: in <module>
+    from src.collectors.evidence_verifier import (
+src\collectors\evidence_verifier.py:18: in <module>
+    import html2text
+E   ModuleNotFoundError: No module named 'html2text'
+============================== warnings summary ===============================
+..\..\AppData\Local\Programs\Python\Python312\Lib\site-packages\openpyxl\packaging\core.py:90
+  C:\Users\parkd\AppData\Local\Programs\Python\Python312\Lib\site-packages\openpyxl\packaging\core.py:90: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+    created=datetime.datetime.utcnow(),
+
+..\..\AppData\Local\Programs\Python\Python312\Lib\site-packages\openpyxl\packaging\core.py:95
+  C:\Users\parkd\AppData\Local\Programs\Python\Python312\Lib\site-packages\openpyxl\packaging\core.py:95: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+    modified=datetime.datetime.utcnow(),
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=========================== short test summary info ===========================
+ERROR tests/test_config.py
+ERROR tests/test_evidence_verifier.py
+!!!!!!!!!!!!!!!!!!! Interrupted: 2 errors during collection !!!!!!!!!!!!!!!!!!!
+92 tests collected, 2 errors in 7.43s
+

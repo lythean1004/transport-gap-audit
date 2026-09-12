@@ -1,0 +1,189 @@
+....F...............................F................................... [ 75%]
+.......................                                                  [100%]
+================================== FAILURES ===================================
+_________________________ test_fetch_page_http_error __________________________
+
+    def test_fetch_page_http_error():
+        with patch('requests.get') as mock_get:
+            mock_resp = Mock()
+            mock_resp.status_code = 502
+            mock_resp.raise_for_status.side_effect = requests.HTTPError(response=mock_resp)
+            mock_get.return_value = mock_resp
+    
+            with patch('time.sleep') as mock_sleep:
+                with pytest.raises(BuildingHubAPIError) as e:
+>                   fetch_page("http://dummy", {})
+
+tests\test_building_hub.py:60: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+url = 'http://dummy', params = {}
+
+    def fetch_page(url, params):
+        max_attempts = 3
+        for attempt in range(max_attempts):
+            try:
+                resp = requests.get(url, params=params, timeout=15)
+    
+                # Check for API Gateway errors wrapped in JSON (like 403 with returnReasonCode 30)
+                try:
+                    data = resp.json()
+                except ValueError:
+                    data = None
+    
+>               if data and 'OpenAPI_ServiceResponse' in data:
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+E               TypeError: argument of type 'Mock' is not iterable
+
+src\collectors\building_hub.py:42: TypeError
+_____________________________ test_pilots_config ______________________________
+
+    def test_pilots_config():
+        config_path = Path('config/pilots.yaml')
+        if not config_path.exists():
+            pytest.skip("config/pilots.yaml not found")
+    
+        with open(config_path, 'r', encoding='utf-8') as f:
+            # Load as a string to check decimal places easily if needed, but safe_load is better
+            data = yaml.safe_load(f)
+    
+        errors = []
+    
+        # 1. meta.coord_crs == 'EPSG:4326'
+        meta = data.get('meta', {})
+        if meta.get('coord_crs') != 'EPSG:4326':
+            errors.append(f"meta.coord_crs is '{meta.get('coord_crs')}', expected 'EPSG:4326'")
+    
+        pilots = data.get('pilots', [])
+        for p in pilots:
+            pid = p.get('development_id', 'UNKNOWN')
+            clusters = p.get('clusters', [])
+    
+            # If no clusters, maybe it's not a historical pilot or not filled yet
+            if not clusters:
+                continue
+    
+            valid_clusters = [c for c in clusters if c.get('cluster_status') != 'surplus']
+            if not (3 <= len(valid_clusters) <= 5):
+                errors.append(f"Pilot {pid}: cluster count (excluding surplus) is {len(valid_clusters)}, must be between 3 and 5")
+    
+            prev_date = None
+    
+            for i, c in enumerate(clusters):
+                cid = c.get('cluster_id', 'UNKNOWN')
+    
+                # Check cluster_id matches pilot prefix
+                # Example: DEV-DONGTAN2 prefix could be DEV-DONGTAN2 or DONGTAN2
+                prefix_full = pid
+                prefix_short = pid.replace('DEV-', '')
+                if not (cid.startswith(prefix_full) or cid.startswith(prefix_short)):
+                    errors.append(f"Cluster {cid}: does not match pilot prefix {pid}")
+    
+                # lat/lon bounds
+                lat = c.get('lat')
+                lon = c.get('lon')
+                if lat is None or lon is None:
+                    errors.append(f"Cluster {cid}: missing lat or lon")
+                else:
+                    try:
+                        lat_f = float(lat)
+                        lon_f = float(lon)
+                        if not (33.0 <= lat_f <= 39.0):
+                            errors.append(f"Cluster {cid}: lat {lat_f} out of bounds (33-39). Did you swap x and y?")
+                        if not (124.0 <= lon_f <= 132.0):
+                            errors.append(f"Cluster {cid}: lon {lon_f} out of bounds (124-132). Did you swap x and y?")
+                        if lat_f == 0.0 and lon_f == 0.0:
+                            errors.append(f"Cluster {cid}: lat and lon cannot both be zero")
+    
+                        # 5 decimal places check
+                        # Convert to string without scientific notation
+                        lat_str = format(lat_f, '.10g')
+                        lon_str = format(lon_f, '.10g')
+                        lat_dec = len(lat_str.split('.')[-1]) if '.' in lat_str else 0
+                        lon_dec = len(lon_str.split('.')[-1]) if '.' in lon_str else 0
+    
+                        if lat_dec < 5 or lon_dec < 5:
+                            errors.append(f"Cluster {cid}: lat/lon must have at least 5 decimal places (got lat:{lat_dec}, lon:{lon_dec})")
+                    except ValueError:
+                        errors.append(f"Cluster {cid}: lat or lon is not numeric")
+    
+                # households_at_start
+                hh = c.get('households_at_start')
+                if not isinstance(hh, int) or hh <= 0:
+                    errors.append(f"Cluster {cid}: households_at_start must be a positive integer, got {hh}")
+    
+                # metadata fields non-empty
+                for field in ['coord_source', 'coord_verified_by', 'coord_retrieved_at', 'coord_verify_method']:
+                    val = c.get(field)
+                    if not val or str(val).strip() == "":
+                        errors.append(f"Cluster {cid}: {field} is empty or missing")
+    
+                # human_match_status
+                if c.get('human_match_status') != 'confirmed':
+                    errors.append(f"Cluster {cid}: human_match_status must be 'confirmed'")
+    
+                # approval_date_earliest ordering
+                date_val = c.get('approval_date_earliest')
+                if date_val:
+                    if prev_date and date_val < prev_date:
+                        errors.append(f"Cluster {cid}: approval_date_earliest ({date_val}) is earlier than previous cluster ({prev_date})")
+                    prev_date = date_val
+    
+            # Haversine pairwise distance >= 400m
+            for i in range(len(clusters)):
+                for j in range(i + 1, len(clusters)):
+                    c1 = clusters[i]
+                    c2 = clusters[j]
+                    lat1, lon1 = c1.get('lat'), c1.get('lon')
+                    lat2, lon2 = c2.get('lat'), c2.get('lon')
+                    if lat1 and lon1 and lat2 and lon2:
+                        try:
+                            dist = haversine(float(lat1), float(lon1), float(lat2), float(lon2))
+                            if dist < 400.0:
+                                errors.append(f"Pilot {pid}: distance between {c1.get('cluster_id')} and {c2.get('cluster_id')} is {dist:.1f}m (< 400m)")
+                        except ValueError:
+                            pass # handled above
+    
+        if errors:
+>           pytest.fail("Validation errors in config/pilots.yaml:\\n" + "\\n".join(errors))
+E           Failed: Validation errors in config/pilots.yaml:\nmeta.coord_crs is 'None', expected 'EPSG:4326'
+
+tests\test_pilots_config.py:126: Failed
+============================== warnings summary ===============================
+..\..\AppData\Local\Programs\Python\Python312\Lib\site-packages\openpyxl\packaging\core.py:90
+  C:\Users\parkd\AppData\Local\Programs\Python\Python312\Lib\site-packages\openpyxl\packaging\core.py:90: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+    created=datetime.datetime.utcnow(),
+
+..\..\AppData\Local\Programs\Python\Python312\Lib\site-packages\openpyxl\packaging\core.py:95
+  C:\Users\parkd\AppData\Local\Programs\Python\Python312\Lib\site-packages\openpyxl\packaging\core.py:95: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+    modified=datetime.datetime.utcnow(),
+
+tests/test_evidence_registry.py::test_gate_report_fail
+  src\evidence_registry.py:50: SettingWithCopyWarning: 
+  A value is trying to be set on a copy of a slice from a DataFrame.
+  Try using .loc[row_indexer,col_indexer] = value instead
+  
+  See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+    df["sha256"] = df.apply(ensure_hash, axis=1)
+
+tests/test_evidence_registry.py::test_gate_report_fail
+  src\evidence_registry.py:54: SettingWithCopyWarning: 
+  A value is trying to be set on a copy of a slice from a DataFrame.
+  Try using .loc[row_indexer,col_indexer] = value instead
+  
+  See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+    df["metric_eligible"] = df["review_status"].str.strip().str.lower() == "human_verified"
+
+tests/test_evidence_registry.py::test_gate_report_fail
+  src\evidence_registry.py:57: SettingWithCopyWarning: 
+  A value is trying to be set on a copy of a slice from a DataFrame.
+  Try using .loc[row_indexer,col_indexer] = value instead
+  
+  See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+    df["date_precision"] = df["date_precision"].fillna("unknown").astype(str)
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=========================== short test summary info ===========================
+FAILED tests/test_building_hub.py::test_fetch_page_http_error - TypeError: ar...
+FAILED tests/test_pilots_config.py::test_pilots_config - Failed: Validation e...
+2 failed, 93 passed, 1 skipped, 5 warnings in 5.27s

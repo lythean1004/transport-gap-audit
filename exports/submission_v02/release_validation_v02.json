@@ -1,0 +1,10 @@
+{
+  "files_before_manifests": 4153,
+  "known_secret_hits": 0,
+  "credential_pattern_candidates": 4,
+  "unresolved_credential_patterns": 0,
+  "git_history_in_zip": false,
+  "visibility": "private",
+  "paper_pages": 7,
+  "tests": "see docs/submission_audit_v02/pytest_final.txt"
+}

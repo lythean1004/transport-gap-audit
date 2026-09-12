@@ -1,0 +1,9 @@
+﻿period,dates,route_selection,excluded_routes,empty_response_zero_sensitivity,groups_with_detected_events,insufficient_groups,event_gap_count,pooled_proxy_gap_median_minutes,pooled_proxy_gap_p25,pooled_proxy_gap_p75,meaning
+archived_three_day_selection,2026-09-07;2026-09-08;2026-09-09,published_routes,GGB222000056;GGB222000137;GGB222000239,False,72,26,253,20.0,15.0,25.0,prediction_reset_proxy_not_vehicle_headway
+all_observed_days,2026-09-04;2026-09-07;2026-09-08;2026-09-09;2026-09-10;2026-09-11,published_routes,GGB222000056;GGB222000137;GGB222000239,False,143,71,411,20.0,15.0,25.0,prediction_reset_proxy_not_vehicle_headway
+archived_three_day_selection,2026-09-07;2026-09-08;2026-09-09,all_observed_routes,,False,87,40,260,20.0,15.0,25.0,prediction_reset_proxy_not_vehicle_headway
+all_observed_days,2026-09-04;2026-09-07;2026-09-08;2026-09-09;2026-09-10;2026-09-11,all_observed_routes,,False,170,97,421,20.0,15.0,25.0,prediction_reset_proxy_not_vehicle_headway
+archived_three_day_selection,2026-09-07;2026-09-08;2026-09-09,published_routes,GGB222000056;GGB222000137;GGB222000239,True,72,25,265,20.0,15.0,25.0,prediction_reset_proxy_not_vehicle_headway
+all_observed_days,2026-09-04;2026-09-07;2026-09-08;2026-09-09;2026-09-10;2026-09-11,published_routes,GGB222000056;GGB222000137;GGB222000239,True,144,60,470,20.0,10.0,25.0,prediction_reset_proxy_not_vehicle_headway
+archived_three_day_selection,2026-09-07;2026-09-08;2026-09-09,all_observed_routes,,True,88,40,274,20.0,11.25,25.0,prediction_reset_proxy_not_vehicle_headway
+all_observed_days,2026-09-04;2026-09-07;2026-09-08;2026-09-09;2026-09-10;2026-09-11,all_observed_routes,,True,176,91,490,20.0,10.0,25.0,prediction_reset_proxy_not_vehicle_headway

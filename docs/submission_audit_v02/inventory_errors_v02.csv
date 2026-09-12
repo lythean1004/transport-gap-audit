@@ -1,0 +1,4 @@
+﻿scope,path,error_type
+project,.pytest_cache,PermissionError
+project,.pytest_tmp_targeted,PermissionError
+project,.pytest_tmp_targeted_final,PermissionError

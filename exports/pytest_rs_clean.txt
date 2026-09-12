@@ -1,0 +1,39 @@
+........................................................................ [ 73%]
+..........................                                               [100%]
+============================== warnings summary ===============================
+..\..\AppData\Local\Programs\Python\Python312\Lib\site-packages\openpyxl\packaging\core.py:90
+  C:\Users\parkd\AppData\Local\Programs\Python\Python312\Lib\site-packages\openpyxl\packaging\core.py:90: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+    created=datetime.datetime.utcnow(),
+
+..\..\AppData\Local\Programs\Python\Python312\Lib\site-packages\openpyxl\packaging\core.py:95
+  C:\Users\parkd\AppData\Local\Programs\Python\Python312\Lib\site-packages\openpyxl\packaging\core.py:95: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+    modified=datetime.datetime.utcnow(),
+
+tests/test_evidence_registry.py::test_gate_report_fail
+  src\evidence_registry.py:50: SettingWithCopyWarning: 
+  A value is trying to be set on a copy of a slice from a DataFrame.
+  Try using .loc[row_indexer,col_indexer] = value instead
+  
+  See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+    df["sha256"] = df.apply(ensure_hash, axis=1)
+
+tests/test_evidence_registry.py::test_gate_report_fail
+  src\evidence_registry.py:54: SettingWithCopyWarning: 
+  A value is trying to be set on a copy of a slice from a DataFrame.
+  Try using .loc[row_indexer,col_indexer] = value instead
+  
+  See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+    df["metric_eligible"] = df["review_status"].str.strip().str.lower() == "human_verified"
+
+tests/test_evidence_registry.py::test_gate_report_fail
+  src\evidence_registry.py:57: SettingWithCopyWarning: 
+  A value is trying to be set on a copy of a slice from a DataFrame.
+  Try using .loc[row_indexer,col_indexer] = value instead
+  
+  See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+    df["date_precision"] = df["date_precision"].fillna("unknown").astype(str)
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=========================== short test summary info ===========================
+SKIPPED [1] tests\test_evidence_verifier.py:4: could not import 'html2text': No module named 'html2text'
+98 passed, 1 skipped, 5 warnings in 16.37s

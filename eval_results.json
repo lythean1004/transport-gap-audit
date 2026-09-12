@@ -1,0 +1,102 @@
+{
+  "화성동탄2": {
+    "status": "OK",
+    "occupancy_first_actual": {
+      "cand": "H001",
+      "date": "Jan-15",
+      "prec": "day",
+      "mode": "nan"
+    },
+    "promise_date": {
+      "cand": "H003",
+      "date": "2024-H1",
+      "prec": "half_year",
+      "mode": "rail"
+    },
+    "actual_operation": {
+      "cand": "H005",
+      "date": "2024-03-30",
+      "prec": "day",
+      "mode": "rail"
+    }
+  },
+  "김포한강": {
+    "status": "OK",
+    "occupancy_first_actual": {
+      "cand": "H007",
+      "date": "2011-06-17",
+      "prec": "day",
+      "mode": "nan"
+    },
+    "promise_date": {
+      "cand": "H009",
+      "date": "2018",
+      "prec": "year",
+      "mode": "rail"
+    },
+    "actual_operation": {
+      "cand": "H011",
+      "date": "2019-09-28",
+      "prec": "day",
+      "mode": "rail"
+    }
+  },
+  "위례": {
+    "status": "OK",
+    "occupancy_first_actual": {
+      "cand": "H013",
+      "date": "Dec-13",
+      "prec": "month",
+      "mode": "nan"
+    },
+    "promise_date": {
+      "cand": "E1-C05",
+      "date": "2025년 9월",
+      "prec": "month",
+      "mode": "tram"
+    },
+    "actual_operation": "MISSING"
+  },
+  "남양주다산": {
+    "status": "OK",
+    "occupancy_first_actual": {
+      "cand": "H020",
+      "date": "2018",
+      "prec": "year",
+      "mode": "nan"
+    },
+    "promise_date": {
+      "cand": "H022",
+      "date": "2022",
+      "prec": "year",
+      "mode": "rail"
+    },
+    "actual_operation": {
+      "cand": "H023",
+      "date": "2024-08-10",
+      "prec": "day",
+      "mode": "rail"
+    }
+  },
+  "하남미사": {
+    "status": "OK",
+    "occupancy_first_actual": {
+      "cand": "H025",
+      "date": "Jun-14",
+      "prec": "day",
+      "mode": "nan"
+    },
+    "promise_date": {
+      "cand": "H028",
+      "date": "2020-08-08",
+      "prec": "day",
+      "mode": "rail"
+    },
+    "actual_operation": {
+      "cand": "H029",
+      "date": "2020-08-08",
+      "prec": "day",
+      "mode": "rail"
+    }
+  }
+}

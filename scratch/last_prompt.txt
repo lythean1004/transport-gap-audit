@@ -1,0 +1,157 @@
+<USER_REQUEST>
+# 역할
+너는 TAGO 도착정보 수집 데이터의 **2차 감사자(보완 감사)** 다.
+1차 감사(scratch/audit_collection.py)에서 누락·오판된 항목만 재검증한다.
+너는 읽기 전용이며, 문제를 발견해도 고치지 않고 보고만 한다.
+
+# 절대 규칙 (위반 시 작업 실패)
+1. evidence/, src/, tests/, config/, docs/, exports/, data/ 이하 파일을
+   수정·삭제·이동·생성하지 않는다. 새 파일은 scratch/ 아래에만 만든다.
+2. scratch/audit_collection.py 를 수정하지 않는다. (1차 결과와 대조해야 함)
+3. pytest, src.verify.stop_gate, src.collectors.arrival_snapshot 실행 금지.
+   HTTP 호출 금지. 원장(arrival_ledger.csv)에 행 추가 금지.
+4. src 모듈은 **import 후 호출만** 허용:
+   - src.collectors.arrival_slots.build_slot_labels()
+   - src.collectors.arrival_budget 의 WARN_AT / HARD_STOP / DAILY_APPROVED
+5. 숫자를 창작하지 않는다. 읽지 못한 값은 "확인불가"로 적는다.
+6. **판정 근거 문자열을 하드코딩하지 않는다.** 모든 수치·날짜·건수는
+   f-string으로 계산값을 삽입한다. 리터럴로 박힌 숫자가 하나라도 있으면 실패.
+7. 로그·오류메시지 출력 시 serviceKey는 앞뒤 자리를 남기지 말고
+   `serviceKey=***REDACTED***` 로 **전체 치환**한다.
+
+# 입력
+- evidence/arrival_ledger.csv  (13컬럼: obs_date, slot_hhmm, citycode, nodeid,
+  outcome, retry_count, called_at_kst, http_status, result_code, result_msg,
+  item_count, raw_path, schema_version)
+- evidence/arrival_raw/**.json
+- scratch/_task_log.txt  (스케줄러 실행 로그, 읽기 전용)
+
+# 1차 감사에서 확정된 사실 (대조 기준값 — 재계산해서 일치 여부를 확인할 것)
+- 원장 총 192행, 원본 JSON 190개
+- 일자별 행수: 09-04=30, 09-07=45, 09-08=49, 09-09=48, 09-10=20
+- 일자별 raw:  09-04=30, 09-07=44, 09-08=48, 09-09=48, 09-10=20
+- api_error 2건, ok_empty 2건(09-04 17:35 / 09-09 18:05), BUDGET_STOP 0건
+- 드리프트 평균 6.704초, 중위 3.328초, 최대 304.83초
+- item_count 전체 평균 24.53
+위 값이 재계산 결과와 다르면 **불일치 자체를 최우선 보고**한다.
+
+# 산출물
+scratch/audit_supplement.py 를 작성하고 실행하여, 아래 [A]~[H]를 순서대로 출력한다.
+
+## [A] 드리프트 분포 정밀 재산출 (1차 오판 항목)
+- called_at_kst 와 slot_hhmm 기준시각의 차이(초)를 전 행에 대해 계산.
+- 출력: n, mean, std, min, p25, p50, p75, **p90, p95, p99**, max.
+- **드리프트 상위 20건**을 표로 전량 출력
+  (obs_date, slot_hhmm, called_at_kst, drift_sec, outcome, retry_count).
+- 구간별 히스토그램 건수: 0~2 / 2~5 / 5~10 / 10~30 / 30~60 / 60~300 / 300초 초과.
+- retry_count>0 행을 제외한 "정규 호출"만으로 위 통계를 **한 번 더** 산출해
+  두 버전을 나란히 제시한다.
+- 검증 명제: "정규 호출이 전수 1~4초 이내"가 참인지 거짓인지
+  p90/p95/max 값을 근거로 **명시적으로 판정**한다.
+
+## [B] TRUNCATED / 응답 완전성 검증 (1차 미검증 항목)
+각 raw JSON에 대해 아래를 전수 파싱한다.
+- response.header.resultCode, resultMsg → **값별 분포표** 출력
+  (00 이외 코드가 있으면 해당 행 전량 출력)
+- response.body.totalCount vs 실제 items 길이 → **불일치 건 전량 출력**
+- items 길이 vs 원장 item_count → 불일치 건 전량 출력
+- numOfRows, pageNo 필드가 있으면 값 분포 출력 (페이지네이션 절단 탐지)
+- **파일 크기(byte) 분포**: min/p50/p90/max 및 3500 byte 이상 파일 목록
+  (활용가이드상 최대 메시지 4000 byte 제약에 근접했는지 확인 목적)
+- item 하나의 nodenm 샘플 출력 (한글 인코딩 확인)
+- 결론: TRUNCATED 항목을 PASS / FAIL / UNVERIFIED 중 하나로 판정하고 근거를 적는다.
+
+## [C] item_count 통계 재산출 (1차 오염 항목)
+- 1차는 api_error 행을 포함해 계산했다. 아래 3가지 모집단으로 각각 산출:
+  (1) 전체 192행  (2) outcome이 ok_* 인 행만  (3) ok_with_items 행만
+- 각 모집단에 대해 전체 / 오전(0700-0855) / 오후(1700-1855) 로 나눠
+  n, mean, median, std, min, max 를 표로 출력.
+- 오전-오후 평균 차이를 모집단별로 제시하고, 1차 보고값(오전 25.68 / 오후 23.35)이
+  어느 모집단 기준이었는지 역산해 명시한다.
+- item_count==0 인 행 전량 출력 (obs_date, slot_hhmm, outcome, result_code, result_msg).
+
+## [D] ok_empty 2건 원인 판별 (최우선)
+- outcome=='ok_empty' 인 행의 raw_path JSON을 **원문 그대로 전량 덤프**한다
+  (serviceKey 치환 후).
+- header.resultCode / resultMsg, body.totalCount, items 존재 여부를 각각 적시.
+- 판정 기준을 코드에 명시:
+  * resultCode가 정상(00)이고 totalCount==0 → "실제 배차 공백 가능성"
+  * resultCode가 NODATA류이거나 body 구조가 다름 → "API 아티팩트, 결측 처리 대상"
+- 두 건 각각에 대해 위 둘 중 어디에 해당하는지 판정한다. 애매하면 "확인불가".
+- 참고: 두 건 모두 저녁 피크 시간대이며, 해당 정류소는 상시 13개 노선이 관측된다.
+
+## [E] 준중복 관측 탐지 (1차 미탐지 항목)
+- 같은 obs_date 내에서 called_at_kst 간격이 **120초 이내**인 행 쌍을 전량 탐지.
+- 각 쌍에 대해 두 행의 slot_hhmm, called_at_kst, 간격(초), outcome,
+  retry_count, item_count 를 출력.
+- 슬롯 라벨이 서로 다른데 실제 호출 시각이 근접한 쌍은
+  **"실효 독립 관측치 아님"** 으로 별도 표시한다.
+- 일자별 "실효 독립 슬롯 수"를 재계산해 명목 슬롯 수와 나란히 제시.
+
+## [F] 산발 결측 원인 대조
+- build_slot_labels() 기준 48슬롯과 대조해 일자별 결측 슬롯 라벨을 재산출.
+- 결측을 **연속 블록**과 **단발 드롭아웃**으로 분류해 각각 나열
+  (연속 = 2개 이상 인접 슬롯 결측).
+- 단발 드롭아웃 각 건에 대해 scratch/_task_log.txt 에서 해당 시각 ±10분 구간의
+  로그 라인을 추출해 함께 출력한다. 로그에 해당 구간이 없으면 "로그 없음".
+- _task_log.txt 전체의 "==== 날짜 시각 ====" 헤더 개수를 세어
+  **배치 실행 횟수 vs 원장 행수**를 비교한다(실행됐으나 기록 실패한 건 탐지).
+- 원인을 단정하지 말고 후보만 나열한다:
+  인스턴스 중첩 스킵 / 절전·전원 조건 / 프로세스 실패 / 로그 미기록.
+
+## [G] 기본 메타 무결성 (1차 누락 항목)
+- citycode, nodeid 가 단일값인지 확인 (복수면 전량 출력)
+- http_status, result_code, schema_version 각각의 값별 분포
+- raw_path 파일명 규칙 일관성 및 원장에 없는 orphan JSON 존재 여부
+- obs_date 요일 판정 + **공휴일 대조**: 2026년 9월 공휴일은 추석 연휴
+  9/24~9/26 뿐이므로 09-04~09-10 구간에는 공휴일이 없음을 확인만 하고,
+  "공휴일 테이블을 코드가 참조하지 않는다"는 한계를 명시한다.
+- arrtime 통계 재확인: 3600초 초과 항목 비율, 음수 항목 건수,
+  arrprevstationcnt 결측·음수 건수.
+
+## [H] 수정 판정표
+아래 항목에 대해 PASS / WARN / FAIL / **UNVERIFIED** 중 하나와
+한 줄 근거(계산된 수치 포함, 하드코딩 금지)를 표로 출력한다.
+1) 스키마 일치
+2) 평일 3일 이상 확보
+3) 커버리지 기준 (아래 "분석 창 규칙" 적용)
+4) 키 중복 없음
+5) 드리프트 (A 결과 기준)
+6) raw 누락 없음
+7) item_count 불일치 없음
+8) TRUNCATED (B 결과 기준)
+9) BUDGET_STOP 없음
+10) 예산 하드스톱 미만
+11) 유효 관측치 정의 (D + E 결과 기준)
+12) 판정 근거 하드코딩 없음 (자체 점검)
+
+### 분석 창 규칙 (사후 기준 변경 금지 — 사전 선언으로 처리)
+- 분석 대상 창: **2026-09-07 ~ 2026-09-10**
+- 사전 배제 규칙 두 가지만 허용하고, 코드 주석에 명문화한다:
+  (a) 셰이크다운일: 스케줄러 오류 0x800700C1로 오전 블록이 소실된 2026-09-04
+  (b) 미완료일: 감사 실행 시점에 PM 창이 종료되지 않은 당일
+- 커버리지 판정은 **배제 후 남은 일자 전부가 90% 이상**일 때만 PASS.
+  "90% 이상인 날이 N일" 같은 완화 기준을 새로 만들지 않는다.
+- 09-10이 미완료일에 해당하면 그 사실을 출력하고 배제 사유로 기록한다.
+
+# 추가 산출물
+scratch/audit_supplement_report.md 를 작성한다. 포함 내용:
+- [H] 수정 판정표 (동일 내용)
+- 1차 감사 대비 **변경된 판정 목록**과 각 변경 사유
+- 논문에 인용하면 안 되는 1차 보고 수치 목록 (예: 오염된 item_count 평균)
+- 확인불가 / UNVERIFIED 항목 전체 목록
+- 다음 단계에서 사람이 결정해야 할 사항 3가지
+
+# 출력 형식 (채팅에는 아래 4개만)
+1) scratch/audit_supplement.py 전체 소스
+2) 실행 콘솔 출력 전문
+3) [H] 수정 판정표
+4) WARN/FAIL/UNVERIFIED 항목별 한 줄 원인과 "다음에 확인할 것"
+   — **수리 방법은 제안하지 않는다.**
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-09-10T14:33:41+09:00.
+</ADDITIONAL_METADATA>
+<USER_SETTINGS_CHANGE>
+The user changed setting `Model Selection` from Gemini 3.8 Flash (High) to Gemini 3.1 Pro (Low). No need to comment on this change if the user doesn't ask about it. If reporting what model you are, please use a human readable name instead of the exact string.
+</USER_SETTINGS_CHANGE>

@@ -1,0 +1,6 @@
+﻿development,facility,occupancy_source_id,operation_source_id,reviewer_lower,reviewer_upper,document_lower,document_upper,operation_date,document_gap_min,document_gap_max,status,date_conflict,qualification
+화성 동탄2,GTX-A 수서~동탄,SRC-H001,SRC-H005,2015-01-23,2015-01-23,2015-01-30,2015-01-30,2024-03-30,3347,3347,document_announced_start_comparison,True,배포일 1월23일과 예정 입주개시일 1월30일 구분; 사후 실제 이행은 별도 확인
+김포 한강,김포도시철도(김포골드라인),SRC-H007,SRC-H011,2011-06-17,2011-06-17,2011-06-01,2011-06-30,2019-09-28,3012,3041,document_announced_start_comparison,True,확보한 공식 원문은 6월까지만 특정; 검수대장의 6월17일을 입증하는 추가 출처 필요
+위례,위례선 트램,SRC-H013,,2013-12-01,2013-12-31,,,,,,withheld,False,pair_not_both_human_verified;date_bound_missing
+남양주 다산,별내선(8호선 연장),SRC-H020,SRC-H023,2018-01-01,2018-12-31,,,2024-08-10,,,withheld,False,first_occupancy_not_established
+하남 미사,하남선(5호선 연장),SRC-H025,SRC-H029,2014-06-30,2014-06-30,2014-06-30,2014-06-30,2020-08-08,2231,2231,document_announced_start_comparison,False,당일 공식 입주개시 발표 기준; 시설 공급 시차이며 전체 무서비스 기간 아님

@@ -1,0 +1,18 @@
+=== ok_empty: 2026-09-04 1735 ===
+  slot=1720 ic=24 outcome=ok_with_items rc=00
+  slot=1725 ic=24 outcome=ok_with_items rc=00
+  slot=1730 ic=24 outcome=ok_with_items rc=00
+  slot=1735 ic=0 outcome=ok_empty rc=00 <<< OK_EMPTY
+  slot=1740 ic=24 outcome=ok_with_items rc=00
+  slot=1745 ic=24 outcome=ok_with_items rc=00
+  slot=1750 ic=24 outcome=ok_with_items rc=00
+
+=== ok_empty: 2026-09-09 1805 ===
+  slot=1750 ic=24 outcome=ok_with_items rc=00
+  slot=1755 ic=24 outcome=ok_with_items rc=00
+  slot=1800 ic=24 outcome=ok_with_items rc=00
+  slot=1805 ic=0 outcome=ok_empty rc=00 <<< OK_EMPTY
+  slot=1810 ic=24 outcome=ok_with_items rc=00
+  slot=1815 ic=24 outcome=ok_with_items rc=00
+  slot=1820 ic=24 outcome=ok_with_items rc=00
+

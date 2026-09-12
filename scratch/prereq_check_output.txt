@@ -1,0 +1,136 @@
+============================================================
+[필수1] data/staged/route_service_hours.parquet
+============================================================
+행수: 12
+실제 컬럼 (16개): ['citycode', 'routeid', 'routeno', 'routetp', 'startnodenm', 'endnodenm', 'startvehicletime', 'endvehicletime', 'intervaltime', 'intervalsattime', 'intervalsuntime', 'fetched_at_kst', 'fetched_at_utc', 'raw_path', 'first_bus_ok', 'last_bus_ok']
+기대 컬럼 누락: 없음
+추가 컬럼: ['first_bus_ok', 'last_bus_ok']
+
+  startvehicletime:
+    dtype = string  →  문자열 OK
+    비어있음 = 0건 (0.0%)
+    샘플값: ['0430', '0350', '0445', '0430', '0500']
+    값 Python 타입: {'str'}
+
+  endvehicletime:
+    dtype = string  →  문자열 OK
+    비어있음 = 0건 (0.0%)
+    샘플값: ['2340', '2230', '2215', '2230', '2310']
+    값 Python 타입: {'str'}
+
+  intervaltime:
+    dtype = float64
+    비어있음 = 0건 (0.0%)
+    값 분포:
+      12.0: 3건
+      15.0: 3건
+      25.0: 2건
+      13.0: 1건
+      20.0: 1건
+      30.0: 1건
+      50.0: 1건
+
+  intervalsattime: dtype=float64, 비어있음=0건 (0.0%)
+
+  intervalsuntime: dtype=float64, 비어있음=0건 (0.0%)
+
+  차량 식별자 성격 컬럼: ['startvehicletime', 'endvehicletime', 'first_bus_ok', 'last_bus_ok']
+
+  고유 routeid 수: 12
+
+============================================================
+[필수2] evidence/route_info/
+============================================================
+JSON 파일 수: 12
+  31130_GGB222000009_20260903-1241.json
+  31130_GGB222000013_20260903-1241.json
+  31130_GGB222000027_20260903-1241.json
+  31130_GGB222000028_20260903-1241.json
+  31130_GGB222000031_20260903-1241.json
+  31130_GGB222000032_20260903-1241.json
+  31130_GGB222000048_20260903-1241.json
+  31130_GGB222000078_20260903-1241.json
+  31130_GGB222000180_20260903-1241.json
+  31130_GGB222000199_20260903-1241.json
+  31130_GGB234000003_20260903-1241.json
+  31130_GGB234000028_20260903-1241.json
+route_info JSON에서 추출된 고유 routeid 수: 12
+    GGB222000009
+    GGB222000013
+    GGB222000027
+    GGB222000028
+    GGB222000031
+    GGB222000032
+    GGB222000048
+    GGB222000078
+    GGB222000180
+    GGB222000199
+    GGB234000003
+    GGB234000028
+
+============================================================
+[대조] 관측 raw JSON → distinct (routeid, routeno)
+============================================================
+파싱한 raw JSON: 190개 (오류 0건)
+관측된 distinct (routeid, routeno): 15쌍
+관측된 distinct routeid: 15개
+
+관측 노선 전체 목록:
+  routeid=GGB222000009, routeno=9
+  routeid=GGB222000013, routeno=23
+  routeid=GGB222000027, routeno=97
+  routeid=GGB222000028, routeno=165
+  routeid=GGB222000031, routeno=65
+  routeid=GGB222000032, routeno=1-4
+  routeid=GGB222000048, routeno=166-1
+  routeid=GGB222000056, routeno=167-1
+  routeid=GGB222000078, routeno=1200
+  routeid=GGB222000137, routeno=1200-1
+  routeid=GGB222000180, routeno=땡큐12
+  routeid=GGB222000199, routeno=땡큐50
+  routeid=GGB222000239, routeno=땡큐51
+  routeid=GGB234000003, routeno=30
+  routeid=GGB234000028, routeno=10-5
+
+[집합 대조 결과]
+  양쪽 모두 존재: 12건
+  관측에만 존재 (배차 교차검증 불가): 3건
+    routeid=GGB222000056 (routeno=167-1)
+    routeid=GGB222000137 (routeno=1200-1)
+    routeid=GGB222000239 (routeno=땡큐51)
+  parquet에만 존재 (관측 미등장): 0건
+
+============================================================
+[참고1] docs/tago_route_api_findings.md
+============================================================
+존재: YES (13857 bytes)
+목차:
+  # TAGO 버스노선정보 서비스(15098529) 분석 리포트
+  ## 1. 개요
+  ## 2. 오퍼레이션별 상세 명세
+  ### 1) 도시코드 목록조회 (`getCtyCodeList`)
+  ### 2) 노선번호 목록조회 (`getRouteNoList`)
+  ### 3) 노선별 경유정류소 목록조회 (`getRouteAcctoThrghSttnList`)
+  ### 4) 노선정보항목조회 (`getRouteInfoIem`)
+  ## 3. 핵심 분석 과제 답변
+  ### Q1. 첫차 시간(first-bus time)과 막차 시간(last-bus time)을 반환하는 오퍼레이션이 있는가?
+  ### Q2. 배차간격(headway) 필드를 반환하는 오퍼레이션이 있는가?
+  ### Q3. 응답에 차량 식별자(차량 번호 등) 필드가 있는가?
+  ## 4. 실측 스모크(Smoke Test) 결과 및 현황
+  ### 실측 환경
+  ### 실측 호출 결과 (라이브 실측 완료)
+  ### 결과 분석 및 확정
+  ## 5. 7A′ 노선정보 검증 및 서비스 시간 Coverage 실측
+  ### 실측 개요
+  ### 노선별 서비스 시간 실측 Coverage 테이블
+
+============================================================
+[참고2] data/staged/tago_arrival.parquet
+============================================================
+상태: NOT FOUND
+→ 7E′ 입력으로 원장 CSV + raw JSON에서 대체 구성이 필요함
+
+============================================================
+[판정]
+============================================================
+GO: 필수1·2 존재, startvehicletime 문자열, 관측 노선 커버율 12/15=80%

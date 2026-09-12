@@ -1,0 +1,143 @@
+{
+  "registry_rows": 197,
+  "pdf_files": 112,
+  "unique_pdf_hashes": 92,
+  "ledger_rows": 262,
+  "raw_json_files": 259,
+  "parsed_items": 6354,
+  "distinct_observed_routes": 15,
+  "observed_stops": 1,
+  "period_start": "2026-09-04",
+  "period_end": "2026-09-11",
+  "crosscheck_rows": 289,
+  "approval_crosscheck": {
+    "hub_missing": 106,
+    "exact_match": 181,
+    "within_30_days": 1,
+    "conflict": 1
+  },
+  "parquet_profiles": {
+    "kapt_basic": {
+      "rows": 21690,
+      "columns": 13
+    },
+    "bldg_title": {
+      "rows": 4067,
+      "columns": 20
+    },
+    "route_service_hours": {
+      "rows": 12,
+      "columns": 16
+    },
+    "headway_observed": {
+      "rows": 72,
+      "columns": 11
+    },
+    "tago_stops_full": {
+      "rows": 8420,
+      "columns": 7
+    },
+    "tago_stops_nearby": {
+      "rows": 20254,
+      "columns": 10
+    }
+  },
+  "network_api_calls_this_run": 0,
+  "human_verified_event_rows": 131,
+  "review_status": {
+    "human_verified": 131,
+    "rejected": 37,
+    "needs_human": 15,
+    "duplicate": 14
+  },
+  "review_summary": {
+    "version": "V02",
+    "review_registry_sha256": "a8079b1f82ddd84b29197e35735d5ffabcc4eac357ecfd13a05606dbb6983123",
+    "review_input_rows": 197,
+    "matched_rows": 197,
+    "applied_rows": 197,
+    "review_status_counts": {
+      "human_verified": 131,
+      "rejected": 37,
+      "needs_human": 15,
+      "duplicate": 14
+    },
+    "human_verified_unique_document_hashes": 110,
+    "human_verified_structural_pass": 35,
+    "human_verified_structural_issues": 96,
+    "all_structural_pass": 57,
+    "changes_by_field": {
+      "review_status": 167,
+      "event_date": 41,
+      "date_precision": 10,
+      "event_date_lower": 4,
+      "event_date_upper": 3,
+      "event_type": 51,
+      "page_or_section": 83,
+      "exact_excerpt": 79,
+      "excerpt_found": 71,
+      "excerpt_sim": 141,
+      "review_issue": 140,
+      "reject_reason": 122,
+      "document_verified": 197,
+      "verified_at": 131,
+      "excerpt_source_path": 68,
+      "human_verified": 131,
+      "human_verifier": 131,
+      "human_verified_at": 131,
+      "human_check_items": 131,
+      "landing_url": 5,
+      "promise_verb_원문표기": 3,
+      "pdf_match_confidence": 56,
+      "clue_url": 4,
+      "contradiction_flag": 2,
+      "contradiction_note": 2,
+      "notes": 45,
+      "target_date_precision": 48,
+      "plan_confirmed_date": 16,
+      "commitment_version": 10,
+      "evidence_role": 26,
+      "mode": 2,
+      "excerpt_char_start": 15,
+      "excerpt_char_end": 15,
+      "target_completion_date": 11,
+      "censored": 1,
+      "as_of_date": 1,
+      "censoring_evidence_source_id": 1,
+      "dup_of": 12,
+      "published_date": 3,
+      "pairable": 78,
+      "version_status": 8,
+      "supersedes_source_id": 7
+    },
+    "human_event_types": {
+      "occupancy_planned_block": 39,
+      "occupancy_first_planned": 3,
+      "basic_service": 20,
+      "plan_confirmation": 6,
+      "promise_date": 33,
+      "actual_operation": 21,
+      "occupancy_start": 9
+    },
+    "event_types_all": {
+      "occupancy_planned_block": 59,
+      "occupancy_first_planned": 4,
+      "basic_service": 32,
+      "plan_confirmation": 22,
+      "": 11,
+      "promise_date": 38,
+      "actual_operation": 21,
+      "occupancy_start": 10
+    },
+    "gate_version": "v3.1-resolution-import",
+    "gate_results": {
+      "NEEDS_EVIDENCE": 5
+    },
+    "human_review_timestamp_provided": 131,
+    "resolution_registry_sha256": "8b924276c6651c3c4fc6f58af53a6088b85f45a75f9946bf0fea84fee717b9bd",
+    "resolution_applied_rows": 197,
+    "imported_at": "2026-09-12T05:03:45.474868+00:00",
+    "api_calls": 0
+  },
+  "version": "V02"
+}

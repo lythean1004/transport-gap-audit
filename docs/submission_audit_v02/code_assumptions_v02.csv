@@ -1,0 +1,9 @@
+﻿path,finding,v02_treatment
+src/metrics/day123_full_refresh.py,고정 human_verified=0 및 FAIL 요약; 선호 사건 ID 고정,보관 코드; 검수 결합 후 계산한 V02 표로 대체
+src/metrics/gate_evaluator.py,첫 행 선택에 의존; mode_match를 계산하지만 종합 조건에 포함하지 않음,V02 지표 선정·종합 평가에 사용하지 않음
+scratch/calc_headway_v7.py,"3일 선택과 노선 3개 제외, 이벤트 4개 미만 제한",원본 72행 재현; 데이터에서 제외 목록 도출하고 기간·노선 민감도 별도 산출
+src/collectors/arrival_slots.py,07~09/17~19시와 5분 슬롯 고정,사용자가 정한 수집 설계; 임의 생성 데이터 아님
+src/collectors/arrival_snapshot.py,재시도 응답을 원래 명목 슬롯 파일명에 저장,실제 called_at_kst를 보존; 지연 호출 표시
+create_mock.py,모의자료 생성 기능 존재,V01에서 QA 전용 출력으로 변경; 실행하지 않음
+manual_overrides.csv,좌표 보정 6행 작성자 AI,사람 검수 사건 집계와 분리
+scripts/submission/build_paper_v02.py,본문 문장은 분석 스냅샷의 편집 결과,표와 계산은 CSV에서 생성; 입력 변경 시 수치·해석 재검토 필요

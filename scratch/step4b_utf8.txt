@@ -1,0 +1,152 @@
+=== [1] 행 단위 하이픈 갭 (raw에만 하이픈) ===
+count: 39
+cluster_id         addr_legal_raw            addr_query addr_variant_used vw_level5_raw status representative_method
+ A10022628     경기도 화성동탄구 신동 358-3   경기도 화성시 동탄신리천로6길 23     fallback_road            23     OK         single_parcel
+ A10022882     경기도 화성동탄구 신동 111-1  경기도 화성시 동탄신리천로5가길 35     fallback_road            35     OK         single_parcel
+ A10023650     경기도 화성동탄구 신동 185-1   경기도 화성시 동탄신리천로2길 65     fallback_road            65     OK         single_parcel
+ A10024530     경기도 화성동탄구 영천동 79-5   경기도 화성시 동탄첨단산업2로 88     fallback_road            88     OK         single_parcel
+ A10024759   경기도 화성동탄구 산척동 155-13    경기도 화성시 동탄신리천로 786     fallback_road           786     OK         single_parcel
+ A10025183   경기도 화성동탄구 장지동 120-19     경기도 화성시 동탄대로1길 20     fallback_road            20     OK              centroid
+ A10025276      경기도 화성동탄구 영천동 6-2    경기도 화성시 동탄대로24길 74     fallback_road            74     OK         single_parcel
+ A10025360  경기도 화성동탄구 영천동 651-554   경기도 화성시 동탄대로24가길 30     fallback_road            30     OK         single_parcel
+ A10025361    경기도 화성동탄구 여울동 849-5 경기도 화성시 동탄기흥로353번길 76     fallback_road            76     OK         single_parcel
+ A10025473  경기도 화성동탄구 장지동 910-311     경기도 화성시 동탄대로1길 96     fallback_road            96     OK         single_parcel
+ A10025520  경기도 화성동탄구 장지동 910-345   경기도 화성시 동탄순환대로2길 13     fallback_road            13     OK         single_parcel
+ A10025529     경기도 화성동탄구 산척동 1-68  경기도 화성시 동탄순환대로17길 31     fallback_road            31     OK         single_parcel
+ A10025790    경기도 화성동탄구 여울동 873-3      경기도 화성시 동부대로 951     fallback_road           951     OK         single_parcel
+ A10025824     경기도 화성동탄구 산척동 1-79  경기도 화성시 동탄순환대로10길 88     fallback_road            88     OK         single_parcel
+ A10025830    경기도 남양주시 다산동 3639-2    경기도 남양주시 다산순환로 365     fallback_road           365     OK         single_parcel
+ A10025880      경기도 화성동탄구 목동 25-1  경기도 화성시 동탄순환대로20길 69     fallback_road            69     OK         single_parcel
+ A10026067     경기도 화성동탄구 장지동 19-3    경기도 화성시 동탄대로4가길 26     fallback_road            26     OK         single_parcel
+ A10026074 경기도 화성동탄구 영천동 651-1372   경기도 화성시 동탄대로24길 117     fallback_road           117     OK         single_parcel
+ A10026087     경기도 화성동탄구 목동 188-1  경기도 화성시 동탄순환대로20길 70     fallback_road            70     OK         single_parcel
+ A10026145    경기도 남양주시 다산동 4409-3    경기도 남양주시 다산순환로 111     fallback_road           111     OK         single_parcel
+ A10026156    경기도 남양주시 다산동 4399-3    경기도 남양주시 다산순환로 135     fallback_road           135     OK         single_parcel
+ A10026164    경기도 남양주시 다산동 3679-3 경기도 남양주시 다산중앙로81번길 25     fallback_road            25     OK         single_parcel
+ A10026380      경기도 화성동탄구 장지동 4-1     경기도 화성시 동탄대로2길 19     fallback_road            19     OK         single_parcel
+ A10026422    경기도 화성동탄구 목동 118-17  경기도 화성시 동탄순환대로20길 31     fallback_road            31     OK         single_parcel
+ A10026580    경기도 남양주시 다산동 5808-1    경기도 남양주시 다산순환로 333     fallback_road           333     OK         single_parcel
+ A10026598    경기도 남양주시 다산동 3646-1 경기도 남양주시 다산중앙로82번길 15     fallback_road            15     OK              centroid
+ A10026600    경기도 남양주시 다산동 5869-2 경기도 남양주시 다산중앙로146번길 7     fallback_road             7     OK         single_parcel
+ A10026623    경기도 성남수정구 창곡동 283-1  경기도 성남시 수정구 위례동이로 24     fallback_road            24     OK         single_parcel
+ A10027199     경기도 김포시 장기동 2128-1       경기도 김포시 태장로 845     fallback_road           845     OK         single_parcel
+ A10027436 경기도 화성동탄구 여울동 967-2269    경기도 화성시 동탄대로12길 64     fallback_road            64     OK         single_parcel
+ A10027465    경기도 화성동탄구 여울동 474-9    경기도 화성시 동탄대로12길 17     fallback_road            17     OK         single_parcel
+ A10027768  경기도 화성동탄구 청계동 510-838   경기도 화성시 동탄대로시범길 168     fallback_road           168     OK         single_parcel
+ A10027798 경기도 화성동탄구 영천동 651-1488    경기도 화성시 동탄순환대로 706     fallback_road           706     OK         single_parcel
+ A10027830   경기도 화성동탄구 청계동 510-88    경기도 화성시 동탄대로시범길 20     fallback_road            20     OK         single_parcel
+ A10027890  경기도 화성동탄구 청계동 510-582  경기도 화성시 동탄순환대로21길 53     fallback_road            53     OK         single_parcel
+ A10027928  경기도 화성동탄구 청계동 510-889  경기도 화성시 동탄순환대로21길 54     fallback_road            54     OK         single_parcel
+ A10027966   경기도 화성동탄구 청계동 49-102  경기도 화성시 동탄순환대로22길 45     fallback_road            45     OK         single_parcel
+ A10027978      경기도 하남시 망월동 533-1    경기도 하남시 미사강변동로 177     fallback_road           177     OK         single_parcel
+ A10028167   경기도 화성동탄구 청계동 510-30   경기도 화성시 동탄대로시범길 192     fallback_road           192     OK         single_parcel
+
+=== [2] 반대 방향 (query에만 하이픈) ===
+count: 0
+Empty DataFrame
+Columns: [cluster_id, addr_legal_raw, addr_query, addr_variant_used]
+Index: []
+
+=== [3] addr_variant_used 분포 ===
+--- 전체 274행 ---
+addr_variant_used
+full_parcel             212
+fallback_road            56
+override_road             5
+override_pick_parcel      1
+--- 갭 행만 ---
+addr_variant_used
+fallback_road    39
+
+=== [4] 갭 행의 vw_level5_raw 대조 ===
+  A10022628 | raw='경기도 화성동탄구 신동 358-3' | query='경기도 화성시 동탄신리천로6길 23' | level5='23' | detail='101동'
+  A10022882 | raw='경기도 화성동탄구 신동 111-1' | query='경기도 화성시 동탄신리천로5가길 35' | level5='35' | detail='동탄(2) 38단지 행복주택 3871동'
+  A10023650 | raw='경기도 화성동탄구 신동 185-1' | query='경기도 화성시 동탄신리천로2길 65' | level5='65' | detail='동탄2 디에트르 포레 2311동'
+  A10024530 | raw='경기도 화성동탄구 영천동 79-5' | query='경기도 화성시 동탄첨단산업2로 88' | level5='88' | detail='동탄2신도시 4차 동원로얄듀크포레 101동'
+  A10024759 | raw='경기도 화성동탄구 산척동 155-13' | query='경기도 화성시 동탄신리천로 786' | level5='786' | detail='센트럴써밋 2301동'
+  A10025183 | raw='경기도 화성동탄구 장지동 120-19' | query='경기도 화성시 동탄대로1길 20' | level5='20' | detail='화성동탄2엔에이치에프아이원 2911동'
+  A10025276 | raw='경기도 화성동탄구 영천동 6-2' | query='경기도 화성시 동탄대로24길 74' | level5='74' | detail='경비실'
+  A10025360 | raw='경기도 화성동탄구 영천동 651-554' | query='경기도 화성시 동탄대로24가길 30' | level5='30' | detail='동탄 파크 한양수자인 131동'
+  A10025361 | raw='경기도 화성동탄구 여울동 849-5' | query='경기도 화성시 동탄기흥로353번길 76' | level5='76' | detail='중흥에스클래스더테라스리버파크1차 1631동'
+  A10025473 | raw='경기도 화성동탄구 장지동 910-311' | query='경기도 화성시 동탄대로1길 96' | level5='96' | detail='엔에이치에프엘크루 2811동'
+  A10025520 | raw='경기도 화성동탄구 장지동 910-345' | query='경기도 화성시 동탄순환대로2길 13' | level5='13' | detail='동탄2엘에이치행복주택28단지 2801동'
+  A10025529 | raw='경기도 화성동탄구 산척동 1-68' | query='경기도 화성시 동탄순환대로17길 31' | level5='31' | detail='중흥에스클래스에듀하이 2401동'
+  A10025790 | raw='경기도 화성동탄구 여울동 873-3' | query='경기도 화성시 동부대로 951' | level5='951' | detail='동탄역 중흥S-클래스 1701동'
+  A10025824 | raw='경기도 화성동탄구 산척동 1-79' | query='경기도 화성시 동탄순환대로10길 88' | level5='88' | detail='레이크힐 반도유보라 아이비파크 10.2 3601동'
+  A10025830 | raw='경기도 남양주시 다산동 3639-2' | query='경기도 남양주시 다산순환로 365' | level5='365' | detail='힐스테이트 다산 5201동'
+  A10025880 | raw='경기도 화성동탄구 목동 25-1' | query='경기도 화성시 동탄순환대로20길 69' | level5='69' | detail='엔에이치에프경남아너스빌 2251동'
+  A10026067 | raw='경기도 화성동탄구 장지동 19-3' | query='경기도 화성시 동탄대로4가길 26' | level5='26' | detail='제일풍경채에듀앤파크 3331동'
+  A10026074 | raw='경기도 화성동탄구 영천동 651-1372' | query='경기도 화성시 동탄대로24길 117' | level5='117' | detail='동탄파크자이 321동'
+  A10026087 | raw='경기도 화성동탄구 목동 188-1' | query='경기도 화성시 동탄순환대로20길 70' | level5='70' | detail='한신더휴 2211동'
+  A10026145 | raw='경기도 남양주시 다산동 4409-3' | query='경기도 남양주시 다산순환로 111' | level5='111' | detail='다산 한양수자인 리버파크 3201동'
+  A10026156 | raw='경기도 남양주시 다산동 4399-3' | query='경기도 남양주시 다산순환로 135' | level5='135' | detail='다산 유승한내들 골든뷰 3101동'
+  A10026164 | raw='경기도 남양주시 다산동 3679-3' | query='경기도 남양주시 다산중앙로81번길 25' | level5='25' | detail='다산 이편한세상자이 3501동'
+  A10026380 | raw='경기도 화성동탄구 장지동 4-1' | query='경기도 화성시 동탄대로2길 19' | level5='19' | detail='골프연습실,휘트니스센터,주민카페,커뮤니티키친'
+  A10026422 | raw='경기도 화성동탄구 목동 118-17' | query='경기도 화성시 동탄순환대로20길 31' | level5='31' | detail='이편한세상동탄 2101동'
+  A10026580 | raw='경기도 남양주시 다산동 5808-1' | query='경기도 남양주시 다산순환로 333' | level5='333' | detail='다산아이파크 2401동'
+  A10026598 | raw='경기도 남양주시 다산동 3646-1' | query='경기도 남양주시 다산중앙로82번길 15' | level5='15' | detail='다산 자연& e편한세상 5101동'
+  A10026600 | raw='경기도 남양주시 다산동 5869-2' | query='경기도 남양주시 다산중앙로146번길 7' | level5='7' | detail='다산 자연앤롯데캐슬 2201동'
+  A10026623 | raw='경기도 성남수정구 창곡동 283-1' | query='경기도 성남시 수정구 위례동이로 24' | level5='24' | detail='이편한세상테라스위례 5901동'
+  A10027199 | raw='경기도 김포시 장기동 2128-1' | query='경기도 김포시 태장로 845' | level5='845' | detail='한강센트럴자이1단지 101동'
+  A10027436 | raw='경기도 화성동탄구 여울동 967-2269' | query='경기도 화성시 동탄대로12길 64' | level5='64' | detail='동탄2신도시 금강펜테리움 센트럴파크Ⅰ 1821동'
+  A10027465 | raw='경기도 화성동탄구 여울동 474-9' | query='경기도 화성시 동탄대로12길 17' | level5='17' | detail='반도유보라아이비파크3 1801동'
+  A10027768 | raw='경기도 화성동탄구 청계동 510-838' | query='경기도 화성시 동탄대로시범길 168' | level5='168' | detail='동탄역 시범반도유보라아이비파크 1.0 1021동'
+  A10027798 | raw='경기도 화성동탄구 영천동 651-1488' | query='경기도 화성시 동탄순환대로 706' | level5='706' | detail=nan
+  A10027830 | raw='경기도 화성동탄구 청계동 510-88' | query='경기도 화성시 동탄대로시범길 20' | level5='20' | detail='동탄역 시범한화 꿈에그린 프레스티지 1411동'
+  A10027890 | raw='경기도 화성동탄구 청계동 510-582' | query='경기도 화성시 동탄순환대로21길 53' | level5='53' | detail='동탄역 롯데캐슬알바트로스 1301동'
+  A10027928 | raw='경기도 화성동탄구 청계동 510-889' | query='경기도 화성시 동탄순환대로21길 54' | level5='54' | detail='동탄역 센트럴 푸르지오 1321동'
+  A10027966 | raw='경기도 화성동탄구 청계동 49-102' | query='경기도 화성시 동탄순환대로22길 45' | level5='45' | detail='동탄역 호반 써밋 1201동'
+  A10027978 | raw='경기도 하남시 망월동 533-1' | query='경기도 하남시 미사강변동로 177' | level5='177' | detail='미사강변 파크뷰 1201동'
+  A10028167 | raw='경기도 화성동탄구 청계동 510-30' | query='경기도 화성시 동탄대로시범길 192' | level5='192' | detail='동탄역 시범예미지아파트 1001동'
+
+=== [5] 시군구 조립 결함 ===
+count: 13
+cluster_id      addr_legal_raw           addr_query
+ A10024817   경기도 성남수정구 창곡동 565  경기도 성남시 수정구 창곡동 565
+ A10025589   경기도 성남수정구 창곡동 597  경기도 성남시 수정구 창곡동 597
+ A10026623 경기도 성남수정구 창곡동 283-1 경기도 성남시 수정구 위례동이로 24
+ A10026777   경기도 성남수정구 창곡동 500  경기도 성남시 수정구 창곡동 500
+ A10026944   경기도 성남수정구 창곡동 504  경기도 성남시 수정구 창곡동 504
+ A10027277   경기도 성남수정구 창곡동 515  경기도 성남시 수정구 창곡동 515
+ A10027335   경기도 성남수정구 창곡동 531  경기도 성남시 수정구 창곡동 531
+ A10027369   경기도 성남수정구 창곡동 567  경기도 성남시 수정구 창곡동 567
+ A10027509   경기도 성남수정구 창곡동 510  경기도 성남시 수정구 창곡동 510
+ A10027595   경기도 성남수정구 창곡동 519  경기도 성남시 수정구 창곡동 519
+ A10027692   경기도 성남수정구 창곡동 521  경기도 성남시 수정구 창곡동 521
+ A10027709   경기도 성남수정구 창곡동 528  경기도 성남시 수정구 창곡동 528
+ A10027720   경기도 성남수정구 창곡동 572  경기도 성남시 수정구 창곡동 572
+
+=== [6] coord_uncertainty_m vs centroid_spread_m ===
+coord_uncertainty_m 분포:
+coord_uncertainty_m
+0.0     268
+10.0      5
+50.0      1
+spread>0 이면서 uncertainty==0 인 행 수: 6
+cluster_id centroid_spread_m coord_uncertainty_m representative_method
+ A10023897             112.9                 0.0              centroid
+ A10024817             215.9                 0.0              centroid
+ A10025183              50.2                 0.0              centroid
+ A10025316             161.9                 0.0              centroid
+ A10026598             161.0                 0.0              centroid
+ A10028143              73.7                 0.0              centroid
+
+=== [7] 오버라이드 6건 원문 + A10027692 ===
+override_rows: 6
+cluster_id override_decision representative_method centroid_spread_m parcel_count          addr_query
+ A10026126           REQUERY      override_requery               0.0            1  경기도 화성시 동탄대로4다길 78
+ A10026206           REQUERY      override_requery               0.0            1   경기도 화성시 동탄대로2길 49
+ A10027692       PICK_PARCEL       selected_parcel               0.0            2 경기도 성남시 수정구 창곡동 521
+ A10027957           REQUERY      override_requery               0.0            1    경기도 김포시 한강8로 365
+ A10025583           REQUERY      override_requery               0.0            1  경기도 화성시 동탄대로4길 143
+ A10026990           REQUERY      override_requery               0.0            1     경기도 김포시 태장로 846
+A10027692_present: True
+cluster_id centroid_spread_m representative_method override_decision needs_review status          addr_query
+ A10027692               0.0       selected_parcel       PICK_PARCEL        False     OK 경기도 성남시 수정구 창곡동 521
+
+=== [8] 게이트 산출물 실태 ===
+stop_gate_report.csv: exists=True size=2
+stop_gate_report.meta.json: exists=False size=None
+
+=== [9] geocoding_plan 파일 위치 탐색 ===
+hits: 0

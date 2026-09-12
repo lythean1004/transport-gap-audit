@@ -1,0 +1,2 @@
+obs_date,slot_hhmm,citycode,nodeid,outcome,retry_count,called_at_kst,http_status,result_code,result_msg,item_count,raw_path,schema_version
+2026-09-03,0700,31130,GGB222001318,ok_with_items,0,2026-09-03T22:19:31.477642+09:00,200,00,NORMAL SERVICE.,24,scratch/_live_raw/2026-09-03/31130_GGB222001318_0700.json,v1

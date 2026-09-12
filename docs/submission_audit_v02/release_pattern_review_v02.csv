@@ -1,0 +1,5 @@
+﻿path,line,kind
+tests/test_submission_audit.py,37,credential_pattern_review
+tests/test_submission_audit.py,39,credential_pattern_review
+tests/test_submission_audit.py,55,credential_pattern_review
+scripts/submission/audit.py,65,private_credential

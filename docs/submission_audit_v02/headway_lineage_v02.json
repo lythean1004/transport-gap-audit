@@ -1,0 +1,23 @@
+{
+  "generator_path": "scratch/calc_headway_v7.py",
+  "generator_sha256": "5e4cc16760a50319421a410a9f799fd4a4be9fc0fd7f2abeaa6ba31e604833c3",
+  "archived_rows": 72,
+  "replayed_rows": 72,
+  "all_columns_equal": true,
+  "difference": "",
+  "missing_published_routes": [
+    "GGB222000056",
+    "GGB222000137",
+    "GGB222000239"
+  ],
+  "all_observation_days": [
+    "2026-09-04",
+    "2026-09-07",
+    "2026-09-08",
+    "2026-09-09",
+    "2026-09-10",
+    "2026-09-11"
+  ],
+  "api_calls": 0,
+  "interpretation": "Reproduction verifies lineage, not validity as actual vehicle headways."
+}

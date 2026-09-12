@@ -1,0 +1,6 @@
+﻿development,first_planned_block_source_id,block_name,planned_occupancy,promise_source_id,mode,line_name,promise_target,actual_operation_source_id,monitoring_status,timing_relation,next_trigger,occupancy_review_status,promise_review_status
+인천 계양,SRC-E2-A06,A2,2026년 12월,SRC-F003,sbrt,계양~대장 S-BRT,미정,,future_plan_not_observed_outcome,target_date_missing,운영기관의 실제 운행 개시 공지 또는 시간표 시행 공지,duplicate,needs_human
+남양주 왕숙,SRC-E2-A07,A-1,2028년 08월,SRC-F009,rail,강동하남남양주선,2028,,future_plan_not_observed_outcome,overlapping_or_ambiguous_period,운영기관의 실제 운행 개시 공지 또는 시간표 시행 공지,duplicate,human_verified
+하남 교산,SRC-U002,A2,2029년 06월,SRC-F015,rail,송파하남선,2028,,future_plan_not_observed_outcome,planned_target_before_planned_occupancy,운영기관의 실제 운행 개시 공지 또는 시간표 시행 공지,human_verified,human_verified
+고양 창릉,SRC-F019,A-4,Jan-28,SRC-F021,rail,고양은평선,미정,,future_plan_not_observed_outcome,target_date_missing,운영기관의 실제 운행 개시 공지 또는 시간표 시행 공지,human_verified,needs_human
+부천 대장,SRC-F025,A5,Nov-27,SRC-F027,sbrt,계양~대장 S-BRT,미정,,future_plan_not_observed_outcome,target_date_missing,운영기관의 실제 운행 개시 공지 또는 시간표 시행 공지,human_verified,needs_human

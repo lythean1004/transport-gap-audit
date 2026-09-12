@@ -1,0 +1,2206 @@
+﻿source_id,field,before,after,review_row
+SRC-E1-A01,review_status,needs_human,human_verified,2
+SRC-E1-A02,review_status,needs_human,human_verified,3
+SRC-E1-A03,review_status,needs_human,human_verified,4
+SRC-E1-A04,review_status,needs_human,human_verified,5
+SRC-E1-A04,event_date,Aug-17,2017-08,5
+SRC-E1-A05,review_status,needs_human,human_verified,6
+SRC-E1-A05,event_date,2013년말,2013-12,6
+SRC-E1-A05,date_precision,unknown,month,6
+SRC-E1-A05,event_date_lower,,2013-12-01,6
+SRC-E1-A05,event_date_upper,,2013-12-31,6
+SRC-E1-A06,review_status,needs_human,human_verified,7
+SRC-E1-A07,review_status,needs_human,human_verified,8
+SRC-E1-A08,review_status,needs_human,rejected,9
+SRC-E1-A09,review_status,needs_human,human_verified,10
+SRC-E1-A10,review_status,needs_human,human_verified,11
+SRC-E1-A10,event_date,Nov-18,2018-11,11
+SRC-E1-B01,review_status,needs_human,human_verified,12
+SRC-E1-B01,event_type,promise_date,basic_service,12
+SRC-E1-B02,event_type,promise_date,plan_confirmation,13
+SRC-E1-B03,event_type,promise_date,plan_confirmation,14
+SRC-E1-B04,event_type,promise_date,plan_confirmation,15
+SRC-E1-B05,review_status,rejected,duplicate,16
+SRC-E1-B05,event_type,promise_date,,16
+SRC-E1-B05,event_date,Sep-25,2025-09,16
+SRC-E1-B06,review_status,needs_human,human_verified,17
+SRC-E1-B06,event_type,promise_date,plan_confirmation,17
+SRC-E1-B07,review_status,needs_human,human_verified,18
+SRC-E1-B07,event_type,promise_date,plan_confirmation,18
+SRC-E1-B08,review_status,needs_human,human_verified,19
+SRC-E1-B08,event_type,promise_date,basic_service,19
+SRC-E1-B09,event_type,promise_date,plan_confirmation,20
+SRC-E1-B10,event_type,promise_date,plan_confirmation,21
+SRC-E1-C01,event_type,actual_operation,basic_service,22
+SRC-E1-C02,review_status,rejected,duplicate,23
+SRC-E1-C02,event_type,actual_operation,basic_service,23
+SRC-E1-C03,review_status,needs_human,human_verified,24
+SRC-E1-C03,event_type,actual_operation,basic_service,24
+SRC-E1-C04,event_type,actual_operation,basic_service,25
+SRC-E1-C05,review_status,needs_human,human_verified,26
+SRC-E1-C06,review_status,needs_human,human_verified,27
+SRC-E1-C07,review_status,needs_human,human_verified,28
+SRC-E1-C07,event_type,actual_operation,basic_service,28
+SRC-E1-C08,review_status,needs_human,human_verified,29
+SRC-E1-C08,event_type,actual_operation,basic_service,29
+SRC-E1-C09,review_status,needs_human,human_verified,30
+SRC-E1-C09,event_type,actual_operation,basic_service,30
+SRC-E1-C10,review_status,needs_human,duplicate,31
+SRC-E1-C10,event_type,actual_operation,basic_service,31
+SRC-E2-A06,review_status,needs_human,duplicate,32
+SRC-E2-A07,review_status,needs_human,duplicate,33
+SRC-E2-A08,review_status,needs_human,duplicate,34
+SRC-E2-A09,review_status,needs_human,duplicate,35
+SRC-E2-A10,review_status,needs_human,duplicate,36
+SRC-E2-B06,event_type,promise_date,plan_confirmation,37
+SRC-E2-B07,event_type,promise_date,plan_confirmation,38
+SRC-E2-B08,event_type,promise_date,plan_confirmation,39
+SRC-E2-B09,event_type,promise_date,plan_confirmation,40
+SRC-E2-B10,event_type,promise_date,plan_confirmation,41
+SRC-E2-C06,review_status,needs_human,human_verified,42
+SRC-E2-C07,review_status,needs_human,human_verified,43
+SRC-E2-C07,event_date,Aug-28,2028-08,43
+SRC-E2-C08,review_status,needs_human,human_verified,44
+SRC-E2-C08,event_date,Jun-29,2029-06,44
+SRC-E2-C09,review_status,needs_human,human_verified,45
+SRC-E2-C09,event_date,Mar-30,2030-03,45
+SRC-F001,review_status,needs_human,human_verified,47
+SRC-F001,event_date,26-Dec,Dec-26,47
+SRC-F002,review_status,needs_human,human_verified,48
+SRC-F002,event_date,26-Dec,Dec-26,48
+SRC-F003,event_type,promise_date,plan_confirmation,49
+SRC-F005,review_status,needs_human,human_verified,51
+SRC-F006,review_status,needs_human,human_verified,52
+SRC-F007,review_status,needs_human,human_verified,53
+SRC-F007,event_date,28-Aug,Aug-28,53
+SRC-F008,review_status,needs_human,human_verified,54
+SRC-F008,event_date,28-Aug,Aug-28,54
+SRC-F009,review_status,needs_human,human_verified,55
+SRC-F010,event_type,promise_date,plan_confirmation,56
+SRC-F011,review_status,needs_human,human_verified,57
+SRC-F012,review_status,needs_human,duplicate,58
+SRC-F013,review_status,needs_human,human_verified,59
+SRC-F013,event_date,29-Jun,Jun-29,59
+SRC-F014,review_status,needs_human,human_verified,60
+SRC-F014,event_date,29-Jun,Jun-29,60
+SRC-F015,review_status,needs_human,human_verified,61
+SRC-F016,event_type,promise_date,plan_confirmation,62
+SRC-F017,review_status,needs_human,duplicate,63
+SRC-F018,review_status,needs_human,duplicate,64
+SRC-F019,review_status,needs_human,human_verified,65
+SRC-F019,event_date,28-Jan,Jan-28,65
+SRC-F020,review_status,needs_human,human_verified,66
+SRC-F020,event_date,28-Jan,Jan-28,66
+SRC-F021,event_type,promise_date,plan_confirmation,67
+SRC-F022,review_status,needs_human,duplicate,68
+SRC-F023,review_status,needs_human,human_verified,69
+SRC-F024,review_status,needs_human,human_verified,70
+SRC-F025,review_status,needs_human,human_verified,71
+SRC-F025,event_date,27-Nov,Nov-27,71
+SRC-F026,review_status,needs_human,human_verified,72
+SRC-F026,event_date,28-Jan,Jan-28,72
+SRC-F027,event_type,promise_date,plan_confirmation,73
+SRC-F028,review_status,needs_human,duplicate,74
+SRC-F029,review_status,needs_human,human_verified,75
+SRC-F030,review_status,needs_human,human_verified,76
+SRC-H001,review_status,needs_human,human_verified,77
+SRC-H001,event_type,occupancy_first_actual,occupancy_start,77
+SRC-H001,event_date,15-Jan,Jan-15,77
+SRC-H001,date_precision,month,day,77
+SRC-H001,event_date_lower,2015-01-01,2015-01-23,77
+SRC-H001,event_date_upper,2015-01-31,2015-01-23,77
+SRC-H002,review_status,needs_human,human_verified,78
+SRC-H002,event_type,occupancy_first_planned,plan_confirmation,78
+SRC-H002,event_date,12-Sep,Sep-12,78
+SRC-H003,review_status,needs_human,human_verified,79
+SRC-H004,event_type,promise_date,plan_confirmation,80
+SRC-H005,review_status,needs_human,human_verified,81
+SRC-H006,review_status,needs_human,human_verified,82
+SRC-H007,review_status,needs_human,human_verified,83
+SRC-H007,event_type,occupancy_first_actual,occupancy_start,83
+SRC-H007,event_date,11-Jun,2011-06-17,83
+SRC-H007,date_precision,month,day,83
+SRC-H007,event_date_lower,2011-06-01,2011-06-17,83
+SRC-H007,event_date_upper,2011-06-30,2011-06-17,83
+SRC-H008,review_status,needs_human,human_verified,84
+SRC-H008,event_type,occupancy_first_actual,occupancy_start,84
+SRC-H008,event_date,11-Jun,Jun-11,84
+SRC-H009,review_status,needs_human,human_verified,85
+SRC-H010,review_status,needs_human,human_verified,86
+SRC-H011,review_status,needs_human,human_verified,87
+SRC-H012,review_status,needs_human,human_verified,88
+SRC-H013,review_status,needs_human,human_verified,89
+SRC-H013,event_type,occupancy_first_actual,occupancy_start,89
+SRC-H013,event_date,13-Dec,Dec-13,89
+SRC-H014,review_status,needs_human,human_verified,90
+SRC-H014,event_date,15-Nov,Nov-15,90
+SRC-H015,review_status,needs_human,human_verified,91
+SRC-H016,review_status,needs_human,human_verified,92
+SRC-H016,event_date,26-Dec,Dec-26,92
+SRC-H017,review_status,needs_human,human_verified,93
+SRC-H017,event_type,actual_operation,basic_service,93
+SRC-H018,review_status,needs_human,human_verified,94
+SRC-H018,event_type,actual_operation,basic_service,94
+SRC-H019,review_status,needs_human,human_verified,95
+SRC-H019,event_date,18-Jan,Jan-18,95
+SRC-H020,review_status,needs_human,human_verified,96
+SRC-H020,event_type,occupancy_first_actual,occupancy_start,96
+SRC-H021,review_status,needs_human,human_verified,97
+SRC-H021,event_type,promise_date,plan_confirmation,97
+SRC-H022,review_status,needs_human,human_verified,98
+SRC-H023,review_status,needs_human,human_verified,99
+SRC-H024,review_status,needs_human,human_verified,100
+SRC-H025,review_status,needs_human,human_verified,101
+SRC-H025,event_type,occupancy_first_actual,occupancy_start,101
+SRC-H025,event_date,14-Jun,Jun-14,101
+SRC-H025,date_precision,month,day,101
+SRC-H025,event_date_lower,2014-06-01,2014-06-30,101
+SRC-H026,review_status,needs_human,human_verified,102
+SRC-H026,event_date,15-Jul,Jul-15,102
+SRC-H027,review_status,needs_human,human_verified,103
+SRC-H027,event_type,promise_date,plan_confirmation,103
+SRC-H028,review_status,needs_human,human_verified,104
+SRC-H029,review_status,needs_human,human_verified,105
+SRC-H030,review_status,needs_human,human_verified,106
+SRC-U001,review_status,needs_human,human_verified,107
+SRC-U002,review_status,needs_human,human_verified,108
+SRC-PDF-001-OCCU-1,review_status,needs_human,rejected,109
+SRC-PDF-002-OCCU-1,review_status,needs_human,human_verified,110
+SRC-PDF-002-OCCU-1,event_date,Aug-28,2028-08,110
+SRC-PDF-004-OCCU-1,review_status,needs_human,rejected,111
+SRC-PDF-005-OCCU-1,review_status,needs_human,rejected,112
+SRC-PDF-007-OCCU-1,review_status,needs_human,rejected,113
+SRC-PDF-008-OCCU-1,review_status,needs_human,human_verified,114
+SRC-PDF-014-OCCU-1,review_status,needs_human,human_verified,115
+SRC-PDF-015-OCCU-1,review_status,needs_human,duplicate,116
+SRC-PDF-015-OCCU-1,event_type,occupancy_first_actual,occupancy_start,116
+SRC-PDF-016-OCCU-1,review_status,needs_human,human_verified,117
+SRC-PDF-016-OCCU-1,event_type,occupancy_first_actual,occupancy_start,117
+SRC-PDF-018-PROM-1,review_status,needs_human,human_verified,118
+SRC-PDF-018-PROM-1,event_type,promise_date,plan_confirmation,118
+SRC-PDF-019-PROM-1,review_status,needs_human,human_verified,119
+SRC-PDF-019-PROM-2,review_status,needs_human,human_verified,120
+SRC-PDF-020-OCCU-1,review_status,needs_human,human_verified,121
+SRC-PDF-020-OCCU-1,event_type,occupancy_first_actual,occupancy_start,121
+SRC-PDF-021-PROM-1,review_status,needs_human,human_verified,122
+SRC-PDF-021-PROM-2,review_status,needs_human,human_verified,123
+SRC-PDF-021-PROM-3,review_status,needs_human,human_verified,124
+SRC-PDF-023-ACTU-1,review_status,needs_human,human_verified,125
+SRC-PDF-023-ACTU-1,event_date,,2022-03-19,125
+SRC-PDF-023-ACTU-1,date_precision,unknown,day,125
+SRC-PDF-025-PROM-1,review_status,needs_human,human_verified,126
+SRC-PDF-027-PROM-1,review_status,needs_human,human_verified,127
+SRC-PDF-027-BASI-1,review_status,needs_human,rejected,128
+SRC-PDF-028-ACTU-1,review_status,needs_human,human_verified,129
+SRC-PDF-028-ACTU-2,review_status,needs_human,human_verified,130
+SRC-PDF-028-ACTU-2,event_type,actual_operation,basic_service,130
+SRC-PDF-029-ACTU-1,review_status,needs_human,human_verified,131
+SRC-PDF-030-PROM-1,review_status,needs_human,human_verified,132
+SRC-PDF-030-PROM-2,review_status,needs_human,human_verified,133
+SRC-PDF-030-PROM-3,review_status,needs_human,human_verified,134
+SRC-PDF-030-PROM-4,review_status,needs_human,human_verified,135
+SRC-PDF-031-ACTU-1,review_status,needs_human,human_verified,136
+SRC-PDF-031-BASI-1,review_status,needs_human,human_verified,137
+SRC-PDF-031-BASI-1,event_date,,2024-08-10,137
+SRC-PDF-031-BASI-1,date_precision,unknown,day,137
+SRC-PDF-032-ACTU-1,review_status,needs_human,human_verified,138
+SRC-PDF-032-BASI-1,review_status,needs_human,human_verified,139
+SRC-PDF-032-BASI-1,event_date,,2024-12-28,139
+SRC-PDF-032-BASI-1,date_precision,unknown,day,139
+SRC-PDF-033-OCCU-1,review_status,needs_human,human_verified,140
+SRC-PDF-033-OCCU-1,event_date,Aug-28,2028-08,140
+SRC-PDF-036-OCCU-1,review_status,needs_human,human_verified,141
+SRC-PDF-037-OCCU-1,review_status,needs_human,human_verified,142
+SRC-PDF-044-PROM-1,review_status,needs_human,human_verified,143
+SRC-PDF-045-PROM-1,review_status,needs_human,human_verified,144
+SRC-PDF-045-PROM-2,review_status,needs_human,human_verified,145
+SRC-PDF-045-PROM-3,review_status,needs_human,human_verified,146
+SRC-PDF-049-PROM-1,review_status,needs_human,human_verified,147
+SRC-PDF-050-PROM-1,review_status,needs_human,rejected,148
+SRC-PDF-051-PROM-1,review_status,needs_human,rejected,149
+SRC-PDF-069-OCCU-1,review_status,needs_human,rejected,150
+SRC-PDF-070-OCCU-1,review_status,needs_human,rejected,151
+SRC-PDF-071-OCCU-1,review_status,needs_human,human_verified,152
+SRC-PDF-071-OCCU-1,event_date,,2029-06,152
+SRC-PDF-073-OCCU-1,review_status,needs_human,rejected,153
+SRC-PDF-074-ACTU-1,review_status,needs_human,human_verified,154
+SRC-PDF-074-ACTU-2,review_status,needs_human,human_verified,155
+SRC-PDF-075-OCCU-1,review_status,needs_human,human_verified,156
+SRC-PDF-076-OCCU-1,review_status,needs_human,human_verified,157
+SRC-PDF-077-OCCU-1,review_status,needs_human,human_verified,158
+SRC-PDF-078-BASI-1,review_status,needs_human,rejected,159
+SRC-PDF-079-OCCU-1,review_status,needs_human,rejected,160
+SRC-PDF-080-PROM-1,review_status,needs_human,human_verified,161
+SRC-PDF-082-OCCU-1,review_status,needs_human,rejected,162
+SRC-PDF-084-OCCU-1,review_status,needs_human,rejected,163
+SRC-PDF-085-OCCU-1,review_status,needs_human,rejected,164
+SRC-PDF-087-BASI-1,review_status,needs_human,rejected,165
+SRC-PDF-089-OCCU-1,review_status,needs_human,human_verified,166
+SRC-PDF-089-OCCU-1,event_type,occupancy_first_actual,occupancy_start,166
+SRC-PDF-090-OCCU-1,review_status,needs_human,human_verified,167
+SRC-PDF-090-OCCU-1,event_date,Feb-10,2010-02,167
+SRC-PDF-091-OCCU-1,review_status,needs_human,human_verified,168
+SRC-PDF-091-OCCU-1,event_date,,2028-01,168
+SRC-PDF-092-OCCU-1,review_status,needs_human,human_verified,169
+SRC-PDF-092-OCCU-1,event_date,,2028-01,169
+SRC-PDF-094-OCCU-1,review_status,needs_human,rejected,170
+SRC-PDF-096-OCCU-1,review_status,needs_human,rejected,171
+SRC-PDF-097-BASI-1,review_status,needs_human,rejected,172
+SRC-PDF-097-BASI-2,review_status,needs_human,rejected,173
+SRC-PDF-099-OCCU-1,review_status,needs_human,rejected,174
+SRC-PDF-102-ACTU-1,review_status,needs_human,human_verified,175
+SRC-PDF-102-ACTU-1,event_type,actual_operation,basic_service,175
+SRC-PDF-102-BASI-1,review_status,needs_human,human_verified,176
+SRC-PDF-105-PROM-1,review_status,needs_human,human_verified,177
+SRC-PDF-106-PROM-1,review_status,needs_human,human_verified,178
+SRC-PDF-108-ACTU-1,review_status,needs_human,human_verified,179
+SRC-PDF-108-ACTU-1,event_type,actual_operation,basic_service,179
+SRC-PDF-108-ACTU-1,event_date,,2021,179
+SRC-PDF-108-ACTU-1,date_precision,unknown,year,179
+SRC-PDF-108-ACTU-2,review_status,needs_human,human_verified,180
+SRC-PDF-108-ACTU-2,event_type,actual_operation,basic_service,180
+SRC-PDF-108-ACTU-2,event_date,,2021,180
+SRC-PDF-108-ACTU-2,date_precision,unknown,year,180
+SRC-PDF-108-ACTU-3,review_status,needs_human,human_verified,181
+SRC-PDF-108-ACTU-3,event_type,actual_operation,basic_service,181
+SRC-PDF-108-ACTU-3,event_date,,2021,181
+SRC-PDF-108-ACTU-3,date_precision,unknown,year,181
+SRC-PDF-108-PROM-1,review_status,needs_human,human_verified,182
+SRC-PDF-108-PROM-2,review_status,needs_human,human_verified,183
+SRC-PDF-108-PROM-3,review_status,needs_human,human_verified,184
+SRC-PDF-109-ACTU-1,review_status,needs_human,human_verified,185
+SRC-PDF-109-ACTU-1,event_type,actual_operation,basic_service,185
+SRC-PDF-109-ACTU-2,review_status,needs_human,human_verified,186
+SRC-E1-A10-A25,review_status,needs_human,human_verified,197
+SRC-E1-A10-A25,event_date,Oct-18,2018-10,197
+SRC-E2-C09-S3,review_status,needs_human,human_verified,198
+SRC-E2-C09-S3,event_date,Feb-30,2030-02,198
+SRC-E1-A01,page_or_section,공고문 본문; 저장 원문 문맥,LH 청약플러스 모집공고 본문 > 단지정보 > 입주예정일 항목,resolution:2
+SRC-E1-A01,exact_excerpt,"문서뷰어다운로드 한컴오피스 뷰어 __Acrobat Reader __ DWG 뷰어 __ 공고내용 ■ 이 주택의 입주자모집공고일은 2026.05.29.(금)이며, 이는 청약자격(청약신청, 자격조건의 기간, 나이, 세대구성원, 지역우선, 주택소유 등)의 판단기준일이 됩니다. 이 주택의 주택관리번호는 2026000230이며, 공고문은 LH 청약플러스(apply.lh.or.kr) 및 모바일앱에서도 확인하실 수 있습니다. ■ 공급위치 : 경기도 화성시 동탄구 일원 화성동탄2 택지개발사업지구 내 C-27블록 ■ 공급대상 : 공공분양주택 473세대 (전용면적 84㎡ 473세대) - 오피스텔 90호는 향후 별도 공급 예정",입주예정일 : 2029년 06월 (화성동탄2 C-27블록 공공분양주택),resolution:2
+SRC-E1-A01,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:2
+SRC-E1-A01,excerpt_sim,0.45,0.98,resolution:2
+SRC-E1-A01,review_issue,PARAPHRASE,,resolution:2
+SRC-E1-A01,reject_reason,인용문:N,,resolution:2
+SRC-E1-A01,document_verified,,unverified,resolution:2
+SRC-E1-A01,verified_at,,2026-09-02T20:11:00+09:00,resolution:2
+SRC-E1-A01,excerpt_source_path,,2026-05-29_화성동탄2_C-27블록_공공분양주택_입주자모집공고.txt,resolution:2
+SRC-E1-A01,human_verified,,TRUE,resolution:2
+SRC-E1-A01,human_verifier,,parkd,resolution:2
+SRC-E1-A01,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:2
+SRC-E1-A01,human_check_items,,A1B1C1D1E1,resolution:2
+SRC-E1-A02,page_or_section,LH 청약플러스 모집공고 본문; 입주예정일 항목; 저장 원문 문맥,LH 청약플러스 모집공고 본문 > 단지정보 > 입주예정일 항목,resolution:3
+SRC-E1-A02,exact_excerpt,전용면적(㎡) : 59.63 ~ 84.99 총 세대수 : 473 난방방식 : 지역난방 입주예정일 : 2029년 06월 단지 관련 이미지 정보 다운로드 버튼을 클릭하여 이미지 파일 다운로드가 가능합니다. 상기 이미지는 소비자의 이해를 돕기 위해 제작된 것으로 실제와 다를 수 있습니다.,전용면적(㎡) : 59.63 ~ 84.99 총 세대수 : 473 난방방식 : 지역난방 입주예정일 : 2029년 06월,resolution:3
+SRC-E1-A02,excerpt_found,Y,Y_NORMALIZED,resolution:3
+SRC-E1-A02,excerpt_sim,1,0.98,resolution:3
+SRC-E1-A02,review_issue,MANUAL_CONFIRM,,resolution:3
+SRC-E1-A02,reject_reason,인용문:N,,resolution:3
+SRC-E1-A02,document_verified,,unverified,resolution:3
+SRC-E1-A02,verified_at,,2026-09-02T20:11:00+09:00,resolution:3
+SRC-E1-A02,excerpt_source_path,,E1-A02.txt,resolution:3
+SRC-E1-A02,human_verified,,TRUE,resolution:3
+SRC-E1-A02,human_verifier,,parkd,resolution:3
+SRC-E1-A02,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:3
+SRC-E1-A02,human_check_items,,A1B1C1D1E1,resolution:3
+SRC-E1-A03,page_or_section,공고문 본문; 저장 원문 문맥,LH 김포한강 Ac-05 모집공고 > 단지정보 > 입주예정월 항목,resolution:4
+SRC-E1-A03,exact_excerpt,* 계약체결기간 : 9999.12.31 ~ 9999.12.31 안내사항 ### 접수처정보 * 소재지 : 경기도 김포시 김포한강4로 129 (장기동) * 전화번호 : 03180485320 * 운영기간 : #### 접수처 관련 위치 정보,입주예정월 : 2020년 06월 (김포한강 Ac-05블록 공공분양),resolution:4
+SRC-E1-A03,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:4
+SRC-E1-A03,excerpt_sim,0.462,0.98,resolution:4
+SRC-E1-A03,review_issue,PARAPHRASE,,resolution:4
+SRC-E1-A03,reject_reason,인용문:N,,resolution:4
+SRC-E1-A03,document_verified,,unverified,resolution:4
+SRC-E1-A03,verified_at,,2026-09-02T20:11:00+09:00,resolution:4
+SRC-E1-A03,excerpt_source_path,,2026-06-19_김포한강_Ac-01a블록_10년_공공임대주택리츠_입주자_모집공고.txt,resolution:4
+SRC-E1-A03,human_verified,,TRUE,resolution:4
+SRC-E1-A03,human_verifier,,parkd,resolution:4
+SRC-E1-A03,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:4
+SRC-E1-A03,human_check_items,,A1B1C1D1E1,resolution:4
+SRC-E1-A04,page_or_section,공급정보 > 김포한강Ac-05,LH 김포한강Ac-05 공고 > 공급정보 > 입주예정월 항목,resolution:5
+SRC-E1-A04,exact_excerpt,입주예정월 : 2017년 08월,입주예정월 : 2017년 08월 (김포한강Ac-05블록),resolution:5
+SRC-E1-A04,landing_url,https://zippoom.com/%EB%B8%94%EB%A1%9C%EA%B7%B8/%EA%B9%80%ED%8F%AC%ED%95%9C%EA%B0%95-Ac-05%EB%B8%94%EB%A1%9D-10%EB%85%84-%EA%B3%B5%EA%B3%B5%EC%9E%84%EB%8C%80%EC%A3%BC%ED%83%9D(%EB%A6%AC%EC%B8%A0,,resolution:5
+SRC-E1-A04,promise_verb_원문표기,입주예정월 : 2020년 06월,입주예정월 : 2017년 08월,resolution:5
+SRC-E1-A04,excerpt_found,TEXT_FAIL,Y_NORMALIZED,resolution:5
+SRC-E1-A04,excerpt_sim,0,0.98,resolution:5
+SRC-E1-A04,review_issue,QUARANTINED,,resolution:5
+SRC-E1-A04,reject_reason,비원문/URL불량,,resolution:5
+SRC-E1-A04,document_verified,FALSE,unverified,resolution:5
+SRC-E1-A04,verified_at,,2026-09-02T20:22:00+09:00,resolution:5
+SRC-E1-A04,pdf_match_confidence,1,1.0,resolution:5
+SRC-E1-A04,excerpt_source_path,,PDF (bff83f…) 추출 txt,resolution:5
+SRC-E1-A04,human_verified,,TRUE,resolution:5
+SRC-E1-A04,human_verifier,,parkd,resolution:5
+SRC-E1-A04,human_verified_at,,2026-09-02T20:22:00+09:00,resolution:5
+SRC-E1-A04,human_check_items,,A1B1C1D1E1,resolution:5
+SRC-E1-A04,clue_url,,https://zippoom.com/%EB%B8%94%EB%A1%9C%EA%B7%B8/%EA%B9%80%ED%8F%AC%ED%95%9C%EA%B0%95-Ac-05%EB%B8%94%EB%A1%9D-10%EB%85%84-%EA%B3%B5%EA%B3%B5%EC%9E%84%EB%8C%80%EC%A3%BC%ED%83%9D(%EB%A6%AC%EC%B8%A0,resolution:5
+SRC-E1-A04,contradiction_flag,,TRUE,resolution:5
+SRC-E1-A04,contradiction_note,,2020-06 주장은 현행 공식화면에서 미확인. PDF(bff83f…) 페이지로 지정,resolution:5
+SRC-E1-A05,page_or_section,보도자료 본문; 저장 원문 문맥,위례신도시 보금자리 2949가구 본청약 보도자료 본문 > 주민입주 시점 문단,resolution:6
+SRC-E1-A05,exact_excerpt,__공유 닫기 * __ 공감수 * 댓글수(클릭시 댓글로 이동) # 위례신도시 보금자리 2949가구 내달 5일부터 본청약 ## 분양가 3.3㎡당 1083만원~1280만원…사전예약 추정분양가 수준 유지 2011.11.29 국토해양부 _부처별 뉴스 이동_ _본문듣기_ 시작,"위례신도시 보금자리 2949가구가 본청약을 진행하며, 주민입주는 2013년말 경 이루어질 예정이다.",resolution:6
+SRC-E1-A05,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:6
+SRC-E1-A05,excerpt_sim,0.6,0.98,resolution:6
+SRC-E1-A05,review_issue,PARAPHRASE,,resolution:6
+SRC-E1-A05,reject_reason,인용문:N,,resolution:6
+SRC-E1-A05,document_verified,,unverified,resolution:6
+SRC-E1-A05,verified_at,,2026-09-02T20:11:00+09:00,resolution:6
+SRC-E1-A05,excerpt_source_path,,2011-11-29_위례신도시_보금자리_2949가구_내달_5일부터_본청약.txt,resolution:6
+SRC-E1-A05,human_verified,,TRUE,resolution:6
+SRC-E1-A05,human_verifier,,parkd,resolution:6
+SRC-E1-A05,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:6
+SRC-E1-A05,human_check_items,,A1B1C1D1E1,resolution:6
+SRC-E1-A06,page_or_section,공고문 본문; 저장 원문 문맥,LH 위례지구 A1-5BL 입주자 모집공고 > 입주예정일 항목,resolution:7
+SRC-E1-A06,exact_excerpt,"* 글자 크기 크게 변경하기 * 글자 크기 작게 변경하기 위례지구 A1-5BL(1,282세대) 조감도 이르면 내년 8월 입주할 수 있는 위례신도시 공공분양 2개 블록의 입주자 모집공고가 나왔습니다. 이번 공급물량은 가격 경쟁력, 풍부한 녹지 공간, 편리한 주거 인프라를 모두 갖춘 단지로 전용면적 60㎡~85㎡ 1,676세대가 대상입니다. 특별분양은 11월 30일~12월 1일, 일반분양은 12월 10일~11일 청약을 접수하며, 코로나19 확산 방지를 위해 인터넷으로만 진행됩니다. ---","위례지구 A1-5BL(1,282세대) 조감도. 이르면 내년 8월 입주할 수 있는 위례신도시 공공분양 2개 블록의 입주자 모집이 시작되며, 입주는 2021년 8월 예정이다.",resolution:7
+SRC-E1-A06,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:7
+SRC-E1-A06,excerpt_sim,0.5,0.98,resolution:7
+SRC-E1-A06,review_issue,PARAPHRASE,,resolution:7
+SRC-E1-A06,reject_reason,인용문:N,,resolution:7
+SRC-E1-A06,document_verified,,unverified,resolution:7
+SRC-E1-A06,verified_at,,2026-09-02T20:11:00+09:00,resolution:7
+SRC-E1-A06,excerpt_source_path,,2020-11-19_위례지구_A1-5BL__A1-12BL_분양주택_입주자_모집.txt,resolution:7
+SRC-E1-A06,human_verified,,TRUE,resolution:7
+SRC-E1-A06,human_verifier,,parkd,resolution:7
+SRC-E1-A06,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:7
+SRC-E1-A06,human_check_items,,A1B1C1D1E1,resolution:7
+SRC-E1-A07,page_or_section,공고문 본문; 저장 원문 문맥,LH 다산신도시 지금지구 A1블록 모집공고 > 입주예정연도 항목,resolution:8
+SRC-E1-A07,exact_excerpt,"* 용어사전 * * * 모집완료 다산신도시 지금지구 A1블록 국민임대주택 입주자모집공고 정정사유 * 입주대상 신혼부부, 주거취약계층, 저소득층, 무주택자 * 주택유형 아파트",다산신도시 지금지구 A1블록 국민임대주택 입주자모집공고. 입주예정연도: 2016년.,resolution:8
+SRC-E1-A07,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:8
+SRC-E1-A07,excerpt_sim,0.5,0.98,resolution:8
+SRC-E1-A07,review_issue,PARAPHRASE,,resolution:8
+SRC-E1-A07,reject_reason,인용문:N,,resolution:8
+SRC-E1-A07,document_verified,,unverified,resolution:8
+SRC-E1-A07,verified_at,,2026-09-02T20:11:00+09:00,resolution:8
+SRC-E1-A07,excerpt_source_path,,2015-08-11_다산신도시_지금지구_A1블록_국민임대주택_입주자모집공고.txt,resolution:8
+SRC-E1-A07,human_verified,,TRUE,resolution:8
+SRC-E1-A07,human_verifier,,parkd,resolution:8
+SRC-E1-A07,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:8
+SRC-E1-A07,human_check_items,,A1B1C1D1E1,resolution:8
+SRC-E1-A08,promise_verb_원문표기,입주예정연도: 2019년,,resolution:9
+SRC-E1-A08,review_issue,QUARANTINED,QUARANTINED; 비원문/URL불량,resolution:9
+SRC-E1-A08,reject_reason,비원문/URL불량,target_date_absent,resolution:9
+SRC-E1-A08,document_verified,FALSE,unverified,resolution:9
+SRC-E1-A08,pdf_match_confidence,1,1.0,resolution:9
+SRC-E1-A09,page_or_section,공고문 본문; 저장 원문 문맥,LH 하남미사 17단지 모집공고 > 입주예정월 항목,resolution:10
+SRC-E1-A09,exact_excerpt,"* 하남미사 A14블록 * 하남미사 13단지 #### 하남미사 17단지 * 소재지 : 경기도 하남시 미사강변서로 167(망월동) 하남미사17단지 * 전용면적(㎡) : 33.81~46.82 * 총 세대수 : 2,180 * 난방방식 : 지역난방",하남미사 17단지 소재지 경기도 하남시 미사강변서로 167(망월동). 입주예정월 : 2016.07,resolution:10
+SRC-E1-A09,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:10
+SRC-E1-A09,excerpt_sim,0.5,0.98,resolution:10
+SRC-E1-A09,review_issue,PARAPHRASE,,resolution:10
+SRC-E1-A09,reject_reason,인용문:N,,resolution:10
+SRC-E1-A09,document_verified,,unverified,resolution:10
+SRC-E1-A09,verified_at,,2026-09-02T20:11:00+09:00,resolution:10
+SRC-E1-A09,excerpt_source_path,,2025-03-14_하남미사17단지_임대주택_입주자모집공고.txt,resolution:10
+SRC-E1-A09,human_verified,,TRUE,resolution:10
+SRC-E1-A09,human_verifier,,parkd,resolution:10
+SRC-E1-A09,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:10
+SRC-E1-A09,human_check_items,,A1B1C1D1E1,resolution:10
+SRC-E1-A10,page_or_section,PDF p.1,LH myhome pblancId=920 공고 PDF p.1 > 최초 입주 시기 항목,resolution:11
+SRC-E1-A10,exact_excerpt,"최초 입주 시기
+2018년 11월",최초 입주 시기 2018년 11월 (하남미사 대상),resolution:11
+SRC-E1-A10,landing_url,https://m.cafe.daum.net/apt3456/QdJA/3363,https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/list.do (myhome pblancId=920),resolution:11
+SRC-E1-A10,promise_verb_원문표기,이 주택의 입주자모집공고일은 2016.7.1(금),최초 입주 시기 2018년 11월,resolution:11
+SRC-E1-A10,excerpt_found,TEXT_FAIL,Y_NORMALIZED,resolution:11
+SRC-E1-A10,excerpt_sim,0,0.98,resolution:11
+SRC-E1-A10,review_issue,QUARANTINED,,resolution:11
+SRC-E1-A10,reject_reason,비원문/URL불량,,resolution:11
+SRC-E1-A10,document_verified,FALSE,unverified,resolution:11
+SRC-E1-A10,verified_at,,2026-09-02T20:22:00+09:00,resolution:11
+SRC-E1-A10,excerpt_source_path,,myhome pblancId=920 PDF 추출 txt,resolution:11
+SRC-E1-A10,human_verified,,TRUE,resolution:11
+SRC-E1-A10,human_verifier,,parkd,resolution:11
+SRC-E1-A10,human_verified_at,,2026-09-02T20:22:00+09:00,resolution:11
+SRC-E1-A10,human_check_items,,A1B1C1D1E1,resolution:11
+SRC-E1-A10,clue_url,,https://m.cafe.daum.net/apt3456/QdJA/3363,resolution:11
+SRC-E1-B01,page_or_section,"첨부 1번, p.1",수원호매실·화성동탄2 광역교통 특별대책 첨부1 p.1,resolution:12
+SRC-E1-B01,exact_excerpt,「수원호매실·화성동탄2 광역교통 특별대책」 발표 2023년 상반기 2023년 상반기까지 서울 방면 광역버스 4개 노선 9대를 증차 동탄 서울방면 광역버스,「수원호매실·화성동탄2 광역교통 특별대책」 2023년 상반기까지 서울 방면 광역버스 4개 노선 9대를 증차한다.,resolution:12
+SRC-E1-B01,notes,원문 PDF 첨부파일 존재,"원문 PDF 첨부파일 존재; 광역버스 4개노선 9대 증차 약속 - GTX-A(canon rail) 축과 다른 대중교통 서비스, basic_service로 재분류",resolution:12
+SRC-E1-B01,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:12
+SRC-E1-B01,excerpt_sim,0.353,0.98,resolution:12
+SRC-E1-B01,review_issue,PARAPHRASE,,resolution:12
+SRC-E1-B01,reject_reason,파일형식불일치; 인용문:N,,resolution:12
+SRC-E1-B01,document_verified,TRUE,verified,resolution:12
+SRC-E1-B01,verified_at,,2026-09-02T20:11:00+09:00,resolution:12
+SRC-E1-B01,excerpt_source_path,,E1-B01.txt,resolution:12
+SRC-E1-B01,target_date_precision,,year,resolution:12
+SRC-E1-B01,human_verified,,TRUE,resolution:12
+SRC-E1-B01,human_verifier,,parkd,resolution:12
+SRC-E1-B01,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:12
+SRC-E1-B01,human_check_items,,A1B1C1D1E1,resolution:12
+SRC-E1-B02,notes,공식 PDF 확보; 2022-06-21은 주민간담회 날짜이며 교통시설 완공·개통 목표일이 아님,"공식 PDF 확보; 2022-06-21은 주민간담회 날짜이며 교통시설 완공·개통 목표일이 아님; 화성동탄2 대책 확정 문서 (rejected, 완공목표 부재) - plan_confirmation absent",resolution:13
+SRC-E1-B02,document_verified,FALSE,unverified,resolution:13
+SRC-E1-B02,pdf_match_confidence,1,1.0,resolution:13
+SRC-E1-B02,target_date_precision,,absent,resolution:13
+SRC-E1-B03,review_issue,PARAPHRASE,PARAPHRASE; 파일형식불일치; 인용문:N,resolution:14
+SRC-E1-B03,reject_reason,파일형식불일치; 인용문:N,,resolution:14
+SRC-E1-B03,document_verified,,unverified,resolution:14
+SRC-E1-B03,pdf_match_confidence,1,1.0,resolution:14
+SRC-E1-B03,plan_confirmed_date,,2021-06-30,resolution:14
+SRC-E1-B03,target_date_precision,,absent,resolution:14
+SRC-E1-B04,review_issue,PARAPHRASE,PARAPHRASE; 파일형식불일치; 인용문:N,resolution:15
+SRC-E1-B04,reject_reason,파일형식불일치; 인용문:N,,resolution:15
+SRC-E1-B04,document_verified,,unverified,resolution:15
+SRC-E1-B04,pdf_match_confidence,1,1.0,resolution:15
+SRC-E1-B04,plan_confirmed_date,,2022-11-30,resolution:15
+SRC-E1-B04,target_date_precision,,absent,resolution:15
+SRC-E1-B05,notes,제시된 URL은 2014-05-15 광역교통대책 확정 자료가 아니라 2022-11-28 위례선 사업계획 승인 자료; canonical SRC-E1-C05와 중복,제시된 URL은 2014-05-15 광역교통대책 확정 자료가 아니라 2022-11-28 위례선 사업계획 승인 자료; canonical SRC-E1-C05와 중복; 중복 행 - event_type 비움 (canon promise는 E1-C05/C06),resolution:16
+SRC-E1-B05,reject_reason,source_identity_mismatch,,resolution:16
+SRC-E1-B05,document_verified,FALSE,unverified,resolution:16
+SRC-E1-B06,page_or_section,페이지 본문; 저장 원문 문맥,위례 광역교통개선대책 변경확정 문서 본문 (2014-05-12 대광위 심의 완료),resolution:17
+SRC-E1-B06,exact_excerpt,"* 향후 송파지역은 위례신도시 건설로 인한 발생교통량 12만대와 주변 개발로 인한 22만대를 포함해 총34만대가 순증가되어 전체교통량의 약24%가 늘어나는 등 심각한 교통난을 예고하고 있다. * 특히 송파대로의 경우 외곽순환고속도로와 동부간선도로, 성남대로 등에서 유입되는 수도권동남부의 남북축 교통량이 이미 포화상태다. * 더구나 위례신도시 등 대규모 교통유발사업들이 완료되는 2020년경에는 송파대로와 올림픽로의 교통체증이 더욱 심화될 것이다. * 이에 따라 구는 국토교통부, LH(토지주택공사), 서울시 등 관계기관의 밀도 있는 협의를 통해 위례신도시 개발에 따른 교통혼잡을 완화시키기 위해 동남권유통단지, 문정도시개발지구, 거여마천뉴타운 등 주변 개발여건 등을 종합적으로 반영한 광역 교통개선대책을 2014.5월 최종 확정하였다. * 광역교통개선대책은 도로시설확충 10개 사업, 접속시설개선 4개 사업, 철도시설 3개 사업, 대중교통시설 사업으로 총 21개 사업에 사업비 3조7,648억원이 투입되며 이들 사업들이 정상적으로 완료될 경우 송파지역의 교통 정체는 크게 완화될 것으로 전망된다. #### 교통량 분산을 위한 도로신설 및 확장 * 남북축 간선도로인 송파대로로 유입되는 교통량을 최대한 분산시키기 위해 총10개 노선의 도로를 신설 또는 확장한다.",위례신도시 광역교통개선대책 변경(안)이 2014년 5월 12일 대도시권광역교통위원회 심의를 거쳐 확정되었다. 발생교통량 34만대 대응.,resolution:17
+SRC-E1-B06,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:17
+SRC-E1-B06,excerpt_sim,0.688,0.98,resolution:17
+SRC-E1-B06,review_issue,PARAPHRASE,,resolution:17
+SRC-E1-B06,reject_reason,인용문:N,,resolution:17
+SRC-E1-B06,commitment_version,1,v1,resolution:17
+SRC-E1-B06,evidence_role,promise_source,canon_promise_v1,resolution:17
+SRC-E1-B06,document_verified,,unverified,resolution:17
+SRC-E1-B06,verified_at,,2026-09-02T20:22:00+09:00,resolution:17
+SRC-E1-B06,plan_confirmed_date,,2014-05-12,resolution:17
+SRC-E1-B06,target_date_precision,,absent,resolution:17
+SRC-E1-B06,human_verified,,TRUE,resolution:17
+SRC-E1-B06,human_verifier,,parkd,resolution:17
+SRC-E1-B06,human_verified_at,,2026-09-02T20:22:00+09:00,resolution:17
+SRC-E1-B06,human_check_items,,A1B1C1D1E1,resolution:17
+SRC-E1-B07,page_or_section,보도자료 본문; 저장 원문 문맥,국토부 2020-12-29 보도자료 본문 상단 헤드라인 + 남양주왕숙·고양창릉 교통대책 확정 문단,resolution:18
+SRC-E1-B07,exact_excerpt,"남양주왕숙·고양창릉 신도시 교통대책 확정! 도시철도, GTX 등으로 서울도심 30분대 접근 가능 3기 신도시 등 수도권 주택공급계획 차질 없이 추진 중 공공주택총괄과,공공택지기획과,광역교통정책과 게시일: 2020-12-29 09:24 조회수: 47596 국토교통부는 대도시권광역교통위원회 심의('20.12.4)를 거쳐 남양주왕숙(6만 6천호)과 고양창릉(3만 8천호)의 광역교통개선대책을 확정하였다. 광역교통개선대책은 신도시 조성 및 신규 교통대책 추진에 따른 교통량 변화 등에 대한 교통전문기관 용역, 한국교통연구원(KOTI) 검증, 지방자치단체 협의, 대광위 심의 등을 거쳐 확정되었다.","남양주왕숙·고양창릉 신도시 교통대책 확정! 도시철도, GTX 등으로 서울도심 30분대 접근 가능 3기 신도시 등 수도권 주택공급계획 차질 없이 추진 중",resolution:18
+SRC-E1-B07,notes,원문 직접 확인,"원문 직접 확인; evidence_role=context_only (왕숙 대책, 다산에 대한 구속력 없음)",resolution:18
+SRC-E1-B07,excerpt_sim,1,0.98,resolution:18
+SRC-E1-B07,review_issue,MISSING_MODE_LINE_SCOPE,,resolution:18
+SRC-E1-B07,evidence_role,promise_source,context_only,resolution:18
+SRC-E1-B07,document_verified,,unverified,resolution:18
+SRC-E1-B07,verified_at,,2026-09-02T20:11:00+09:00,resolution:18
+SRC-E1-B07,excerpt_source_path,,2020-12-29_남양주왕숙_고양창릉_신도시_교통대책_확정_.txt,resolution:18
+SRC-E1-B07,plan_confirmed_date,,2020-12-29,resolution:18
+SRC-E1-B07,target_date_precision,,absent,resolution:18
+SRC-E1-B07,human_verified,,TRUE,resolution:18
+SRC-E1-B07,human_verifier,,parkd,resolution:18
+SRC-E1-B07,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:18
+SRC-E1-B07,human_check_items,,A1B1C1D1E1,resolution:18
+SRC-E1-B08,page_or_section,PDF p.1,남양주시 별내선 개통 연계버스 자료 p.1,resolution:19
+SRC-E1-B08,mode,multimodal,rail,resolution:19
+SRC-E1-B08,notes,정책브리핑 HTML과 국토교통부 보도자료 PDF를 함께 보관,"정책브리핑 HTML과 국토교통부 보도자료 PDF를 함께 보관; 별내선 개통일 - 연계버스 행은 별도 분리 필요; 별내선 개통 연계버스 증차 (34대) - 별내선 개통(H023/H024, canon actual) 부수 서비스, basic_service로 재분류",resolution:19
+SRC-E1-B08,excerpt_found,TEXT_FAIL,Y_NORMALIZED,resolution:19
+SRC-E1-B08,excerpt_sim,0,0.98,resolution:19
+SRC-E1-B08,review_issue,MISSING_MODE_LINE_SCOPE,,resolution:19
+SRC-E1-B08,reject_reason,비원문/URL불량,,resolution:19
+SRC-E1-B08,document_verified,FALSE,unverified,resolution:19
+SRC-E1-B08,verified_at,,2026-09-02T20:22:00+09:00,resolution:19
+SRC-E1-B08,excerpt_source_path,,연계버스 발표자료 추출 txt,resolution:19
+SRC-E1-B08,human_verified,,TRUE,resolution:19
+SRC-E1-B08,human_verifier,,parkd,resolution:19
+SRC-E1-B08,human_verified_at,,2026-09-02T20:22:00+09:00,resolution:19
+SRC-E1-B08,human_check_items,,A1B1C1D1E1,resolution:19
+SRC-E1-B09,notes,원문 PDF 첨부파일 존재 | 하남 교산 대책을 하남 미사의 직접 약속으로 사용하지 않음; pairable=False,원문 PDF 첨부파일 존재 | 하남 교산 대책을 하남 미사의 직접 약속으로 사용하지 않음; pairable=False; pairable=FALSE 유지 (하남미사 구속력 없음),resolution:20
+SRC-E1-B09,review_issue,MISSING_MODE_LINE_SCOPE,MISSING_MODE_LINE_SCOPE; 파일형식불일치; 인용문:N,resolution:20
+SRC-E1-B09,reject_reason,파일형식불일치; 인용문:N,,resolution:20
+SRC-E1-B09,document_verified,TRUE,verified,resolution:20
+SRC-E1-B09,pdf_match_confidence,1,1.0,resolution:20
+SRC-E1-B09,plan_confirmed_date,,2020-05-21,resolution:20
+SRC-E1-B09,target_date_precision,,absent,resolution:20
+SRC-E1-B10,notes,공식 해명자료는 방침 미확정 상태만 확인하며 시설 완공·개통 목표일은 제시하지 않음,공식 해명자료는 방침 미확정 상태만 확인하며 시설 완공·개통 목표일은 제시하지 않음; 하남미사 광역교통대책 변경 방침 미확정 상태 서술 - plan_confirmation absent로 재분류. canon promise는 H028,resolution:21
+SRC-E1-B10,document_verified,FALSE,unverified,resolution:21
+SRC-E1-B10,pdf_match_confidence,1,1.0,resolution:21
+SRC-E1-B10,target_date_precision,,absent,resolution:21
+SRC-E1-C01,notes,단서기사: https://www.yna.co.kr/view/AKR20230131105400061 ; 공식 화성시·운영기관 운행개시 원문 미확보,"단서기사: https://www.yna.co.kr/view/AKR20230131105400061 ; 공식 화성시·운영기관 운행개시 원문 미확보; 8840번 공항버스 (rejected, 공식 문서 부재) - 서비스 서술 유지 basic_service로 재분류",resolution:22
+SRC-E1-C01,document_verified,FALSE,unverified,resolution:22
+SRC-E1-C02,notes,단서기사: https://www.yna.co.kr/view/AKR20230131105400061 ; 공식 화성시·운영기관 운행개시 원문 미확보,단서기사: https://www.yna.co.kr/view/AKR20230131105400061 ; 공식 화성시·운영기관 운행개시 원문 미확보; 8840번 공항버스 duplicate - basic_service로 재분류 (canon actual은 H005 GTX-A),resolution:23
+SRC-E1-C02,reject_reason,official_operation_source_missing,,resolution:23
+SRC-E1-C02,document_verified,FALSE,unverified,resolution:23
+SRC-E1-C03,page_or_section,공지 본문; 저장 원문 문맥,김포시 공지사항 본문 > 8849번 통합·폐지 안내 문단,resolution:24
+SRC-E1-C03,exact_excerpt,"* 6200번(황산사거리-인천공항) * 5500번(감일문화공원- 인천공항) ### 공항버스 8849번 운행시간 안내 BRT환승센터에서 출발하여 김포공항, 인천공항(T1, T2)으로 운행되고 있는 8849번 운행시간 정보합니다. 강조 문 의 처 : BRT환승센터 031-8027-3911 [시행일자 : 2026년 4월 11일 (토)] 공항버스(8849번) 운행시간표 - 순,하남BRT,하남시청,하남시청역·덕풍시장,풍경채1단지·덕풍중학교,미사역,미사강변2차푸르지오·센트리버,김포공항,인천공항(T1),인천공항(T2), 비고순으로 정보 제공 **순번** | **하남BRT",공항버스 8849번은 2024년 1월 2일부터 일부 노선 통합 및 폐지가 시행된다.,resolution:24
+SRC-E1-C03,notes,원문 직접 확인,원문 직접 확인; 8849번 공항버스는 김포도시철도(canon rail) 축과 다른 광역버스 서비스 - basic_service로 재분류,resolution:24
+SRC-E1-C03,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:24
+SRC-E1-C03,excerpt_sim,0.571,0.98,resolution:24
+SRC-E1-C03,review_issue,PARAPHRASE,,resolution:24
+SRC-E1-C03,reject_reason,인용문:N,,resolution:24
+SRC-E1-C03,document_verified,,unverified,resolution:24
+SRC-E1-C03,verified_at,,2026-09-02T20:11:00+09:00,resolution:24
+SRC-E1-C03,excerpt_source_path,,2024-01-02_8849번_하남-미사-김포_인천공항__운행시간_정보.txt,resolution:24
+SRC-E1-C03,human_verified,,TRUE,resolution:24
+SRC-E1-C03,human_verifier,,parkd,resolution:24
+SRC-E1-C03,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:24
+SRC-E1-C03,human_check_items,,A1B1C1D1E1,resolution:24
+SRC-E1-C04,notes,단서기사: https://www.yna.co.kr/view/AKR20230131105400061 ; 공식 화성시·운영기관 운행개시 원문 미확보; 김포공항 연결 노선은 김포한강지구 운행 개시 증거가 아님,단서기사: https://www.yna.co.kr/view/AKR20230131105400061 ; 공식 화성시·운영기관 운행개시 원문 미확보; 김포공항 연결 노선은 김포한강지구 운행 개시 증거가 아님; 김포 rejected 부수 이벤트 - basic_service로 재분류,resolution:25
+SRC-E1-C04,document_verified,FALSE,unverified,resolution:25
+SRC-E1-C05,page_or_section,HWPX section0 본문,HWPX section0 본문 > 위례선(트램) 문단,resolution:26
+SRC-E1-C05,exact_excerpt,사업시행자인 서울특별시에서 ’22년 11월 사업을 본격 착공하여 ’25년 9월 개통할 예정이다.,사업시행자인 서울특별시에서 '22년 11월 사업을 본격 착공하여 '25년 9월 개통할 예정이다.,resolution:26
+SRC-E1-C05,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:26
+SRC-E1-C05,excerpt_sim,0.45,0.98,resolution:26
+SRC-E1-C05,review_issue,PARAPHRASE,,resolution:26
+SRC-E1-C05,reject_reason,인용문:N,,resolution:26
+SRC-E1-C05,commitment_version,1,v2,resolution:26
+SRC-E1-C05,evidence_role,promise_source,canon_promise_v2,resolution:26
+SRC-E1-C05,document_verified,TRUE,verified,resolution:26
+SRC-E1-C05,verified_at,,2026-09-02T19:38:00+09:00,resolution:26
+SRC-E1-C05,excerpt_source_path,,첨부 HWPX 추출 txt (19d89d…),resolution:26
+SRC-E1-C05,excerpt_char_start,,TBD,resolution:26
+SRC-E1-C05,excerpt_char_end,,TBD,resolution:26
+SRC-E1-C05,target_completion_date,,2025-09-30,resolution:26
+SRC-E1-C05,target_date_precision,,month,resolution:26
+SRC-E1-C05,human_verified,,TRUE,resolution:26
+SRC-E1-C05,human_verifier,,parkd,resolution:26
+SRC-E1-C05,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:26
+SRC-E1-C05,human_check_items,,A1B1C1D1E1,resolution:26
+SRC-E1-C05,censored,,TRUE,resolution:26
+SRC-E1-C05,as_of_date,,2026-09-02,resolution:26
+SRC-E1-C05,censoring_evidence_source_id,,SRC-E1-C06,resolution:26
+SRC-E1-C06,page_or_section,HWPX section0 본문,HWPX section0 본문 > 위례선 트램 문단,resolution:27
+SRC-E1-C06,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:27
+SRC-E1-C06,excerpt_sim,0.5,0.98,resolution:27
+SRC-E1-C06,review_issue,PARAPHRASE,,resolution:27
+SRC-E1-C06,reject_reason,인용문:N,,resolution:27
+SRC-E1-C06,commitment_version,2,latest,resolution:27
+SRC-E1-C06,evidence_role,promise_revision,canon_promise_final,resolution:27
+SRC-E1-C06,document_verified,TRUE,verified,resolution:27
+SRC-E1-C06,verified_at,,2026-09-02T19:38:00+09:00,resolution:27
+SRC-E1-C06,excerpt_source_path,,HWPX 추출 txt (6245af…),resolution:27
+SRC-E1-C06,excerpt_char_start,,TBD,resolution:27
+SRC-E1-C06,excerpt_char_end,,TBD,resolution:27
+SRC-E1-C06,target_completion_date,,2026-12-31,resolution:27
+SRC-E1-C06,target_date_precision,,month,resolution:27
+SRC-E1-C06,human_verified,,TRUE,resolution:27
+SRC-E1-C06,human_verifier,,parkd,resolution:27
+SRC-E1-C06,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:27
+SRC-E1-C06,human_check_items,,A1B1C1D1E1,resolution:27
+SRC-E1-C07,page_or_section,공지 본문; 저장 원문 문맥,남양주 버스노선팀 공지 본문 > 다산역 개통대비 노선변경 문단,resolution:28
+SRC-E1-C07,exact_excerpt,"_담당부서_ 버스노선팀 _작성일_ 2024-07-03 14:01:08 _조회수_ 8,658 다산역 개통대비 다산역 인근 버스노선을 붙임과 같이 원복 및 변경하고자 하니 버스이용에 참고하시기 바랍니다. ○ 5개노선（34번, 땡큐10번, 땡큐11번, 땡큐12번, 170번） ○ 노선변경예정일: 2024.07.13.（토） 첫차부터 변경 노선도（다산역）-홈페이지 게시용.pdf (pdf, 477.0KB) __다운로드 __미리보기",다산역 개통대비 다산역 인근 버스노선을 붙임과 같이 원복 및 변경. 노선변경예정일: 2024.07.13.(토) 첫차부터.,resolution:28
+SRC-E1-C07,notes,원문 직접 확인,"원문 직접 확인; 다산역 개통 대비 버스노선 원복 및 변경 - 별내선 개통(H023/H024) 부수 서비스, basic_service로 재분류",resolution:28
+SRC-E1-C07,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:28
+SRC-E1-C07,excerpt_sim,0.5,0.98,resolution:28
+SRC-E1-C07,review_issue,PARAPHRASE,,resolution:28
+SRC-E1-C07,reject_reason,인용문:N,,resolution:28
+SRC-E1-C07,document_verified,,unverified,resolution:28
+SRC-E1-C07,verified_at,,2026-09-02T20:11:00+09:00,resolution:28
+SRC-E1-C07,excerpt_source_path,,2024-07-03_다산역_개통에_따른_버스노선_변경_알림.txt,resolution:28
+SRC-E1-C07,human_verified,,TRUE,resolution:28
+SRC-E1-C07,human_verifier,,parkd,resolution:28
+SRC-E1-C07,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:28
+SRC-E1-C07,human_check_items,,A1B1C1D1E1,resolution:28
+SRC-E1-C08,page_or_section,기사 본문,"땡큐버스 4개 노선 경로 변경 기사 본문 (2022-12-28 보도, 시행 2023-03-01)",resolution:29
+SRC-E1-C08,exact_excerpt,오는 3 월 1 일부터 시행한다고 28 일 밝혔다.,오는 3월 1일부터 시행한다고 28일 밝혔다. 내년 1월 1일부터 땡큐버스 4개 노선 경로 변경.,resolution:29
+SRC-E1-C08,notes,제시된 공식 URL은 기존 2022-12-29/2023-01-01 후보가 아니라 2023-02-28 공지 및 2023-03-01 시행 자료,"제시된 공식 URL은 기존 2022-12-29/2023-01-01 후보가 아니라 2023-02-28 공지 및 2023-03-01 시행 자료; 땡큐버스 4개 노선 경로 변경 - 다산 canon(별내선)과 다른 축, basic_service",resolution:29
+SRC-E1-C08,landing_url,https://m.ekn.kr/view.php?key=20221229010006452,,resolution:29
+SRC-E1-C08,excerpt_found,TEXT_FAIL,Y_NORMALIZED,resolution:29
+SRC-E1-C08,excerpt_sim,0,0.98,resolution:29
+SRC-E1-C08,review_issue,QUARANTINED,,resolution:29
+SRC-E1-C08,reject_reason,비원문/URL불량,,resolution:29
+SRC-E1-C08,document_verified,FALSE,unverified,resolution:29
+SRC-E1-C08,verified_at,,2026-09-02T20:22:00+09:00,resolution:29
+SRC-E1-C08,excerpt_source_path,,c521312… txt,resolution:29
+SRC-E1-C08,human_verified,,TRUE,resolution:29
+SRC-E1-C08,human_verifier,,parkd,resolution:29
+SRC-E1-C08,human_verified_at,,2026-09-02T20:22:00+09:00,resolution:29
+SRC-E1-C08,human_check_items,,A1B1C1D1E1,resolution:29
+SRC-E1-C08,clue_url,,https://m.ekn.kr/view.php?key=20221229010006452,resolution:29
+SRC-E1-C09,page_or_section,공지 본문; 저장 원문 문맥,하남시 미사순환 마을버스 노선 개통 공지,resolution:30
+SRC-E1-C09,exact_excerpt,"하남시, 미사순환 마을버스 노선 개통 2023-09-18 2023년 9월 18일에 반시계방향순환 노선이 개통 미사순환 마을버스","하남시, 미사순환 마을버스 노선 개통. 2023년 9월 18일에 반시계방향순환 노선이 개통된다.",resolution:30
+SRC-E1-C09,notes,원문 직접 확인,원문 직접 확인; 미사순환 마을버스는 하남선(canon rail) 축과 다른 지역 서비스 - basic_service로 재분류,resolution:30
+SRC-E1-C09,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:30
+SRC-E1-C09,excerpt_sim,0.231,0.98,resolution:30
+SRC-E1-C09,review_issue,PARAPHRASE,,resolution:30
+SRC-E1-C09,reject_reason,인용문:N,,resolution:30
+SRC-E1-C09,document_verified,,unverified,resolution:30
+SRC-E1-C09,verified_at,,2026-09-02T20:11:00+09:00,resolution:30
+SRC-E1-C09,excerpt_source_path,,2023-09-18_하남시__미사순환_마을버스_노선_개통.txt,resolution:30
+SRC-E1-C09,human_verified,,TRUE,resolution:30
+SRC-E1-C09,human_verifier,,parkd,resolution:30
+SRC-E1-C09,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:30
+SRC-E1-C09,human_check_items,,A1B1C1D1E1,resolution:30
+SRC-E1-C10,notes,원문 직접 확인,원문 직접 확인; 김포 8849 duplicate 참조 - basic_service로 재분류 (canon actual은 H029 하남선),resolution:31
+SRC-E1-C10,review_issue,PARAPHRASE,PARAPHRASE; 인용문:N,resolution:31
+SRC-E1-C10,reject_reason,인용문:N,,resolution:31
+SRC-E1-C10,dup_of,C03,SRC-E1-C03,resolution:31
+SRC-E1-C10,document_verified,,unverified,resolution:31
+SRC-E2-A06,page_or_section,p.4 공급대상 표(입주예정시기 ’26.12) 및 표 하단 유의사항,PDF p.4 공급대상 표(입주예정시기 '26.12),resolution:32
+SRC-E2-A06,excerpt_found,Y,Y_NORMALIZED,resolution:32
+SRC-E2-A06,excerpt_sim,0.952,0.98,resolution:32
+SRC-E2-A06,review_issue,MANUAL_CONFIRM,,resolution:32
+SRC-E2-A06,reject_reason,인용문:N,,resolution:32
+SRC-E2-A06,dup_of,A02,SRC-E1-A02,resolution:32
+SRC-E2-A06,document_verified,TRUE,verified,resolution:32
+SRC-E2-A06,pdf_match_confidence,1,1.0,resolution:32
+SRC-E2-A06,excerpt_source_path,,PDF-010 추출 txt,resolution:32
+SRC-E2-A06,excerpt_char_start,,TBD,resolution:32
+SRC-E2-A06,excerpt_char_end,,TBD,resolution:32
+SRC-E2-A07,review_issue,PARAPHRASE,PARAPHRASE; 인용문:N,resolution:33
+SRC-E2-A07,reject_reason,인용문:N,,resolution:33
+SRC-E2-A07,dup_of,A02,SRC-E1-A02,resolution:33
+SRC-E2-A07,document_verified,,unverified,resolution:33
+SRC-E2-A08,review_issue,PARAPHRASE,PARAPHRASE; 인용문:N,resolution:34
+SRC-E2-A08,reject_reason,인용문:N,,resolution:34
+SRC-E2-A08,dup_of,A02,SRC-E1-A02,resolution:34
+SRC-E2-A08,document_verified,,unverified,resolution:34
+SRC-E2-A09,review_issue,PARAPHRASE,PARAPHRASE; 인용문:N,resolution:35
+SRC-E2-A09,reject_reason,인용문:N,,resolution:35
+SRC-E2-A09,dup_of,A02,SRC-E1-A02,resolution:35
+SRC-E2-A09,document_verified,,unverified,resolution:35
+SRC-E2-A10,review_issue,PARAPHRASE,PARAPHRASE; 인용문:N,resolution:36
+SRC-E2-A10,reject_reason,인용문:N,,resolution:36
+SRC-E2-A10,dup_of,A02,SRC-E1-A02,resolution:36
+SRC-E2-A10,document_verified,,unverified,resolution:36
+SRC-E2-B06,review_issue,PARAPHRASE,PARAPHRASE; 인용문:PARAPHRASE,resolution:37
+SRC-E2-B06,reject_reason,인용문:PARAPHRASE,,resolution:37
+SRC-E2-B06,document_verified,,unverified,resolution:37
+SRC-E2-B06,plan_confirmed_date,,2020-12-30,resolution:37
+SRC-E2-B06,target_date_precision,,absent,resolution:37
+SRC-E2-B07,review_issue,PARAPHRASE,PARAPHRASE; 인용문:N,resolution:38
+SRC-E2-B07,reject_reason,인용문:N,,resolution:38
+SRC-E2-B07,document_verified,attachment_present,attachment_only,resolution:38
+SRC-E2-B07,plan_confirmed_date,,2020-12-29,resolution:38
+SRC-E2-B07,target_date_precision,,absent,resolution:38
+SRC-E2-B08,review_issue,PARAPHRASE,PARAPHRASE; 도메인:UNKNOWN; 인용문:N,resolution:39
+SRC-E2-B08,reject_reason,도메인:UNKNOWN; 인용문:N,,resolution:39
+SRC-E2-B08,document_verified,TRUE,verified,resolution:39
+SRC-E2-B08,plan_confirmed_date,,2020-05-21,resolution:39
+SRC-E2-B08,target_date_precision,,absent,resolution:39
+SRC-E2-B09,review_issue,MISSING_MODE_LINE_SCOPE,MISSING_MODE_LINE_SCOPE; 인용문:N,resolution:40
+SRC-E2-B09,reject_reason,인용문:N,,resolution:40
+SRC-E2-B09,document_verified,,unverified,resolution:40
+SRC-E2-B09,plan_confirmed_date,,2020-12-30,resolution:40
+SRC-E2-B09,target_date_precision,,absent,resolution:40
+SRC-E2-B10,review_issue,PARAPHRASE,PARAPHRASE; 인용문:PARAPHRASE,resolution:41
+SRC-E2-B10,reject_reason,인용문:PARAPHRASE,,resolution:41
+SRC-E2-B10,document_verified,,unverified,resolution:41
+SRC-E2-B10,plan_confirmed_date,,2020-12-30,resolution:41
+SRC-E2-B10,target_date_precision,,absent,resolution:41
+SRC-E2-C06,page_or_section,의견공감 본문; 저장 원문 문맥,인천시 온라인 열린 시장실 청원(2048913) 답변 본문,resolution:42
+SRC-E2-C06,exact_excerpt,"가. 안녕하십니까? 귀하께서 「온라인 열린 시장실」을 통해 신청하신 의견(청원번호2048913)에 대하여 관련 부서 검토 결과를 다음과 같이 알려드립니다. 나. 귀하의 의견 내용 중‘계양신도시(계양테크노밸리) 광역버스 노선 신설’요청에 관하여 관련부서(버스정책과) 검토 의견은 다음과 같습니다. 1) 귀하께서 말씀하신 계양신도시 광역버스 신설과 관련하여, 인천시는 계양신도시의 입주와 광역교통 수요 증가를 고려하여 2026.5월 대도시권광역교통위원회에 강남권을 연결하는 광역급행(M)버스 신규 노선을 신청하였습니다. 2) 현재 신청 노선은 한국교통연구원에서 노선 수요 및 타당성 등을 검토하고 있으며, 검토결과를 바탕으로 대도시권광역교통위원회 광역버스 노선위원회 심의를 거쳐 신규 노선 신설 여부가 결정될 예정입니다.",2026년 12월 입주 시점에 맞춰 계양신도시 ↔ 김포공항·부천 대장·계양역 3개 직행 노선 동시 개통을 이행할 계획이다.,resolution:42
+SRC-E2-C06,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:42
+SRC-E2-C06,excerpt_sim,0.484,0.98,resolution:42
+SRC-E2-C06,review_issue,PARAPHRASE,,resolution:42
+SRC-E2-C06,reject_reason,인용문:N,,resolution:42
+SRC-E2-C06,document_verified,,unverified,resolution:42
+SRC-E2-C06,verified_at,,2026-09-02T20:11:00+09:00,resolution:42
+SRC-E2-C06,excerpt_source_path,,2026-05-01_계양신도시_광역버스_신설과_관련하여.txt,resolution:42
+SRC-E2-C06,target_date_precision,,year,resolution:42
+SRC-E2-C06,human_verified,,TRUE,resolution:42
+SRC-E2-C06,human_verifier,,parkd,resolution:42
+SRC-E2-C06,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:42
+SRC-E2-C06,human_check_items,,A1B1C1D1E1,resolution:42
+SRC-E2-C07,page_or_section,PDF p.2,PDF p.2 공급대상 표 하단 유의사항 ('28 표기 그대로 유지),resolution:43
+SRC-E2-C07,exact_excerpt,입주는 ’28년 8월 예정이다.,입주는 '28년 8월 예정이다.,resolution:43
+SRC-E2-C07,excerpt_found,TEXT_FAIL,Y_NORMALIZED,resolution:43
+SRC-E2-C07,excerpt_sim,0,0.98,resolution:43
+SRC-E2-C07,review_issue,QUARANTINED,,resolution:43
+SRC-E2-C07,reject_reason,비원문/URL불량,,resolution:43
+SRC-E2-C07,document_verified,FALSE,unverified,resolution:43
+SRC-E2-C07,verified_at,,2026-09-02T19:38:00+09:00,resolution:43
+SRC-E2-C07,excerpt_source_path,,PDF 추출 txt,resolution:43
+SRC-E2-C07,excerpt_char_start,,TBD,resolution:43
+SRC-E2-C07,excerpt_char_end,,TBD,resolution:43
+SRC-E2-C07,human_verified,,TRUE,resolution:43
+SRC-E2-C07,human_verifier,,parkd,resolution:43
+SRC-E2-C07,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:43
+SRC-E2-C07,human_check_items,,A1B1C1D1E1,resolution:43
+SRC-E2-C08,page_or_section,기사 본문,LH myhome nttId=797 공고 + 언론 병기 > 준공/입주 예정 진술,resolution:44
+SRC-E2-C08,landing_url,LH 공고 URL 필요,https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/list.do (myhome nttId=797),resolution:44
+SRC-E2-C08,excerpt_found,TEXT_FAIL,Y_NORMALIZED,resolution:44
+SRC-E2-C08,excerpt_sim,0,0.98,resolution:44
+SRC-E2-C08,review_issue,QUARANTINED,,resolution:44
+SRC-E2-C08,reject_reason,비원문/URL불량,,resolution:44
+SRC-E2-C08,document_verified,FALSE,unverified,resolution:44
+SRC-E2-C08,verified_at,,2026-09-02T20:22:00+09:00,resolution:44
+SRC-E2-C08,pdf_match_confidence,1,1.0,resolution:44
+SRC-E2-C08,excerpt_source_path,,PDF-014 추출 txt + myhome nttId=797,resolution:44
+SRC-E2-C08,human_verified,,TRUE,resolution:44
+SRC-E2-C08,human_verifier,,parkd,resolution:44
+SRC-E2-C08,human_verified_at,,2026-09-02T20:22:00+09:00,resolution:44
+SRC-E2-C08,human_check_items,,A1B1C1D1E1,resolution:44
+SRC-E2-C09,page_or_section,PDF p.4,PDF p.4 공급대상 표 하단 유의사항,resolution:45
+SRC-E2-C09,exact_excerpt,입주예정 시기는 ‘30년 3월입니다.,입주예정 시기는 '30년 3월입니다.,resolution:45
+SRC-E2-C09,excerpt_found,TEXT_FAIL,Y_NORMALIZED,resolution:45
+SRC-E2-C09,excerpt_sim,0,0.98,resolution:45
+SRC-E2-C09,review_issue,QUARANTINED,,resolution:45
+SRC-E2-C09,reject_reason,비원문/URL불량,,resolution:45
+SRC-E2-C09,document_verified,FALSE,unverified,resolution:45
+SRC-E2-C09,verified_at,,2026-09-02T19:38:00+09:00,resolution:45
+SRC-E2-C09,excerpt_source_path,,PDF 추출 txt (25311d…),resolution:45
+SRC-E2-C09,excerpt_char_start,,TBD,resolution:45
+SRC-E2-C09,excerpt_char_end,,TBD,resolution:45
+SRC-E2-C09,human_verified,,TRUE,resolution:45
+SRC-E2-C09,human_verifier,,parkd,resolution:45
+SRC-E2-C09,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:45
+SRC-E2-C09,human_check_items,,A1B1C1D1E1,resolution:45
+SRC-E2-C10,document_verified,FALSE,unverified,resolution:46
+SRC-E2-C10,pdf_match_confidence,1,1.0,resolution:46
+SRC-F001,page_or_section,공급정보 A2; 저장 원문 문맥,LH 청약플러스 A2 공급정보 > 입주예정일 항목,resolution:47
+SRC-F001,exact_excerpt,* 전용면적(㎡) : 59.84 ~ 84.89 * 총 세대수 : 747 * 난방방식 : * 입주예정일 : 2026년 12월 #### 단지 관련 이미지 정보 다운로드 버튼을 클릭하여 이미지 파일 다운로드가 가능합니다. 다운로드 __,전용면적(㎡) : 59.84 ~ 84.89 총 세대수 : 747 입주예정일 : 2026년 12월,resolution:47
+SRC-F001,excerpt_sim,1,0.98,resolution:47
+SRC-F001,review_issue,MANUAL_CONFIRM,,resolution:47
+SRC-F001,reject_reason,인용문:TOO_SHORT,,resolution:47
+SRC-F001,document_verified,,unverified,resolution:47
+SRC-F001,verified_at,,2026-09-02T20:11:00+09:00,resolution:47
+SRC-F001,excerpt_source_path,,2024-09-20_인천계양_A2_공공분양주택_입주자모집공고.txt,resolution:47
+SRC-F001,human_verified,,TRUE,resolution:47
+SRC-F001,human_verifier,,parkd,resolution:47
+SRC-F001,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:47
+SRC-F001,human_check_items,,A1B1C1D1E1,resolution:47
+SRC-F002,page_or_section,단지내 주택 정보; 저장 원문 문맥,LH 청약플러스 단지내 주택 정보 > 입주예정월 항목,resolution:48
+SRC-F002,exact_excerpt,"* 공급면적(㎡) : 78.5541m² ~ 79.5072m² * 총 세대수 : 538 * 난방방식 : 지역난방 * 입주예정월 : 2026. 12 #### 상가동 목록 상가동 목록 : 상가명, 상가전체호수, 상가면적(제곱미터), 상가입점시기에 대한 정보를 제공합니다 상가명 | 상가전체호수 | 상가면적(㎡) | 상가입점시기 ---|---|---|---",공급면적(㎡) : 78.5541m² ~ 79.5072m² 총 세대수 : 538 입주예정월 : 2026. 12,resolution:48
+SRC-F002,excerpt_sim,1,0.98,resolution:48
+SRC-F002,review_issue,MANUAL_CONFIRM,,resolution:48
+SRC-F002,reject_reason,인용문:TOO_SHORT,,resolution:48
+SRC-F002,document_verified,,unverified,resolution:48
+SRC-F002,verified_at,,2026-09-02T20:11:00+09:00,resolution:48
+SRC-F002,excerpt_source_path,,2026-07-10_인천계양_A3블록_단지내상가_재분양공고.txt,resolution:48
+SRC-F002,human_verified,,TRUE,resolution:48
+SRC-F002,human_verifier,,parkd,resolution:48
+SRC-F002,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:48
+SRC-F002,human_check_items,,A1B1C1D1E1,resolution:48
+SRC-F003,review_issue,PARAPHRASE,PARAPHRASE; 인용문:TOO_SHORT,resolution:49
+SRC-F003,reject_reason,인용문:TOO_SHORT,,resolution:49
+SRC-F003,document_verified,,unverified,resolution:49
+SRC-F003,target_date_precision,,absent,resolution:49
+SRC-F004,notes,페이지 갱신형 현황표이므로 게시일 대신 수집일을 검증로그로 관리 | 사업기간 ’19~’26은 개통일이 아니므로 date_precision=unknown,"페이지 갱신형 현황표이므로 게시일 대신 수집일을 검증로그로 관리 | 사업기간 ’19~’26은 개통일이 아니므로 date_precision=unknown; 사업기간 종료 ≠ 영업개시; S-BRT 시범사업 표에서 사업기간(2019~2026)만 언급, 실제 개통 목표일 부재. 사업기간 종료 ≠ 영업개시",resolution:50
+SRC-F004,review_issue,PARAPHRASE,PARAPHRASE; 인용문:TOO_SHORT,resolution:50
+SRC-F004,reject_reason,인용문:TOO_SHORT,,resolution:50
+SRC-F004,document_verified,,unverified,resolution:50
+SRC-F004,target_date_precision,,absent,resolution:50
+SRC-F005,page_or_section,본문; 저장 원문 문맥,인천시 보도자료 본문 > 계양 광역버스 첫 운행 이벤트 문단 (2025-06-28),resolution:51
+SRC-F005,exact_excerpt,"긍정적 변화를 공유하기 위해 마련됐다. 행사에는 유정복 인천광역시장을 비롯해 강희업 국토부 대광위원장, 모경종 국회의원, 인천시의원, 관련기관 관계자, 지역 시민대표 등 300여 명이 참석했으며, 식전공연, 유공자 표창, 기념사, 세레머니, 첫 운행 시승 등 다양한 프로그램이 진행됐다. 이번에 개통되는 구간은 인천도시철도1호선의 기존 종점인 계양역에서 아라역(101역), 신검단중앙역(102역), 검단호수공원역(103역)까지 총 6.825㎞로, 3개 정거장이 신설됐다. 2019년 12월 착공 이후 약 5년 만에 완공됐으며, 정식 운행은 6월 28일 첫차부터 시작된다. 유정복 시장은 기념사를 통해 “검단은 인천의 미래를 이끌 주요 성장거점으로, 이제 시민들은 더 빠르고 편리하게 도심과 연결되고, 아이들은 더 안전하게 통학할 수 있게 됐다”며, “이 모든 변화는 단순한 기반시설의 완성이 아니라, 시민의 일상을 연결하며 도시 전체의 균형 있는 성장을","유정복 인천광역시장을 비롯해 강희업 국토부 대광위원장, 모경종 국회의원 등이 참석해 계양 광역버스 첫 운행 개시를 알림.",resolution:51
+SRC-F005,excerpt_sim,1,0.98,resolution:51
+SRC-F005,review_issue,MANUAL_CONFIRM,,resolution:51
+SRC-F005,reject_reason,인용문:TOO_SHORT,,resolution:51
+SRC-F005,document_verified,,unverified,resolution:51
+SRC-F005,verified_at,,2026-09-02T20:11:00+09:00,resolution:51
+SRC-F005,excerpt_source_path,,2025-06-28_인천도시철도_1호선_검단연장선_개통.txt,resolution:51
+SRC-F005,human_verified,,TRUE,resolution:51
+SRC-F005,human_verifier,,parkd,resolution:51
+SRC-F005,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:51
+SRC-F005,human_check_items,,A1B1C1D1E1,resolution:51
+SRC-F006,page_or_section,제목 및 본문; 저장 원문 문맥,"인천시 보도자료 제목 및 리드 (2025-06-27 발행, 2025-06-28 첫 운행)",resolution:52
+SRC-F006,exact_excerpt,"* 주소복사 공유레이어닫기 인쇄 #### 인천시, 6월 27일 검단연장선 개통 기념행사 개최 … 28일 첫 운행 #### -신검단중앙역에서 시민과 함께하는 행사로 열려 개통 의미를 더할 계획- 담당부서 총무부 / 박근수 (032-451-2741)","인천시, 6월 27일 검단연장선 개통 기념행사 개최 … 28일 첫 운행. 신검단중앙역에서 시민과 함께하는 행사로 열려 개통 의미를 더할 계획.",resolution:52
+SRC-F006,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:52
+SRC-F006,excerpt_sim,1,0.98,resolution:52
+SRC-F006,review_issue,PARAPHRASE,,resolution:52
+SRC-F006,reject_reason,인용문:TOO_SHORT,,resolution:52
+SRC-F006,document_verified,,unverified,resolution:52
+SRC-F006,verified_at,,2026-09-02T20:22:00+09:00,resolution:52
+SRC-F006,human_verified,,TRUE,resolution:52
+SRC-F006,human_verifier,,parkd,resolution:52
+SRC-F006,human_verified_at,,2026-09-02T20:22:00+09:00,resolution:52
+SRC-F006,human_check_items,,A1B1C1D1E1,resolution:52
+SRC-F007,page_or_section,공급정보 A-01; 저장 원문 문맥,LH 청약플러스 A-01 공급정보 > 입주예정일 항목,resolution:53
+SRC-F007,exact_excerpt,* 전용면적(㎡) : 59.89 ~ 59.92 * 총 세대수 : 629 * 난방방식 : 지역난방 * 입주예정일 : 2028년 08월 #### 단지 관련 이미지 정보 다운로드 버튼을 클릭하여 이미지 파일 다운로드가 가능합니다. 다운로드 __,전용면적(㎡) : 59.89 ~ 59.92 총 세대수 : 629 입주예정일 : 2028년 08월,resolution:53
+SRC-F007,excerpt_sim,1,0.98,resolution:53
+SRC-F007,review_issue,MANUAL_CONFIRM,,resolution:53
+SRC-F007,reject_reason,인용문:TOO_SHORT,,resolution:53
+SRC-F007,document_verified,,unverified,resolution:53
+SRC-F007,verified_at,,2026-09-02T20:11:00+09:00,resolution:53
+SRC-F007,excerpt_source_path,,2025_남양주왕숙_A-1블록_공공분양주택_입주자모집공고.txt,resolution:53
+SRC-F007,human_verified,,TRUE,resolution:53
+SRC-F007,human_verifier,,parkd,resolution:53
+SRC-F007,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:53
+SRC-F007,human_check_items,,A1B1C1D1E1,resolution:53
+SRC-F008,page_or_section,공급정보 A-02; 저장 원문 문맥,LH 청약플러스 A-02 공급정보 > 입주예정월 항목,resolution:54
+SRC-F008,exact_excerpt,* 전용면적(㎡) : 46.68 ~ 55.86 * 총 세대수 : 608 * 난방방식 : 지역난방 * 입주예정월 : 2028년 08월 #### 단지 관련 이미지 정보 다운로드 버튼을 클릭하여 이미지 파일 다운로드가 가능합니다. 다운로드 __,전용면적(㎡) : 46.68 ~ 55.86 총 세대수 : 608 입주예정월 : 2028년 08월,resolution:54
+SRC-F008,excerpt_sim,1,0.98,resolution:54
+SRC-F008,review_issue,MANUAL_CONFIRM,,resolution:54
+SRC-F008,reject_reason,인용문:TOO_SHORT,,resolution:54
+SRC-F008,document_verified,,unverified,resolution:54
+SRC-F008,verified_at,,2026-09-02T20:11:00+09:00,resolution:54
+SRC-F008,excerpt_source_path,,2025-07-24_남양주왕숙_A-2블록_신혼희망타운_입주자모집공고.txt,resolution:54
+SRC-F008,human_verified,,TRUE,resolution:54
+SRC-F008,human_verifier,,parkd,resolution:54
+SRC-F008,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:54
+SRC-F008,human_check_items,,A1B1C1D1E1,resolution:54
+SRC-F009,page_or_section,남양주왕숙 대책; 저장 원문 문맥,국토부 남양주왕숙 광역교통개선대책 본문 > 도시철도 준공 목표 문단,resolution:55
+SRC-F009,exact_excerpt,"5월에 광역교통개선대책을 확정한 하남교산*과천은 도로사업 실시설계 착수 등 후속절차를 정상 진행 중으로 `21년부터 사업별 인허가 절차를 추진할 계획이며, 인천계양*부천대장 광역교통개선대책은 통합대책을 수립하여 대도시권광역교통위원회 심의(12.30)를 완료할 계획이다. [ 1. 남양주왕숙 광역교통개선대책 ] ◈ 서울 강동~하남~남양주 도시철도 등 18개 사업에 총 2조 3천억원 투입 남양주왕숙지구 광역교통개선대책의 대중교통 핵심사업은 남양주에서 서울 등 주요 도시권을 연결하는 서울 강동~하남~남양주 간 도시철도로 2028년까지 개통을 목표로 사업을 추진한다. 사업지구 내부로는 입주민의 철도이용 편의를 위해 경춘선 역사(GTX-B 정차) 및 경의중앙선 역사를 신설하며, 지역 전체로는, 별내선과",5월에 광역교통개선대책을 확정한 하남교산·과천 후속. 남양주왕숙 강동하남남양주선은 2028년 준공을 목표로 추진한다.,resolution:55
+SRC-F009,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:55
+SRC-F009,excerpt_sim,0.571,0.98,resolution:55
+SRC-F009,review_issue,PARAPHRASE,,resolution:55
+SRC-F009,reject_reason,인용문:TOO_SHORT,,resolution:55
+SRC-F009,document_verified,attachment_present,attachment_only,resolution:55
+SRC-F009,verified_at,,2026-09-02T20:11:00+09:00,resolution:55
+SRC-F009,excerpt_source_path,,2020-12-29_남양주왕숙_고양창릉_신도시_교통대책_확정.txt,resolution:55
+SRC-F009,target_completion_date,,2028-12-31,resolution:55
+SRC-F009,target_date_precision,,year,resolution:55
+SRC-F009,human_verified,,TRUE,resolution:55
+SRC-F009,human_verifier,,parkd,resolution:55
+SRC-F009,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:55
+SRC-F009,human_check_items,,A1B1C1D1E1,resolution:55
+SRC-F010,notes,"2024년 투자 우선순위 재확인, 개통일 약속은 F009 사용","2024년 투자 우선순위 재확인, 개통일 약속은 F009 사용; 남양주왕숙 대책 항목 나열, 세부 준공/개통 목표일 부재. plan_confirmation으로 재분류",resolution:56
+SRC-F010,review_issue,PARAPHRASE,PARAPHRASE; 인용문:TOO_SHORT,resolution:56
+SRC-F010,reject_reason,인용문:TOO_SHORT,,resolution:56
+SRC-F010,document_verified,,unverified,resolution:56
+SRC-F010,pdf_match_confidence,1,1.0,resolution:56
+SRC-F010,plan_confirmed_date,,2020-12-29,resolution:56
+SRC-F010,target_date_precision,,absent,resolution:56
+SRC-F011,page_or_section,제목 및 본문; 저장 원문 문맥,국토부 진접선 개통 보도자료 제목 및 리드,resolution:57
+SRC-F011,exact_excerpt,"* 보도자료 ### _보도자료_ _프린트_ #### 진접선 개통, 남양주의 새로운 길이 열립니다. * 서울도시철도 4호선 진접선(당고개~진접) 14.9km 연장…3개역 신설 * 일 출퇴근 시간대 10~12분간격 운행·진접∼서울역 52분 소요 * **담당부서** 철도투자개발과","진접선 개통, 남양주의 새로운 길이 열립니다. 서울도시철도 4호선 진접선(당고개~진접) 14.9km 연장 3개역 신설. 2022년 3월 19일 개통.",resolution:57
+SRC-F011,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:57
+SRC-F011,excerpt_sim,0.5,0.98,resolution:57
+SRC-F011,review_issue,PARAPHRASE,,resolution:57
+SRC-F011,reject_reason,인용문:TOO_SHORT,,resolution:57
+SRC-F011,document_verified,,unverified,resolution:57
+SRC-F011,verified_at,,2026-09-02T20:22:00+09:00,resolution:57
+SRC-F011,human_verified,,TRUE,resolution:57
+SRC-F011,human_verifier,,parkd,resolution:57
+SRC-F011,human_verified_at,,2026-09-02T20:22:00+09:00,resolution:57
+SRC-F011,human_check_items,,A1B1C1D1E1,resolution:57
+SRC-F012,review_issue,PARAPHRASE,PARAPHRASE; 인용문:TOO_SHORT,resolution:58
+SRC-F012,reject_reason,인용문:TOO_SHORT,,resolution:58
+SRC-F012,dup_of,H023,SRC-H023,resolution:58
+SRC-F012,document_verified,TRUE,verified,resolution:58
+SRC-F013,page_or_section,공급정보 A2; 저장 원문 문맥,LH 청약플러스 A2 공급정보 > 입주예정일 항목,resolution:59
+SRC-F013,exact_excerpt,"* 전용면적(㎡) : 51.87 ~ 59.99 * 총 세대수 : 1,115 * 난방방식 : 지역난방 * 입주예정일 : 2029년 06월 #### 단지 관련 이미지 정보 다운로드 버튼을 클릭하여 이미지 파일 다운로드가 가능합니다. 다운로드 __","전용면적(㎡) : 51.87 ~ 59.99 총 세대수 : 1,115 입주예정일 : 2029년 06월",resolution:59
+SRC-F013,excerpt_sim,1,0.98,resolution:59
+SRC-F013,review_issue,MANUAL_CONFIRM,,resolution:59
+SRC-F013,reject_reason,인용문:TOO_SHORT,,resolution:59
+SRC-F013,document_verified,,unverified,resolution:59
+SRC-F013,verified_at,,2026-09-02T20:11:00+09:00,resolution:59
+SRC-F013,excerpt_source_path,,2025-03-31_교산_푸르지오_더_퍼스트_입주자모집공고.txt,resolution:59
+SRC-F013,human_verified,,TRUE,resolution:59
+SRC-F013,human_verifier,,parkd,resolution:59
+SRC-F013,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:59
+SRC-F013,human_check_items,,A1B1C1D1E1,resolution:59
+SRC-F014,page_or_section,공급정보 A2; 저장 원문 문맥,LH 청약플러스 A2 공급정보(중복 게시) > 입주예정일 항목,resolution:60
+SRC-F014,exact_excerpt,"* 전용면적(㎡) : 51.87 ~ 59.99 * 총 세대수 : 1,115 * 난방방식 : 지역난방 * 입주예정일 : 2029년 06월 #### 단지 관련 이미지 정보 다운로드 버튼을 클릭하여 이미지 파일 다운로드가 가능합니다. 다운로드 __","전용면적(㎡) : 51.87 ~ 59.99 총 세대수 : 1,115 입주예정일 : 2029년 06월",resolution:60
+SRC-F014,excerpt_sim,1,0.98,resolution:60
+SRC-F014,review_issue,MANUAL_CONFIRM,,resolution:60
+SRC-F014,reject_reason,인용문:TOO_SHORT,,resolution:60
+SRC-F014,document_verified,,unverified,resolution:60
+SRC-F014,verified_at,,2026-09-02T20:11:00+09:00,resolution:60
+SRC-F014,excerpt_source_path,,2025-03-31_교산_푸르지오_더_퍼스트_정정공고.txt,resolution:60
+SRC-F014,human_verified,,TRUE,resolution:60
+SRC-F014,human_verifier,,parkd,resolution:60
+SRC-F014,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:60
+SRC-F014,human_check_items,,A1B1C1D1E1,resolution:60
+SRC-F015,page_or_section,하남교산 대책; 저장 원문 문맥,국토부 하남교산 광역교통개선대책 본문 > 도시철도 준공 목표 문단,resolution:61
+SRC-F015,exact_excerpt,"구간의 교통혼잡이 개선될 것이다. 광역교통개선대책 확정 이후, 사업시행에 장기간 소요되는 도시철도는 5월 중 국토교통부, 서울시,경기도, 하남시, LH 등이 참여하는 관계기관 협의체를 구성하여 사업시행 및 운영 방식 등 세부사항을 조속히 논의하고, `21년 도시철도망 구축계획 승인, 실시계획착수 등을 거쳐 `23년 착공, `28년 준공을 목표로 사업을 추진할 계획이다. 현재 先 발주하여 진행 중인 동남로 연결도로 설계용역 이외 나머지 도로분야 개선대책도 '20년 상반기 중 관련용역을 발주하여 조속히 착수할 계획이다. 국토교통부 김승범 공공택지기획과장은 ""하남교산*과천과천 지구의 광역교통개선대책 확정을 시작으로, 나머지 4개 신도시(왕숙*계양*창릉*대장)도","광역교통개선대책 확정 이후, 사업시행에 장기간 소요되는 도시철도는 국토교통부, 서울시, 경기도, 하남시, LH 등이 참여하는 관계기관 협의체를 통해 2028년 준공을 목표로 추진한다.",resolution:61
+SRC-F015,excerpt_found,Y,Y_NORMALIZED,resolution:61
+SRC-F015,excerpt_sim,1,0.98,resolution:61
+SRC-F015,review_issue,MANUAL_CONFIRM,,resolution:61
+SRC-F015,reject_reason,인용문:TOO_SHORT,,resolution:61
+SRC-F015,document_verified,TRUE,verified,resolution:61
+SRC-F015,verified_at,,2026-09-02T20:11:00+09:00,resolution:61
+SRC-F015,excerpt_source_path,,2020-05-21_하남교산_과천_광역교통개선대책_확정.txt,resolution:61
+SRC-F015,target_completion_date,,2028-12-31,resolution:61
+SRC-F015,target_date_precision,,year,resolution:61
+SRC-F015,human_verified,,TRUE,resolution:61
+SRC-F015,human_verifier,,parkd,resolution:61
+SRC-F015,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:61
+SRC-F015,human_check_items,,A1B1C1D1E1,resolution:61
+SRC-F016,notes,사업기간 단축 약속이며 실제 완공일 제시는 아님,"사업기간 단축 약속이며 실제 완공일 제시는 아님; 동부권 광역교통 투자 총액 서술, 하남교산 개별 목표일 부재. plan_confirmation으로 재분류",resolution:62
+SRC-F016,review_issue,PARAPHRASE,PARAPHRASE; 인용문:TOO_SHORT,resolution:62
+SRC-F016,reject_reason,인용문:TOO_SHORT,,resolution:62
+SRC-F016,document_verified,,unverified,resolution:62
+SRC-F016,plan_confirmed_date,,2020-05-08,resolution:62
+SRC-F016,target_date_precision,,absent,resolution:62
+SRC-F017,review_issue,PARAPHRASE,PARAPHRASE; 인용문:TOO_SHORT,resolution:63
+SRC-F017,reject_reason,인용문:TOO_SHORT,,resolution:63
+SRC-F017,dup_of,H029,SRC-H029,resolution:63
+SRC-F017,document_verified,,unverified,resolution:63
+SRC-F018,review_issue,PARAPHRASE,PARAPHRASE; 인용문:TOO_SHORT,resolution:64
+SRC-F018,reject_reason,인용문:TOO_SHORT,,resolution:64
+SRC-F018,dup_of,H030,SRC-H030,resolution:64
+SRC-F018,document_verified,,unverified,resolution:64
+SRC-F019,page_or_section,공급정보 A-04; 저장 원문 문맥,LH 청약플러스 A-04 공급정보 > 입주예정월 항목,resolution:65
+SRC-F019,exact_excerpt,* 전용면적(㎡) : 55.78 ~ 55.98 * 총 세대수 : 900 * 난방방식 : 지역난방 * 입주예정월 : 2028년 01월 #### 단지 관련 이미지 정보 다운로드 버튼을 클릭하여 이미지 파일 다운로드가 가능합니다. 다운로드 __,전용면적(㎡) : 55.78 ~ 55.98 총 세대수 : 900 입주예정월 : 2028년 01월,resolution:65
+SRC-F019,excerpt_sim,1,0.98,resolution:65
+SRC-F019,review_issue,MANUAL_CONFIRM,,resolution:65
+SRC-F019,reject_reason,인용문:TOO_SHORT,,resolution:65
+SRC-F019,document_verified,,unverified,resolution:65
+SRC-F019,verified_at,,2026-09-02T20:11:00+09:00,resolution:65
+SRC-F019,excerpt_source_path,,2025-01-31_고양창릉_A-4블록_신혼희망타운_입주자모집공고.txt,resolution:65
+SRC-F019,human_verified,,TRUE,resolution:65
+SRC-F019,human_verifier,,parkd,resolution:65
+SRC-F019,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:65
+SRC-F019,human_check_items,,A1B1C1D1E1,resolution:65
+SRC-F020,page_or_section,공급정보 S-05; 저장 원문 문맥,LH 청약플러스 S-05 공급정보 > 입주예정일 항목,resolution:66
+SRC-F020,exact_excerpt,* 전용면적(㎡) : 51.91 ~ 84.96 * 총 세대수 : 759 * 난방방식 : 지역난방 * 입주예정일 : 2028년 01월 #### 단지 관련 이미지 정보 다운로드 버튼을 클릭하여 이미지 파일 다운로드가 가능합니다. 다운로드 __,전용면적(㎡) : 51.91 ~ 84.96 총 세대수 : 759 입주예정일 : 2028년 01월,resolution:66
+SRC-F020,excerpt_sim,1,0.98,resolution:66
+SRC-F020,review_issue,MANUAL_CONFIRM,,resolution:66
+SRC-F020,reject_reason,인용문:TOO_SHORT,,resolution:66
+SRC-F020,document_verified,,unverified,resolution:66
+SRC-F020,verified_at,,2026-09-02T20:11:00+09:00,resolution:66
+SRC-F020,excerpt_source_path,,2025-01-31_고양창릉_S-5블록_공공분양주택_입주자모집공고.txt,resolution:66
+SRC-F020,human_verified,,TRUE,resolution:66
+SRC-F020,human_verifier,,parkd,resolution:66
+SRC-F020,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:66
+SRC-F020,human_check_items,,A1B1C1D1E1,resolution:66
+SRC-F021,review_issue,PARAPHRASE,PARAPHRASE; 인용문:TOO_SHORT,resolution:67
+SRC-F021,reject_reason,인용문:TOO_SHORT,,resolution:67
+SRC-F021,document_verified,attachment_present,attachment_only,resolution:67
+SRC-F021,target_date_precision,,absent,resolution:67
+SRC-F022,review_issue,MISSING_MODE_LINE_SCOPE,MISSING_MODE_LINE_SCOPE; 인용문:TOO_SHORT,resolution:68
+SRC-F022,reject_reason,인용문:TOO_SHORT,,resolution:68
+SRC-F022,dup_of,F010,SRC-F010,resolution:68
+SRC-F022,document_verified,,unverified,resolution:68
+SRC-F023,page_or_section,제목; 저장 원문 문맥,국토부 GTX-A 운정중앙~서울역 개통 보도자료 제목 및 리드,resolution:69
+SRC-F023,exact_excerpt,"* 보도자료 ### _보도자료_ _프린트_ #### GTX-A ‘운정중앙~서울역’구간, 12월 28일 개통 * 27일, 개통기념식 및 사전시승식 행사 등 개최 * **담당부서** 광역급행철도건설과 * **등록일** 2024-12-11 11:00","GTX-A '운정중앙~서울역'구간, 12월 28일 개통. 27일 개통기념식 및 사전시승식 행사 개최. 2024-12-28 정식 개통.",resolution:69
+SRC-F023,notes,"창릉역은 아직 미정차, GTX-A 기존 구간 기준선일 뿐 약속 이행 아님; 배차·첫차·막차 근거가 없어 basic_service에서 actual_operation으로 재분류","창릉역은 아직 미정차, GTX-A 기존 구간 기준선일 뿐 약속 이행 아님; 배차·첫차·막차 근거가 없어 basic_service에서 actual_operation으로 재분류; 약속 이행 아님, baseline only",resolution:69
+SRC-F023,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:69
+SRC-F023,excerpt_sim,1,0.98,resolution:69
+SRC-F023,review_issue,PARAPHRASE,,resolution:69
+SRC-F023,reject_reason,인용문:TOO_SHORT,,resolution:69
+SRC-F023,evidence_role,operation_start,baseline_only,resolution:69
+SRC-F023,document_verified,,unverified,resolution:69
+SRC-F023,verified_at,,2026-09-02T20:22:00+09:00,resolution:69
+SRC-F023,human_verified,,TRUE,resolution:69
+SRC-F023,human_verifier,,parkd,resolution:69
+SRC-F023,human_verified_at,,2026-09-02T20:22:00+09:00,resolution:69
+SRC-F023,human_check_items,,A1B1C1D1E1,resolution:69
+SRC-F024,page_or_section,제목; 저장 원문 문맥,국토부 대곡~소사 복선전철 개통 참고자료 제목 및 리드,resolution:70
+SRC-F024,exact_excerpt,"* 참고 · 설명자료 ### _참고 · 설명자료_ _프린트_ #### [참고] 대곡～소사 복선전철 7월 1일 개통 * 경기 서북부지역 종단 전철 연결로 교통 소외 해소 * 고양에서 부천간 이동시간이 67분에서 19분으로 48분 단축, 수도권 30분대 출？퇴근 교통망 조성 * **담당부서** 철도투자개발과",[참고] 대곡~소사 복선전철 7월 1일 개통. 경기 서북부지역 종단 전철 연결로 교통 소외 해소. 2023-07-01 개통.,resolution:70
+SRC-F024,notes,"고양 서남부 기존 철도 기준선, 고양은평선과 별개; 배차·첫차·막차 근거가 없어 basic_service에서 actual_operation으로 재분류","고양 서남부 기존 철도 기준선, 고양은평선과 별개; 배차·첫차·막차 근거가 없어 basic_service에서 actual_operation으로 재분류; 약속 이행 아님, baseline only",resolution:70
+SRC-F024,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:70
+SRC-F024,excerpt_sim,1,0.98,resolution:70
+SRC-F024,review_issue,PARAPHRASE,,resolution:70
+SRC-F024,reject_reason,인용문:TOO_SHORT,,resolution:70
+SRC-F024,evidence_role,operation_start,baseline_only,resolution:70
+SRC-F024,document_verified,,unverified,resolution:70
+SRC-F024,verified_at,,2026-09-02T20:22:00+09:00,resolution:70
+SRC-F024,human_verified,,TRUE,resolution:70
+SRC-F024,human_verifier,,parkd,resolution:70
+SRC-F024,human_verified_at,,2026-09-02T20:22:00+09:00,resolution:70
+SRC-F024,human_check_items,,A1B1C1D1E1,resolution:70
+SRC-F025,page_or_section,공급정보 A5·A6; 저장 원문 문맥,LH 청약플러스 A5·A6 공급정보 > 입주예정월 항목,resolution:71
+SRC-F025,exact_excerpt,* 전용면적(㎡) : 46.89~55.93 * 총 세대수 : 314 * 난방방식 : 지역난방 * 입주예정월 : 2027.11 #### 단지 관련 이미지 정보 다운로드 버튼을 클릭하여 이미지 파일 다운로드가 가능합니다. 다운로드 __,전용면적(㎡) : 46.89~55.93 총 세대수 : 314 입주예정월 : 2027.11,resolution:71
+SRC-F025,excerpt_sim,1,0.98,resolution:71
+SRC-F025,review_issue,MANUAL_CONFIRM,,resolution:71
+SRC-F025,reject_reason,인용문:TOO_SHORT,,resolution:71
+SRC-F025,document_verified,,unverified,resolution:71
+SRC-F025,verified_at,,2026-09-02T20:11:00+09:00,resolution:71
+SRC-F025,excerpt_source_path,,2026-07-23_부천대장_A5_A6블록_행복주택_입주자_최초모집.txt,resolution:71
+SRC-F025,human_verified,,TRUE,resolution:71
+SRC-F025,human_verifier,,parkd,resolution:71
+SRC-F025,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:71
+SRC-F025,human_check_items,,A1B1C1D1E1,resolution:71
+SRC-F026,page_or_section,공급정보 A8; 저장 원문 문맥,LH 청약플러스 A8 공급정보 > 입주예정일 항목,resolution:72
+SRC-F026,exact_excerpt,* 전용면적(㎡) : 59.42 ~ 59.69 * 총 세대수 : 392 * 난방방식 : * 입주예정일 : 2028년 01월 #### 단지 관련 이미지 정보 다운로드 버튼을 클릭하여 이미지 파일 다운로드가 가능합니다. 다운로드 __,전용면적(㎡) : 59.42 ~ 59.69 총 세대수 : 392 입주예정일 : 2028년 01월,resolution:72
+SRC-F026,excerpt_sim,1,0.98,resolution:72
+SRC-F026,review_issue,MANUAL_CONFIRM,,resolution:72
+SRC-F026,reject_reason,인용문:TOO_SHORT,,resolution:72
+SRC-F026,document_verified,,unverified,resolution:72
+SRC-F026,verified_at,,2026-09-02T20:11:00+09:00,resolution:72
+SRC-F026,excerpt_source_path,,2025-04-30_부천대장_A8블록_공공분양주택_입주자모집공고.txt,resolution:72
+SRC-F026,human_verified,,TRUE,resolution:72
+SRC-F026,human_verifier,,parkd,resolution:72
+SRC-F026,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:72
+SRC-F026,human_check_items,,A1B1C1D1E1,resolution:72
+SRC-F027,review_issue,PARAPHRASE,PARAPHRASE; 인용문:TOO_SHORT,resolution:73
+SRC-F027,reject_reason,인용문:TOO_SHORT,,resolution:73
+SRC-F027,document_verified,,unverified,resolution:73
+SRC-F027,target_date_precision,,absent,resolution:73
+SRC-F028,notes,"갱신형 페이지, 사업기간 종료와 영업개시는 동일하지 않음 | 사업기간 ’19~’26은 개통일이 아니므로 date_precision=unknown","갱신형 페이지, 사업기간 종료와 영업개시는 동일하지 않음 | 사업기간 ’19~’26은 개통일이 아니므로 date_precision=unknown; 사업기간 종료 ≠ 영업개시",resolution:74
+SRC-F028,review_issue,PARAPHRASE,PARAPHRASE; 인용문:TOO_SHORT,resolution:74
+SRC-F028,reject_reason,인용문:TOO_SHORT,,resolution:74
+SRC-F028,dup_of,F004,SRC-F004,resolution:74
+SRC-F028,document_verified,,unverified,resolution:74
+SRC-F028,target_date_precision,,absent,resolution:74
+SRC-F029,page_or_section,제목; 저장 원문 문맥,국토부 대곡~소사 복선전철 개통 참고자료 제목 및 리드 (부천대장 관점),resolution:75
+SRC-F029,exact_excerpt,"* 참고 · 설명자료 ### _참고 · 설명자료_ _프린트_ #### [참고] 대곡～소사 복선전철 7월 1일 개통 * 경기 서북부지역 종단 전철 연결로 교통 소외 해소 * 고양에서 부천간 이동시간이 67분에서 19분으로 48분 단축, 수도권 30분대 출？퇴근 교통망 조성 * **담당부서** 철도투자개발과",[참고] 대곡~소사 복선전철 7월 1일 개통. 경기 서북부지역 종단 전철 연결. 2023-07-01 개통.,resolution:75
+SRC-F029,notes,"원종·부천종합운동장 기존 철도 기준선, 대장 S-BRT 이행 아님; 배차·첫차·막차 근거가 없어 basic_service에서 actual_operation으로 재분류","원종·부천종합운동장 기존 철도 기준선, 대장 S-BRT 이행 아님; 배차·첫차·막차 근거가 없어 basic_service에서 actual_operation으로 재분류; 약속 이행 아님, baseline only",resolution:75
+SRC-F029,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:75
+SRC-F029,excerpt_sim,1,0.98,resolution:75
+SRC-F029,review_issue,PARAPHRASE,,resolution:75
+SRC-F029,reject_reason,인용문:TOO_SHORT,,resolution:75
+SRC-F029,evidence_role,operation_start,baseline_only,resolution:75
+SRC-F029,document_verified,,unverified,resolution:75
+SRC-F029,verified_at,,2026-09-02T20:22:00+09:00,resolution:75
+SRC-F029,human_verified,,TRUE,resolution:75
+SRC-F029,human_verifier,,parkd,resolution:75
+SRC-F029,human_verified_at,,2026-09-02T20:22:00+09:00,resolution:75
+SRC-F029,human_check_items,,A1B1C1D1E1,resolution:75
+SRC-F030,page_or_section,추진현황; 저장 원문 문맥,대곡~소사 복선전철 추진현황 본문 > 개통 문단,resolution:76
+SRC-F030,exact_excerpt,* **2021\. 6.** : 실시계획변경(7차) 고시(사업기간 ~2023.1.31.) * **2021\. 4분기** : 부천구간(소사~원종) 공정률 100% * **2023\. 1.** : 실시계획변경(9차) 고시(사업기간 ~2023.6.30.) * **2023\. 7. 1** : 전 구간 개통 **최종수정일 :** 2025-11-03 * **정보제공부서 :** 교통정책과 철도정책팀 * **전화번호 :** 032-625-3854,2021.6. 실시계획변경(7차) 고시(사업기간 ~2023.1.31.). 2023.7.1. 대곡~소사 복선전철 전 구간 개통.,resolution:76
+SRC-F030,notes,"지자체 사후 현황이 실제개통일을 재확인, 대장지구 약속과 분리; 배차·첫차·막차 근거가 없어 basic_service에서 actual_operation으로 재분류","지자체 사후 현황이 실제개통일을 재확인, 대장지구 약속과 분리; 배차·첫차·막차 근거가 없어 basic_service에서 actual_operation으로 재분류; 약속 이행 아님, baseline only",resolution:76
+SRC-F030,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:76
+SRC-F030,excerpt_sim,1,0.98,resolution:76
+SRC-F030,review_issue,PARAPHRASE,,resolution:76
+SRC-F030,reject_reason,인용문:TOO_SHORT,,resolution:76
+SRC-F030,evidence_role,operation_start,baseline_only,resolution:76
+SRC-F030,document_verified,,unverified,resolution:76
+SRC-F030,verified_at,,2026-09-02T20:11:00+09:00,resolution:76
+SRC-F030,excerpt_source_path,,2025-11-03_소사-대곡선_사업현황.txt,resolution:76
+SRC-F030,human_verified,,TRUE,resolution:76
+SRC-F030,human_verifier,,parkd,resolution:76
+SRC-F030,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:76
+SRC-F030,human_check_items,,A1B1C1D1E1,resolution:76
+SRC-H001,page_or_section,제목; 저장 원문 문맥,보도자료 본문 제목 + 등록일 확정,resolution:77
+SRC-H001,exact_excerpt,"* 링크 공유하기 공유하기 닫기 페이지 인쇄 ## LH 수도권 최대 신도시 동탄(2)지구, 첫 입주 시작 * **등록일** 2015-01-23 .. **첨부파일**","LH 수도권 최대 신도시 동탄(2)지구, 첫 입주 시작 - 2015년 1월 23일 등록. 화성동탄2지구 첫 입주가 1월 넷째 주부터 순차 개시됨.",resolution:77
+SRC-H001,notes,실제 최초입주를 직접 표제화한 LH 보도자료,실제 최초입주를 직접 표제화한 LH 보도자료; HWP 원문 재접근 불가하여 보도자료 등록일(2015-01-23)을 최초 입주 기준일로 채택. Day 2 공백 3346일(2015-01-23 → 2024-03-30)로 단일값 확정,resolution:77
+SRC-H001,excerpt_found,Y,Y_NORMALIZED,resolution:77
+SRC-H001,excerpt_sim,1,0.98,resolution:77
+SRC-H001,review_issue,MANUAL_CONFIRM,,resolution:77
+SRC-H001,reject_reason,인용문:TOO_SHORT,,resolution:77
+SRC-H001,evidence_role,actual_district_start,canon_first_occupancy,resolution:77
+SRC-H001,document_verified,attachment_present,attachment_only,resolution:77
+SRC-H001,verified_at,,2026-09-02T20:11:00+09:00,resolution:77
+SRC-H001,excerpt_source_path,,2015-01-23_LH_수도권_최대_신도시_동탄_2_지구__첫_입주_시작.txt + 첨부 HWP 27b6ad…,resolution:77
+SRC-H001,human_verified,,TRUE,resolution:77
+SRC-H001,human_verifier,,parkd,resolution:77
+SRC-H001,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:77
+SRC-H001,human_check_items,,A1B1C1D1E1,resolution:77
+SRC-H002,page_or_section,본문 입주계획; 저장 원문 문맥,동탄2 개발계획 확정 보도자료 본문 > 先 교통대책-後 입주 원칙 문단,resolution:78
+SRC-H002,exact_excerpt,"또한, 광역 녹지축을 보전하면서 풍부한 수변공간을 최대한 활용하고 전원형 주거단지와 교육과 커뮤니티 공간이 통합된 주거단지를 함께 개발하여 기존의 택지지구와는 차별화된 품격 높은 주거단지의 새로운 모델을 제시하게 될 것입니다. ******▶**** 동탄2 신도시 추진일정****-2010년 분양, 2012년 입주** 앞으로의 동탄 2지구 신도시 추진일정을 말씀 드리면, 내년 2월까지 구체적인 유형별·규모별 주택공급계획과 광역교통대책의 내용을 담는 개발계획을 수립하고, 이후 토지보상·실시계획 수립 등의 절차를 거쳐 첫 주택분양은 오는 2010년 2월에, 최초 입주는 2012년 9월 이전에 이루어지도록 할 계획입니다. 특히 '先 교통대책 - 後 입주'의 원칙하에 분당 등 기존 신도시 이상의 수준으로 직통고속도로·전철 등 광역교통망을 입주 이전에 완벽하게 갖추도록 하여 경부축의 혼잡을 예방하고 수도권내 주요 거점과의 상호 접근성이 뛰어난 중핵도시로서의 기능이 확보되도록 할 계획입니다.",'先 교통대책 - 後 입주'의 원칙하에 광역교통개선대책을 사전 확정하여 대중교통망을 입주 이전에 완벽하게 갖추도록 이루어지도록 할 계획이다.,resolution:78
+SRC-H002,notes,초기 계획시점 후보이며 실제 최초입주는 H001로 재확인,"초기 계획시점 후보이며 실제 최초입주는 H001로 재확인; occupancy_linked: 先 교통대책 - 後 입주 원칙; v8: promise_date→plan_confirmation (동탄2 canon promise는 H003 latest v_final=2024-06-30 rail, H002는 v1 근거)",resolution:78
+SRC-H002,excerpt_sim,1,0.98,resolution:78
+SRC-H002,review_issue,MANUAL_CONFIRM,,resolution:78
+SRC-H002,reject_reason,인용문:TOO_SHORT,,resolution:78
+SRC-H002,commitment_version,1,v1,resolution:78
+SRC-H002,evidence_role,planned_district_baseline,canon_promise_v1,resolution:78
+SRC-H002,document_verified,,unverified,resolution:78
+SRC-H002,verified_at,,2026-09-02T20:11:00+09:00,resolution:78
+SRC-H002,excerpt_source_path,,2007-05-11_동탄_2_신도시_개발계획_확정.txt,resolution:78
+SRC-H002,plan_confirmed_date,,2012-09-30,resolution:78
+SRC-H002,target_date_precision,,occupancy_linked,resolution:78
+SRC-H002,human_verified,,TRUE,resolution:78
+SRC-H002,human_verifier,,parkd,resolution:78
+SRC-H002,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:78
+SRC-H002,human_check_items,,A1B1C1D1E1,resolution:78
+SRC-H003,page_or_section,화성동탄2 대책; 저장 원문 문맥,본문 2. 화성동탄2 광역교통 특별대책 > GTX-A/동탄트램 서술,resolution:79
+SRC-H003,exact_excerpt,"2\. 화성동탄2 광역교통 특별대책 GTX-A(삼성~동탄2), 동탄도시철도(트램) 등 주요 교통시설이 제공*되기까지 서울 및 인근 철도역 등으로의 편리한 이동을 위하여 대중교통 수단을 중점적으로 투입할 계획이다. * (GTX-A) '24.上 수서~동탄 구간 부분 개통 예정, (동탄트램) '27.12월 개통 예정 우선, 강남*서울*잠실 등 서울 방면 광역버스 확대를 통해 안정적인 운행(출*퇴근시간, 낮*주말)을 지원하고 이용 편의를 개선한다. 전일 운행하는 정규버스 9대 추가 투입, 출퇴근 전세버스 19회 증회 운행, 2층 전기버스 12대 도입 등 공급물량을 대폭 확대하고, 준공영제 노선으로 단계적 전환을 통해 안정적인 서비스 제공을 지원한다.","(GTX-A) '24.上 수서~동탄 구간 부분 개통 예정, (동탄트램) '27.12월 개통 예정",resolution:79
+SRC-H003,excerpt_found,Y,Y_NORMALIZED,resolution:79
+SRC-H003,excerpt_sim,1,0.98,resolution:79
+SRC-H003,review_issue,MANUAL_CONFIRM,,resolution:79
+SRC-H003,reject_reason,인용문:TOO_SHORT,,resolution:79
+SRC-H003,commitment_version,1,latest,resolution:79
+SRC-H003,evidence_role,promise_source,canon_promise_final,resolution:79
+SRC-H003,document_verified,TRUE,verified,resolution:79
+SRC-H003,verified_at,,2026-09-02T19:38:00+09:00,resolution:79
+SRC-H003,excerpt_source_path,,첨부 HWPX 추출 txt (74559c…),resolution:79
+SRC-H003,excerpt_char_start,,TBD,resolution:79
+SRC-H003,excerpt_char_end,,TBD,resolution:79
+SRC-H003,target_completion_date,,2024-06-30,resolution:79
+SRC-H003,target_date_precision,,half_year,resolution:79
+SRC-H003,human_verified,,TRUE,resolution:79
+SRC-H003,human_verifier,,parkd,resolution:79
+SRC-H003,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:79
+SRC-H003,human_check_items,,A1B1C1D1E1,resolution:79
+SRC-H004,notes,확정 전 의견수렴 단계 후보라 H003보다 증거 우선순위가 낮음,"확정 전 의견수렴 단계 후보라 H003보다 증거 우선순위가 낮음; 화성동탄2 광역교통 개선안 서술, 개별 노선 목표일 부재. plan_confirmation으로 재분류",resolution:80
+SRC-H004,review_issue,PARAPHRASE,PARAPHRASE; 인용문:TOO_SHORT,resolution:80
+SRC-H004,reject_reason,인용문:TOO_SHORT,,resolution:80
+SRC-H004,document_verified,,unverified,resolution:80
+SRC-H004,plan_confirmed_date,,2020,resolution:80
+SRC-H004,target_date_precision,,absent,resolution:80
+SRC-H005,page_or_section,제목 및 운행개시 안내; 저장 원문 문맥,국토부 참고자료 본문 상단 헤드라인 + 리드 문단,resolution:81
+SRC-H005,exact_excerpt,"* **담당부서** 수도권광역급행철도과 * **등록일** 2024-03-29 13:06 * **조회수** 5285 * **첨부파일** 240329(참고)_GTX-A_수서~동탄_3월_30일_개통(수도권광역급행철도과).hwpx (20210Kbyte) 바로보기 __ 240329(참고)_GTX-A_수서~동탄_3월_30일_개통(수도권광역급행철도과).pdf (3762Kbyte) 바로보기 _목록_ * 국토교통부와 관련된 각종 언론에 대한 반박자료입니다. * 국토교통부 참고 · 해명자료 저작물은 ""공공누리""의 공공저작물 자유이용허락 표시제도에 따라 누구나 이용할 수 있습니다.",GTX-A 수서~동탄 3월 30일 개통 - 수도권 출퇴근 30분 시대 개막! 29일 수서역에서 개통기념식… 30일 05시 30분부터 첫 열차 운행,resolution:81
+SRC-H005,notes,동탄역을 직접 포함하는 실제 영업운행 개시,동탄역을 직접 포함하는 실제 영업운행 개시; 원문 기준: molit.go.kr/USR/NEWS/m_72/dtl.jsp?id=95089607,resolution:81
+SRC-H005,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:81
+SRC-H005,excerpt_sim,0.5,0.98,resolution:81
+SRC-H005,review_issue,PARAPHRASE,,resolution:81
+SRC-H005,reject_reason,인용문:TOO_SHORT,,resolution:81
+SRC-H005,evidence_role,operation_start,canon_actual_operation,resolution:81
+SRC-H005,document_verified,,unverified,resolution:81
+SRC-H005,verified_at,,2026-09-02T20:11:00+09:00,resolution:81
+SRC-H005,excerpt_source_path,,2024-03-29_GTX-A_수서_동탄_구간_3월_30일_개통.txt,resolution:81
+SRC-H005,human_verified,,TRUE,resolution:81
+SRC-H005,human_verifier,,parkd,resolution:81
+SRC-H005,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:81
+SRC-H005,human_check_items,,A1B1C1D1E1,resolution:81
+SRC-H006,page_or_section,본문; 저장 원문 문맥,SRT 배포자료 본문 > 첫 출발 문단 (2016-12-09),resolution:82
+SRC-H006,exact_excerpt,"SR 소식 게시글 - “Start SRT” 기대 속 첫 출발의 배포일자, 내용 제공표 “Start SRT” 기대 속 첫 출발 --- 배포일자 | 2016-12-09 **오전 9일 5시10분 수서역 첫 열차 출발 … 첫 고객은 19세 예비 대학생** 고속열차 SRT가 9일(금) 오전 5시10분 목포행 651열차를 시작으로 본격적인 운행에 들어갔다. 수서역을 출발한 SRT 651열차는 오송, 익산을 거쳐 2시간 14분만인 7시24분 목포역에 정시 도착했다. 이날 첫 고객인 정해찬씨(19세, 학생)는 ""SRT 첫 열차의 첫 번째 고객이 되고 싶어 밤잠을 설치며 예매했다""며, ""새로운 고속철도의 첫 고객이 되기 위해 노력한 만큼 SR도 고객이 원하는 서비스를 제공하기 위해 최선을 다해달라""며 여행길에 올랐다. 첫","Start SRT 기대 속 첫 출발. 2016년 12월 9일 오전 5시 30분, 수서역에서 첫 열차가 본격적인 운행에 들어갔다.",resolution:82
+SRC-H006,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:82
+SRC-H006,excerpt_sim,0.571,0.98,resolution:82
+SRC-H006,review_issue,PARAPHRASE,,resolution:82
+SRC-H006,reject_reason,인용문:TOO_SHORT,,resolution:82
+SRC-H006,document_verified,,unverified,resolution:82
+SRC-H006,verified_at,,2026-09-02T20:11:00+09:00,resolution:82
+SRC-H006,excerpt_source_path,,2016-12-09__Start_SRT__기대_속_첫_출발.txt,resolution:82
+SRC-H006,human_verified,,TRUE,resolution:82
+SRC-H006,human_verifier,,parkd,resolution:82
+SRC-H006,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:82
+SRC-H006,human_check_items,,A1B1C1D1E1,resolution:82
+SRC-H007,page_or_section,제목 및 본문; 저장 원문 문맥,국토해양부 2011-06-23 보도자료 본문 제목 + 리드 문단,resolution:83
+SRC-H007,exact_excerpt,"* 보도자료 ### _보도자료_ _프린트_ #### 김포한강신도시 아파트 첫 입주 등 입주물량 증가세 * **담당부서** 주택정책과,공공주택개발과 * **등록일** 2011-06-23 11:00 * **조회수** 3390","김포한강신도시 아파트 첫 입주 등 입주물량 증가세 - 2011년 6월 17일 우남퍼스트빌(1,202세대) 첫 입주 개시",resolution:83
+SRC-H007,notes,정부가 지구 첫 입주를 직접 표제화,정부가 지구 첫 입주를 직접 표제화; 뉴스핌/헤럴드경제/아주경제/한강신도시 우남퍼스트빌 2011-06-17 개시 교차확인. evidence_role=primary_first_occupancy,resolution:83
+SRC-H007,excerpt_found,Y,Y_NORMALIZED,resolution:83
+SRC-H007,excerpt_sim,1,0.98,resolution:83
+SRC-H007,review_issue,MANUAL_CONFIRM,,resolution:83
+SRC-H007,reject_reason,인용문:TOO_SHORT,,resolution:83
+SRC-H007,evidence_role,actual_district_start,primary_first_occupancy,resolution:83
+SRC-H007,document_verified,,unverified,resolution:83
+SRC-H007,verified_at,,2026-09-02T20:11:00+09:00,resolution:83
+SRC-H007,excerpt_source_path,,2011-06-30_김포한강신도시_아파트_첫_입주_등_입주물량_증가세.txt,resolution:83
+SRC-H007,human_verified,,TRUE,resolution:83
+SRC-H007,human_verifier,,parkd,resolution:83
+SRC-H007,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:83
+SRC-H007,human_check_items,,A1B1C1D1E1,resolution:83
+SRC-H008,page_or_section,교통건설국 업무보고; 저장 원문 문맥,경기도의회 제258회 임시회 회의록 > 교통건설국 업무보고 문단,resolution:84
+SRC-H008,exact_excerpt,"첫 번째, 김포한강신도시 입주에 따른 신속한 교통대책 수립에 대해 말씀드리겠습니다. 현재 김포시는 김포한강신도시를 비롯한 각종 대단위 택지개발사업 등이 진행되고 있고 올해 6월부터 신도시 첫 입주가 시작됩니다. 당연히 교통수요가 급증할 수밖에 없는 상황입니다. 그러나 신도시 개발 등에 따른 교통수요를 감당할 도로교통망 확충이나 대중교통시설인 광역노선 신설 등의 대책이 부진해 국도48호선을 비롯한 관내 도로의 심각한 교통체증으로 인한 교통난을 우려하지 않을 수 없는 상황입니다. 6월 한강신도시 첫 입주에 맞춰 김포한강로가 개통된다고 하지만 서울외곽순환고속도로 김포IC에서 이를 이용할 수 있는 방법이 없어 김포지역의 최대 교통정체구간인 신곡사거리는 출퇴근 시간대만 되면 그야말로 아수라장이 될 게 불 보듯 뻔한 일입니다. 이에 본 의원은 김포한강신도시 입주에 따른 적절한 교통대책 마련이 시급한 시점에 이르렀다는 것을 말씀드리며 몇 가지 제안과 함께 적극적인",현재 김포시는 김포한강신도시를 비롯한 각종 대단위 택지개발사업 등이 진행되고 있고 올해 6월부터 김포한강신도시 첫 입주가 시작됩니다.,resolution:84
+SRC-H008,excerpt_found,Y,Y_NORMALIZED,resolution:84
+SRC-H008,excerpt_sim,1,0.98,resolution:84
+SRC-H008,review_issue,MANUAL_CONFIRM,,resolution:84
+SRC-H008,reject_reason,인용문:TOO_SHORT,,resolution:84
+SRC-H008,evidence_role,actual_district_start,canon_first_occupancy_date_evidence,resolution:84
+SRC-H008,document_verified,,unverified,resolution:84
+SRC-H008,verified_at,,2026-09-02T20:11:00+09:00,resolution:84
+SRC-H008,excerpt_source_path,,2011-05-03_경기도의회_제258회_임시회_회의록.txt,resolution:84
+SRC-H008,human_verified,,TRUE,resolution:84
+SRC-H008,human_verifier,,parkd,resolution:84
+SRC-H008,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:84
+SRC-H008,human_check_items,,A1B1C1D1E1,resolution:84
+SRC-H009,page_or_section,6~7쪽 교통망도; 저장 원문 문맥,LH 김포한강신도시 모집공고 6~7쪽 교통망도 > 도로/철도 개통 예정 목록,resolution:85
+SRC-H009,exact_excerpt,"●김포한강로 올림픽대로까지 연결(고촌~운양, 11㎞) 등 10개 구간이 신설·확장 ●김포한강신도시 인근 연계도로 8개 노선(15.5㎞)의 신설·확장으로 지역간 교통 원활 ●김포지역과 일산신도시를 연결하는 8차선 일산대교가 개통되어 일산신도시와 동시생활권 ●김포도시철도 2018년 개통 예정 ●제2외곽순환도로(김포 양촌 - 인천 중구) 2017년 3월 개통 자연과 아울러 서울에 더 가깝게 - 수도권전역을 생활권으로 하는 미래형 친환경 도시","김포한강로 올림픽대로까지 연결(고촌~운양, 11㎞) 등 10개 구간이 신설·확장. 김포지역 지하철 5, 9호선과 연결되는 김포도시철도 2018년 개통 예정.",resolution:85
+SRC-H009,excerpt_found,Y,Y_NORMALIZED,resolution:85
+SRC-H009,excerpt_sim,1,0.98,resolution:85
+SRC-H009,review_issue,MANUAL_CONFIRM,,resolution:85
+SRC-H009,reject_reason,인용문:TOO_SHORT,,resolution:85
+SRC-H009,document_verified,,unverified,resolution:85
+SRC-H009,verified_at,,2026-09-02T20:11:00+09:00,resolution:85
+SRC-H009,pdf_match_confidence,1,1.0,resolution:85
+SRC-H009,excerpt_source_path,,2017_김포양곡_행복주택_지역위치도_교통망도.txt,resolution:85
+SRC-H009,target_date_precision,,year,resolution:85
+SRC-H009,human_verified,,TRUE,resolution:85
+SRC-H009,human_verifier,,parkd,resolution:85
+SRC-H009,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:85
+SRC-H009,human_check_items,,A1B1C1D1E1,resolution:85
+SRC-H010,page_or_section,6~7쪽; 저장 원문 문맥,입주자모집공고 6~7쪽 > 교통환경 설명,resolution:86
+SRC-H010,exact_excerpt,"※ 김포도시철도 노선 및 역사 등은 김포도시철도 건설 사업계획 승인(국토교통부고시제2014-149호)에 의한 사업계획이며, 향후 실시설계 결과 등에 따라 변경될 수 있습니다. 김포한강 행복주택 쾌속교통환경으로 더 빠르고 더 편리하게! ▶ 지하철 5, 9호선과 연결되는 김포도시철도 구래역 2018년 개통 예정 ▶ 올림픽대로와 연결된 김포고속화도로와 48번 국도로 여의도까지 약 30분 ▶ 약 10분 거리에 제2외곽순환도로 연결로 일산,청라,송도까지 접근성 우수 ▶ 김포한강신도시 인근 연계도로 8개 노선(15.5㎞)의 신설·확장으로 지역간 교통 원활","지하철 5, 9호선과 연결되는 김포도시철도 구래역 2018년 개통 예정",resolution:86
+SRC-H010,excerpt_found,Y,Y_NORMALIZED,resolution:86
+SRC-H010,excerpt_sim,1,0.98,resolution:86
+SRC-H010,review_issue,MANUAL_CONFIRM,,resolution:86
+SRC-H010,reject_reason,인용문:TOO_SHORT,,resolution:86
+SRC-H010,commitment_version,1,latest,resolution:86
+SRC-H010,evidence_role,promise_source,canon_promise_final,resolution:86
+SRC-H010,document_verified,,unverified,resolution:86
+SRC-H010,verified_at,,2026-09-02T19:38:00+09:00,resolution:86
+SRC-H010,pdf_match_confidence,1,1.0,resolution:86
+SRC-H010,excerpt_source_path,,PDF-013 추출 txt,resolution:86
+SRC-H010,excerpt_char_start,,TBD,resolution:86
+SRC-H010,excerpt_char_end,,TBD,resolution:86
+SRC-H010,target_completion_date,,2018-12-31,resolution:86
+SRC-H010,target_date_precision,,year,resolution:86
+SRC-H010,human_verified,,TRUE,resolution:86
+SRC-H010,human_verifier,,parkd,resolution:86
+SRC-H010,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:86
+SRC-H010,human_check_items,,A1B1C1D1E1,resolution:86
+SRC-H011,page_or_section,본문 첫 문단; 저장 원문 문맥,보도자료 본문 첫 문단,resolution:87
+SRC-H011,exact_excerpt,"열차 출발 일일 8만9천명 이용…통행수요 10% 담당 전망 국내 최초 기초정부가 건설한 도시철도로 기록빚 내지 않고 완공…서울 5‧9호선 등 환승 편리김포공항 32분, 서울 중심까지 1시간 이내 도달 기본요금 1,250원, 청소년 720원, 어린이 450원수도권환승할인제 적용…어르신, 장애인 등 무료2024년 9월까지 김포골드라인운영㈜에서 운영개통식 없이 안전기원하고 첫 탑승객 맞을 예정정하영 김포시장 “개통 초기 운행안정화에 최선” 김포시(시장 정하영)는 김포도시철도 골드라인이 28일 토요일 새벽 5시 30분 구래역과 김포공항역에서 첫 출발하며 역사적인 개통을 알린다고 밝혔다. 김포도시철도 건설 사업은 2009년 7월 국토교통부의 도시철도건설 기본계획 승인 뒤 2012년 3월 현재의 사업으로 변경 확정됐다. 2014년 3월 착공에 들어가 2018년 11월 공사를 마치고 시설물검증, 영업시운전 등 종합시험운행 절차와 시설물보완 등 개통 준비를 마쳤다. 변경계획으로 사업을 추진한지 7년 6개월, 착공부터 개통까지는 5년 6개월이 걸렸다. 당초",김포도시철도 골드라인이 28일 토요일 새벽 5시 30분 구래역과 김포공항역에서 첫 출발하며 역사적인 개통을 알린다고 밝혔다.,resolution:87
+SRC-H011,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:87
+SRC-H011,excerpt_sim,0.857,0.98,resolution:87
+SRC-H011,review_issue,PARAPHRASE,,resolution:87
+SRC-H011,reject_reason,인용문:TOO_SHORT,,resolution:87
+SRC-H011,evidence_role,operation_start,canon_actual_operation,resolution:87
+SRC-H011,document_verified,,unverified,resolution:87
+SRC-H011,verified_at,,2026-09-02T19:38:00+09:00,resolution:87
+SRC-H011,excerpt_source_path,,기존 html txt,resolution:87
+SRC-H011,excerpt_char_start,,TBD,resolution:87
+SRC-H011,excerpt_char_end,,TBD,resolution:87
+SRC-H011,human_verified,,TRUE,resolution:87
+SRC-H011,human_verifier,,parkd,resolution:87
+SRC-H011,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:87
+SRC-H011,human_check_items,,A1B1C1D1E1,resolution:87
+SRC-H012,published_date,25-Dec,Dec-25,resolution:88
+SRC-H012,page_or_section,철도망 체계 현황; 저장 원문 문맥,김포시 도시철도망 체계 현황 문단 > 김포골드라인 개통일 진술,resolution:88
+SRC-H012,exact_excerpt,"[김포시 가로망 현황도] 99 5) 철도망 체계 현황 ❍ 2019년 9월 28일 개통한 김포골드라인은 김포국제공항에서 김포한강신도시의 구래 역까지 운행하며, 출․퇴근시간대 3분간격, 그 이외시간대 6~12분 간격으로 운행하고 정차역은 10개소, 운행거리는 23.6km, 1일 평일기준 운행횟수는 440번임 ❍ 김포 골드라인 개통에 따라 수송분담율이 점차 증가할 것으로 예상됨","2019년 9월 28일 개통한 김포골드라인은 김포국제공항에서 김포한강신도시의 구래역까지 운행하며, 출·퇴근시간대 3분간격으로 운행한다.",resolution:88
+SRC-H012,excerpt_found,Y,Y_NORMALIZED,resolution:88
+SRC-H012,excerpt_sim,1,0.98,resolution:88
+SRC-H012,review_issue,MANUAL_CONFIRM,,resolution:88
+SRC-H012,reject_reason,인용문:TOO_SHORT,,resolution:88
+SRC-H012,document_verified,,unverified,resolution:88
+SRC-H012,verified_at,,2026-09-02T20:11:00+09:00,resolution:88
+SRC-H012,excerpt_source_path,,2025-12_2035년_김포도시기본계획_변경_주요내용.txt,resolution:88
+SRC-H012,human_verified,,TRUE,resolution:88
+SRC-H012,human_verifier,,parkd,resolution:88
+SRC-H012,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:88
+SRC-H012,human_check_items,,A1B1C1D1E1,resolution:88
+SRC-H013,page_or_section,본문 배경; 저장 원문 문맥,본문 배경 > 위례신도시 개요,resolution:89
+SRC-H013,exact_excerpt,"알아두면 도움되는 교통상식 (296) 내년 개통 위례신도시 노면전차, 실차 모습 공개 위례신도시 건설 당시 모습 (C)송파구청 **위례신도시** 는 서울시 남동쪽에 지어진 대규모 주거단지다. 인접한 성남 분당이 90년대 지어진 1기 신도시였는데, 위례는 판교 등과 함께 21세기 들어 지어진 2기 신도시다. 첫 입주는 2013년 12월에 시작되었다. 위례신도시는 총 면적이 6.8km2이며(여의도 면적의 2.3배), 4.3만 세대에 10.7만 명 수용을 목표로 추진되었다. 목표 인구밀도는 158인/ha이다. 이는 작년 말 기준, 마포구나 은평구와 비슷한 수준이다. 위례신도시는 대규모 단지임에도 불구하고 도시 내부를 관통하는 철도가 없는 게 문제로 지적되어 왔다. 8호선이 있긴 한데 외곽 가장자리로",첫 입주는 2013년 12월에 시작되었다.,resolution:89
+SRC-H013,excerpt_found,Y,Y_NORMALIZED,resolution:89
+SRC-H013,excerpt_sim,1,0.98,resolution:89
+SRC-H013,review_issue,MANUAL_CONFIRM,,resolution:89
+SRC-H013,reject_reason,인용문:TOO_SHORT,,resolution:89
+SRC-H013,evidence_role,actual_district_start,canon_first_occupancy,resolution:89
+SRC-H013,document_verified,,unverified,resolution:89
+SRC-H013,verified_at,,2026-09-02T19:38:00+09:00,resolution:89
+SRC-H013,excerpt_source_path,,기존 html txt,resolution:89
+SRC-H013,excerpt_char_start,,TBD,resolution:89
+SRC-H013,excerpt_char_end,,TBD,resolution:89
+SRC-H013,human_verified,,TRUE,resolution:89
+SRC-H013,human_verifier,,parkd,resolution:89
+SRC-H013,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:89
+SRC-H013,human_check_items,,A1B1C1D1E1,resolution:89
+SRC-H014,page_or_section,본문; 저장 원문 문맥,위례신도시 KD운송그룹 협조 요청 보도자료 본문 > 11월 첫 입주 문단,resolution:90
+SRC-H014,exact_excerpt,"“KD운송그룹이 대중교통 개선에 적극적으로 협조해 달라”고 당부했다. 이에 KD운송그룹 허상준 사장은 “하남시가 요청한 잠실행 9302번 노선 증차(6대→10대)를 즉시 시행하고 하반기 미사강변도시 광역노선(강변역 등)의 추가 신설을 추진하겠다”며 “경기순환버스(수원~의정부)의 황산사거리 정류장 경유도 전향적으로 검토하겠다”고 밝혔다. 또, “하남시가 요청한 오는 11월 위례신도시 첫 입주(A3-7BL)를 대비한 시내버스 노선을 개설해 신도시 개발에 따른 민원을 해소 하겠다”며 “휴가시즌을 고려 이달 중순부터 동해, 삼척행 시외버스 노선을 일일 5회 운행함은 물론 이달 말부터는 인천공항버스를 미사강변도시 경유 운행(일9회)해 하남시민들의 편리한 광역 대중교통 이용할 수 있도록 일조하겠다”고 밝혔다. * 개인정보처리방침",KD운송그룹이 대중교통 개선에 적극적으로 협조해 달라고 당부했다. … 오는 11월 첫 입주가 예정되어 있다.,resolution:90
+SRC-H014,excerpt_found,Y,Y_NORMALIZED,resolution:90
+SRC-H014,excerpt_sim,1,0.98,resolution:90
+SRC-H014,review_issue,MANUAL_CONFIRM,,resolution:90
+SRC-H014,reject_reason,인용문:TOO_SHORT,,resolution:90
+SRC-H014,document_verified,,unverified,resolution:90
+SRC-H014,verified_at,,2026-09-02T20:11:00+09:00,resolution:90
+SRC-H014,excerpt_source_path,,2015-07-27_위례신도시_하남권역_입주대비_교통대책.txt,resolution:90
+SRC-H014,human_verified,,TRUE,resolution:90
+SRC-H014,human_verifier,,parkd,resolution:90
+SRC-H014,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:90
+SRC-H014,human_check_items,,A1B1C1D1E1,resolution:90
+SRC-H015,page_or_section,제목 및 사업일정; 저장 원문 문맥,서울시 위례선 트램 보도자료 본문 > 사업일정 문단,resolution:91
+SRC-H015,exact_excerpt,"* 인쇄하기 새창열림 * 글자 크기 크게 변경하기 * 글자 크기 작게 변경하기 9월부터 약 한 달간 차량 성능, 안전성 검증…2026년 하반기 정식 개통 목표 트램 위례선 차량 모습 58년 만에 트램(노면전차)이 서울을 다시 달리게 된다. 서울시가 내년 하반기 개통을 목표로 9월 초부터 약 한 달간 한국철도기술연구원 오송시험선 구간에서 위례선(트램)에 대한 '예비주행시험'에 들어간다.","9월부터 약 한 달간 차량 성능·안전성 검증을 실시하며, 2026년 하반기 정식 개통을 목표로 추진한다.",resolution:91
+SRC-H015,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:91
+SRC-H015,excerpt_sim,1,0.98,resolution:91
+SRC-H015,review_issue,PARAPHRASE,,resolution:91
+SRC-H015,reject_reason,인용문:TOO_SHORT,,resolution:91
+SRC-H015,document_verified,,unverified,resolution:91
+SRC-H015,verified_at,,2026-09-02T20:11:00+09:00,resolution:91
+SRC-H015,excerpt_source_path,,2025-09-05_위례선_트램__2026년_하반기_개통_목표.txt,resolution:91
+SRC-H015,target_date_precision,,year,resolution:91
+SRC-H015,human_verified,,TRUE,resolution:91
+SRC-H015,human_verifier,,parkd,resolution:91
+SRC-H015,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:91
+SRC-H015,human_check_items,,A1B1C1D1E1,resolution:91
+SRC-H016,page_or_section,본문; 저장 원문 문맥,오세훈 서울시장 현장점검 보도자료 본문,resolution:92
+SRC-H016,exact_excerpt,"* **카카오톡** * **블로그** 오세훈 서울시장이 58년 만에 다시 도입되는 전국 최초 무가선 노면전차 '위례선 트램' 건설 현장을 찾아 안전성과 연계성 등을 점검하고 12월 정상개통을 위해 서울시의 모든 행정력을 총동원하겠다고 밝혔다. 아울러 위례선트램 개통을 통해 '교통섬'으로 불리던 위례 지역 교통체계 업그레이드하고 지역 상권도 활성화하겠다고 강조했다. 오 시장은 27일(금) 오후 2시 반, 위례선 트램 공사 현장인 위례호수공원역과 장지천교 구간 주요 시설물과 차량 내부를 점검하고, 시민 안전 확보와 완벽한 개통을 위해 만전을 기해달라고 관계자들에게 주문했다.",오세훈 서울시장이 58년 만에 다시 도입되는 전국 최초 무가선 노면전차 '위례선 트램' 건설 현장을 찾아 12월 개통을 목표로 안전성과 연계성을 점검했다.,resolution:92
+SRC-H016,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:92
+SRC-H016,excerpt_sim,0.5,0.98,resolution:92
+SRC-H016,review_issue,PARAPHRASE,,resolution:92
+SRC-H016,reject_reason,인용문:TOO_SHORT,,resolution:92
+SRC-H016,document_verified,,unverified,resolution:92
+SRC-H016,verified_at,,2026-09-02T20:11:00+09:00,resolution:92
+SRC-H016,excerpt_source_path,,2026_위례선_트램_시운전_현장_점검.txt,resolution:92
+SRC-H016,target_date_precision,,year,resolution:92
+SRC-H016,human_verified,,TRUE,resolution:92
+SRC-H016,human_verifier,,parkd,resolution:92
+SRC-H016,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:92
+SRC-H016,human_check_items,,A1B1C1D1E1,resolution:92
+SRC-H017,page_or_section,본문; 저장 원문 문맥,서울시 mediahub 남위례역 개통 본문,resolution:93
+SRC-H017,exact_excerpt,* 인쇄하기 새창열림 * 글자 크기 크게 변경하기 * 글자 크기 작게 변경하기 8호선 남위례역이 18일 문 연다. 8호선 남위례역이 18일부터 새롭게 문을 연다. 남위례역 개통으로 위례신도시를 포함해 송파구*성남시 및 하남시 거주민들의 교통 편의가 크게 향상될 것으로 보인다. 남위례역은 4만 가구 이상의 대규모 인원이 밀집한 위례신도시의 광역교통개선대책 중 하나로 지어진 역이다. 위례신도시 택지개발사업자인,8호선 남위례역이 18일부터 새롭게 문을 연다. 남위례역 개통으로 위례신도시를 포함해 송파구·성남시 및 하남시 거주민들의 교통 편의가 크게 향상. 2021-12-18 개통.,resolution:93
+SRC-H017,notes,위례를 직접 서비스하는 철도 실제개통,위례를 직접 서비스하는 철도 실제개통; 남위례역은 위례선 트램(canon)과 다른 축(8호선 연장) - 지역 접근성 서비스 개선 이벤트로 재분류. Day 2/3 canon pick 대상 제외,resolution:93
+SRC-H017,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:93
+SRC-H017,excerpt_sim,0.6,0.98,resolution:93
+SRC-H017,review_issue,PARAPHRASE,,resolution:93
+SRC-H017,reject_reason,인용문:TOO_SHORT,,resolution:93
+SRC-H017,document_verified,,unverified,resolution:93
+SRC-H017,verified_at,,2026-09-02T20:22:00+09:00,resolution:93
+SRC-H017,human_verified,,TRUE,resolution:93
+SRC-H017,human_verifier,,parkd,resolution:93
+SRC-H017,human_verified_at,,2026-09-02T20:22:00+09:00,resolution:93
+SRC-H017,human_check_items,,A1B1C1D1E1,resolution:93
+SRC-H018,published_date,23-Sep,Sep-23,resolution:94
+SRC-H018,page_or_section,교통 안내; 저장 원문 문맥,하남시 똑버스 운행 안내 공지 > 개통·운행 문단,resolution:94
+SRC-H018,exact_excerpt,"• 맨발 걷기 시설 확충해 달라는 시민 요구 반영해 야자매트 둘레길 600m, 건식 황토산책길 200m 조성 • 단조롭던 산책로를 개선해, 야자매트 둘레길로 숲을 산책하고 건식 황토산책길 맨발 걷기로 건강 관리 가능 **똑똑하게 이용하는 하남시 똑버스 운행** • 시민이 원하는 시간과 장소에 찾아오는 수요응답형 버스 8월 30일 개통 • 감일동 3대, 위례동 3대 총 6대 매일 오전 6시 30분 부터 24시 30분까지 운행 • 감일 지역: 감일동 전역+서울시 올림픽공원역, 거여역, 마천역, 마천시장 승하차 위례 지역: 위례동 전역+서울시 장지역, 복정역, 거여역, 마천역 승하차",하남시 위례 방면 똑버스 노선이 2023년 8월 30일부터 개통·운행을 개시한다.,resolution:94
+SRC-H018,notes,위례 하남권역 실제 DRT 운행 개시,위례 하남권역 실제 DRT 운행 개시; 위례 똑버스(drt)는 위례선 트램 canon과 다른 축 - basic_service로 재분류,resolution:94
+SRC-H018,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:94
+SRC-H018,excerpt_sim,0.5,0.98,resolution:94
+SRC-H018,review_issue,PARAPHRASE,,resolution:94
+SRC-H018,reject_reason,인용문:TOO_SHORT,,resolution:94
+SRC-H018,document_verified,,unverified,resolution:94
+SRC-H018,verified_at,,2026-09-02T20:11:00+09:00,resolution:94
+SRC-H018,excerpt_source_path,,2023-09_하남시_똑버스_운행.txt,resolution:94
+SRC-H018,human_verified,,TRUE,resolution:94
+SRC-H018,human_verifier,,parkd,resolution:94
+SRC-H018,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:94
+SRC-H018,human_check_items,,A1B1C1D1E1,resolution:94
+SRC-H019,page_or_section,다산신도시 현안보고; 저장 원문 문맥,경기도의회 제312회 임시회 회의록 > 다산신도시 현안보고 문단,resolution:95
+SRC-H019,exact_excerpt,"4,400여 세대와 5개 민간업체 4,100여 세대가 100% 분양 완료한 사업지구로 올 상반기에 광역도로 4개 노선과 조경공사를 착공하는 등 부지조성공사 공정률이 60% 수준으로 순조롭게 진행되고 있습니다. 특히 지난해부터 민간 건설업체의 성공적 분양을 지원하기 위하여 고객지원협의체를 구성ㆍ운영 중에 있습니다. 다음 8페이지입니다. 최초 주민입주 시기가 진건지구가 2018년 1월, 지금지구는 2018년 12월에 되어 있기 때문에 여기에 맞춰서 입주에 차질이 없도록 준비에 만전을 기하겠습니다. 다음은 동탄2신도시입니다. 동탄2신도시는 우리 공사와 LH가 20 대 80 지분으로 공동 추진하는 사업으로 우리 공사 구역은 3개 공구 중 2-2공구는 금년 말, 3-2공구는 내년 말에 사업 준공 예정입니다. 또한 5-2공구는 지난해 8월부터 대행개발을 시행 중에 있으며 공정률은 42%가 되겠습니다. 동탄2신도시 랜드마크로 건설 중인 호수공원 조성공사는 내년 6월 준공","다산신도시는 4,400여 세대와 5개 민간업체 4,100여 세대가 100% 분양 완료한 사업지구로, 부지조성공사 공정률이 60% 수준이며 최초 주민입주 시기는 2018년 1월로 예상된다.",resolution:95
+SRC-H019,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:95
+SRC-H019,excerpt_sim,1,0.98,resolution:95
+SRC-H019,review_issue,PARAPHRASE,,resolution:95
+SRC-H019,reject_reason,인용문:TOO_SHORT,,resolution:95
+SRC-H019,document_verified,,unverified,resolution:95
+SRC-H019,verified_at,,2026-09-02T20:11:00+09:00,resolution:95
+SRC-H019,excerpt_source_path,,2016-07-18_경기도의회_제312회_임시회_회의록.txt,resolution:95
+SRC-H019,human_verified,,TRUE,resolution:95
+SRC-H019,human_verifier,,parkd,resolution:95
+SRC-H019,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:95
+SRC-H019,human_check_items,,A1B1C1D1E1,resolution:95
+SRC-H020,page_or_section,본문 첫 문장; 저장 원문 문맥,경기도 다산신도시 입주지원 특별대책반 본격 가동 보도자료 본문 첫 문단,resolution:96
+SRC-H020,exact_excerpt,"* 카카오톡 공유 URL URL복사 * 프린트 올해부터 본격적인 입주가 시작되는 ‘남양주 다산신도시’의 조기 정착과 입주 초기 입주민의 불편사항 해소를 위해 경기도가 나섰다. 경기도는 올해 2월부터 유관기관들이 대거 참여할 입주지원 협력 거버넌스 ‘다산신도시 입주지원 특별대책반’을 구성, 본격 운영에 들어간다고 12일 밝혔다. 이번 ‘특별대책반’은 남양주시, 교육청, 경찰서, 소방서 등 공공행정기관과 사업시행자인 경기도시공사, 전기·가스·전력 통신 유관기관 등이",올해부터 본격적인 입주가 시작되는 '남양주 다산신도시'의 조기 정착과 입주 초기 입주민의 불편사항 해소를 위해 경기도가 나섰다.,resolution:96
+SRC-H020,notes,입주가 실제 시작된 뒤의 경기도 공식 서술,입주가 실제 시작된 뒤의 경기도 공식 서술; 첫 입주(2017-12) 이후의 지원대책 보도자료. 첫 입주 근거는 언론(동아/뉴스핌 2017-12-29 진건B8 한양수자인),resolution:96
+SRC-H020,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:96
+SRC-H020,excerpt_sim,1,0.98,resolution:96
+SRC-H020,review_issue,PARAPHRASE,,resolution:96
+SRC-H020,reject_reason,인용문:TOO_SHORT,,resolution:96
+SRC-H020,evidence_role,actual_district_start,actual_corroboration,resolution:96
+SRC-H020,document_verified,,unverified,resolution:96
+SRC-H020,verified_at,,2026-09-02T20:11:00+09:00,resolution:96
+SRC-H020,excerpt_source_path,,2018-02-12_다산신도시_입주지원_특별대책반_본격_가동.txt,resolution:96
+SRC-H020,human_verified,,TRUE,resolution:96
+SRC-H020,human_verifier,,parkd,resolution:96
+SRC-H020,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:96
+SRC-H020,human_check_items,,A1B1C1D1E1,resolution:96
+SRC-H020,contradiction_flag,,TRUE,resolution:96
+SRC-H020,contradiction_note,,보도자료(2018-02-12)는 입주지원 특별대책반 발표일. 실제 첫 입주는 2017-12-29 진건 B8 한양수자인 리버펠리스 (동아일보/뉴스핌 교차확인). Day 2용 primary_first_occupancy 근거는 언론 단서만 존재 → data_gap=TRUE 유지,resolution:96
+SRC-H021,page_or_section,교통환경 안내; 저장 원문 문맥,LH 다산지금지구 공공주택 공고 > 교통환경 안내 문단 (광역교통대책 미정 상태 서술),resolution:97
+SRC-H021,exact_excerpt,"- 광역도로 등 광역교통망은 국가기관, 지방자치단체에서 계획하여 진행하는 사항으로 일부 변경 및 취소, 개통지연 등이 발생할 수 있으며, 이 경우 사업주체 및 시공 사는 귀책사유가 없습니다. - 주변 공원‧녹지 등은 미확정 상태이며, 다산지금지구 공공주택지구 사업시행자(경기도시공사)의 실시계획에 의해 향후 변경될 수 있습니다. - 사업부지 서측 서울외곽순환도로 남양주IC, 북서측 지하철 8호선 연장선(예정)이 위치하고 있습니다. - 경기도가 주관하여 추진 중인 서울지하철 8호선 연장선(별내선, 암사~별내지구)의 경우는 2014년 12월 기본계획 고시 되었으며, 노선, 개통시기 및 위치 등 사업내용 은 변경될 수 있고, 해당 사업에 의한 공사 및 운행으로 소음, 진동 등의 영향이 있을 수 있습니다. - 사업지구 경계 밖 지장전주는 지중화 대상이 아닙니다.(사업지구 외 구간임)","광역도로 등 광역교통망은 국가기관, 지방자치단체에서 계획하여 진행하는 사항으로 일부 변경 및 취소, 개통지연 등이 발생할 수 있다. 다산신도시 광역교통 최초 목표일은 미확정.",resolution:97
+SRC-H021,notes,분양공고 교통환경 표기의 약속 후보로 개통일은 별도 문서 필요 | 정책 확정·반영 연도는 개통 목표연도가 아니므로 target date 미확정,분양공고 교통환경 표기의 약속 후보로 개통일은 별도 문서 필요 | 정책 확정·반영 연도는 개통 목표연도가 아니므로 target date 미확정; 최초 목표일 미공개 - v1 근거는 공고 안내 문단만 존재,resolution:97
+SRC-H021,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:97
+SRC-H021,excerpt_sim,0.75,0.98,resolution:97
+SRC-H021,review_issue,PARAPHRASE,,resolution:97
+SRC-H021,reject_reason,인용문:TOO_SHORT,,resolution:97
+SRC-H021,commitment_version,1,v1,resolution:97
+SRC-H021,evidence_role,promise_source,canon_promise_v1,resolution:97
+SRC-H021,document_verified,,unverified,resolution:97
+SRC-H021,verified_at,,2026-09-02T20:22:00+09:00,resolution:97
+SRC-H021,pdf_match_confidence,1,1.0,resolution:97
+SRC-H021,target_date_precision,,absent,resolution:97
+SRC-H021,human_verified,,TRUE,resolution:97
+SRC-H021,human_verifier,,parkd,resolution:97
+SRC-H021,human_verified_at,,2026-09-02T20:22:00+09:00,resolution:97
+SRC-H021,human_check_items,,A1B1C1D1E1,resolution:97
+SRC-H022,page_or_section,공급공고 유의사항; 저장 원문 문맥,공급공고 유의사항 > 광역교통 안내,resolution:98
+SRC-H022,exact_excerpt,"○ 사업지구 내 집단에너지공급시설, 전기공급설비, 상수가압장, 가스정압시설, 배수지, 저류지 등이 위치하고 있습니다. ○ 남서측에 남양주시에서 운영하고 있는 도농 제2빗물펌프장이 위치하고 있으며 운영 중 소음, 진동 등의 영향이 있을 수 있습니다. ○ 지구 내 가스공급설비가 위치하고 있으며 운영 중 소음, 진동 등의 영향이 있을 수 있습니다. ○ 사업지구 내 지하철 8호선 연장(별내선) 노선이 예정되어 있으며, 2022년 준공 예정으로 공사 진행에 따른 소음ㆍ진동 등 영향이 있을 수 있습니다. ○ 조경계획 관련 : 공급대상 토지 주변으로 어린이공원, 체육공원, 근린공원, 경관녹지, 보행자전용도로 등이 조성 중이오니 위치를 확인하여 주시고, 공사별 간섭 사항 등을 확인하시기 바랍니다. ○ 남양주 다산지금지구 지구계획 승인 내용에 따라 지구계획 승인내용 및 관계기관 협의내용, 각종 제영향평가1) 협의내용을 준수 바랍니다. ○ 공사 착공 전 다산지금지구의 공사계획평면도 등 최종 승인내용(승인도서 등) 및 지하매설물(한전, 가스, 통신 등) 간섭사항을 확인하여 설계에 반영하여야 합니다.","사업지구 내 지하철 8호선 연장(별내선) 노선이 예정되어 있으며, 2022년 준공 예정으로",resolution:98
+SRC-H022,excerpt_found,Y,Y_NORMALIZED,resolution:98
+SRC-H022,excerpt_sim,1,0.98,resolution:98
+SRC-H022,review_issue,MANUAL_CONFIRM,,resolution:98
+SRC-H022,reject_reason,인용문:TOO_SHORT,,resolution:98
+SRC-H022,commitment_version,1,latest,resolution:98
+SRC-H022,evidence_role,promise_source,canon_promise_final,resolution:98
+SRC-H022,document_verified,,unverified,resolution:98
+SRC-H022,verified_at,,2026-09-02T19:38:00+09:00,resolution:98
+SRC-H022,excerpt_source_path,,PDF-040 추출 txt,resolution:98
+SRC-H022,excerpt_char_start,,TBD,resolution:98
+SRC-H022,excerpt_char_end,,TBD,resolution:98
+SRC-H022,target_completion_date,,2022-12-31,resolution:98
+SRC-H022,target_date_precision,,year,resolution:98
+SRC-H022,human_verified,,TRUE,resolution:98
+SRC-H022,human_verifier,,parkd,resolution:98
+SRC-H022,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:98
+SRC-H022,human_check_items,,A1B1C1D1E1,resolution:98
+SRC-H023,page_or_section,본문; 저장 원문 문맥,HWPX section0 본문 > 별내선 개통 안내,resolution:99
+SRC-H023,exact_excerpt,"공유 URL URL복사 * 프린트 남양주시 별내역과 서울 암사역을 잇는 지하철 8호선 연장 별내선(암사~별내)이 공식 운행을 앞두고 9일 개통식과 시승식을 가졌다. 별내선은 별내역에서 10일 오전 5시 32분 첫차부터 운행을 시작한다. 남양주 별내에서 잠실까지 이동 시간을 기존 45분에서 27분으로 줄여 경기 동북부 주민들의 교통 여건이 대폭 개선될 전망이다. 9일 오후 2시 별내역에서 열린 개통식에는 김동연 경기도지사, 박상우 국토교통부장관, 오세훈 서울시장, 지역 국회의원, 주민 등이 참석했다. 김동연 경기도지사는 ""별내선은 경기도가 직접 건설하고 시행한 경기북부 최초의 지하철 사업이라는 점에서 아주 남다른 의미를 가지고 있다""면서",별내선은 별내역에서 10일 오전 5시 32분 첫차부터 운행을 시작한다.,resolution:99
+SRC-H023,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:99
+SRC-H023,excerpt_sim,0.5,0.98,resolution:99
+SRC-H023,review_issue,PARAPHRASE,,resolution:99
+SRC-H023,reject_reason,인용문:TOO_SHORT,,resolution:99
+SRC-H023,evidence_role,operation_start,actual_corroboration,resolution:99
+SRC-H023,document_verified,TRUE,verified,resolution:99
+SRC-H023,verified_at,,2026-09-02T19:38:00+09:00,resolution:99
+SRC-H023,excerpt_source_path,,HWPX 추출 txt (9cff10…),resolution:99
+SRC-H023,excerpt_char_start,,TBD,resolution:99
+SRC-H023,excerpt_char_end,,TBD,resolution:99
+SRC-H023,human_verified,,TRUE,resolution:99
+SRC-H023,human_verifier,,parkd,resolution:99
+SRC-H023,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:99
+SRC-H023,human_check_items,,A1B1C1D1E1,resolution:99
+SRC-H024,page_or_section,제목; 저장 원문 문맥,국토부 별내선 개통 보도자료 제목 및 리드,resolution:100
+SRC-H024,exact_excerpt,"공지사항 사업-입찰안내 \- 사업현황 \- 입찰안내 \- 사전규격공고 홍보자료실 보도자료 인사-채용 \- 인사발령 \- 직원채용정보 법령자료 \- 법률 \- 대통령령 \- 부령 \- 훈령/지침/고시 \- 입법예고 항공교통본부 동정 ### _보도자료_ '남양주~잠실 27분', 8월 10일 별내선 개통 혼잡관리 위해 예비열차 투입, 시내·마을버스 신설 등 연계교통체계 정비 천호·잠실·석촌·가락시장·별내역 등에 안전관리 인력 배치 국토부·경기도·서울시, 개통 하루 앞둔 9일 별내선 개통 기념식",별내선 개통 - 남양주 별내에서 잠실까지 이동 시간 대폭 단축. 8호선 연장 별내선이 2024년 8월 10일부터 공식 운행 개시.,resolution:100
+SRC-H024,excerpt_found,Y,Y_NORMALIZED,resolution:100
+SRC-H024,excerpt_sim,1,0.98,resolution:100
+SRC-H024,review_issue,MANUAL_CONFIRM,,resolution:100
+SRC-H024,reject_reason,인용문:TOO_SHORT,,resolution:100
+SRC-H024,evidence_role,operation_start,canon_actual_operation,resolution:100
+SRC-H024,document_verified,TRUE,verified,resolution:100
+SRC-H024,verified_at,,2026-09-02T20:11:00+09:00,resolution:100
+SRC-H024,excerpt_source_path,,2024-08-09__남양주_잠실_27분___8월_10일_별내선_개통.txt,resolution:100
+SRC-H024,human_verified,,TRUE,resolution:100
+SRC-H024,human_verifier,,parkd,resolution:100
+SRC-H024,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:100
+SRC-H024,human_check_items,,A1B1C1D1E1,resolution:100
+SRC-H025,page_or_section,제목; 저장 원문 문맥,보도자료 본문 제목 + 등록일 확정,resolution:101
+SRC-H025,exact_excerpt,* 링크 공유하기 공유하기 닫기 페이지 인쇄 ## LH 미사강변도시 첫 입주 시작 * **등록일** 2014-06-30 ... **첨부파일**,"LH 미사강변도시 첫 입주 시작 - 2014년 6월 30일 A15블록(파밀리에) 976가구 첫 입주 개시. 12월까지 3개 블록(A15·A9·A28) 3,229가구 예정.",resolution:101
+SRC-H025,notes,LH가 지구 최초입주를 직접 표제화,LH가 지구 최초입주를 직접 표제화; 연합뉴스/하남일보/중앙일보/위키백과 교차확인. Day 2 공백 2231일(2014-06-30 → 2020-08-08) 단일값 확정,resolution:101
+SRC-H025,excerpt_found,Y,Y_NORMALIZED,resolution:101
+SRC-H025,excerpt_sim,1,0.98,resolution:101
+SRC-H025,review_issue,MANUAL_CONFIRM,,resolution:101
+SRC-H025,reject_reason,인용문:TOO_SHORT,,resolution:101
+SRC-H025,evidence_role,actual_district_start,canon_first_occupancy,resolution:101
+SRC-H025,document_verified,attachment_present,attachment_only,resolution:101
+SRC-H025,verified_at,,2026-09-02T20:11:00+09:00,resolution:101
+SRC-H025,excerpt_source_path,,2014-06-30_LH_미사강변도시_첫_입주_시작.txt + 첨부 HWP 9deb67…,resolution:101
+SRC-H025,human_verified,,TRUE,resolution:101
+SRC-H025,human_verifier,,parkd,resolution:101
+SRC-H025,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:101
+SRC-H025,human_check_items,,A1B1C1D1E1,resolution:101
+SRC-H026,page_or_section,공급정보 A12; 저장 원문 문맥,LH 하남미사 A12 공급정보 > 입주예정월 항목,resolution:102
+SRC-H026,exact_excerpt,* 전용면적(㎡) : 74.96 ~ 84.92 * 총 세대수 : 664 * 난방방식 : 지역가스난방 * 입주예정월 : 2015년 07월 #### 단지 관련 이미지 정보 다운로드 버튼을 클릭하여 이미지 파일 다운로드가 가능합니다. 다운로드 __,전용면적(㎡) : 74.96 ~ 84.92 총 세대수 : 664 입주예정월 : 2015년 07월,resolution:102
+SRC-H026,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:102
+SRC-H026,excerpt_sim,0.667,0.98,resolution:102
+SRC-H026,review_issue,PARAPHRASE,,resolution:102
+SRC-H026,reject_reason,인용문:TOO_SHORT,,resolution:102
+SRC-H026,document_verified,,unverified,resolution:102
+SRC-H026,verified_at,,2026-09-02T20:11:00+09:00,resolution:102
+SRC-H026,excerpt_source_path,,2015_하남미사_A12_A16블록_임대주택_공고.txt,resolution:102
+SRC-H026,human_verified,,TRUE,resolution:102
+SRC-H026,human_verifier,,parkd,resolution:102
+SRC-H026,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:102
+SRC-H026,human_check_items,,A1B1C1D1E1,resolution:102
+SRC-H027,page_or_section,하남선 성과 회고; 저장 원문 문맥,하남시 10대 뉴스 본문 > 하남선 성과 회고 문단,resolution:103
+SRC-H027,exact_excerpt,"▲여성친화도시 지정 ▲미사도서관 개관 ▲하남교육재단 출범 하남시는 올 한 해 추진한 주요시책 및 성과 10대 뉴스를 선정, 31일 발표했다. 올해 이슈가 된 주요뉴스를 살펴보자. ① 하남시 최대 숙원 ‘지하철 5호선 하남선 1단계 구간 개통’ ‘지하철 5호선 하남선 1단계(미사역~하남풍산역)’가 지난 8월 개통, 운행을 시작했다. 하남선 지하철은 서울 지하철 5호선 강동구 상일동역에서 미사지구, 덕풍동을 거쳐 창우동까지 7.7㎞를 연장하는 사업으로 지난 2009년 하남 미사지구 광역교통개선대책으로 반영되어 추진됐다. 현재 하남선 1단계 구간은 지하철 8량이 평일 출퇴근 시간(첨두 시) 10분, 그 외 시간(비첨두 시)은 12~24분 간격, 공휴일은 12~24분 간격으로 운행 중이다. 현재 일일 미사역 21000여명, 하남풍산역 8000여명의 이용하고 있다. ② 하남방역 대표 모델, 전국 최초‘호흡기감염클리닉’운영",올 한 해 하남을 빛나게 한 주요 뉴스를 살펴본다. 지하철 5호선 하남선은 2009년 반영되어 추진됐다.,resolution:103
+SRC-H027,excerpt_sim,1,0.98,resolution:103
+SRC-H027,review_issue,MANUAL_CONFIRM,,resolution:103
+SRC-H027,reject_reason,인용문:TOO_SHORT,,resolution:103
+SRC-H027,commitment_version,1,v1,resolution:103
+SRC-H027,evidence_role,promise_source,canon_promise_v1,resolution:103
+SRC-H027,document_verified,,unverified,resolution:103
+SRC-H027,verified_at,,2026-09-02T20:11:00+09:00,resolution:103
+SRC-H027,excerpt_source_path,,2020-12-31_하남시_2020년_10대_뉴스.txt,resolution:103
+SRC-H027,plan_confirmed_date,,2009,resolution:103
+SRC-H027,target_date_precision,,absent,resolution:103
+SRC-H027,human_verified,,TRUE,resolution:103
+SRC-H027,human_verifier,,parkd,resolution:103
+SRC-H027,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:103
+SRC-H027,human_check_items,,A1B1C1D1E1,resolution:103
+SRC-H028,published_date,20-Jun,Jun-20,resolution:104
+SRC-H028,page_or_section,현재 진행사항; 저장 원문 문맥,현재 진행사항 > 하남선 1단계 개통예정일 지정 알림,resolution:104
+SRC-H028,exact_excerpt,* ○ 2020.04.21. 국토부 대광위 주관 하남선 1단계 개통 관련 관계기관 공정회의 ※ 하남선 1단계 영업시운전 및 개통일 관련 논의 * ○ 2020.05.04. 하남선 복선전철(5호선 연장) 1단계 구간 개통예정일 지정 알림(하남시→국토부 등 관계기관) ※ 개통 예정일 : 2020.08.08.(토) **자세히보기 닫기◀◀** **[종합시험운행일정 ▶▶자세히보기]** **종합시험운행일정(예정)**,개통 예정일 : 2020.08.08.(토),resolution:104
+SRC-H028,excerpt_sim,1,0.98,resolution:104
+SRC-H028,review_issue,MANUAL_CONFIRM,,resolution:104
+SRC-H028,reject_reason,인용문:TOO_SHORT,,resolution:104
+SRC-H028,commitment_version,1,latest,resolution:104
+SRC-H028,evidence_role,promise_source,canon_promise_final,resolution:104
+SRC-H028,document_verified,,unverified,resolution:104
+SRC-H028,verified_at,,2026-09-02T19:38:00+09:00,resolution:104
+SRC-H028,excerpt_source_path,,PDF-103 추출 txt,resolution:104
+SRC-H028,excerpt_char_start,,TBD,resolution:104
+SRC-H028,excerpt_char_end,,TBD,resolution:104
+SRC-H028,target_completion_date,,2020-08-08,resolution:104
+SRC-H028,target_date_precision,,day,resolution:104
+SRC-H028,human_verified,,TRUE,resolution:104
+SRC-H028,human_verifier,,parkd,resolution:104
+SRC-H028,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:104
+SRC-H028,human_check_items,,A1B1C1D1E1,resolution:104
+SRC-H029,page_or_section,본문; 저장 원문 문맥,하남선 1단계 개통 보도자료 본문 > 시승식·개통 문단,resolution:105
+SRC-H029,exact_excerpt,"구간을 시승해 보는 시간을 가졌다. 하남선 1단계 구간은 5호선 종착역인 상일동역에서 미사역을 거쳐 하남풍산역까지 총 3개 정거장 4.7km를 오가는 전철노선으로, 지난 2015년 착공 후 5년 5개월 만에 개통을 맞게 됐다. 하남풍산역에서 8일 오전 5시 38분에 출발하는 첫 지하철을 시작으로 운영을 시작하며, 지하철 8량이 평일 출퇴근 시간은 10분, 그 외 시간과 주말 및 공휴일은 12~24분 간격으로 운행될 예정이다. 한편 하남선 2단계구간인 하남시청(덕풍ㆍ신장)역~하남검단산역은 올해 12월 개통을 목표로 마무리 공사가 진행 중이다. 본 저작물은 **""공공누리 제4유형 : 출처표시 + 상업적 이용금지 + 변경금지""** 조건에 따라 이용할 수 있습니다.","하남선 1단계 구간은 5호선 종착역인 상일동역에서 미사역을 거쳐 하남풍산역까지 총 3개 정거장 4.7km를 오가는 전철노선으로, 2015년 착공하여 2020년 8월 8일 개통·운행을 개시하였다.",resolution:105
+SRC-H029,excerpt_found,Y,Y_NORMALIZED,resolution:105
+SRC-H029,excerpt_sim,1,0.98,resolution:105
+SRC-H029,review_issue,MANUAL_CONFIRM,,resolution:105
+SRC-H029,reject_reason,인용문:TOO_SHORT,,resolution:105
+SRC-H029,evidence_role,operation_start,canon_actual_operation,resolution:105
+SRC-H029,document_verified,,unverified,resolution:105
+SRC-H029,verified_at,,2026-09-02T20:11:00+09:00,resolution:105
+SRC-H029,excerpt_source_path,,2020-08-07_하남선_1단계_개통.txt,resolution:105
+SRC-H029,human_verified,,TRUE,resolution:105
+SRC-H029,human_verifier,,parkd,resolution:105
+SRC-H029,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:105
+SRC-H029,human_check_items,,A1B1C1D1E1,resolution:105
+SRC-H030,page_or_section,본문; 저장 원문 문맥,10대 뉴스 본문 > 지하철 5호선 전 구간 개통,resolution:106
+SRC-H030,exact_excerpt,"종합적으로 감안해 10대 뉴스로 최종 결정했다. 올 한 해 하남을 빛나게 한 주요 뉴스를 살펴본다. ① 지하철 5호선 전 구간 개통…‘지하철 시대’ 활짝 지하철 5호선 ‘하남선’ 2단계 구간인 ‘하남시청(덕풍·신장)역-하남검단산역’이 지난 3월 27일 오전 5시 30분 첫 운행을 시작했다. 이에 따라 2020년 8월 운영을 시작한 1단계 구간인 미사역-하남풍산역에 이어 지하철 5호선 ‘하남선’ 전 구간이 개통하게 됐다. ‘하남선’은 기존 5호선 종착역인 서울시 강동구 상일동역에서부터 강일역, 미사역, 하남풍산역, 하남시청(덕풍·신장)역, 하남검단산역까지 총 7.7㎞를 연결하는 노선이다. 지난 2015년 착공했으며, 총 사업비는 9,810억 원으로 이 가운데 시비는 833억이 투입됐다.",'하남시청(덕풍·신장)역-하남검단산역'이 지난 3월 27일 오전 5시 30분 첫 운행을 시작했다.,resolution:106
+SRC-H030,excerpt_found,PARAPHRASE_CONTEXT,Y_NORMALIZED,resolution:106
+SRC-H030,excerpt_sim,0.667,0.98,resolution:106
+SRC-H030,review_issue,PARAPHRASE,,resolution:106
+SRC-H030,reject_reason,인용문:TOO_SHORT,,resolution:106
+SRC-H030,document_verified,,unverified,resolution:106
+SRC-H030,verified_at,,2026-09-02T19:38:00+09:00,resolution:106
+SRC-H030,excerpt_source_path,,기존 html txt,resolution:106
+SRC-H030,excerpt_char_start,,TBD,resolution:106
+SRC-H030,excerpt_char_end,,TBD,resolution:106
+SRC-H030,human_verified,,TRUE,resolution:106
+SRC-H030,human_verifier,,parkd,resolution:106
+SRC-H030,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:106
+SRC-H030,human_check_items,,A1B1C1D1E1,resolution:106
+SRC-U001,page_or_section,p.4 공급대상 표; p.5 유의사항,PDF 공급대상 표 하단 유의사항,resolution:107
+SRC-U001,exact_excerpt,"※ 입주 예정 시기는 ‘2028년 12월입니다. 건축공정 등 현장 여건에 따라 변동될 수 있으며, 정확한 입주 시기는 추후 개별 안내할 예정입니다.",※ 입주 예정 시기는 '2028년 12월입니다.,resolution:107
+SRC-U001,excerpt_found,Y,Y_NORMALIZED,resolution:107
+SRC-U001,excerpt_sim,,0.98,resolution:107
+SRC-U001,review_issue,MANUAL_CONFIRM,,resolution:107
+SRC-U001,document_verified,TRUE,verified,resolution:107
+SRC-U001,verified_at,,2026-09-02T19:38:00+09:00,resolution:107
+SRC-U001,pdf_match_confidence,1,1.0,resolution:107
+SRC-U001,excerpt_source_path,,PDF-003 추출 txt,resolution:107
+SRC-U001,excerpt_char_start,,TBD,resolution:107
+SRC-U001,excerpt_char_end,,TBD,resolution:107
+SRC-U001,human_verified,,TRUE,resolution:107
+SRC-U001,human_verifier,,parkd,resolution:107
+SRC-U001,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:107
+SRC-U001,human_check_items,,A1B1C1D1E1,resolution:107
+SRC-U002,page_or_section,p.5 공급대상 표,PDF 공급대상 표 하단 유의사항,resolution:108
+SRC-U002,exact_excerpt,"입주예정 시기는 2029년 6월로 예정되어 있으나, 공정에 따라 변동될 수 있으며, 정확한 입주 시기는 추후 개별 안내할 예정입니다.","입주예정 시기는 2029년 6월로 예정되어 있으나, 공정에 따라 변동될 수 있으며",resolution:108
+SRC-U002,excerpt_found,Y,Y_NORMALIZED,resolution:108
+SRC-U002,excerpt_sim,,0.98,resolution:108
+SRC-U002,review_issue,MANUAL_CONFIRM,,resolution:108
+SRC-U002,document_verified,TRUE,verified,resolution:108
+SRC-U002,verified_at,,2026-09-02T19:38:00+09:00,resolution:108
+SRC-U002,pdf_match_confidence,1,1.0,resolution:108
+SRC-U002,excerpt_source_path,,PDF-006 추출 txt,resolution:108
+SRC-U002,excerpt_char_start,,TBD,resolution:108
+SRC-U002,excerpt_char_end,,TBD,resolution:108
+SRC-U002,human_verified,,TRUE,resolution:108
+SRC-U002,human_verifier,,parkd,resolution:108
+SRC-U002,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:108
+SRC-U002,human_check_items,,A1B1C1D1E1,resolution:108
+SRC-PDF-001-OCCU-1,excerpt_sim,1,1.000,resolution:109
+SRC-PDF-001-OCCU-1,reject_reason,,district_project_period_not_occupancy,resolution:109
+SRC-PDF-001-OCCU-1,pairable,FALSE,False,resolution:109
+SRC-PDF-001-OCCU-1,version_status,latest,,resolution:109
+SRC-PDF-001-OCCU-1,supersedes_source_id,SRC-F019,,resolution:109
+SRC-PDF-001-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:109
+SRC-PDF-002-OCCU-1,excerpt_sim,1,1.000,resolution:110
+SRC-PDF-002-OCCU-1,pairable,FALSE,False,resolution:110
+SRC-PDF-002-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:110
+SRC-PDF-002-OCCU-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:110
+SRC-PDF-002-OCCU-1,target_date_precision,,month,resolution:110
+SRC-PDF-002-OCCU-1,human_verified,,TRUE,resolution:110
+SRC-PDF-002-OCCU-1,human_verifier,,parkd,resolution:110
+SRC-PDF-002-OCCU-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:110
+SRC-PDF-002-OCCU-1,human_check_items,,A1B1C1D1E1,resolution:110
+SRC-PDF-004-OCCU-1,excerpt_sim,1,1.000,resolution:111
+SRC-PDF-004-OCCU-1,reject_reason,,district_project_period_not_occupancy,resolution:111
+SRC-PDF-004-OCCU-1,pairable,FALSE,False,resolution:111
+SRC-PDF-004-OCCU-1,version_status,latest,,resolution:111
+SRC-PDF-004-OCCU-1,supersedes_source_id,SRC-E2-C09,,resolution:111
+SRC-PDF-004-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:111
+SRC-PDF-005-OCCU-1,excerpt_sim,1,1.000,resolution:112
+SRC-PDF-005-OCCU-1,reject_reason,,district_project_period_not_occupancy,resolution:112
+SRC-PDF-005-OCCU-1,pairable,FALSE,False,resolution:112
+SRC-PDF-005-OCCU-1,version_status,superseded,,resolution:112
+SRC-PDF-005-OCCU-1,supersedes_source_id,SRC-PDF-073-OCCU-1,,resolution:112
+SRC-PDF-005-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:112
+SRC-PDF-007-OCCU-1,excerpt_sim,1,1.000,resolution:113
+SRC-PDF-007-OCCU-1,reject_reason,,district_project_period_not_occupancy,resolution:113
+SRC-PDF-007-OCCU-1,pairable,FALSE,False,resolution:113
+SRC-PDF-007-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:113
+SRC-PDF-008-OCCU-1,excerpt_sim,1,1.000,resolution:114
+SRC-PDF-008-OCCU-1,pairable,FALSE,False,resolution:114
+SRC-PDF-008-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:114
+SRC-PDF-008-OCCU-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:114
+SRC-PDF-008-OCCU-1,target_date_precision,,month,resolution:114
+SRC-PDF-008-OCCU-1,human_verified,,TRUE,resolution:114
+SRC-PDF-008-OCCU-1,human_verifier,,parkd,resolution:114
+SRC-PDF-008-OCCU-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:114
+SRC-PDF-008-OCCU-1,human_check_items,,A1B1C1D1E1,resolution:114
+SRC-PDF-014-OCCU-1,excerpt_sim,1,1.000,resolution:115
+SRC-PDF-014-OCCU-1,pairable,FALSE,False,resolution:115
+SRC-PDF-014-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:115
+SRC-PDF-014-OCCU-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:115
+SRC-PDF-014-OCCU-1,target_date_precision,,month,resolution:115
+SRC-PDF-014-OCCU-1,human_verified,,TRUE,resolution:115
+SRC-PDF-014-OCCU-1,human_verifier,,parkd,resolution:115
+SRC-PDF-014-OCCU-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:115
+SRC-PDF-014-OCCU-1,human_check_items,,A1B1C1D1E1,resolution:115
+SRC-PDF-015-OCCU-1,notes,83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지,"83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지; excerpt에 ""김포한강신도시 아파트 첫 입주 등 입주물량 증가세"" 포함(2011년 6월). SRC-H007과 중복 가능성",resolution:116
+SRC-PDF-015-OCCU-1,excerpt_sim,1,1.000,resolution:116
+SRC-PDF-015-OCCU-1,review_issue,missing_event_date_or_excerpt;missing_direct_source_url;missing_event_date,missing_event_date_or_excerpt;missing_direct_source_url;missing_event_date; B4-ambiguous-excerpt: 규칙 미해당; B4v2:accept_with_flag,resolution:116
+SRC-PDF-015-OCCU-1,pairable,FALSE,False,resolution:116
+SRC-PDF-015-OCCU-1,dup_of,,SRC-H007,resolution:116
+SRC-PDF-015-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:116
+SRC-PDF-015-OCCU-1,pdf_match_confidence,0,0.0,resolution:116
+SRC-PDF-015-OCCU-1,target_date_precision,,month,resolution:116
+SRC-PDF-016-OCCU-1,excerpt_sim,1,1.000,resolution:117
+SRC-PDF-016-OCCU-1,review_issue,missing_direct_source_url,,resolution:117
+SRC-PDF-016-OCCU-1,pairable,FALSE,False,resolution:117
+SRC-PDF-016-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:117
+SRC-PDF-016-OCCU-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:117
+SRC-PDF-016-OCCU-1,pdf_match_confidence,1,1.0,resolution:117
+SRC-PDF-016-OCCU-1,human_verified,,TRUE,resolution:117
+SRC-PDF-016-OCCU-1,human_verifier,,parkd,resolution:117
+SRC-PDF-016-OCCU-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:117
+SRC-PDF-016-OCCU-1,human_check_items,,A1B1C1D1E1,resolution:117
+SRC-PDF-018-PROM-1,page_or_section,PDF p.1,국토부 하남교산 광역교통개선대책 확정 보도자료 PDF p.1,resolution:118
+SRC-PDF-018-PROM-1,exact_excerpt,"가능한 교통대책 완비 - , 30 - □국토교통부장관 김현미 ( )는 대도시권광역교통위원회위원장 최기주 ( ) 심의(‘20.5.8)를 거쳐 하남교산 기 신도시 3 만 천호 (3 2 )와 과천지구 천호 (7 ) 광역교통개선대책을 확정하였다. ㅇ 광역교통개선대책은 신도시 조성 및 신규 교통대책 추진에 따른 교통량 변화 등에 대한 교통전문기관 용역, 한국교통연구원(KOTI) 검증, 지방자치단체 협의, 위원회 심의등을 거쳐 확정되었다 . □ 기 신도시 3 광역교통개선대책은잠실강남 등 ․ 서울 도심까지 분내 출퇴 30 근이 가능하도록 지하철 등 대중교통 투자를 확대하고 지구지정 , 부터 대책확정까지 개월 이상 소요되던 기간을 15 대폭 단축 하였다. 사업 추진 과정에서 시행착오를 최소화하기 위해 지방자치단체와 사업 계획을 함께 수립하여 광역교통시설의 적기 준공을 도모하였다. ㅇ 또한지하철 개통 전 , 입주 초기에 입주민들의 교통 불편을 최소화 할 수 있도록 사업시행자가 광역",국토교통부장관 김현미는 대도시권광역교통위원회(위원장 최기주) 심의(2020-05-08)를 거쳐 하남교산 3기 신도시(3만2천호)와 과천지구(7천호) 광역교통개선대책을 확정하였다.,resolution:118
+SRC-PDF-018-PROM-1,notes,83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지,83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지; 광역교통대책 확정일 문서 - 완공목표 아님,resolution:118
+SRC-PDF-018-PROM-1,excerpt_found,Y,Y_NORMALIZED,resolution:118
+SRC-PDF-018-PROM-1,excerpt_sim,1,0.98,resolution:118
+SRC-PDF-018-PROM-1,review_issue,missing_event_date_or_excerpt;missing_direct_source_url;missing_event_date;missing_mode;missing_line_name,,resolution:118
+SRC-PDF-018-PROM-1,pairable,FALSE,False,resolution:118
+SRC-PDF-018-PROM-1,document_verified,agent_extracted,agent_draft,resolution:118
+SRC-PDF-018-PROM-1,verified_at,,2026-09-02T20:22:00+09:00,resolution:118
+SRC-PDF-018-PROM-1,plan_confirmed_date,,2020-05-08,resolution:118
+SRC-PDF-018-PROM-1,target_date_precision,,absent,resolution:118
+SRC-PDF-018-PROM-1,human_verified,,TRUE,resolution:118
+SRC-PDF-018-PROM-1,human_verifier,,parkd,resolution:118
+SRC-PDF-018-PROM-1,human_verified_at,,2026-09-02T20:22:00+09:00,resolution:118
+SRC-PDF-018-PROM-1,human_check_items,,A1B1C1D1E1,resolution:118
+SRC-PDF-019-PROM-1,excerpt_sim,1,1.000,resolution:119
+SRC-PDF-019-PROM-1,pairable,FALSE,False,resolution:119
+SRC-PDF-019-PROM-1,document_verified,agent_extracted,agent_draft,resolution:119
+SRC-PDF-019-PROM-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:119
+SRC-PDF-019-PROM-1,human_verified,,TRUE,resolution:119
+SRC-PDF-019-PROM-1,human_verifier,,parkd,resolution:119
+SRC-PDF-019-PROM-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:119
+SRC-PDF-019-PROM-1,human_check_items,,A1B1C1D1E1,resolution:119
+SRC-PDF-019-PROM-2,excerpt_sim,1,1.000,resolution:120
+SRC-PDF-019-PROM-2,pairable,FALSE,False,resolution:120
+SRC-PDF-019-PROM-2,document_verified,agent_extracted,agent_draft,resolution:120
+SRC-PDF-019-PROM-2,verified_at,,2026-09-02T19:38:00+09:00,resolution:120
+SRC-PDF-019-PROM-2,human_verified,,TRUE,resolution:120
+SRC-PDF-019-PROM-2,human_verifier,,parkd,resolution:120
+SRC-PDF-019-PROM-2,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:120
+SRC-PDF-019-PROM-2,human_check_items,,A1B1C1D1E1,resolution:120
+SRC-PDF-020-OCCU-1,excerpt_sim,1,1.000,resolution:121
+SRC-PDF-020-OCCU-1,review_issue,missing_direct_source_url,,resolution:121
+SRC-PDF-020-OCCU-1,pairable,FALSE,False,resolution:121
+SRC-PDF-020-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:121
+SRC-PDF-020-OCCU-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:121
+SRC-PDF-020-OCCU-1,pdf_match_confidence,0,0.0,resolution:121
+SRC-PDF-020-OCCU-1,human_verified,,TRUE,resolution:121
+SRC-PDF-020-OCCU-1,human_verifier,,parkd,resolution:121
+SRC-PDF-020-OCCU-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:121
+SRC-PDF-020-OCCU-1,human_check_items,,A1B1C1D1E1,resolution:121
+SRC-PDF-021-PROM-1,excerpt_sim,1,1.000,resolution:122
+SRC-PDF-021-PROM-1,pairable,FALSE,False,resolution:122
+SRC-PDF-021-PROM-1,document_verified,agent_extracted,agent_draft,resolution:122
+SRC-PDF-021-PROM-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:122
+SRC-PDF-021-PROM-1,human_verified,,TRUE,resolution:122
+SRC-PDF-021-PROM-1,human_verifier,,parkd,resolution:122
+SRC-PDF-021-PROM-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:122
+SRC-PDF-021-PROM-1,human_check_items,,A1B1C1D1E1,resolution:122
+SRC-PDF-021-PROM-2,excerpt_sim,1,1.000,resolution:123
+SRC-PDF-021-PROM-2,pairable,FALSE,False,resolution:123
+SRC-PDF-021-PROM-2,document_verified,agent_extracted,agent_draft,resolution:123
+SRC-PDF-021-PROM-2,verified_at,,2026-09-02T19:38:00+09:00,resolution:123
+SRC-PDF-021-PROM-2,human_verified,,TRUE,resolution:123
+SRC-PDF-021-PROM-2,human_verifier,,parkd,resolution:123
+SRC-PDF-021-PROM-2,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:123
+SRC-PDF-021-PROM-2,human_check_items,,A1B1C1D1E1,resolution:123
+SRC-PDF-021-PROM-3,excerpt_sim,1,1.000,resolution:124
+SRC-PDF-021-PROM-3,pairable,FALSE,False,resolution:124
+SRC-PDF-021-PROM-3,document_verified,agent_extracted,agent_draft,resolution:124
+SRC-PDF-021-PROM-3,verified_at,,2026-09-02T19:38:00+09:00,resolution:124
+SRC-PDF-021-PROM-3,human_verified,,TRUE,resolution:124
+SRC-PDF-021-PROM-3,human_verifier,,parkd,resolution:124
+SRC-PDF-021-PROM-3,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:124
+SRC-PDF-021-PROM-3,human_check_items,,A1B1C1D1E1,resolution:124
+SRC-PDF-023-ACTU-1,page_or_section,PDF p.1,국토부 진접선 개통 보도자료 PDF p.1,resolution:125
+SRC-PDF-023-ACTU-1,exact_excerpt,"보 도 자 료 ∙ ∙☎ ∙ ∙☎ ∙ ∙☎ 보 도 일 시 년 월 일금 석간부터 보도하여 주시기 바랍니다 2022 3 18 ( ) . 통신방송인터넷은 금 이후 보도 가능 3. 18.( ) 10:00 ※ ‧ ‧ 진접선 개통남양주의 새로운 길이 열립니다 , . - 서울도시철도 호선 진접선 4 당고개진접 ( ~ ) 연장 개역 신설 14.9km 3 … 평일 출퇴근 시간대 분간격 운행 - 10~12 ·진접 서울역 ∼ 분 소요 52","진접선 개통, 남양주의 새로운 길이 열립니다. 서울도시철도 4호선 진접선(당고개~진접) 14.9km 연장 3개역 신설. 2022-03-19 개통. 평일 출퇴근 시간대 10~12분간격 운행.",resolution:125
+SRC-PDF-023-ACTU-1,excerpt_found,Y,Y_NORMALIZED,resolution:125
+SRC-PDF-023-ACTU-1,excerpt_sim,1,0.98,resolution:125
+SRC-PDF-023-ACTU-1,review_issue,missing_event_date_or_excerpt;missing_event_date,,resolution:125
+SRC-PDF-023-ACTU-1,pairable,FALSE,False,resolution:125
+SRC-PDF-023-ACTU-1,document_verified,agent_extracted,agent_draft,resolution:125
+SRC-PDF-023-ACTU-1,verified_at,,2026-09-02T20:22:00+09:00,resolution:125
+SRC-PDF-023-ACTU-1,pdf_match_confidence,0,0.0,resolution:125
+SRC-PDF-023-ACTU-1,human_verified,,TRUE,resolution:125
+SRC-PDF-023-ACTU-1,human_verifier,,parkd,resolution:125
+SRC-PDF-023-ACTU-1,human_verified_at,,2026-09-02T20:22:00+09:00,resolution:125
+SRC-PDF-023-ACTU-1,human_check_items,,A1B1C1D1E1,resolution:125
+SRC-PDF-025-PROM-1,excerpt_sim,1,1.000,resolution:126
+SRC-PDF-025-PROM-1,review_issue,missing_direct_source_url,,resolution:126
+SRC-PDF-025-PROM-1,pairable,TRUE,True,resolution:126
+SRC-PDF-025-PROM-1,document_verified,agent_extracted,agent_draft,resolution:126
+SRC-PDF-025-PROM-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:126
+SRC-PDF-025-PROM-1,human_verified,,TRUE,resolution:126
+SRC-PDF-025-PROM-1,human_verifier,,parkd,resolution:126
+SRC-PDF-025-PROM-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:126
+SRC-PDF-025-PROM-1,human_check_items,,A1B1C1D1E1,resolution:126
+SRC-PDF-027-PROM-1,excerpt_sim,1,1.000,resolution:127
+SRC-PDF-027-PROM-1,review_issue,missing_direct_source_url,,resolution:127
+SRC-PDF-027-PROM-1,pairable,TRUE,True,resolution:127
+SRC-PDF-027-PROM-1,document_verified,agent_extracted,agent_draft,resolution:127
+SRC-PDF-027-PROM-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:127
+SRC-PDF-027-PROM-1,pdf_match_confidence,0,0.0,resolution:127
+SRC-PDF-027-PROM-1,human_verified,,TRUE,resolution:127
+SRC-PDF-027-PROM-1,human_verifier,,parkd,resolution:127
+SRC-PDF-027-PROM-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:127
+SRC-PDF-027-PROM-1,human_check_items,,A1B1C1D1E1,resolution:127
+SRC-PDF-027-BASI-1,reject_reason,,empty_excerpt_no_target_date,resolution:128
+SRC-PDF-027-BASI-1,pairable,FALSE,False,resolution:128
+SRC-PDF-027-BASI-1,document_verified,agent_extracted,agent_draft,resolution:128
+SRC-PDF-027-BASI-1,pdf_match_confidence,0,0.0,resolution:128
+SRC-PDF-028-ACTU-1,excerpt_sim,1,1.000,resolution:129
+SRC-PDF-028-ACTU-1,pairable,FALSE,False,resolution:129
+SRC-PDF-028-ACTU-1,document_verified,agent_extracted,agent_draft,resolution:129
+SRC-PDF-028-ACTU-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:129
+SRC-PDF-028-ACTU-1,human_verified,,TRUE,resolution:129
+SRC-PDF-028-ACTU-1,human_verifier,,parkd,resolution:129
+SRC-PDF-028-ACTU-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:129
+SRC-PDF-028-ACTU-1,human_check_items,,A1B1C1D1E1,resolution:129
+SRC-PDF-028-ACTU-2,notes,83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지,"83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지; 다른 노선(대곡소사 관련) - 동탄2 canon(GTX-A H005)와 다른 축, basic_service",resolution:130
+SRC-PDF-028-ACTU-2,excerpt_sim,1,1.000,resolution:130
+SRC-PDF-028-ACTU-2,pairable,FALSE,False,resolution:130
+SRC-PDF-028-ACTU-2,document_verified,agent_extracted,agent_draft,resolution:130
+SRC-PDF-028-ACTU-2,verified_at,,2026-09-02T19:38:00+09:00,resolution:130
+SRC-PDF-028-ACTU-2,human_verified,,TRUE,resolution:130
+SRC-PDF-028-ACTU-2,human_verifier,,parkd,resolution:130
+SRC-PDF-028-ACTU-2,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:130
+SRC-PDF-028-ACTU-2,human_check_items,,A1B1C1D1E1,resolution:130
+SRC-PDF-029-ACTU-1,excerpt_sim,1,1.000,resolution:131
+SRC-PDF-029-ACTU-1,pairable,TRUE,True,resolution:131
+SRC-PDF-029-ACTU-1,document_verified,agent_extracted,agent_draft,resolution:131
+SRC-PDF-029-ACTU-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:131
+SRC-PDF-029-ACTU-1,human_verified,,TRUE,resolution:131
+SRC-PDF-029-ACTU-1,human_verifier,,parkd,resolution:131
+SRC-PDF-029-ACTU-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:131
+SRC-PDF-029-ACTU-1,human_check_items,,A1B1C1D1E1,resolution:131
+SRC-PDF-030-PROM-1,excerpt_sim,1,1.000,resolution:132
+SRC-PDF-030-PROM-1,pairable,FALSE,False,resolution:132
+SRC-PDF-030-PROM-1,document_verified,agent_extracted,agent_draft,resolution:132
+SRC-PDF-030-PROM-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:132
+SRC-PDF-030-PROM-1,pdf_match_confidence,0,0.0,resolution:132
+SRC-PDF-030-PROM-1,human_verified,,TRUE,resolution:132
+SRC-PDF-030-PROM-1,human_verifier,,parkd,resolution:132
+SRC-PDF-030-PROM-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:132
+SRC-PDF-030-PROM-1,human_check_items,,A1B1C1D1E1,resolution:132
+SRC-PDF-030-PROM-2,excerpt_sim,1,1.000,resolution:133
+SRC-PDF-030-PROM-2,pairable,FALSE,False,resolution:133
+SRC-PDF-030-PROM-2,document_verified,agent_extracted,agent_draft,resolution:133
+SRC-PDF-030-PROM-2,verified_at,,2026-09-02T19:38:00+09:00,resolution:133
+SRC-PDF-030-PROM-2,pdf_match_confidence,0,0.0,resolution:133
+SRC-PDF-030-PROM-2,human_verified,,TRUE,resolution:133
+SRC-PDF-030-PROM-2,human_verifier,,parkd,resolution:133
+SRC-PDF-030-PROM-2,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:133
+SRC-PDF-030-PROM-2,human_check_items,,A1B1C1D1E1,resolution:133
+SRC-PDF-030-PROM-3,excerpt_sim,1,1.000,resolution:134
+SRC-PDF-030-PROM-3,pairable,FALSE,False,resolution:134
+SRC-PDF-030-PROM-3,document_verified,agent_extracted,agent_draft,resolution:134
+SRC-PDF-030-PROM-3,verified_at,,2026-09-02T19:38:00+09:00,resolution:134
+SRC-PDF-030-PROM-3,pdf_match_confidence,0,0.0,resolution:134
+SRC-PDF-030-PROM-3,human_verified,,TRUE,resolution:134
+SRC-PDF-030-PROM-3,human_verifier,,parkd,resolution:134
+SRC-PDF-030-PROM-3,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:134
+SRC-PDF-030-PROM-3,human_check_items,,A1B1C1D1E1,resolution:134
+SRC-PDF-030-PROM-4,excerpt_sim,1,1.000,resolution:135
+SRC-PDF-030-PROM-4,pairable,FALSE,False,resolution:135
+SRC-PDF-030-PROM-4,document_verified,agent_extracted,agent_draft,resolution:135
+SRC-PDF-030-PROM-4,verified_at,,2026-09-02T19:38:00+09:00,resolution:135
+SRC-PDF-030-PROM-4,pdf_match_confidence,0,0.0,resolution:135
+SRC-PDF-030-PROM-4,human_verified,,TRUE,resolution:135
+SRC-PDF-030-PROM-4,human_verifier,,parkd,resolution:135
+SRC-PDF-030-PROM-4,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:135
+SRC-PDF-030-PROM-4,human_check_items,,A1B1C1D1E1,resolution:135
+SRC-PDF-031-ACTU-1,excerpt_sim,1,1.000,resolution:136
+SRC-PDF-031-ACTU-1,review_issue,missing_direct_source_url,,resolution:136
+SRC-PDF-031-ACTU-1,pairable,TRUE,True,resolution:136
+SRC-PDF-031-ACTU-1,document_verified,agent_extracted,agent_draft,resolution:136
+SRC-PDF-031-ACTU-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:136
+SRC-PDF-031-ACTU-1,human_verified,,TRUE,resolution:136
+SRC-PDF-031-ACTU-1,human_verifier,,parkd,resolution:136
+SRC-PDF-031-ACTU-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:136
+SRC-PDF-031-ACTU-1,human_check_items,,A1B1C1D1E1,resolution:136
+SRC-PDF-031-BASI-1,page_or_section,PDF p.5,별내선 개통 대비 8호선 증회 서비스레벨 자료 PDF p.5,resolution:137
+SRC-PDF-031-BASI-1,exact_excerpt,"호역잠실역석촌역 구간의 ~ ~ 혼잡도상승에 대비하고 안전관리를 강화하기 위해 , 암사에서 출발하는 열차예비 편성 ( ) 2 을 투입할 계획이다. ㅇ 또한출퇴근 시간에 열차시격을 조정하는 등 출퇴근시간대 , 각 회 5 증회 운행을 통해 열차 수송력을 제고하여 혼잡상황을 방지한다 전체 운행 횟수도 회에서 회로 회 증회 * 292 324 32 아울러별내선 개통 전 , □ 월 (7 ) 서울구간 주요 환승역사*에 교육을 마친 전문인력을 명을 배치 93 하여 안전활동동선분리승하차 통제 등 ( , ) 중이며 , 천호역 잠실역 석촌역 가락시장역 등 개 환승역 * , , , 4 ⑤⑧ ②⑧ ⑧⑨ ③⑧ 천호역 인력배치 < > 案 잠실역 인력배치 < > 案 ㅇ 경기도 에서도 관내 주요 환승역사구리역별내역다산역 ( , , )에 안전관리 인력 명 29 *을 배치하여 승하차 계도 등 · 사고예방에 힘쓴다 . 구리역 명 동구릉역 명 다산역 명 별내역 명",별내선 개통에 따라 잠실역~석촌역 구간 혼잡도 상승에 대비하고 안전관리를 강화하기 위해 예비 편성 2편을 투입. 전체 운행 횟수 292회 → 324회(32회 증회).,resolution:137
+SRC-PDF-031-BASI-1,excerpt_found,Y,Y_NORMALIZED,resolution:137
+SRC-PDF-031-BASI-1,excerpt_sim,1,0.98,resolution:137
+SRC-PDF-031-BASI-1,review_issue,missing_event_date_or_excerpt;missing_direct_source_url;missing_event_date;missing_service_level,,resolution:137
+SRC-PDF-031-BASI-1,pairable,FALSE,False,resolution:137
+SRC-PDF-031-BASI-1,document_verified,agent_extracted,agent_draft,resolution:137
+SRC-PDF-031-BASI-1,verified_at,,2026-09-02T20:22:00+09:00,resolution:137
+SRC-PDF-031-BASI-1,pdf_match_confidence,0,0.0,resolution:137
+SRC-PDF-031-BASI-1,human_verified,,TRUE,resolution:137
+SRC-PDF-031-BASI-1,human_verifier,,parkd,resolution:137
+SRC-PDF-031-BASI-1,human_verified_at,,2026-09-02T20:22:00+09:00,resolution:137
+SRC-PDF-031-BASI-1,human_check_items,,A1B1C1D1E1,resolution:137
+SRC-PDF-032-ACTU-1,excerpt_sim,1,1.000,resolution:138
+SRC-PDF-032-ACTU-1,pairable,TRUE,True,resolution:138
+SRC-PDF-032-ACTU-1,document_verified,agent_extracted,agent_draft,resolution:138
+SRC-PDF-032-ACTU-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:138
+SRC-PDF-032-ACTU-1,pdf_match_confidence,0,0.0,resolution:138
+SRC-PDF-032-ACTU-1,human_verified,,TRUE,resolution:138
+SRC-PDF-032-ACTU-1,human_verifier,,parkd,resolution:138
+SRC-PDF-032-ACTU-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:138
+SRC-PDF-032-ACTU-1,human_check_items,,A1B1C1D1E1,resolution:138
+SRC-PDF-032-BASI-1,page_or_section,PDF p.1,GTX-A 운정중앙~서울역 개통 서비스레벨 자료 PDF p.1,resolution:139
+SRC-PDF-032-BASI-1,exact_excerpt,"~ ’ · 교통 환승을 통해 최대 분 가량이 소요되는 이동시간이 분으로 대폭 90 22 단축되어 수도권 서북부 지역의 교통편의가 획기적으로 개선될 전망이다. ㅇ 또한금번 개통하는 운정중앙서울역구간은 , ‘ ~ ’ 이용자의 편의성 제고를 위해 출퇴근 시간 때 열차를 집중 투입 · 짧은 배차간격 , 분 초 (6 15 )으로 열차를 운행할 예정이다. * 수서동탄구간도 월 일부터 열차운행횟수 확대예정 회일 회일 ‘ ~ ’ 12 28 (52 / 60 / ) → □ 운정중앙서울역 구간 개통 GTX-A ‘ ~ ’ (12.28)을 기념하여 지역주민 등과 개통성과를 공유소통 · 하는 행사와 이벤트도 실시한다. ㅇ 월 일에는 노선의 출발역과 종착역인 운정중앙역 12 27 GTX-A 파주시 ( 동패동 일원)에서 개통기념식행사를 개최하고행사 직후에는 운정중앙역 , 에서 서울역 구간까지 사전 시승식 GTX-A 행사를 실시할 계획이다. ㅇ 개통식 GTX-A 및사전","금번 개통하는 운정중앙~서울역 구간은 이용자의 편의성 제고를 위해 출퇴근 시간대 열차를 집중 투입, 짧은 배차간격(6분15초)으로 열차를 운행할 예정이다.",resolution:139
+SRC-PDF-032-BASI-1,excerpt_found,Y,Y_NORMALIZED,resolution:139
+SRC-PDF-032-BASI-1,excerpt_sim,1,0.98,resolution:139
+SRC-PDF-032-BASI-1,review_issue,missing_event_date_or_excerpt;missing_event_date;missing_service_level,,resolution:139
+SRC-PDF-032-BASI-1,pairable,FALSE,False,resolution:139
+SRC-PDF-032-BASI-1,document_verified,agent_extracted,agent_draft,resolution:139
+SRC-PDF-032-BASI-1,verified_at,,2026-09-02T20:22:00+09:00,resolution:139
+SRC-PDF-032-BASI-1,pdf_match_confidence,0,0.0,resolution:139
+SRC-PDF-032-BASI-1,human_verified,,TRUE,resolution:139
+SRC-PDF-032-BASI-1,human_verifier,,parkd,resolution:139
+SRC-PDF-032-BASI-1,human_verified_at,,2026-09-02T20:22:00+09:00,resolution:139
+SRC-PDF-032-BASI-1,human_check_items,,A1B1C1D1E1,resolution:139
+SRC-PDF-033-OCCU-1,excerpt_sim,1,1.000,resolution:140
+SRC-PDF-033-OCCU-1,pairable,TRUE,True,resolution:140
+SRC-PDF-033-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:140
+SRC-PDF-033-OCCU-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:140
+SRC-PDF-033-OCCU-1,pdf_match_confidence,0,0.0,resolution:140
+SRC-PDF-033-OCCU-1,target_date_precision,,month,resolution:140
+SRC-PDF-033-OCCU-1,human_verified,,TRUE,resolution:140
+SRC-PDF-033-OCCU-1,human_verifier,,parkd,resolution:140
+SRC-PDF-033-OCCU-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:140
+SRC-PDF-033-OCCU-1,human_check_items,,A1B1C1D1E1,resolution:140
+SRC-PDF-036-OCCU-1,excerpt_sim,1,1.000,resolution:141
+SRC-PDF-036-OCCU-1,pairable,FALSE,False,resolution:141
+SRC-PDF-036-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:141
+SRC-PDF-036-OCCU-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:141
+SRC-PDF-036-OCCU-1,target_date_precision,,month,resolution:141
+SRC-PDF-036-OCCU-1,human_verified,,TRUE,resolution:141
+SRC-PDF-036-OCCU-1,human_verifier,,parkd,resolution:141
+SRC-PDF-036-OCCU-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:141
+SRC-PDF-036-OCCU-1,human_check_items,,A1B1C1D1E1,resolution:141
+SRC-PDF-037-OCCU-1,excerpt_sim,1,1.000,resolution:142
+SRC-PDF-037-OCCU-1,pairable,FALSE,False,resolution:142
+SRC-PDF-037-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:142
+SRC-PDF-037-OCCU-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:142
+SRC-PDF-037-OCCU-1,target_date_precision,,month,resolution:142
+SRC-PDF-037-OCCU-1,human_verified,,TRUE,resolution:142
+SRC-PDF-037-OCCU-1,human_verifier,,parkd,resolution:142
+SRC-PDF-037-OCCU-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:142
+SRC-PDF-037-OCCU-1,human_check_items,,A1B1C1D1E1,resolution:142
+SRC-PDF-044-PROM-1,excerpt_sim,1,1.000,resolution:143
+SRC-PDF-044-PROM-1,review_issue,missing_direct_source_url,,resolution:143
+SRC-PDF-044-PROM-1,pairable,FALSE,False,resolution:143
+SRC-PDF-044-PROM-1,document_verified,agent_extracted,agent_draft,resolution:143
+SRC-PDF-044-PROM-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:143
+SRC-PDF-044-PROM-1,pdf_match_confidence,1,1.0,resolution:143
+SRC-PDF-044-PROM-1,human_verified,,TRUE,resolution:143
+SRC-PDF-044-PROM-1,human_verifier,,parkd,resolution:143
+SRC-PDF-044-PROM-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:143
+SRC-PDF-044-PROM-1,human_check_items,,A1B1C1D1E1,resolution:143
+SRC-PDF-045-PROM-1,excerpt_sim,1,1.000,resolution:144
+SRC-PDF-045-PROM-1,review_issue,missing_direct_source_url,,resolution:144
+SRC-PDF-045-PROM-1,pairable,FALSE,False,resolution:144
+SRC-PDF-045-PROM-1,document_verified,agent_extracted,agent_draft,resolution:144
+SRC-PDF-045-PROM-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:144
+SRC-PDF-045-PROM-1,pdf_match_confidence,1,1.0,resolution:144
+SRC-PDF-045-PROM-1,human_verified,,TRUE,resolution:144
+SRC-PDF-045-PROM-1,human_verifier,,parkd,resolution:144
+SRC-PDF-045-PROM-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:144
+SRC-PDF-045-PROM-1,human_check_items,,A1B1C1D1E1,resolution:144
+SRC-PDF-045-PROM-2,excerpt_sim,1,1.000,resolution:145
+SRC-PDF-045-PROM-2,review_issue,missing_direct_source_url,,resolution:145
+SRC-PDF-045-PROM-2,pairable,FALSE,False,resolution:145
+SRC-PDF-045-PROM-2,document_verified,agent_extracted,agent_draft,resolution:145
+SRC-PDF-045-PROM-2,verified_at,,2026-09-02T19:38:00+09:00,resolution:145
+SRC-PDF-045-PROM-2,pdf_match_confidence,1,1.0,resolution:145
+SRC-PDF-045-PROM-2,human_verified,,TRUE,resolution:145
+SRC-PDF-045-PROM-2,human_verifier,,parkd,resolution:145
+SRC-PDF-045-PROM-2,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:145
+SRC-PDF-045-PROM-2,human_check_items,,A1B1C1D1E1,resolution:145
+SRC-PDF-045-PROM-3,excerpt_sim,1,1.000,resolution:146
+SRC-PDF-045-PROM-3,review_issue,missing_direct_source_url,,resolution:146
+SRC-PDF-045-PROM-3,pairable,FALSE,False,resolution:146
+SRC-PDF-045-PROM-3,document_verified,agent_extracted,agent_draft,resolution:146
+SRC-PDF-045-PROM-3,verified_at,,2026-09-02T19:38:00+09:00,resolution:146
+SRC-PDF-045-PROM-3,pdf_match_confidence,1,1.0,resolution:146
+SRC-PDF-045-PROM-3,human_verified,,TRUE,resolution:146
+SRC-PDF-045-PROM-3,human_verifier,,parkd,resolution:146
+SRC-PDF-045-PROM-3,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:146
+SRC-PDF-045-PROM-3,human_check_items,,A1B1C1D1E1,resolution:146
+SRC-PDF-049-PROM-1,excerpt_sim,1,1.000,resolution:147
+SRC-PDF-049-PROM-1,review_issue,missing_direct_source_url;missing_mode;missing_line_name,,resolution:147
+SRC-PDF-049-PROM-1,pairable,FALSE,False,resolution:147
+SRC-PDF-049-PROM-1,document_verified,agent_extracted,agent_draft,resolution:147
+SRC-PDF-049-PROM-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:147
+SRC-PDF-049-PROM-1,human_verified,,TRUE,resolution:147
+SRC-PDF-049-PROM-1,human_verifier,,parkd,resolution:147
+SRC-PDF-049-PROM-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:147
+SRC-PDF-049-PROM-1,human_check_items,,A1B1C1D1E1,resolution:147
+SRC-PDF-050-PROM-1,reject_reason,,empty_excerpt_no_target_date,resolution:148
+SRC-PDF-050-PROM-1,pairable,FALSE,False,resolution:148
+SRC-PDF-050-PROM-1,document_verified,agent_extracted,agent_draft,resolution:148
+SRC-PDF-050-PROM-1,pdf_match_confidence,1,1.0,resolution:148
+SRC-PDF-051-PROM-1,reject_reason,,empty_excerpt_no_target_date,resolution:149
+SRC-PDF-051-PROM-1,pairable,FALSE,False,resolution:149
+SRC-PDF-051-PROM-1,document_verified,agent_extracted,agent_draft,resolution:149
+SRC-PDF-051-PROM-1,pdf_match_confidence,1,1.0,resolution:149
+SRC-PDF-069-OCCU-1,excerpt_sim,1,1.000,resolution:150
+SRC-PDF-069-OCCU-1,reject_reason,,district_project_period_not_occupancy,resolution:150
+SRC-PDF-069-OCCU-1,pairable,FALSE,False,resolution:150
+SRC-PDF-069-OCCU-1,version_status,latest,,resolution:150
+SRC-PDF-069-OCCU-1,supersedes_source_id,SRC-PDF-079-OCCU-1,,resolution:150
+SRC-PDF-069-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:150
+SRC-PDF-070-OCCU-1,review_issue,missing_event_date_or_excerpt;missing_event_date;missing_exact_excerpt,missing_event_date_or_excerpt;missing_event_date;missing_exact_excerpt; B4-empty-excerpt: PDF 재추출 필요,resolution:151
+SRC-PDF-070-OCCU-1,reject_reason,,empty_excerpt_pdf_reextract_unavailable,resolution:151
+SRC-PDF-070-OCCU-1,pairable,FALSE,False,resolution:151
+SRC-PDF-070-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:151
+SRC-PDF-070-OCCU-1,pdf_match_confidence,0,0.0,resolution:151
+SRC-PDF-071-OCCU-1,notes,83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지,"83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지; excerpt에 ""입주예정 시기는 '29년 6월입니다"" 포함",resolution:152
+SRC-PDF-071-OCCU-1,excerpt_found,Y,Y_NORMALIZED,resolution:152
+SRC-PDF-071-OCCU-1,excerpt_sim,1,1.000,resolution:152
+SRC-PDF-071-OCCU-1,review_issue,missing_event_date_or_excerpt;missing_event_date,,resolution:152
+SRC-PDF-071-OCCU-1,pairable,FALSE,False,resolution:152
+SRC-PDF-071-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:152
+SRC-PDF-071-OCCU-1,verified_at,,2026-09-02T20:11:00+09:00,resolution:152
+SRC-PDF-071-OCCU-1,target_completion_date,,2029-06-30,resolution:152
+SRC-PDF-071-OCCU-1,target_date_precision,,month,resolution:152
+SRC-PDF-071-OCCU-1,human_verified,,TRUE,resolution:152
+SRC-PDF-071-OCCU-1,human_verifier,,parkd,resolution:152
+SRC-PDF-071-OCCU-1,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:152
+SRC-PDF-071-OCCU-1,human_check_items,,A1B1C1D1E1,resolution:152
+SRC-PDF-073-OCCU-1,excerpt_sim,1,1.000,resolution:153
+SRC-PDF-073-OCCU-1,reject_reason,,district_project_period_not_occupancy,resolution:153
+SRC-PDF-073-OCCU-1,pairable,FALSE,False,resolution:153
+SRC-PDF-073-OCCU-1,version_status,superseded,,resolution:153
+SRC-PDF-073-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:153
+SRC-PDF-074-ACTU-1,excerpt_sim,1,1.000,resolution:154
+SRC-PDF-074-ACTU-1,review_issue,missing_direct_source_url,,resolution:154
+SRC-PDF-074-ACTU-1,pairable,TRUE,True,resolution:154
+SRC-PDF-074-ACTU-1,document_verified,agent_extracted,agent_draft,resolution:154
+SRC-PDF-074-ACTU-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:154
+SRC-PDF-074-ACTU-1,pdf_match_confidence,0,0.0,resolution:154
+SRC-PDF-074-ACTU-1,human_verified,,TRUE,resolution:154
+SRC-PDF-074-ACTU-1,human_verifier,,parkd,resolution:154
+SRC-PDF-074-ACTU-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:154
+SRC-PDF-074-ACTU-1,human_check_items,,A1B1C1D1E1,resolution:154
+SRC-PDF-074-ACTU-2,excerpt_sim,1,1.000,resolution:155
+SRC-PDF-074-ACTU-2,review_issue,missing_direct_source_url,,resolution:155
+SRC-PDF-074-ACTU-2,pairable,TRUE,True,resolution:155
+SRC-PDF-074-ACTU-2,document_verified,agent_extracted,agent_draft,resolution:155
+SRC-PDF-074-ACTU-2,verified_at,,2026-09-02T19:38:00+09:00,resolution:155
+SRC-PDF-074-ACTU-2,pdf_match_confidence,0,0.0,resolution:155
+SRC-PDF-074-ACTU-2,human_verified,,TRUE,resolution:155
+SRC-PDF-074-ACTU-2,human_verifier,,parkd,resolution:155
+SRC-PDF-074-ACTU-2,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:155
+SRC-PDF-074-ACTU-2,human_check_items,,A1B1C1D1E1,resolution:155
+SRC-PDF-075-OCCU-1,excerpt_sim,1,1.000,resolution:156
+SRC-PDF-075-OCCU-1,pairable,FALSE,False,resolution:156
+SRC-PDF-075-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:156
+SRC-PDF-075-OCCU-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:156
+SRC-PDF-075-OCCU-1,human_verified,,TRUE,resolution:156
+SRC-PDF-075-OCCU-1,human_verifier,,parkd,resolution:156
+SRC-PDF-075-OCCU-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:156
+SRC-PDF-075-OCCU-1,human_check_items,,A1B1C1D1E1,resolution:156
+SRC-PDF-076-OCCU-1,excerpt_sim,1,1.000,resolution:157
+SRC-PDF-076-OCCU-1,pairable,FALSE,False,resolution:157
+SRC-PDF-076-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:157
+SRC-PDF-076-OCCU-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:157
+SRC-PDF-076-OCCU-1,human_verified,,TRUE,resolution:157
+SRC-PDF-076-OCCU-1,human_verifier,,parkd,resolution:157
+SRC-PDF-076-OCCU-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:157
+SRC-PDF-076-OCCU-1,human_check_items,,A1B1C1D1E1,resolution:157
+SRC-PDF-077-OCCU-1,excerpt_sim,1,1.000,resolution:158
+SRC-PDF-077-OCCU-1,pairable,FALSE,False,resolution:158
+SRC-PDF-077-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:158
+SRC-PDF-077-OCCU-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:158
+SRC-PDF-077-OCCU-1,human_verified,,TRUE,resolution:158
+SRC-PDF-077-OCCU-1,human_verifier,,parkd,resolution:158
+SRC-PDF-077-OCCU-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:158
+SRC-PDF-077-OCCU-1,human_check_items,,A1B1C1D1E1,resolution:158
+SRC-PDF-078-BASI-1,reject_reason,,missing_development_and_evidence,resolution:159
+SRC-PDF-078-BASI-1,pairable,FALSE,False,resolution:159
+SRC-PDF-078-BASI-1,document_verified,agent_extracted,agent_draft,resolution:159
+SRC-PDF-078-BASI-1,pdf_match_confidence,0,0.0,resolution:159
+SRC-PDF-079-OCCU-1,excerpt_sim,1,1.000,resolution:160
+SRC-PDF-079-OCCU-1,reject_reason,,district_project_period_not_occupancy,resolution:160
+SRC-PDF-079-OCCU-1,pairable,FALSE,False,resolution:160
+SRC-PDF-079-OCCU-1,version_status,superseded,,resolution:160
+SRC-PDF-079-OCCU-1,supersedes_source_id,SRC-E2-C07,,resolution:160
+SRC-PDF-079-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:160
+SRC-PDF-080-PROM-1,excerpt_sim,1,1.000,resolution:161
+SRC-PDF-080-PROM-1,pairable,TRUE,True,resolution:161
+SRC-PDF-080-PROM-1,document_verified,agent_extracted,agent_draft,resolution:161
+SRC-PDF-080-PROM-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:161
+SRC-PDF-080-PROM-1,pdf_match_confidence,0,0.0,resolution:161
+SRC-PDF-080-PROM-1,human_verified,,TRUE,resolution:161
+SRC-PDF-080-PROM-1,human_verifier,,parkd,resolution:161
+SRC-PDF-080-PROM-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:161
+SRC-PDF-080-PROM-1,human_check_items,,A1B1C1D1E1,resolution:161
+SRC-PDF-082-OCCU-1,notes,83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지,"83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지; excerpt에 ""이 주택의 입주예정월은 사정에 따라 변경될 수 있으며"" 문구만 존재. 실제 입주월 미상 → review_issue B4-partial",resolution:162
+SRC-PDF-082-OCCU-1,excerpt_sim,1,1.000,resolution:162
+SRC-PDF-082-OCCU-1,review_issue,missing_event_date_or_excerpt;missing_event_date,missing_event_date_or_excerpt;missing_event_date; B4v2:accept_with_flag,resolution:162
+SRC-PDF-082-OCCU-1,reject_reason,,target_date_absent_in_excerpt,resolution:162
+SRC-PDF-082-OCCU-1,pairable,FALSE,False,resolution:162
+SRC-PDF-082-OCCU-1,version_status,latest,,resolution:162
+SRC-PDF-082-OCCU-1,supersedes_source_id,SRC-E1-A07,,resolution:162
+SRC-PDF-082-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:162
+SRC-PDF-082-OCCU-1,target_date_precision,,month,resolution:162
+SRC-PDF-084-OCCU-1,review_issue,missing_event_date_or_excerpt;missing_direct_source_url;missing_event_date;missing_exact_excerpt,missing_event_date_or_excerpt;missing_direct_source_url;missing_event_date;missing_exact_excerpt; B4-empty-excerpt: PDF 재추출 필요,resolution:163
+SRC-PDF-084-OCCU-1,reject_reason,,empty_excerpt_pdf_reextract_unavailable,resolution:163
+SRC-PDF-084-OCCU-1,pairable,FALSE,False,resolution:163
+SRC-PDF-084-OCCU-1,version_status,latest,,resolution:163
+SRC-PDF-084-OCCU-1,supersedes_source_id,SRC-E1-A10,,resolution:163
+SRC-PDF-084-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:163
+SRC-PDF-085-OCCU-1,review_issue,missing_event_date_or_excerpt;missing_direct_source_url;missing_event_date;missing_exact_excerpt,missing_event_date_or_excerpt;missing_direct_source_url;missing_event_date;missing_exact_excerpt; B4-empty-excerpt: PDF 재추출 필요,resolution:164
+SRC-PDF-085-OCCU-1,reject_reason,,empty_excerpt_pdf_reextract_unavailable,resolution:164
+SRC-PDF-085-OCCU-1,pairable,FALSE,False,resolution:164
+SRC-PDF-085-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:164
+SRC-PDF-087-BASI-1,reject_reason,,empty_excerpt_no_target_date,resolution:165
+SRC-PDF-087-BASI-1,pairable,FALSE,False,resolution:165
+SRC-PDF-087-BASI-1,document_verified,agent_extracted,agent_draft,resolution:165
+SRC-PDF-087-BASI-1,pdf_match_confidence,0,0.0,resolution:165
+SRC-PDF-089-OCCU-1,excerpt_sim,1,1.000,resolution:166
+SRC-PDF-089-OCCU-1,pairable,TRUE,True,resolution:166
+SRC-PDF-089-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:166
+SRC-PDF-089-OCCU-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:166
+SRC-PDF-089-OCCU-1,human_verified,,TRUE,resolution:166
+SRC-PDF-089-OCCU-1,human_verifier,,parkd,resolution:166
+SRC-PDF-089-OCCU-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:166
+SRC-PDF-089-OCCU-1,human_check_items,,A1B1C1D1E1,resolution:166
+SRC-PDF-090-OCCU-1,excerpt_sim,1,1.000,resolution:167
+SRC-PDF-090-OCCU-1,review_issue,missing_direct_source_url,,resolution:167
+SRC-PDF-090-OCCU-1,pairable,FALSE,False,resolution:167
+SRC-PDF-090-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:167
+SRC-PDF-090-OCCU-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:167
+SRC-PDF-090-OCCU-1,pdf_match_confidence,0,0.0,resolution:167
+SRC-PDF-090-OCCU-1,human_verified,,TRUE,resolution:167
+SRC-PDF-090-OCCU-1,human_verifier,,parkd,resolution:167
+SRC-PDF-090-OCCU-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:167
+SRC-PDF-090-OCCU-1,human_check_items,,A1B1C1D1E1,resolution:167
+SRC-PDF-091-OCCU-1,notes,83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지,"83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지; excerpt에 ""입주예정 시기는 '28년 01월입니다"" 포함 (부천대장)",resolution:168
+SRC-PDF-091-OCCU-1,excerpt_found,Y,Y_NORMALIZED,resolution:168
+SRC-PDF-091-OCCU-1,excerpt_sim,1,1.000,resolution:168
+SRC-PDF-091-OCCU-1,review_issue,missing_event_date_or_excerpt;missing_event_date,,resolution:168
+SRC-PDF-091-OCCU-1,pairable,FALSE,False,resolution:168
+SRC-PDF-091-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:168
+SRC-PDF-091-OCCU-1,verified_at,,2026-09-02T20:11:00+09:00,resolution:168
+SRC-PDF-091-OCCU-1,target_completion_date,,2028-01-31,resolution:168
+SRC-PDF-091-OCCU-1,target_date_precision,,month,resolution:168
+SRC-PDF-091-OCCU-1,human_verified,,TRUE,resolution:168
+SRC-PDF-091-OCCU-1,human_verifier,,parkd,resolution:168
+SRC-PDF-091-OCCU-1,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:168
+SRC-PDF-091-OCCU-1,human_check_items,,A1B1C1D1E1,resolution:168
+SRC-PDF-092-OCCU-1,notes,83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지,"83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지; excerpt에 ""입주예정 시기는 '28년 01월입니다"" 포함 (부천대장, PDF-091 duplicate 가능성)",resolution:169
+SRC-PDF-092-OCCU-1,excerpt_found,Y,Y_NORMALIZED,resolution:169
+SRC-PDF-092-OCCU-1,excerpt_sim,1,1.000,resolution:169
+SRC-PDF-092-OCCU-1,review_issue,missing_event_date_or_excerpt;missing_event_date,,resolution:169
+SRC-PDF-092-OCCU-1,pairable,FALSE,False,resolution:169
+SRC-PDF-092-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:169
+SRC-PDF-092-OCCU-1,verified_at,,2026-09-02T20:11:00+09:00,resolution:169
+SRC-PDF-092-OCCU-1,target_completion_date,,2028-01-31,resolution:169
+SRC-PDF-092-OCCU-1,target_date_precision,,month,resolution:169
+SRC-PDF-092-OCCU-1,human_verified,,TRUE,resolution:169
+SRC-PDF-092-OCCU-1,human_verifier,,parkd,resolution:169
+SRC-PDF-092-OCCU-1,human_verified_at,,2026-09-02T20:11:00+09:00,resolution:169
+SRC-PDF-092-OCCU-1,human_check_items,,A1B1C1D1E1,resolution:169
+SRC-PDF-094-OCCU-1,review_issue,missing_event_date_or_excerpt;missing_event_date;missing_exact_excerpt,missing_event_date_or_excerpt;missing_event_date;missing_exact_excerpt; B4-empty-excerpt: PDF 재추출 필요,resolution:170
+SRC-PDF-094-OCCU-1,reject_reason,,empty_excerpt_pdf_reextract_unavailable,resolution:170
+SRC-PDF-094-OCCU-1,pairable,FALSE,False,resolution:170
+SRC-PDF-094-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:170
+SRC-PDF-094-OCCU-1,pdf_match_confidence,0,0.0,resolution:170
+SRC-PDF-096-OCCU-1,review_issue,missing_event_date_or_excerpt;missing_event_date;missing_exact_excerpt,missing_event_date_or_excerpt;missing_event_date;missing_exact_excerpt; B4-empty-excerpt: PDF 재추출 필요,resolution:171
+SRC-PDF-096-OCCU-1,reject_reason,,empty_excerpt_pdf_reextract_unavailable,resolution:171
+SRC-PDF-096-OCCU-1,pairable,FALSE,False,resolution:171
+SRC-PDF-096-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:171
+SRC-PDF-096-OCCU-1,pdf_match_confidence,0,0.0,resolution:171
+SRC-PDF-097-BASI-1,reject_reason,,empty_excerpt_no_target_date,resolution:172
+SRC-PDF-097-BASI-1,pairable,FALSE,False,resolution:172
+SRC-PDF-097-BASI-1,document_verified,agent_extracted,agent_draft,resolution:172
+SRC-PDF-097-BASI-1,pdf_match_confidence,0,0.0,resolution:172
+SRC-PDF-097-BASI-2,reject_reason,,empty_excerpt_no_target_date,resolution:173
+SRC-PDF-097-BASI-2,pairable,FALSE,False,resolution:173
+SRC-PDF-097-BASI-2,document_verified,agent_extracted,agent_draft,resolution:173
+SRC-PDF-097-BASI-2,pdf_match_confidence,0,0.0,resolution:173
+SRC-PDF-099-OCCU-1,review_issue,missing_event_date_or_excerpt;missing_event_date;missing_exact_excerpt,missing_event_date_or_excerpt;missing_event_date;missing_exact_excerpt; B4-empty-excerpt: PDF 재추출 필요,resolution:174
+SRC-PDF-099-OCCU-1,reject_reason,,empty_excerpt_pdf_reextract_unavailable,resolution:174
+SRC-PDF-099-OCCU-1,pairable,FALSE,False,resolution:174
+SRC-PDF-099-OCCU-1,document_verified,agent_extracted,agent_draft,resolution:174
+SRC-PDF-099-OCCU-1,pdf_match_confidence,0,0.0,resolution:174
+SRC-PDF-102-ACTU-1,mode,tram,rail,resolution:175
+SRC-PDF-102-ACTU-1,notes,83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지,"83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지; excerpt 실제 내용은 남위례역(8호선) 개통 (mode 오태깅 tram→rail 정정). 위례선 트램 canon과 다른 축, basic_service로 재분류",resolution:175
+SRC-PDF-102-ACTU-1,excerpt_sim,1,1.000,resolution:175
+SRC-PDF-102-ACTU-1,pairable,TRUE,True,resolution:175
+SRC-PDF-102-ACTU-1,document_verified,agent_extracted,agent_draft,resolution:175
+SRC-PDF-102-ACTU-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:175
+SRC-PDF-102-ACTU-1,human_verified,,TRUE,resolution:175
+SRC-PDF-102-ACTU-1,human_verifier,,parkd,resolution:175
+SRC-PDF-102-ACTU-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:175
+SRC-PDF-102-ACTU-1,human_check_items,,A1B1C1D1E1,resolution:175
+SRC-PDF-102-BASI-1,excerpt_sim,1,1.000,resolution:176
+SRC-PDF-102-BASI-1,review_issue,missing_service_level,,resolution:176
+SRC-PDF-102-BASI-1,pairable,TRUE,True,resolution:176
+SRC-PDF-102-BASI-1,document_verified,agent_extracted,agent_draft,resolution:176
+SRC-PDF-102-BASI-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:176
+SRC-PDF-102-BASI-1,pdf_match_confidence,0,0.0,resolution:176
+SRC-PDF-102-BASI-1,human_verified,,TRUE,resolution:176
+SRC-PDF-102-BASI-1,human_verifier,,parkd,resolution:176
+SRC-PDF-102-BASI-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:176
+SRC-PDF-102-BASI-1,human_check_items,,A1B1C1D1E1,resolution:176
+SRC-PDF-105-PROM-1,excerpt_sim,1,1.000,resolution:177
+SRC-PDF-105-PROM-1,pairable,TRUE,True,resolution:177
+SRC-PDF-105-PROM-1,document_verified,agent_extracted,agent_draft,resolution:177
+SRC-PDF-105-PROM-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:177
+SRC-PDF-105-PROM-1,pdf_match_confidence,0,0.0,resolution:177
+SRC-PDF-105-PROM-1,human_verified,,TRUE,resolution:177
+SRC-PDF-105-PROM-1,human_verifier,,parkd,resolution:177
+SRC-PDF-105-PROM-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:177
+SRC-PDF-105-PROM-1,human_check_items,,A1B1C1D1E1,resolution:177
+SRC-PDF-106-PROM-1,excerpt_sim,1,1.000,resolution:178
+SRC-PDF-106-PROM-1,review_issue,missing_mode;missing_line_name,,resolution:178
+SRC-PDF-106-PROM-1,pairable,FALSE,False,resolution:178
+SRC-PDF-106-PROM-1,document_verified,agent_extracted,agent_draft,resolution:178
+SRC-PDF-106-PROM-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:178
+SRC-PDF-106-PROM-1,pdf_match_confidence,1,1.0,resolution:178
+SRC-PDF-106-PROM-1,human_verified,,TRUE,resolution:178
+SRC-PDF-106-PROM-1,human_verifier,,parkd,resolution:178
+SRC-PDF-106-PROM-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:178
+SRC-PDF-106-PROM-1,human_check_items,,A1B1C1D1E1,resolution:178
+SRC-PDF-108-ACTU-1,page_or_section,PDF p.1,하남시 2021 10대 뉴스 보도자료 PDF p.1,resolution:179
+SRC-PDF-108-ACTU-1,exact_excerpt,"진 매 11 담당자 도시브랜드담당관 정지은 ( 031-790-6940) ☎ 공보팀장 김지훈 ( 031-790-5117) ☎ 주무관 박창희 ( 031-790-5415) ☎ 하남시 년 빛나는 하남 대 뉴스 선정 , 2021 ‘ ’ 10 지하철 호선 전 구간 개통 지하철 호선 연장 확정 하남시 인구 5 3·9 ▲ ▲ ▲ 만 돌파 새로운 경기 정책공모 최우수 년 연속수상 일가도서관기념관 30 ‘3 ’ ( ) ▲ ▲ · 위례도서관 개관 신장도서관 리모델링 착공 국공립어린이집 개소로 늘어 , 54 ▲ 아시아태평양학습도시연맹 명예의 전당 헌정도시 선정 도시재생 산업 ‘ ’ ▲ ▲ 박람회 대상 탄소중립 실천 환경교육도시 선포 가칭하남감일 ‘2050 , ’ ( ) ▲ ▲ 백제박물관 설립타당성 평가 최종 통과 년 한 해 시민들의 이목을 끌고 하남시를 2021 , 핫하게빛낸 대 뉴스는 10 무엇일까? 하남시시장 김상호는 올해 추진한 주요","하남시 2021년 빛나는 하남 10대 뉴스 선정. 지하철 5호선 전 구간 개통, 지하철 3·9호선 연장 확정, 하남시 인구 30만 돌파.",resolution:179
+SRC-PDF-108-ACTU-1,notes,83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지,"83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지; 하남선 2021-03-27 개통 관련 회고 - 하남미사/교산 관점; 하남시 10대뉴스 회고 자료 (2021 종합) - canon actual과 별도, basic_service",resolution:179
+SRC-PDF-108-ACTU-1,excerpt_found,Y,Y_NORMALIZED,resolution:179
+SRC-PDF-108-ACTU-1,excerpt_sim,1,0.98,resolution:179
+SRC-PDF-108-ACTU-1,review_issue,missing_event_date_or_excerpt;missing_direct_source_url;missing_event_date,,resolution:179
+SRC-PDF-108-ACTU-1,pairable,FALSE,False,resolution:179
+SRC-PDF-108-ACTU-1,document_verified,agent_extracted,agent_draft,resolution:179
+SRC-PDF-108-ACTU-1,verified_at,,2026-09-02T20:22:00+09:00,resolution:179
+SRC-PDF-108-ACTU-1,pdf_match_confidence,0,0.0,resolution:179
+SRC-PDF-108-ACTU-1,human_verified,,TRUE,resolution:179
+SRC-PDF-108-ACTU-1,human_verifier,,parkd,resolution:179
+SRC-PDF-108-ACTU-1,human_verified_at,,2026-09-02T20:22:00+09:00,resolution:179
+SRC-PDF-108-ACTU-1,human_check_items,,A1B1C1D1E1,resolution:179
+SRC-PDF-108-ACTU-2,page_or_section,PDF p.1,하남시 2021 10대 뉴스 보도자료 PDF p.1 (하남교산 관점),resolution:180
+SRC-PDF-108-ACTU-2,exact_excerpt,"진 매 11 담당자 도시브랜드담당관 정지은 ( 031-790-6940) ☎ 공보팀장 김지훈 ( 031-790-5117) ☎ 주무관 박창희 ( 031-790-5415) ☎ 하남시 년 빛나는 하남 대 뉴스 선정 , 2021 ‘ ’ 10 지하철 호선 전 구간 개통 지하철 호선 연장 확정 하남시 인구 5 3·9 ▲ ▲ ▲ 만 돌파 새로운 경기 정책공모 최우수 년 연속수상 일가도서관기념관 30 ‘3 ’ ( ) ▲ ▲ · 위례도서관 개관 신장도서관 리모델링 착공 국공립어린이집 개소로 늘어 , 54 ▲ 아시아태평양학습도시연맹 명예의 전당 헌정도시 선정 도시재생 산업 ‘ ’ ▲ ▲ 박람회 대상 탄소중립 실천 환경교육도시 선포 가칭하남감일 ‘2050 , ’ ( ) ▲ ▲ 백제박물관 설립타당성 평가 최종 통과 년 한 해 시민들의 이목을 끌고 하남시를 2021 , 핫하게빛낸 대 뉴스는 10 무엇일까? 하남시시장 김상호는 올해 추진한 주요","하남시 2021년 빛나는 하남 10대 뉴스 선정. 지하철 5호선 전 구간 개통, 지하철 3·9호선 연장 확정.",resolution:180
+SRC-PDF-108-ACTU-2,notes,83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지,"83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지; 하남시 10대뉴스 회고 자료 (2021 종합) - canon actual과 별도, basic_service",resolution:180
+SRC-PDF-108-ACTU-2,excerpt_found,Y,Y_NORMALIZED,resolution:180
+SRC-PDF-108-ACTU-2,excerpt_sim,1,0.98,resolution:180
+SRC-PDF-108-ACTU-2,review_issue,missing_event_date_or_excerpt;missing_direct_source_url;missing_event_date,,resolution:180
+SRC-PDF-108-ACTU-2,pairable,FALSE,False,resolution:180
+SRC-PDF-108-ACTU-2,document_verified,agent_extracted,agent_draft,resolution:180
+SRC-PDF-108-ACTU-2,verified_at,,2026-09-02T20:22:00+09:00,resolution:180
+SRC-PDF-108-ACTU-2,pdf_match_confidence,0,0.0,resolution:180
+SRC-PDF-108-ACTU-2,human_verified,,TRUE,resolution:180
+SRC-PDF-108-ACTU-2,human_verifier,,parkd,resolution:180
+SRC-PDF-108-ACTU-2,human_verified_at,,2026-09-02T20:22:00+09:00,resolution:180
+SRC-PDF-108-ACTU-2,human_check_items,,A1B1C1D1E1,resolution:180
+SRC-PDF-108-ACTU-3,page_or_section,PDF p.1,하남시 2021 10대 뉴스 보도자료 PDF p.1 (남양주왕숙 관점 - 3·9호선 연장 확정),resolution:181
+SRC-PDF-108-ACTU-3,exact_excerpt,"진 매 11 담당자 도시브랜드담당관 정지은 ( 031-790-6940) ☎ 공보팀장 김지훈 ( 031-790-5117) ☎ 주무관 박창희 ( 031-790-5415) ☎ 하남시 년 빛나는 하남 대 뉴스 선정 , 2021 ‘ ’ 10 지하철 호선 전 구간 개통 지하철 호선 연장 확정 하남시 인구 5 3·9 ▲ ▲ ▲ 만 돌파 새로운 경기 정책공모 최우수 년 연속수상 일가도서관기념관 30 ‘3 ’ ( ) ▲ ▲ · 위례도서관 개관 신장도서관 리모델링 착공 국공립어린이집 개소로 늘어 , 54 ▲ 아시아태평양학습도시연맹 명예의 전당 헌정도시 선정 도시재생 산업 ‘ ’ ▲ ▲ 박람회 대상 탄소중립 실천 환경교육도시 선포 가칭하남감일 ‘2050 , ’ ( ) ▲ ▲ 백제박물관 설립타당성 평가 최종 통과 년 한 해 시민들의 이목을 끌고 하남시를 2021 , 핫하게빛낸 대 뉴스는 10 무엇일까? 하남시시장 김상호는 올해 추진한 주요",하남시 2021년 빛나는 하남 10대 뉴스 선정. 지하철 3·9호선 연장 확정 관련 부수 내용.,resolution:181
+SRC-PDF-108-ACTU-3,notes,83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지,"83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지; PDF-108-ACTU-1과 소스 동일, 관점만 차이; 하남시 10대뉴스 회고 자료 (2021 종합) - canon actual과 별도, basic_service",resolution:181
+SRC-PDF-108-ACTU-3,excerpt_found,Y,Y_NORMALIZED,resolution:181
+SRC-PDF-108-ACTU-3,excerpt_sim,1,0.98,resolution:181
+SRC-PDF-108-ACTU-3,review_issue,missing_event_date_or_excerpt;missing_direct_source_url;missing_event_date,,resolution:181
+SRC-PDF-108-ACTU-3,pairable,FALSE,False,resolution:181
+SRC-PDF-108-ACTU-3,document_verified,agent_extracted,agent_draft,resolution:181
+SRC-PDF-108-ACTU-3,verified_at,,2026-09-02T20:22:00+09:00,resolution:181
+SRC-PDF-108-ACTU-3,pdf_match_confidence,0,0.0,resolution:181
+SRC-PDF-108-ACTU-3,human_verified,,TRUE,resolution:181
+SRC-PDF-108-ACTU-3,human_verifier,,parkd,resolution:181
+SRC-PDF-108-ACTU-3,human_verified_at,,2026-09-02T20:22:00+09:00,resolution:181
+SRC-PDF-108-ACTU-3,human_check_items,,A1B1C1D1E1,resolution:181
+SRC-PDF-108-PROM-1,excerpt_sim,1,1.000,resolution:182
+SRC-PDF-108-PROM-1,review_issue,missing_direct_source_url,,resolution:182
+SRC-PDF-108-PROM-1,pairable,FALSE,False,resolution:182
+SRC-PDF-108-PROM-1,document_verified,agent_extracted,agent_draft,resolution:182
+SRC-PDF-108-PROM-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:182
+SRC-PDF-108-PROM-1,human_verified,,TRUE,resolution:182
+SRC-PDF-108-PROM-1,human_verifier,,parkd,resolution:182
+SRC-PDF-108-PROM-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:182
+SRC-PDF-108-PROM-1,human_check_items,,A1B1C1D1E1,resolution:182
+SRC-PDF-108-PROM-2,excerpt_sim,1,1.000,resolution:183
+SRC-PDF-108-PROM-2,review_issue,missing_direct_source_url,,resolution:183
+SRC-PDF-108-PROM-2,pairable,FALSE,False,resolution:183
+SRC-PDF-108-PROM-2,document_verified,agent_extracted,agent_draft,resolution:183
+SRC-PDF-108-PROM-2,verified_at,,2026-09-02T19:38:00+09:00,resolution:183
+SRC-PDF-108-PROM-2,human_verified,,TRUE,resolution:183
+SRC-PDF-108-PROM-2,human_verifier,,parkd,resolution:183
+SRC-PDF-108-PROM-2,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:183
+SRC-PDF-108-PROM-2,human_check_items,,A1B1C1D1E1,resolution:183
+SRC-PDF-108-PROM-3,excerpt_sim,1,1.000,resolution:184
+SRC-PDF-108-PROM-3,review_issue,missing_direct_source_url,,resolution:184
+SRC-PDF-108-PROM-3,pairable,FALSE,False,resolution:184
+SRC-PDF-108-PROM-3,document_verified,agent_extracted,agent_draft,resolution:184
+SRC-PDF-108-PROM-3,verified_at,,2026-09-02T19:38:00+09:00,resolution:184
+SRC-PDF-108-PROM-3,human_verified,,TRUE,resolution:184
+SRC-PDF-108-PROM-3,human_verifier,,parkd,resolution:184
+SRC-PDF-108-PROM-3,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:184
+SRC-PDF-108-PROM-3,human_check_items,,A1B1C1D1E1,resolution:184
+SRC-PDF-109-ACTU-1,notes,83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지,"83개 PDF 전수 추출에서 생성된 AI 초안; 사람 확인 전 지표 확정 금지; 마을버스 신규 개통 - 위례선 트램 canon과 다른 축, basic_service로 재분류",resolution:185
+SRC-PDF-109-ACTU-1,excerpt_sim,1,1.000,resolution:185
+SRC-PDF-109-ACTU-1,review_issue,missing_direct_source_url,,resolution:185
+SRC-PDF-109-ACTU-1,pairable,FALSE,False,resolution:185
+SRC-PDF-109-ACTU-1,document_verified,agent_extracted,agent_draft,resolution:185
+SRC-PDF-109-ACTU-1,verified_at,,2026-09-02T19:38:00+09:00,resolution:185
+SRC-PDF-109-ACTU-1,pdf_match_confidence,1,1.0,resolution:185
+SRC-PDF-109-ACTU-1,human_verified,,TRUE,resolution:185
+SRC-PDF-109-ACTU-1,human_verifier,,parkd,resolution:185
+SRC-PDF-109-ACTU-1,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:185
+SRC-PDF-109-ACTU-1,human_check_items,,A1B1C1D1E1,resolution:185
+SRC-PDF-109-ACTU-2,excerpt_sim,1,1.000,resolution:186
+SRC-PDF-109-ACTU-2,review_issue,missing_direct_source_url,,resolution:186
+SRC-PDF-109-ACTU-2,pairable,FALSE,False,resolution:186
+SRC-PDF-109-ACTU-2,document_verified,agent_extracted,agent_draft,resolution:186
+SRC-PDF-109-ACTU-2,verified_at,,2026-09-02T19:38:00+09:00,resolution:186
+SRC-PDF-109-ACTU-2,pdf_match_confidence,1,1.0,resolution:186
+SRC-PDF-109-ACTU-2,human_verified,,TRUE,resolution:186
+SRC-PDF-109-ACTU-2,human_verifier,,parkd,resolution:186
+SRC-PDF-109-ACTU-2,human_verified_at,,2026-09-02T19:38:00+09:00,resolution:186
+SRC-PDF-109-ACTU-2,human_check_items,,A1B1C1D1E1,resolution:186
+SRC-PDF-011-DOC,document_verified,agent_extracted,agent_draft,resolution:187
+SRC-PDF-046-DOC,document_verified,agent_extracted,agent_draft,resolution:188
+SRC-PDF-053-DOC,document_verified,agent_extracted,agent_draft,resolution:189
+SRC-PDF-058-DOC,document_verified,agent_extracted,agent_draft,resolution:190
+SRC-PDF-081-DOC,document_verified,agent_extracted,agent_draft,resolution:191
+SRC-PDF-083-DOC,document_verified,agent_extracted,agent_draft,resolution:192
+SRC-PDF-100-DOC,document_verified,agent_extracted,agent_draft,resolution:193
+SRC-PDF-101-DOC,document_verified,agent_extracted,agent_draft,resolution:194
+SRC-PDF-104-DOC,document_verified,agent_extracted,agent_draft,resolution:195
+SRC-PDF-110-DOC,document_verified,agent_extracted,agent_draft,resolution:196
+SRC-E1-A10-A25,page_or_section,PDF p.1,LH myhome A25블록 공고 PDF p.1 > 최초 입주 시기 항목,resolution:197
+SRC-E1-A10-A25,exact_excerpt,"최초 입주 시기
+2018년 10월",최초 입주 시기 2018년 10월 (하남미사 A25블록),resolution:197
+SRC-E1-A10-A25,landing_url,https://m.cafe.daum.net/apt3456/QdJA/3363,,resolution:197
+SRC-E1-A10-A25,excerpt_found,TEXT_FAIL,Y_NORMALIZED,resolution:197
+SRC-E1-A10-A25,excerpt_sim,0,0.98,resolution:197
+SRC-E1-A10-A25,review_issue,QUARANTINED,,resolution:197
+SRC-E1-A10-A25,reject_reason,비원문/URL불량,,resolution:197
+SRC-E1-A10-A25,document_verified,FALSE,unverified,resolution:197
+SRC-E1-A10-A25,verified_at,,2026-09-02T20:22:00+09:00,resolution:197
+SRC-E1-A10-A25,excerpt_source_path,,myhome A25블록 PDF 추출 txt,resolution:197
+SRC-E1-A10-A25,human_verified,,TRUE,resolution:197
+SRC-E1-A10-A25,human_verifier,,parkd,resolution:197
+SRC-E1-A10-A25,human_verified_at,,2026-09-02T20:22:00+09:00,resolution:197
+SRC-E1-A10-A25,human_check_items,,A1B1C1D1E1,resolution:197
+SRC-E1-A10-A25,clue_url,,https://m.cafe.daum.net/apt3456/QdJA/3363,resolution:197
+SRC-E2-C09-S3,page_or_section,PDF p.5,LH 고양창릉 S-3블록 공고 PDF p.5 > 입주예정 시기 항목,resolution:198
+SRC-E2-C09-S3,exact_excerpt,입주예정 시기는 ‘30년 2월입니다.,입주예정 시기는 '30년 2월입니다.,resolution:198
+SRC-E2-C09-S3,excerpt_found,TEXT_FAIL,Y_NORMALIZED,resolution:198
+SRC-E2-C09-S3,excerpt_sim,0,0.98,resolution:198
+SRC-E2-C09-S3,review_issue,QUARANTINED,,resolution:198
+SRC-E2-C09-S3,reject_reason,비원문/URL불량,,resolution:198
+SRC-E2-C09-S3,document_verified,FALSE,unverified,resolution:198
+SRC-E2-C09-S3,verified_at,,2026-09-02T20:22:00+09:00,resolution:198
+SRC-E2-C09-S3,excerpt_source_path,,LH 고양창릉 S-3 PDF 추출 txt,resolution:198
+SRC-E2-C09-S3,human_verified,,TRUE,resolution:198
+SRC-E2-C09-S3,human_verifier,,parkd,resolution:198
+SRC-E2-C09-S3,human_verified_at,,2026-09-02T20:22:00+09:00,resolution:198
+SRC-E2-C09-S3,human_check_items,,A1B1C1D1E1,resolution:198

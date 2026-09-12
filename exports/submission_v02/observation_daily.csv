@@ -1,0 +1,7 @@
+﻿obs_date,planned_slots,ledger_rows,successful_unique_slots,missing_slots,empty_slots,with_items_slots,api_error_attempts,near_timestamp_pairs_120s,response_items,distinct_routes,item_count_mismatches
+2026-09-04,48,30,30,18,1,29,0,0,708,15,0
+2026-09-07,48,45,44,4,0,44,1,0,1107,15,0
+2026-09-08,48,49,48,0,0,48,1,1,1205,15,0
+2026-09-09,48,48,48,0,1,47,0,0,1179,15,0
+2026-09-10,48,43,43,5,2,41,0,0,1022,15,0
+2026-09-11,48,47,46,2,1,45,1,0,1133,15,0

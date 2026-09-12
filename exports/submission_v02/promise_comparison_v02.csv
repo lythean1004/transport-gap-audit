@@ -1,0 +1,11 @@
+﻿development,promise_source_id,operation_source_id,promise_date,reviewed_event_type,promise_review_status,operation_date,delay_min_days,delay_max_days,comparison_status,blockers
+화성 동탄2,SRC-H003,SRC-H005,2024-H1,promise_date,human_verified,2024-03-30,-92,89,reviewed_date_comparison,
+김포 한강,SRC-H010,SRC-H011,2018,promise_date,human_verified,2019-09-28,271,635,reviewed_date_comparison,
+위례,SRC-E1-C05,,2025년 9월,promise_date,human_verified,,,,withheld,pair_not_both_human_verified;date_bound_missing
+남양주 다산,SRC-H022,SRC-H023,2022,promise_date,human_verified,2024-08-10,588,952,withheld,completion_not_operation
+하남 미사,SRC-H028,SRC-H029,2020-08-08,promise_date,human_verified,2020-08-08,0,0,reviewed_date_comparison,
+인천 계양,SRC-F003,,미정,plan_confirmation,needs_human,,,,withheld,pair_not_both_human_verified;not_operation_promise_event;date_bound_missing
+남양주 왕숙,SRC-F009,,2028,promise_date,human_verified,,,,withheld,pair_not_both_human_verified;date_bound_missing
+하남 교산,SRC-F015,,2028,promise_date,human_verified,,,,withheld,pair_not_both_human_verified;date_bound_missing
+고양 창릉,SRC-F021,,미정,plan_confirmation,needs_human,,,,withheld,pair_not_both_human_verified;not_operation_promise_event;date_bound_missing
+부천 대장,SRC-F027,,미정,plan_confirmation,needs_human,,,,withheld,pair_not_both_human_verified;not_operation_promise_event;date_bound_missing

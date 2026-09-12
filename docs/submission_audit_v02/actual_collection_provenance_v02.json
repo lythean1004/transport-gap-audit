@@ -1,0 +1,35 @@
+{
+  "data_kind": "stored_live_api_response",
+  "raw_files": 259,
+  "response_items": 6354,
+  "item_count_mismatches": 0,
+  "response_schemas": [
+    {
+      "fields": [
+        "arrprevstationcnt",
+        "arrtime",
+        "nodeid",
+        "nodenm",
+        "routeid",
+        "routeno",
+        "routetp",
+        "vehicletp"
+      ],
+      "items": 6354
+    }
+  ],
+  "task_log_path": "scratch/_task_log.txt",
+  "task_log_sha256": "51dd8acfd8f3d36ef621bc81912ef698724c02e5301a01e8445ae6349a01c908",
+  "log_called_markers": 259,
+  "batch_file_linkage": "confirmed_against_user_provided_batch",
+  "note": "원자료는 실제 시각의 API 응답이다. 실제 차량 통과시각을 직접 측정한 데이터와는 구분한다. 예약 작업은 조회만 하고 등록/수정하지 않았다.",
+  "log_sweep_called_markers": 3,
+  "log_total_calls": 262,
+  "log_ledger_records_equal": true,
+  "log_only_records": 0,
+  "ledger_only_records": 0,
+  "batch_reference_path": "docs/submission_audit_v02/batch_reference/run_arrival_snapshot.bat",
+  "batch_sha256": "cd6f7441969ee6ac8137dee26d06ba3a466f10c69f4d9213383e3dee453c3e3b",
+  "batch_collector_module": "src.collectors.arrival_snapshot",
+  "batch_executed_this_audit": false
+}

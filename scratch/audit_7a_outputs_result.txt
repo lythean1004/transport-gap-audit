@@ -1,0 +1,70 @@
+============================================================
+[확인 1] data/staged/route_service_hours.parquet
+============================================================
+행수: 12
+컬럼 목록: ['citycode', 'routeid', 'routeno', 'routetp', 'startnodenm', 'endnodenm', 'startvehicletime', 'endvehicletime', 'intervaltime', 'intervalsattime', 'intervalsuntime', 'fetched_at_kst', 'fetched_at_utc', 'raw_path', 'first_bus_ok', 'last_bus_ok']
+
+[dtype 전량]
+  citycode: object
+  routeid: object
+  routeno: object
+  routetp: object
+  startnodenm: object
+  endnodenm: object
+  startvehicletime: string
+  endvehicletime: string
+  intervaltime: float64
+  intervalsattime: float64
+  intervalsuntime: float64
+  fetched_at_kst: object
+  fetched_at_utc: object
+  raw_path: object
+  first_bus_ok: boolean
+  last_bus_ok: boolean
+
+[startvehicletime / endvehicletime 점검]
+  startvehicletime: dtype=string -> 문자열 OK
+    샘플 5개: ['0430', '0350', '0445', '0430', '0500']
+    -> 선행 0 보존 확인됨 (예: '0530')
+  endvehicletime: dtype=string -> 문자열 OK
+    샘플 5개: ['2340', '2230', '2215', '2230', '2310']
+    -> 선행 0 샘플 없음 (또는 캐스팅 손실)
+
+[intervaltime 계열 컬럼]
+  intervaltime: 12건 존재, 값 범위: 12.0 ~ 50.0
+    -> 단위 추정 근거: 값이 180 이하이므로 '분(minute)' 단위로 강하게 추정됨
+  intervalsattime: 12건 존재, 값 범위: 30.0 ~ 120.0
+    -> 단위 추정 근거: 값이 180 이하이므로 '분(minute)' 단위로 강하게 추정됨
+  intervalsuntime: 12건 존재, 값 범위: 30.0 ~ 120.0
+    -> 단위 추정 근거: 값이 180 이하이므로 '분(minute)' 단위로 강하게 추정됨
+
+[routeid 상태]
+  결측(NULL) 건수: 0
+  중복(Duplicate) 건수: 0개 ID가 중복됨
+
+============================================================
+[확인 2] evidence/route_info/ 하위 JSON
+============================================================
+파일 수: 12개
+routeid 집합 크기: 12개
+resultCode 분포: {'00': 12}
+
+============================================================
+[확인 3] 노선 집합 대조 (3방향)
+============================================================
+도착정보(arrival_raw) 고유 노선 수: 15
+7A' Parquet 고유 노선 수: 12
+7A' route_info JSON 고유 노선 수: 12
+
+3방향 모두 존재하는 노선: 12건
+
+도착정보에만 있고 7A' Parquet에 없는 노선: 3건
+  - GGB222000056
+  - GGB222000137
+  - GGB222000239
+
+============================================================
+[판정]
+============================================================
+PARTIAL-GO: 필수 파일이 존재하고 문자열 포맷이 정상이나, 교차검증 불가 노선 3건 존재
+7E'에서 제외(또는 NULL 처리)해야 할 노선 목록: ['GGB222000056', 'GGB222000137', 'GGB222000239']

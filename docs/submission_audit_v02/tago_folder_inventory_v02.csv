@@ -1,0 +1,2 @@
+﻿scope,path,bytes,sha256,read_status,analysis,executed_this_audit
+user_tago_batch_folder,C:\Users\parkd\tago\run_arrival_snapshot.bat,345,cd6f7441969ee6ac8137dee26d06ba3a466f10c69f4d9213383e3dee453c3e3b,full_text_read,batch_invokes_current_project_arrival_snapshot_and_writes_scratch_task_log,False

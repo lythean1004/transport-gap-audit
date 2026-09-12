@@ -1,0 +1,26 @@
+{
+  "inventory_rows": 37913,
+  "category_counts": {
+    "private_admin_or_secret": 8,
+    "research_content": 4135,
+    "git_metadata_history_audited_separately": 3785,
+    "generated_or_runtime": 25982,
+    "current_audit_output": 11,
+    "previous_release_copy": 3992
+  },
+  "read_status_counts": {
+    "text_read": 3957,
+    "not_content_read": 33770,
+    "binary_read_semantics_pending": 9,
+    "pdf_text_read": 127,
+    "archive_members_read": 21,
+    "visual_review_required": 1,
+    "hwp_text_read": 8,
+    "all_table_rows_read": 7,
+    "image_decoded_visual_review_pending": 13
+  },
+  "priority_files": 174,
+  "archive_members": 340,
+  "filesystem_errors": 3,
+  "statement": "Byte reads and machine parsing do not establish semantic completeness. Exclusions and pending visual reviews are explicit."
+}
