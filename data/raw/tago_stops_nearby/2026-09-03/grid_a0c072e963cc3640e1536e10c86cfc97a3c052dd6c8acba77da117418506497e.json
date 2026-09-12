@@ -1,0 +1,105 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6350333,
+            "gpslong": 126.68485,
+            "nodeid": "GGB232001117",
+            "nodenm": "옹주물삼거리",
+            "nodeno": 35173
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6367667,
+            "gpslong": 126.6869,
+            "nodeid": "GGB232000824",
+            "nodenm": "장기마을",
+            "nodeno": 35736
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6367167,
+            "gpslong": 126.6871,
+            "nodeid": "GGB232000836",
+            "nodenm": "장기마을",
+            "nodeno": 35783
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63485,
+            "gpslong": 126.6830667,
+            "nodeid": "GGB232000014",
+            "nodenm": "옹주물",
+            "nodeno": 35364
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6346167,
+            "gpslong": 126.6832167,
+            "nodeid": "GGB232000491",
+            "nodenm": "옹주물",
+            "nodeno": 35401
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6370333,
+            "gpslong": 126.6822833,
+            "nodeid": "GGB232000686",
+            "nodenm": "김포경찰서",
+            "nodeno": 35624
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6371167,
+            "gpslong": 126.6819833,
+            "nodeid": "GGB232000685",
+            "nodenm": "김포경찰서",
+            "nodeno": 35631
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6388,
+            "gpslong": 126.6843667,
+            "nodeid": "GGB232000154",
+            "nodenm": "국민건강보험공단",
+            "nodeno": 35498
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6396333,
+            "gpslong": 126.6850167,
+            "nodeid": "GGB232000140",
+            "nodenm": "국민건강보험공단",
+            "nodeno": 35497
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6383333,
+            "gpslong": 126.6887333,
+            "nodeid": "GGB232000135",
+            "nodenm": "검은다리사거리",
+            "nodeno": 35490
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6359667,
+            "gpslong": 126.6796,
+            "nodeid": "GGB232000632",
+            "nodenm": "금빛초등학교",
+            "nodeno": 35604
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 11
+    }
+  }
+}

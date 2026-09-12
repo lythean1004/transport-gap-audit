@@ -1,0 +1,177 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.56065,
+            "gpslong": 127.1926667,
+            "nodeid": "GGB227000506",
+            "nodenm": "미사강변브라운스톤",
+            "nodeno": 28319
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5613333,
+            "gpslong": 127.1937667,
+            "nodeid": "GGB277104751",
+            "nodenm": "기점진입전(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5601333,
+            "gpslong": 127.1919167,
+            "nodeid": "GGB227000514",
+            "nodenm": "미사강변브라운스톤",
+            "nodeno": 28321
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5633833,
+            "gpslong": 127.1925833,
+            "nodeid": "GGB227000660",
+            "nodenm": "미사역",
+            "nodeno": 28466
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5634,
+            "gpslong": 127.19295,
+            "nodeid": "GGB227511280",
+            "nodenm": "(종점)미사역",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5634833,
+            "gpslong": 127.1929167,
+            "nodeid": "GGB227000683",
+            "nodenm": "미사역",
+            "nodeno": 28530
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5635333,
+            "gpslong": 127.1925333,
+            "nodeid": "GGB227000682",
+            "nodenm": "미사역",
+            "nodeno": 28529
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.56215,
+            "gpslong": 127.19575,
+            "nodeid": "GGB277104752",
+            "nodenm": "미사강변남로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.56365,
+            "gpslong": 127.1924833,
+            "nodeid": "GGB227511270",
+            "nodenm": "(종점)미사역",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5637,
+            "gpslong": 127.1928333,
+            "nodeid": "GGB227000658",
+            "nodenm": "미사역",
+            "nodeno": 28464
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5600833,
+            "gpslong": 127.18895,
+            "nodeid": "GGB227000201",
+            "nodenm": "하남노인·장애인복지관.미사1동행정복지센터",
+            "nodeno": 28228
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5622,
+            "gpslong": 127.19665,
+            "nodeid": "GGB227000074",
+            "nodenm": "하남디지털도서관.효성해링턴.C3단지",
+            "nodeno": 28058
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5583667,
+            "gpslong": 127.19535,
+            "nodeid": "GGB227000273",
+            "nodenm": "청아초등학교.신안인스빌.브라운스톤",
+            "nodeno": 28303
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5598667,
+            "gpslong": 127.18845,
+            "nodeid": "GGB227000032",
+            "nodenm": "하남노인·장애인복지관.미사1동행정복지센터",
+            "nodeno": 28081
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5650167,
+            "gpslong": 127.1924667,
+            "nodeid": "GGB277104749",
+            "nodenm": "기점진입전(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5606333,
+            "gpslong": 127.1876,
+            "nodeid": "GGB227000280",
+            "nodenm": "미사1동행정복지센터.하남고등학교.노인장애인복지관",
+            "nodeno": 28512
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5578167,
+            "gpslong": 127.1961167,
+            "nodeid": "GGB227000274",
+            "nodenm": "미사강변골든센트로.미사레스티아",
+            "nodeno": 28304
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5567333,
+            "gpslong": 127.1920167,
+            "nodeid": "GGB227000162",
+            "nodenm": "아란티움.26단지.e편한세상",
+            "nodeno": 28074
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5605833,
+            "gpslong": 127.1872333,
+            "nodeid": "GGB227000661",
+            "nodenm": "하남고등학교",
+            "nodeno": 28472
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5631333,
+            "gpslong": 127.1976667,
+            "nodeid": "GGB227000303",
+            "nodenm": "하남디지털도서관.효성해링턴.C3단지",
+            "nodeno": 28193
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 20
+    }
+  }
+}

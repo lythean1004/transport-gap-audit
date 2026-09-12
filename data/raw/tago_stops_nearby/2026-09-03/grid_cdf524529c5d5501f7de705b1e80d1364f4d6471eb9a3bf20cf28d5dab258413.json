@@ -1,0 +1,89 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1905,
+            "gpslong": 127.12285,
+            "nodeid": "GGB233001568",
+            "nodenm": "베라체아파트",
+            "nodeno": 36693
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1901833,
+            "gpslong": 127.1243167,
+            "nodeid": "GGB233003044",
+            "nodenm": "베라체.목동초",
+            "nodeno": 55550
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1901833,
+            "gpslong": 127.12495,
+            "nodeid": "GGB233003154",
+            "nodenm": "목동초.베라체",
+            "nodeno": 55551
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1886667,
+            "gpslong": 127.1232667,
+            "nodeid": "GGB233001623",
+            "nodenm": "동원로얄듀크2차.목동초",
+            "nodeno": 37682
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1902833,
+            "gpslong": 127.1258167,
+            "nodeid": "GGB233003156",
+            "nodenm": "e편한세상동탄",
+            "nodeno": 55553
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1902,
+            "gpslong": 127.1266,
+            "nodeid": "GGB233003155",
+            "nodenm": "e편한세상동탄",
+            "nodeno": 55552
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1893667,
+            "gpslong": 127.1273167,
+            "nodeid": "GGB233003158",
+            "nodenm": "금강4차.목동중",
+            "nodeno": 55555
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1888833,
+            "gpslong": 127.1271167,
+            "nodeid": "GGB233003157",
+            "nodenm": "목동중.금강4차",
+            "nodeno": 55554
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.18645,
+            "gpslong": 127.12385,
+            "nodeid": "GGB233001614",
+            "nodenm": "한신더휴",
+            "nodeno": 55489
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 9
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1824167,
+            "gpslong": 127.1026833,
+            "nodeid": "GGB233000161",
+            "nodenm": "반도3차.금강1차",
+            "nodeno": 36487
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1812333,
+            "gpslong": 127.1049667,
+            "nodeid": "GGB233003048",
+            "nodenm": "반도유보라",
+            "nodeno": 55411
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1813,
+            "gpslong": 127.1052167,
+            "nodeid": "GGB233003049",
+            "nodenm": "반도유보라",
+            "nodeno": 55412
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1802,
+            "gpslong": 127.1031333,
+            "nodeid": "GGB233000996",
+            "nodenm": "반도3차.금강1차",
+            "nodeno": 36488
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1842333,
+            "gpslong": 127.1070833,
+            "nodeid": "GGB233001821",
+            "nodenm": "신리천",
+            "nodeno": 55509
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1858,
+            "gpslong": 127.10235,
+            "nodeid": "GGB233001813",
+            "nodenm": "신리천리베라마을",
+            "nodeno": 55508
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

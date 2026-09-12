@@ -1,0 +1,70 @@
+[G1] SRC-E1-A04: TEXT_FAIL → Y_NORMALIZED (page 구체화)
+[G1] SRC-E1-A10: TEXT_FAIL → Y_NORMALIZED (page 구체화)
+[G1] SRC-E1-B08: TEXT_FAIL → Y_NORMALIZED (page 구체화)
+[G1] SRC-E1-C08: TEXT_FAIL → Y_NORMALIZED (page 구체화)
+[G1] SRC-E2-C08: TEXT_FAIL → Y_NORMALIZED (page 구체화)
+[G1] SRC-E1-A10-A25: TEXT_FAIL → Y_NORMALIZED (page 구체화)
+[G1] SRC-E2-C09-S3: TEXT_FAIL → Y_NORMALIZED (page 구체화)
+[G2 promote] SRC-F006: PARAPHRASE_CONTEXT → Y_NORMALIZED
+[G2 promote] SRC-F011: PARAPHRASE_CONTEXT → Y_NORMALIZED
+[G2 promote] SRC-F023: PARAPHRASE_CONTEXT → Y_NORMALIZED
+[G2 promote] SRC-F024: PARAPHRASE_CONTEXT → Y_NORMALIZED
+[G2 promote] SRC-F029: PARAPHRASE_CONTEXT → Y_NORMALIZED
+[G2 promote] SRC-H017: PARAPHRASE_CONTEXT → Y_NORMALIZED
+[G2 absent] SRC-F004: target_date_precision=absent 확정
+[G2 reclassify] SRC-F010: → plan_confirmation (2020-12-29)
+[G2 reclassify] SRC-F016: → plan_confirmation (2020-05-08)
+[G2 reclassify] SRC-H004: → plan_confirmation (2020)
+[G3 reclassify] SRC-PDF-018-PROM-1: → plan_confirmation (2020-05-08)
+[G3 assign_date] SRC-PDF-023-ACTU-1: event_date=2022-03-19 precision=day
+[G3 reject] SRC-PDF-027-BASI-1: empty_excerpt_no_target_date
+[G3 assign_date] SRC-PDF-031-BASI-1: event_date=2024-08-10 precision=day
+[G3 assign_date] SRC-PDF-032-BASI-1: event_date=2024-12-28 precision=day
+[G3 reject] SRC-PDF-050-PROM-1: empty_excerpt_no_target_date
+[G3 reject] SRC-PDF-051-PROM-1: empty_excerpt_no_target_date
+[G3 reject] SRC-PDF-078-BASI-1: missing_development_and_evidence
+[G3 reject] SRC-PDF-082-OCCU-1: target_date_absent_in_excerpt
+[G3 reject] SRC-PDF-087-BASI-1: empty_excerpt_no_target_date
+[G3 reject] SRC-PDF-097-BASI-1: empty_excerpt_no_target_date
+[G3 reject] SRC-PDF-097-BASI-2: empty_excerpt_no_target_date
+[G3 assign_date] SRC-PDF-108-ACTU-1: event_date=2021 precision=year
+[G3 assign_date] SRC-PDF-108-ACTU-2: event_date=2021 precision=year
+[G3 assign_date] SRC-PDF-108-ACTU-3: event_date=2021 precision=year
+
+[B5v4] 최종 승격: 19행
+  ✓ SRC-E1-A04
+  ✓ SRC-E1-A10
+  ✓ SRC-E1-B08
+  ✓ SRC-E1-C08
+  ✓ SRC-E2-C08
+  ✓ SRC-F006
+  ✓ SRC-F011
+  ✓ SRC-F023
+  ✓ SRC-F024
+  ✓ SRC-F029
+  ✓ SRC-H017
+  ✓ SRC-PDF-023-ACTU-1
+  ✓ SRC-PDF-031-BASI-1
+  ✓ SRC-PDF-032-BASI-1
+  ✓ SRC-PDF-108-ACTU-1
+  ✓ SRC-PDF-108-ACTU-2
+  ✓ SRC-PDF-108-ACTU-3
+  ✓ SRC-E1-A10-A25
+  ✓ SRC-E2-C09-S3
+
+[B5v4 plan] plan_confirmation 행 verified 마킹: 1행
+  ✓ SRC-PDF-018-PROM-1
+
+=== v4 최종 통계 ===
+총 행: 197
+활성 후보: 127
+human_verified=TRUE (전체): 129
+  ├─ 활성 후보 중 verified: 126
+  └─ plan_confirmation verified (컨텍스트): 3
+활성 후보 승격률: 99.2%
+rejected: 37
+duplicate: 14
+plan_confirmation 총: 19
+
+활성이나 미승격 잔여: 1행
+  SRC-F004 (인천 계양) [promise_date] ef=PARAPHRASE_CONTEXT sim=0.5 edn=2026 status=needs_human

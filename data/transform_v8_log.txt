@@ -1,0 +1,28 @@
+[H002] promise_date → plan_confirmation (v1 근거 보존, canon은 H003 latest)
+
+=== v8 pick 시뮬레이션 ===
+
+화성 동탄2:
+  occupancy_first_actual: SRC-H001 edn=2015-01-23 mode= status=verified
+  promise_date: SRC-H003 edn=2024-06-30 mode=rail status=verified
+  actual_operation: SRC-H005 edn=2024-03-30 mode=rail status=verified
+
+김포 한강:
+  occupancy_first_actual: SRC-H007 edn=2011-06-17 mode= status=verified
+  promise_date: SRC-H009 edn=2018-12-31 mode=rail status=verified
+  actual_operation: SRC-H011 edn=2019-09-28 mode=rail status=verified
+
+위례:
+  occupancy_first_actual: SRC-H013 edn=2013-12-31 mode= status=verified
+  promise_date: SRC-E1-C05 edn=2025-09-30 mode=tram status=verified
+  actual_operation: (없음)
+
+남양주 다산:
+  occupancy_first_actual: SRC-H020 edn=2018-02-12 mode= status=verified
+  promise_date: SRC-H022 edn=2022-12-31 mode=rail status=verified
+  actual_operation: SRC-H023 edn=2024-08-10 mode=rail status=verified
+
+하남 미사:
+  occupancy_first_actual: SRC-H025 edn=2014-06-30 mode= status=verified
+  promise_date: SRC-H028 edn=2020-08-08 mode=rail status=verified
+  actual_operation: SRC-H029 edn=2020-08-08 mode=rail status=verified

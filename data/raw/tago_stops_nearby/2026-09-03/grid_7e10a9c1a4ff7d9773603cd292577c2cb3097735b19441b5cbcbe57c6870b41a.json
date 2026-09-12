@@ -1,0 +1,81 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5372333,
+            "gpslong": 127.1836167,
+            "nodeid": "GGB227000555",
+            "nodenm": "장원화학",
+            "nodeno": 28358
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5371833,
+            "gpslong": 127.18355,
+            "nodeid": "GGB227000556",
+            "nodenm": "장원화학",
+            "nodeno": 28359
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5356333,
+            "gpslong": 127.1841667,
+            "nodeid": "GGB227000558",
+            "nodenm": "삼거리식당",
+            "nodeno": 28361
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5355667,
+            "gpslong": 127.1840833,
+            "nodeid": "GGB227000557",
+            "nodenm": "삼거리식당",
+            "nodeno": 28360
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5389833,
+            "gpslong": 127.1823167,
+            "nodeid": "GGB227000554",
+            "nodenm": "에어팰리스",
+            "nodeno": 28357
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5389667,
+            "gpslong": 127.1821,
+            "nodeid": "GGB227000553",
+            "nodenm": "에어팰리스",
+            "nodeno": 28356
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5345667,
+            "gpslong": 127.18745,
+            "nodeid": "GGB227000561",
+            "nodenm": "굴다리",
+            "nodeno": 28364
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5345167,
+            "gpslong": 127.1874667,
+            "nodeid": "GGB227000562",
+            "nodenm": "굴다리",
+            "nodeno": 28365
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 8
+    }
+  }
+}

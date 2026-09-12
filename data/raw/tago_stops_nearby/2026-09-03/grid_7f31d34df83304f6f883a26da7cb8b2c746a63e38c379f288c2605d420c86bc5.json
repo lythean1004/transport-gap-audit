@@ -1,0 +1,137 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5554833,
+            "gpslong": 127.1869,
+            "nodeid": "GGB227000269",
+            "nodenm": "하남고용센터.센트럴자이.더샵센트럴포레",
+            "nodeno": 28301
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55545,
+            "gpslong": 127.1865167,
+            "nodeid": "GGB227000268",
+            "nodenm": "하남고용센터.센트럴자이.더샵센트럴포레",
+            "nodeno": 28300
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55945,
+            "gpslong": 127.1874167,
+            "nodeid": "GGB227000281",
+            "nodenm": "미사1동행정복지센터.하남고등학교.노인·장애인복지관",
+            "nodeno": 28513
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5595333,
+            "gpslong": 127.1855833,
+            "nodeid": "GGB227000267",
+            "nodenm": "미사강변센트럴자이.하남고등학교",
+            "nodeno": 28299
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5598667,
+            "gpslong": 127.18845,
+            "nodeid": "GGB227000032",
+            "nodenm": "하남노인·장애인복지관.미사1동행정복지센터",
+            "nodeno": 28081
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55655,
+            "gpslong": 127.1918667,
+            "nodeid": "GGB227000170",
+            "nodenm": "아란티움.26단지.e편한세상",
+            "nodeno": 28105
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5599,
+            "gpslong": 127.1859167,
+            "nodeid": "GGB227000386",
+            "nodenm": "하남고정문",
+            "nodeno": 28620
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5567333,
+            "gpslong": 127.1920167,
+            "nodeid": "GGB227000162",
+            "nodenm": "아란티움.26단지.e편한세상",
+            "nodeno": 28074
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5600833,
+            "gpslong": 127.18895,
+            "nodeid": "GGB227000201",
+            "nodenm": "하남노인·장애인복지관.미사1동행정복지센터",
+            "nodeno": 28228
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5591833,
+            "gpslong": 127.1840833,
+            "nodeid": "GGB227000354",
+            "nodenm": "미사역사일가공원.동일하이빌.센텀팰리스",
+            "nodeno": 28587
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5605833,
+            "gpslong": 127.1872333,
+            "nodeid": "GGB227000661",
+            "nodenm": "하남고등학교",
+            "nodeno": 28472
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5606333,
+            "gpslong": 127.1876,
+            "nodeid": "GGB227000280",
+            "nodenm": "미사1동행정복지센터.하남고등학교.노인장애인복지관",
+            "nodeno": 28512
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5529667,
+            "gpslong": 127.1851167,
+            "nodeid": "GGB227000678",
+            "nodenm": "미사우체국.더샵센트럴포레.동원로얄듀크",
+            "nodeno": 28525
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55935,
+            "gpslong": 127.1834667,
+            "nodeid": "GGB227000266",
+            "nodenm": "미사역사일가공원.센텀팰리스.하남고",
+            "nodeno": 28298
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5528667,
+            "gpslong": 127.1847833,
+            "nodeid": "GGB227000679",
+            "nodenm": "미사우체국.더샵센트럴포레.동원로얄듀크",
+            "nodeno": 28526
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 15
+    }
+  }
+}

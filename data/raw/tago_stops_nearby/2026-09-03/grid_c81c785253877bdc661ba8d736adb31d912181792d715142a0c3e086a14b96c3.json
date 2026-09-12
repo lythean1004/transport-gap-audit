@@ -1,0 +1,105 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6415667,
+            "gpslong": 126.6208,
+            "nodeid": "GGB232000849",
+            "nodenm": "김포한강3차푸르지오",
+            "nodeno": 35796
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6431333,
+            "gpslong": 126.6167333,
+            "nodeid": "GGB232000209",
+            "nodenm": "구지",
+            "nodeno": 35309
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6432,
+            "gpslong": 126.6167,
+            "nodeid": "GGB232000206",
+            "nodenm": "구지",
+            "nodeno": 35310
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6428167,
+            "gpslong": 126.6208833,
+            "nodeid": "GGB232000848",
+            "nodenm": "나비마을삼거리",
+            "nodeno": 35795
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6409667,
+            "gpslong": 126.6214167,
+            "nodeid": "GGB232000558",
+            "nodenm": "김포한강3차푸르지오",
+            "nodeno": 35054
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64425,
+            "gpslong": 126.6199333,
+            "nodeid": "GGB232000557",
+            "nodenm": "LH한가람마을2단지",
+            "nodeno": 35500
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64185,
+            "gpslong": 126.6143833,
+            "nodeid": "GGB232000449",
+            "nodenm": "양촌역",
+            "nodeno": 35390
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6418333,
+            "gpslong": 126.6143,
+            "nodeid": "GGB232000452",
+            "nodenm": "양촌역",
+            "nodeno": 35069
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6456333,
+            "gpslong": 126.6199667,
+            "nodeid": "GGB232000944",
+            "nodenm": "LH한가람마을2단지",
+            "nodeno": 35894
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6451,
+            "gpslong": 126.6215667,
+            "nodeid": "GGB232000822",
+            "nodenm": "구래동행정복지센터",
+            "nodeno": 35734
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6460167,
+            "gpslong": 126.6187333,
+            "nodeid": "GGB232000179",
+            "nodenm": "구래3리",
+            "nodeno": 35095
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 11
+    }
+  }
+}

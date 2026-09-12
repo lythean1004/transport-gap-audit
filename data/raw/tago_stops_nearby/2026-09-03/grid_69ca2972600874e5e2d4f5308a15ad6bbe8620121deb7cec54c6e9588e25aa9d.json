@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.5946,
+            "gpslong": 127.1753333,
+            "nodeid": "GGB277102838",
+            "nodenm": "수석IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5949167,
+            "gpslong": 127.1755333,
+            "nodeid": "GGB277102837",
+            "nodenm": "수석IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5946,
+            "gpslong": 127.1795333,
+            "nodeid": "GGB222000120",
+            "nodenm": "석실마을",
+            "nodeno": 23207
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5947667,
+            "gpslong": 127.1799333,
+            "nodeid": "GGB222000121",
+            "nodenm": "석실마을",
+            "nodeno": 23193
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

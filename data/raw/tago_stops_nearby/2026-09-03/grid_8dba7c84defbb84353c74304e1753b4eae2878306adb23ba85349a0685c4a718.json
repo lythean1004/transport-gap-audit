@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6443,
+            "gpslong": 126.6395167,
+            "nodeid": "GGB232000980",
+            "nodenm": "레이크에일린의뜰",
+            "nodeno": 35930
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6434833,
+            "gpslong": 126.64115,
+            "nodeid": "GGB232000263",
+            "nodenm": "마산동행정복지센터",
+            "nodeno": 35370
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6440833,
+            "gpslong": 126.6392833,
+            "nodeid": "GGB232000979",
+            "nodenm": "레이크에일린의뜰",
+            "nodeno": 35929
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6432667,
+            "gpslong": 126.6410333,
+            "nodeid": "GGB232000247",
+            "nodenm": "마산동행정복지센터",
+            "nodeno": 35130
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6431833,
+            "gpslong": 126.6397333,
+            "nodeid": "GGB232000869",
+            "nodenm": "마산도서관.마산동성당",
+            "nodeno": 35816
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6432333,
+            "gpslong": 126.6394667,
+            "nodeid": "GGB232000865",
+            "nodenm": "마산도서관.에일린의뜰",
+            "nodeno": 35812
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6422333,
+            "gpslong": 126.6431167,
+            "nodeid": "GGB232000832",
+            "nodenm": "자이더빌리지",
+            "nodeno": 35779
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.642,
+            "gpslong": 126.6429,
+            "nodeid": "GGB232000834",
+            "nodenm": "자이더빌리지",
+            "nodeno": 35781
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6491833,
+            "gpslong": 126.6387,
+            "nodeid": "GGB232000942",
+            "nodenm": "김포시자원화센터",
+            "nodeno": 35892
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6496,
+            "gpslong": 126.6389667,
+            "nodeid": "GGB232000943",
+            "nodenm": "김포시자원화센터",
+            "nodeno": 35893
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

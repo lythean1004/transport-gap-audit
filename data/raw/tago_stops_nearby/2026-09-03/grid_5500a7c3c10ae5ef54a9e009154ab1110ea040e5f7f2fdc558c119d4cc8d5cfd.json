@@ -1,0 +1,89 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.5994833,
+            "gpslong": 127.1616,
+            "nodeid": "GGB222001136",
+            "nodenm": "가운고등학교",
+            "nodeno": 23879
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5983167,
+            "gpslong": 127.1621333,
+            "nodeid": "GGB222001135",
+            "nodenm": "가운고등학교",
+            "nodeno": 23878
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5982,
+            "gpslong": 127.1597667,
+            "nodeid": "GGB222001208",
+            "nodenm": "한신더휴6.8단지.가운고교",
+            "nodeno": 49949
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.60075,
+            "gpslong": 127.1601667,
+            "nodeid": "GGB222001266",
+            "nodenm": "경남아너스빌.더힐포레",
+            "nodeno": 23898
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6012833,
+            "gpslong": 127.15995,
+            "nodeid": "GGB222001265",
+            "nodenm": "경남아너스빌.더힐포레",
+            "nodeno": 49034
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5977833,
+            "gpslong": 127.1588,
+            "nodeid": "GGB222001390",
+            "nodenm": "한신더휴6.8단지",
+            "nodeno": 23990
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5985167,
+            "gpslong": 127.1579333,
+            "nodeid": "GGB222001207",
+            "nodenm": "한신더휴6.7단지.가운중학교",
+            "nodeno": 49948
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5991667,
+            "gpslong": 127.15745,
+            "nodeid": "GGB222001392",
+            "nodenm": "한신더휴6.7단지.가운중학교",
+            "nodeno": 23991
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6023833,
+            "gpslong": 127.1592833,
+            "nodeid": "GGB222001137",
+            "nodenm": "가운휴먼시아1.2단지.더힐포레",
+            "nodeno": 23880
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 9
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31120,
+            "gpslati": 37.6122333,
+            "gpslong": 127.1433,
+            "nodeid": "GGB221000264",
+            "nodenm": "농수산물시장",
+            "nodeno": 22245
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6122333,
+            "gpslong": 127.1430833,
+            "nodeid": "GGB221000265",
+            "nodenm": "농수산물시장",
+            "nodeno": 22246
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6153333,
+            "gpslong": 127.14195,
+            "nodeid": "GGB277103216",
+            "nodenm": "구리IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6154333,
+            "gpslong": 127.1413,
+            "nodeid": "GGB277103215",
+            "nodenm": "구리IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6113833,
+            "gpslong": 127.141,
+            "nodeid": "GGB221000058",
+            "nodenm": "동구동행정복지센터.동구릉역4번출구",
+            "nodeno": 22110
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6109833,
+            "gpslong": 127.1409167,
+            "nodeid": "GGB221000056",
+            "nodenm": "동구동행정복지센터.동구릉역5번출구",
+            "nodeno": 22108
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6178,
+            "gpslong": 127.1430333,
+            "nodeid": "GGB221000321",
+            "nodenm": "인창해모로아파트후문.농협하나로마트",
+            "nodeno": 22256
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6181167,
+            "gpslong": 127.1434667,
+            "nodeid": "GGB221000236",
+            "nodenm": "인창해모로아파트후문",
+            "nodeno": 22225
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 8
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5597167,
+            "gpslong": 127.1820333,
+            "nodeid": "GGB227000005",
+            "nodenm": "미사강변센텀팰리스.강일리버10단지",
+            "nodeno": 28022
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5620167,
+            "gpslong": 127.1815333,
+            "nodeid": "GGB227000220",
+            "nodenm": "윤슬중학교.강솔초등학교",
+            "nodeno": 28508
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55935,
+            "gpslong": 127.1834667,
+            "nodeid": "GGB227000266",
+            "nodenm": "미사역사일가공원.센텀팰리스.하남고",
+            "nodeno": 28298
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5591833,
+            "gpslong": 127.1840833,
+            "nodeid": "GGB227000354",
+            "nodenm": "미사역사일가공원.동일하이빌.센텀팰리스",
+            "nodeno": 28587
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5595333,
+            "gpslong": 127.1855833,
+            "nodeid": "GGB227000267",
+            "nodenm": "미사강변센트럴자이.하남고등학교",
+            "nodeno": 28299
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5599,
+            "gpslong": 127.1859167,
+            "nodeid": "GGB227000386",
+            "nodenm": "하남고정문",
+            "nodeno": 28620
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5627833,
+            "gpslong": 127.1862167,
+            "nodeid": "GGB227000232",
+            "nodenm": "미사강변푸르지오.하우스디더레이크",
+            "nodeno": 28289
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5605833,
+            "gpslong": 127.1872333,
+            "nodeid": "GGB227000661",
+            "nodenm": "하남고등학교",
+            "nodeno": 28472
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5606333,
+            "gpslong": 127.1876,
+            "nodeid": "GGB227000280",
+            "nodenm": "미사1동행정복지센터.하남고등학교.노인장애인복지관",
+            "nodeno": 28512
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5638,
+            "gpslong": 127.1860167,
+            "nodeid": "GGB227000230",
+            "nodenm": "미사강변푸르지오.하우스디더레이크",
+            "nodeno": 28287
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55945,
+            "gpslong": 127.1874167,
+            "nodeid": "GGB227000281",
+            "nodenm": "미사1동행정복지센터.하남고등학교.노인·장애인복지관",
+            "nodeno": 28513
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5571167,
+            "gpslong": 127.1818667,
+            "nodeid": "GGB227000025",
+            "nodenm": "센트럴풍경채.동일하이빌.강동리엔9단지",
+            "nodeno": 28020
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5569333,
+            "gpslong": 127.1816667,
+            "nodeid": "GGB227000173",
+            "nodenm": "센트럴풍경채.동일하이빌.강동리엔9단지",
+            "nodeno": 28509
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5645833,
+            "gpslong": 127.18015,
+            "nodeid": "GGB227000006",
+            "nodenm": "미사강변17단지.강일리버7단지",
+            "nodeno": 28467
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5598667,
+            "gpslong": 127.18845,
+            "nodeid": "GGB227000032",
+            "nodenm": "하남노인·장애인복지관.미사1동행정복지센터",
+            "nodeno": 28081
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 15
+    }
+  }
+}

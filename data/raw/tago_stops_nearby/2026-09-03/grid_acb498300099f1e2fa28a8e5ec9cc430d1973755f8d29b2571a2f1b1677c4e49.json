@@ -1,0 +1,41 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31020,
+            "gpslati": 37.4561833,
+            "gpslong": 127.13815,
+            "nodeid": "GGB277100057",
+            "nodenm": "영장산터널진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4564667,
+            "gpslong": 127.1383,
+            "nodeid": "GGB277100054",
+            "nodenm": "영장산터널출구(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4515833,
+            "gpslong": 127.1403167,
+            "nodeid": "GGB204000249",
+            "nodenm": "현충탑앞",
+            "nodeno": 5228
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 3
+    }
+  }
+}

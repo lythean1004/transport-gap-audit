@@ -1,0 +1,161 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6433833,
+            "gpslong": 126.6268,
+            "nodeid": "GGB232000488",
+            "nodenm": "구래역한강리슈빌.이마트",
+            "nodeno": 35754
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64315,
+            "gpslong": 126.62705,
+            "nodeid": "GGB232000138",
+            "nodenm": "구래역한강리슈빌.이마트",
+            "nodeno": 35340
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6418833,
+            "gpslong": 126.6264167,
+            "nodeid": "GGB232000977",
+            "nodenm": "나비마을3단지",
+            "nodeno": 35927
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6415,
+            "gpslong": 126.6263333,
+            "nodeid": "GGB232000978",
+            "nodenm": "나비마을3단지",
+            "nodeno": 35928
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.644936,
+            "gpslong": 126.628786,
+            "nodeid": "ICB232000725",
+            "nodenm": "구래역",
+            "nodeno": 80337
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6450833,
+            "gpslong": 126.6287,
+            "nodeid": "GGB232000725",
+            "nodenm": "구래역",
+            "nodeno": 35196
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.645057,
+            "gpslong": 126.629008,
+            "nodeid": "ICB232000724",
+            "nodenm": "구래역",
+            "nodeno": 80338
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6452,
+            "gpslong": 126.629,
+            "nodeid": "GGB232000724",
+            "nodenm": "구래역",
+            "nodeno": 35195
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6461167,
+            "gpslong": 126.6264167,
+            "nodeid": "GGB232000027",
+            "nodenm": "한강반도유보라5차",
+            "nodeno": 35590
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6465,
+            "gpslong": 126.6267333,
+            "nodeid": "GGB232000073",
+            "nodenm": "한강반도유보라5차",
+            "nodeno": 35473
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6441833,
+            "gpslong": 126.6307833,
+            "nodeid": "GGB232000494",
+            "nodenm": "솔터3단지.이마트",
+            "nodeno": 35755
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.641281,
+            "gpslong": 126.630248,
+            "nodeid": "ICB232000706",
+            "nodenm": "솔터마을입구",
+            "nodeno": 80336
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6439167,
+            "gpslong": 126.6309,
+            "nodeid": "GGB232000536",
+            "nodenm": "솔터마을3단지",
+            "nodeno": 35757
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6411833,
+            "gpslong": 126.6302333,
+            "nodeid": "GGB232000706",
+            "nodenm": "솔터마을입구.화성파크드림",
+            "nodeno": 35643
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.640687,
+            "gpslong": 126.630078,
+            "nodeid": "ICB232000707",
+            "nodenm": "솔터마을입구",
+            "nodeno": 80327
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6406667,
+            "gpslong": 126.63015,
+            "nodeid": "GGB232000707",
+            "nodenm": "화성파크드림.솔터마을입구",
+            "nodeno": 35642
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6392,
+            "gpslong": 126.6266167,
+            "nodeid": "GGB232000976",
+            "nodenm": "나래중학교",
+            "nodeno": 35926
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64565,
+            "gpslong": 126.6225,
+            "nodeid": "GGB232000817",
+            "nodenm": "구래동행정복지센터",
+            "nodeno": 35729
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 18
+    }
+  }
+}

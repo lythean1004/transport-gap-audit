@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 23,
+            "gpslati": 37.627595,
+            "gpslong": 126.667782,
+            "nodeid": "ICB168001327",
+            "nodenm": "성신아크릴산업",
+            "nodeno": 89327
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.627448,
+            "gpslong": 126.667824,
+            "nodeid": "ICB168001313",
+            "nodenm": "성신아크릴산업",
+            "nodeno": 89313
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

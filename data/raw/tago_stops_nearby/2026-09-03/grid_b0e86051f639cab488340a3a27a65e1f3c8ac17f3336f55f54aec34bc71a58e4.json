@@ -1,0 +1,169 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.54805,
+            "gpslong": 127.2053333,
+            "nodeid": "GGB227000567",
+            "nodenm": "풍산참아름아파트.공판장",
+            "nodeno": 28374
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5475167,
+            "gpslong": 127.2052833,
+            "nodeid": "GGB227000568",
+            "nodenm": "풍산참아름아파트.공판장",
+            "nodeno": 28375
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5458667,
+            "gpslong": 127.2053,
+            "nodeid": "GGB227000571",
+            "nodenm": "역사박물관.하남교회.더샵센트럴뷰",
+            "nodeno": 28378
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5457667,
+            "gpslong": 127.2055333,
+            "nodeid": "GGB227000572",
+            "nodenm": "역사박물관.하남교회.더샵센트럴뷰",
+            "nodeno": 28379
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5515167,
+            "gpslong": 127.2048833,
+            "nodeid": "GGB227000630",
+            "nodenm": "하남풍산역.덕풍지구대",
+            "nodeno": 28437
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54975,
+            "gpslong": 127.1988333,
+            "nodeid": "GGB227000519",
+            "nodenm": "온천마을.풍산고등학교",
+            "nodeno": 28324
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5489833,
+            "gpslong": 127.2077167,
+            "nodeid": "GGB227000228",
+            "nodenm": "새뜰마을3단지정문",
+            "nodeno": 28252
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5473333,
+            "gpslong": 127.1985667,
+            "nodeid": "GGB227000495",
+            "nodenm": "온천마을입구",
+            "nodeno": 28317
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5497667,
+            "gpslong": 127.1985833,
+            "nodeid": "GGB227000524",
+            "nodenm": "온천마을.풍산고등학교",
+            "nodeno": 28329
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5474,
+            "gpslong": 127.19835,
+            "nodeid": "GGB227000496",
+            "nodenm": "온천마을입구",
+            "nodeno": 28318
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5512667,
+            "gpslong": 127.2065667,
+            "nodeid": "GGB227000208",
+            "nodenm": "나룰.풍산근린3호공원",
+            "nodeno": 28224
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5522833,
+            "gpslong": 127.2041833,
+            "nodeid": "GGB227000575",
+            "nodenm": "하남풍산역.덕풍3동행정복지센터.이마트",
+            "nodeno": 28382
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54985,
+            "gpslong": 127.20795,
+            "nodeid": "GGB227000229",
+            "nodenm": "새뜰마을3단지정문",
+            "nodeno": 28253
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5448667,
+            "gpslong": 127.20045,
+            "nodeid": "GGB227000253",
+            "nodenm": "라인.한솔솔파크아파트(중)",
+            "nodeno": 28285
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5525667,
+            "gpslong": 127.2025333,
+            "nodeid": "GGB227000209",
+            "nodenm": "하남풍산역.풍산아이파크5단지",
+            "nodeno": 28220
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.546,
+            "gpslong": 127.1988167,
+            "nodeid": "GGB227000030",
+            "nodenm": "라인.한솔솔파크아파트",
+            "nodeno": 28050
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5449333,
+            "gpslong": 127.20005,
+            "nodeid": "GGB227000252",
+            "nodenm": "라인.한솔솔파크아파트(중)",
+            "nodeno": 28284
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5515,
+            "gpslong": 127.2068833,
+            "nodeid": "GGB227000207",
+            "nodenm": "나룰.풍산근린3호공원",
+            "nodeno": 28219
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5449833,
+            "gpslong": 127.1997167,
+            "nodeid": "GGB227000140",
+            "nodenm": "라인.한솔솔파크아파트",
+            "nodeno": 28054
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 19
+    }
+  }
+}

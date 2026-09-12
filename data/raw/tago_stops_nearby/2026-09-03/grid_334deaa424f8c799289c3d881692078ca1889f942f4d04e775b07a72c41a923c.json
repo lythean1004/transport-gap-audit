@@ -1,0 +1,113 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2060667,
+            "gpslong": 127.1233333,
+            "nodeid": "GGB233001176",
+            "nodenm": "LH4단지.치동천복지관",
+            "nodeno": 55900
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2060333,
+            "gpslong": 127.1231167,
+            "nodeid": "GGB233001173",
+            "nodenm": "LH4단지.치동천복지관",
+            "nodeno": 55899
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2055833,
+            "gpslong": 127.1227833,
+            "nodeid": "GGB233001505",
+            "nodenm": "동탄2LH4단지",
+            "nodeno": 37583
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2056333,
+            "gpslong": 127.12265,
+            "nodeid": "GGB233000959",
+            "nodenm": "동탄2LH4단지",
+            "nodeno": 36437
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2042833,
+            "gpslong": 127.1245833,
+            "nodeid": "GGB233000352",
+            "nodenm": "단독주택",
+            "nodeno": 55814
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2085833,
+            "gpslong": 127.1248667,
+            "nodeid": "GGB277104710",
+            "nodenm": "중리IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2041333,
+            "gpslong": 127.1246833,
+            "nodeid": "GGB233000360",
+            "nodenm": "단독주택",
+            "nodeno": 55822
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2087167,
+            "gpslong": 127.12695,
+            "nodeid": "GGB277104373",
+            "nodenm": "중리IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.20275,
+            "gpslong": 127.1227167,
+            "nodeid": "GGB233002424",
+            "nodenm": "단독주택",
+            "nodeno": 55300
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2025,
+            "gpslong": 127.1222167,
+            "nodeid": "GGB233002425",
+            "nodenm": "단독주택",
+            "nodeno": 55301
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2041,
+            "gpslong": 127.1196167,
+            "nodeid": "GGB233002501",
+            "nodenm": "LH4단지후문",
+            "nodeno": 55407
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2021833,
+            "gpslong": 127.1256667,
+            "nodeid": "GGB233002426",
+            "nodenm": "치동천힐링마을",
+            "nodeno": 55302
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 12
+    }
+  }
+}

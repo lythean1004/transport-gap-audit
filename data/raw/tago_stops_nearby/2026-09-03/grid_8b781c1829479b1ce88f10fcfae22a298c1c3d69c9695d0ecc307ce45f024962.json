@@ -1,0 +1,57 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1552833,
+            "gpslong": 127.10335,
+            "nodeid": "GGB233002248",
+            "nodenm": "동탄2차고지",
+            "nodeno": 55999
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1554,
+            "gpslong": 127.1034667,
+            "nodeid": "GGB233002247",
+            "nodenm": "동탄2차고지",
+            "nodeno": 55998
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1556333,
+            "gpslong": 127.1032167,
+            "nodeid": "GGB277100615",
+            "nodenm": "동탄2차고지(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1554,
+            "gpslong": 127.10165,
+            "nodeid": "GGB233003122",
+            "nodenm": "동탄2차고지",
+            "nodeno": 55518
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1555167,
+            "gpslong": 127.1012667,
+            "nodeid": "GGB233003123",
+            "nodenm": "동탄2차고지",
+            "nodeno": 55519
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 5
+    }
+  }
+}

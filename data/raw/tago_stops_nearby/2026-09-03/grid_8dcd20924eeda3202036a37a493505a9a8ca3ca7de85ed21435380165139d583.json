@@ -1,0 +1,145 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6381833,
+            "gpslong": 126.6713667,
+            "nodeid": "GGB232000839",
+            "nodenm": "중흥s클래스.우남퍼스트빌",
+            "nodeno": 35786
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6386167,
+            "gpslong": 126.6725167,
+            "nodeid": "GGB232000682",
+            "nodenm": "가현초등학교.장기동행정복지센터",
+            "nodeno": 35629
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6378167,
+            "gpslong": 126.6707167,
+            "nodeid": "GGB232000840",
+            "nodenm": "중흥s클래스.우남퍼스트빌",
+            "nodeno": 35787
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6389,
+            "gpslong": 126.6724667,
+            "nodeid": "GGB232000681",
+            "nodenm": "가현초등학교.장기동행정복지센터",
+            "nodeno": 35628
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6393667,
+            "gpslong": 126.6711,
+            "nodeid": "GGB232000506",
+            "nodenm": "장기동행정복지센터(마을)",
+            "nodeno": 35448
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63955,
+            "gpslong": 126.6713,
+            "nodeid": "GGB232000794",
+            "nodenm": "장기동행정복지센터(마을)",
+            "nodeno": 35775
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63495,
+            "gpslong": 126.6750167,
+            "nodeid": "GGB232000631",
+            "nodenm": "한강센트럴자이",
+            "nodeno": 35603
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6397333,
+            "gpslong": 126.6756,
+            "nodeid": "GGB232000721",
+            "nodenm": "삼성래미안(마을)",
+            "nodeno": 35940
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6346333,
+            "gpslong": 126.6752,
+            "nodeid": "GGB232000818",
+            "nodenm": "한강센트럴자이",
+            "nodeno": 35730
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6371667,
+            "gpslong": 126.6678667,
+            "nodeid": "GGB232000816",
+            "nodenm": "중흥s클래스후문",
+            "nodeno": 35728
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6377,
+            "gpslong": 126.6677333,
+            "nodeid": "GGB232000821",
+            "nodenm": "중흥s클래스후문",
+            "nodeno": 35733
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6411333,
+            "gpslong": 126.674,
+            "nodeid": "GGB232000579",
+            "nodenm": "중앙공원",
+            "nodeno": 35528
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6396667,
+            "gpslong": 126.6767333,
+            "nodeid": "GGB232000760",
+            "nodenm": "래미안한강아파트",
+            "nodeno": 35687
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6414167,
+            "gpslong": 126.6741833,
+            "nodeid": "GGB232000593",
+            "nodenm": "중앙공원",
+            "nodeno": 35533
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6398333,
+            "gpslong": 126.6770167,
+            "nodeid": "GGB232000761",
+            "nodenm": "롯데마트.래미안한강아파트",
+            "nodeno": 35688
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6371167,
+            "gpslong": 126.678,
+            "nodeid": "GGB232000922",
+            "nodenm": "자이타워",
+            "nodeno": 35872
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 16
+    }
+  }
+}

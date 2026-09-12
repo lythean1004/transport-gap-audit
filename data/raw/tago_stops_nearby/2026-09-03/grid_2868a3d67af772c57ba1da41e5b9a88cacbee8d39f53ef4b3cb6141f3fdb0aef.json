@@ -1,0 +1,113 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.17135,
+            "gpslong": 127.1064167,
+            "nodeid": "GGB233003092",
+            "nodenm": "우미린2차.호수부영3차",
+            "nodeno": 55419
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.17235,
+            "gpslong": 127.10335,
+            "nodeid": "GGB233002260",
+            "nodenm": "우미린.하우스디더레이크",
+            "nodeno": 55474
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1683167,
+            "gpslong": 127.1069167,
+            "nodeid": "GGB277103992",
+            "nodenm": "호수공원미래체험관(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1716667,
+            "gpslong": 127.1070833,
+            "nodeid": "GGB233003093",
+            "nodenm": "호수부영3차.우미린2차",
+            "nodeno": 55420
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1726167,
+            "gpslong": 127.1054833,
+            "nodeid": "GGB233002262",
+            "nodenm": "하우스디더레이크.우미린",
+            "nodeno": 55476
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1671667,
+            "gpslong": 127.1064333,
+            "nodeid": "GGB233003136",
+            "nodenm": "동탄호수공원",
+            "nodeno": 55532
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.17265,
+            "gpslong": 127.10135,
+            "nodeid": "GGB233002261",
+            "nodenm": "방교초.레이크자이더테라스",
+            "nodeno": 55475
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1723667,
+            "gpslong": 127.10085,
+            "nodeid": "GGB233000379",
+            "nodenm": "방교초.레이크자이더테라스",
+            "nodeno": 55625
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1668167,
+            "gpslong": 127.1070167,
+            "nodeid": "GGB233003128",
+            "nodenm": "동탄호수공원.센트럴시티",
+            "nodeno": 55524
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1723333,
+            "gpslong": 127.1081667,
+            "nodeid": "GGB233001954",
+            "nodenm": "호수부영3차",
+            "nodeno": 55567
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1658333,
+            "gpslong": 127.1047,
+            "nodeid": "GGB233000091",
+            "nodenm": "동탄그랑파사쥬",
+            "nodeno": 55733
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1655,
+            "gpslong": 127.1046333,
+            "nodeid": "GGB233000092",
+            "nodenm": "계룡리슈빌",
+            "nodeno": 55734
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 12
+    }
+  }
+}

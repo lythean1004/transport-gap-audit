@@ -1,0 +1,153 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2011167,
+            "gpslong": 127.1188667,
+            "nodeid": "GGB233002427",
+            "nodenm": "KCC스위첸",
+            "nodeno": 55303
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.20345,
+            "gpslong": 127.1172833,
+            "nodeid": "GGB233002422",
+            "nodenm": "무봉초",
+            "nodeno": 55298
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2042667,
+            "gpslong": 127.1192,
+            "nodeid": "GGB233002500",
+            "nodenm": "LH4단지후문",
+            "nodeno": 55406
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2041,
+            "gpslong": 127.1196167,
+            "nodeid": "GGB233002501",
+            "nodenm": "LH4단지후문",
+            "nodeno": 55407
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.19955,
+            "gpslong": 127.1176167,
+            "nodeid": "GGB233002428",
+            "nodenm": "호반베르디움",
+            "nodeno": 55304
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1999833,
+            "gpslong": 127.11605,
+            "nodeid": "GGB233000129",
+            "nodenm": "신안2차.반도4차",
+            "nodeno": 36460
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.20205,
+            "gpslong": 127.11455,
+            "nodeid": "GGB233000980",
+            "nodenm": "모아.반도1차아파트",
+            "nodeno": 36459
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2001,
+            "gpslong": 127.1154,
+            "nodeid": "GGB233000430",
+            "nodenm": "반도4차.동탄4동복지센터",
+            "nodeno": 55663
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2038333,
+            "gpslong": 127.115,
+            "nodeid": "GGB233002423",
+            "nodenm": "무봉초",
+            "nodeno": 55299
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2018833,
+            "gpslong": 127.1141,
+            "nodeid": "GGB233001491",
+            "nodenm": "반도1차.모아아파트",
+            "nodeno": 37551
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2051667,
+            "gpslong": 127.1161833,
+            "nodeid": "GGB233001506",
+            "nodenm": "포레너스아파트",
+            "nodeno": 37582
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2025,
+            "gpslong": 127.1222167,
+            "nodeid": "GGB233002425",
+            "nodenm": "단독주택",
+            "nodeno": 55301
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2053667,
+            "gpslong": 127.1158667,
+            "nodeid": "GGB233000981",
+            "nodenm": "포레너스아파트",
+            "nodeno": 36434
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2034167,
+            "gpslong": 127.11355,
+            "nodeid": "GGB277104808",
+            "nodenm": "치동천5교교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.20275,
+            "gpslong": 127.1227167,
+            "nodeid": "GGB233002424",
+            "nodenm": "단독주택",
+            "nodeno": 55300
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1987333,
+            "gpslong": 127.11515,
+            "nodeid": "GGB233000150",
+            "nodenm": "반도유보라.센트럴푸르지오",
+            "nodeno": 36515
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1981333,
+            "gpslong": 127.1168167,
+            "nodeid": "GGB233001168",
+            "nodenm": "센트럴푸르지오.호반베르디움2차",
+            "nodeno": 36458
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 17
+    }
+  }
+}

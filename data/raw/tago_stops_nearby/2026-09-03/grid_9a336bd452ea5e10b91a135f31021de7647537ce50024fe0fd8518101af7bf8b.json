@@ -1,0 +1,169 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6451333,
+            "gpslong": 126.6702,
+            "nodeid": "GGB232000517",
+            "nodenm": "장기역4번출구",
+            "nodeno": 35314
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6455333,
+            "gpslong": 126.6700667,
+            "nodeid": "GGB232000518",
+            "nodenm": "장기역4번출구",
+            "nodeno": 35313
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6434333,
+            "gpslong": 126.6705,
+            "nodeid": "GGB232000691",
+            "nodenm": "장기역5번출구",
+            "nodeno": 35634
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64315,
+            "gpslong": 126.6702333,
+            "nodeid": "GGB232000692",
+            "nodenm": "고창중학교",
+            "nodeno": 35636
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6449,
+            "gpslong": 126.6678167,
+            "nodeid": "GGB232000541",
+            "nodenm": "장기역.김포고용복지플러스센터",
+            "nodeno": 35508
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6445833,
+            "gpslong": 126.66765,
+            "nodeid": "GGB232000540",
+            "nodenm": "장기역.김포고용복지플러스센터",
+            "nodeno": 35513
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6473833,
+            "gpslong": 126.6718333,
+            "nodeid": "GGB232000544",
+            "nodenm": "고창초등학교",
+            "nodeno": 35499
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6426333,
+            "gpslong": 126.6679667,
+            "nodeid": "GGB232000553",
+            "nodenm": "장기역.주공아파트",
+            "nodeno": 35505
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6428,
+            "gpslong": 126.6677167,
+            "nodeid": "GGB232000554",
+            "nodenm": "장기역.신영아파트",
+            "nodeno": 35501
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6475667,
+            "gpslong": 126.6724833,
+            "nodeid": "GGB232000543",
+            "nodenm": "고창초등학교",
+            "nodeno": 35495
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64105,
+            "gpslong": 126.6685667,
+            "nodeid": "GGB232000594",
+            "nodenm": "장기고등학교",
+            "nodeno": 35536
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6409,
+            "gpslong": 126.6683833,
+            "nodeid": "GGB232000577",
+            "nodenm": "장기고등학교",
+            "nodeno": 35526
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6424,
+            "gpslong": 126.6661167,
+            "nodeid": "GGB232000585",
+            "nodenm": "장기초등학교",
+            "nodeno": 35534
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6473833,
+            "gpslong": 126.6746,
+            "nodeid": "GGB232000808",
+            "nodenm": "금빛수로",
+            "nodeno": 35717
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.648257,
+            "gpslong": 126.667274,
+            "nodeid": "ICB232000318",
+            "nodenm": "청송2.3단지",
+            "nodeno": 80101
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6476167,
+            "gpslong": 126.6746833,
+            "nodeid": "GGB232000807",
+            "nodenm": "금빛수로",
+            "nodeno": 35716
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64825,
+            "gpslong": 126.6671833,
+            "nodeid": "GGB232000318",
+            "nodenm": "청송2.3단지",
+            "nodeno": 35200
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6414167,
+            "gpslong": 126.6741833,
+            "nodeid": "GGB232000593",
+            "nodenm": "중앙공원",
+            "nodeno": 35533
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6424,
+            "gpslong": 126.6657,
+            "nodeid": "GGB232000576",
+            "nodenm": "장기초등학교",
+            "nodeno": 35525
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 19
+    }
+  }
+}

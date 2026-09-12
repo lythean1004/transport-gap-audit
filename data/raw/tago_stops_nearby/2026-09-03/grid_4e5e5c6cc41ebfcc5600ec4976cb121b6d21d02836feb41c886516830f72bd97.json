@@ -1,0 +1,129 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.16395,
+            "gpslong": 127.0968667,
+            "nodeid": "GGB233000238",
+            "nodenm": "화남초등학교",
+            "nodeno": 55768
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16465,
+            "gpslong": 127.0955167,
+            "nodeid": "GGB233002066",
+            "nodenm": "화남초",
+            "nodeno": 55590
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1649833,
+            "gpslong": 127.0954,
+            "nodeid": "GGB233002067",
+            "nodenm": "동탄호수마을",
+            "nodeno": 55591
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1649667,
+            "gpslong": 127.0986833,
+            "nodeid": "GGB233000227",
+            "nodenm": "한화포레나",
+            "nodeno": 55764
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1646833,
+            "gpslong": 127.0987333,
+            "nodeid": "GGB233000226",
+            "nodenm": "한화포레나",
+            "nodeno": 55763
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1633667,
+            "gpslong": 127.0966333,
+            "nodeid": "GGB233000275",
+            "nodenm": "화남초등학교",
+            "nodeno": 55781
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1639667,
+            "gpslong": 127.0936333,
+            "nodeid": "GGB233000176",
+            "nodenm": "행복주택28단지",
+            "nodeno": 55753
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1663667,
+            "gpslong": 127.09365,
+            "nodeid": "GGB233003225",
+            "nodenm": "호수마을푸르지오시티",
+            "nodeno": 55984
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1663833,
+            "gpslong": 127.0934167,
+            "nodeid": "GGB233003224",
+            "nodenm": "호수마을푸르지오시티",
+            "nodeno": 55983
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1638833,
+            "gpslong": 127.0934,
+            "nodeid": "GGB233000175",
+            "nodenm": "행복주택28단지",
+            "nodeno": 55752
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16495,
+            "gpslong": 127.1011667,
+            "nodeid": "GGB233002072",
+            "nodenm": "레이크자연앤푸르지오",
+            "nodeno": 55592
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1654833,
+            "gpslong": 127.1018,
+            "nodeid": "GGB233002124",
+            "nodenm": "경기도시공사동탄사업단",
+            "nodeno": 55593
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1611167,
+            "gpslong": 127.0970667,
+            "nodeid": "GGB233001237",
+            "nodenm": "호수하우스디",
+            "nodeno": 37044
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16095,
+            "gpslong": 127.0970167,
+            "nodeid": "GGB233001118",
+            "nodenm": "호수하우스디",
+            "nodeno": 37039
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 14
+    }
+  }
+}

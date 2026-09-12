@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31190,
+            "gpslati": 37.2240333,
+            "gpslong": 127.1192167,
+            "nodeid": "GGB228003319",
+            "nodenm": "롯데아울렛.코리아퍼블릭",
+            "nodeno": 56364
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2243667,
+            "gpslong": 127.1191,
+            "nodeid": "GGB228003318",
+            "nodenm": "롯데아울렛.코리아퍼블릭",
+            "nodeno": 56363
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2193833,
+            "gpslong": 127.1183833,
+            "nodeid": "GGB277104332",
+            "nodenm": "고매1교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2193833,
+            "gpslong": 127.1179333,
+            "nodeid": "GGB277104709",
+            "nodenm": "고매1교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2231667,
+            "gpslong": 127.11525,
+            "nodeid": "GGB228001570",
+            "nodenm": "이케아.리빙파워센터",
+            "nodeno": 47198
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2232667,
+            "gpslong": 127.1150833,
+            "nodeid": "GGB228001650",
+            "nodenm": "이케아.리빙파워센터",
+            "nodeno": 47581
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

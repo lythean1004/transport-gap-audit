@@ -1,0 +1,41 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.65395,
+            "gpslong": 126.6984,
+            "nodeid": "GGB232000044",
+            "nodenm": "에코센터",
+            "nodeno": 35132
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6551,
+            "gpslong": 126.6890833,
+            "nodeid": "GGB232000771",
+            "nodenm": "하늘빛초등학교",
+            "nodeno": 35678
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6523333,
+            "gpslong": 126.69175,
+            "nodeid": "GGB232000762",
+            "nodenm": "하늘빛마을일성트루웰",
+            "nodeno": 35670
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 3
+    }
+  }
+}

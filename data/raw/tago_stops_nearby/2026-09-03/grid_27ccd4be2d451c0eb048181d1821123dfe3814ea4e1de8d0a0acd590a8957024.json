@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5662667,
+            "gpslong": 127.2054167,
+            "nodeid": "GGB227000620",
+            "nodenm": "미사동앞벌",
+            "nodeno": 28427
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5663,
+            "gpslong": 127.2054667,
+            "nodeid": "GGB227000689",
+            "nodenm": "미사동앞벌",
+            "nodeno": 28536
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5625167,
+            "gpslong": 127.2093667,
+            "nodeid": "GGB227000687",
+            "nodenm": "미사동",
+            "nodeno": 28534
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5625833,
+            "gpslong": 127.2094333,
+            "nodeid": "GGB227000688",
+            "nodenm": "미사동",
+            "nodeno": 28535
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5642667,
+            "gpslong": 127.20095,
+            "nodeid": "GGB227000264",
+            "nodenm": "미사경정공원관람동",
+            "nodeno": 28191
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5623333,
+            "gpslong": 127.2012,
+            "nodeid": "GGB277104469",
+            "nodenm": "조정지하차도진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5677667,
+            "gpslong": 127.2037333,
+            "nodeid": "GGB227000619",
+            "nodenm": "한가람",
+            "nodeno": 28426
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.56075,
+            "gpslong": 127.2027667,
+            "nodeid": "GGB227000200",
+            "nodenm": "미사경정공원입구",
+            "nodeno": 28216
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.568,
+            "gpslong": 127.2036,
+            "nodeid": "GGB227000618",
+            "nodenm": "한가람",
+            "nodeno": 28425
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5597833,
+            "gpslong": 127.2045167,
+            "nodeid": "GGB227000234",
+            "nodenm": "미사경정공원입구",
+            "nodeno": 28315
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

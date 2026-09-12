@@ -1,0 +1,41 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.65895,
+            "gpslong": 126.6828167,
+            "nodeid": "GGB232000776",
+            "nodenm": "한라비발디",
+            "nodeno": 35683
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6587667,
+            "gpslong": 126.6815,
+            "nodeid": "GGB232000764",
+            "nodenm": "한라비발디",
+            "nodeno": 35672
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6584,
+            "gpslong": 126.6806833,
+            "nodeid": "GGB232000775",
+            "nodenm": "대림e편한세상후문",
+            "nodeno": 35682
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 3
+    }
+  }
+}

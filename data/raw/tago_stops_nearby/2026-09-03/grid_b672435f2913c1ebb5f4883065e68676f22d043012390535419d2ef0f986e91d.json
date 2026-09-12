@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.16555,
+            "gpslong": 127.0877167,
+            "nodeid": "GGB233002116",
+            "nodenm": "DM디스플레이",
+            "nodeno": 55092
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1690667,
+            "gpslong": 127.0895167,
+            "nodeid": "GGB233002113",
+            "nodenm": "산척리",
+            "nodeno": 55089
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16415,
+            "gpslong": 127.08765,
+            "nodeid": "GGB233002115",
+            "nodenm": "DM디스플레이",
+            "nodeno": 55091
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1710167,
+            "gpslong": 127.09,
+            "nodeid": "GGB233002114",
+            "nodenm": "산척리",
+            "nodeno": 55090
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

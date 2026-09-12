@@ -1,0 +1,53 @@
+{
+  "registry_rows": 197,
+  "active_target_rows": 180,
+  "required_fields_pass": 107,
+  "human_verified_event_rows": 0,
+  "review_status": {
+    "needs_human": 180,
+    "rejected": 17
+  },
+  "pdf_files": 112,
+  "unique_pdf_hashes": 92,
+  "ledger_rows": 262,
+  "raw_json_files": 259,
+  "parsed_items": 6354,
+  "distinct_observed_routes": 15,
+  "observed_stops": 1,
+  "period_start": "2026-09-04",
+  "period_end": "2026-09-11",
+  "crosscheck_rows": 289,
+  "approval_crosscheck": {
+    "hub_missing": 106,
+    "exact_match": 181,
+    "within_30_days": 1,
+    "conflict": 1
+  },
+  "parquet_profiles": {
+    "kapt_basic": {
+      "rows": 21690,
+      "columns": 13
+    },
+    "bldg_title": {
+      "rows": 4067,
+      "columns": 20
+    },
+    "route_service_hours": {
+      "rows": 12,
+      "columns": 16
+    },
+    "headway_observed": {
+      "rows": 72,
+      "columns": 11
+    },
+    "tago_stops_full": {
+      "rows": 8420,
+      "columns": 7
+    },
+    "tago_stops_nearby": {
+      "rows": 20254,
+      "columns": 10
+    }
+  },
+  "network_api_calls_this_run": 0
+}

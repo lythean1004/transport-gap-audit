@@ -1,0 +1,145 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6432333,
+            "gpslong": 126.6394667,
+            "nodeid": "GGB232000865",
+            "nodenm": "마산도서관.에일린의뜰",
+            "nodeno": 35812
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6431833,
+            "gpslong": 126.6397333,
+            "nodeid": "GGB232000869",
+            "nodenm": "마산도서관.마산동성당",
+            "nodeno": 35816
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6440833,
+            "gpslong": 126.6392833,
+            "nodeid": "GGB232000979",
+            "nodenm": "레이크에일린의뜰",
+            "nodeno": 35929
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6432667,
+            "gpslong": 126.6410333,
+            "nodeid": "GGB232000247",
+            "nodenm": "마산동행정복지센터",
+            "nodeno": 35130
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6443,
+            "gpslong": 126.6395167,
+            "nodeid": "GGB232000980",
+            "nodenm": "레이크에일린의뜰",
+            "nodeno": 35930
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6434833,
+            "gpslong": 126.64115,
+            "nodeid": "GGB232000263",
+            "nodenm": "마산동행정복지센터",
+            "nodeno": 35370
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6409,
+            "gpslong": 126.6368667,
+            "nodeid": "GGB232000534",
+            "nodenm": "솔터고교",
+            "nodeno": 35756
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.641,
+            "gpslong": 126.63635,
+            "nodeid": "GGB232000496",
+            "nodenm": "솔터고교",
+            "nodeno": 35397
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.642,
+            "gpslong": 126.6429,
+            "nodeid": "GGB232000834",
+            "nodenm": "자이더빌리지",
+            "nodeno": 35781
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6422333,
+            "gpslong": 126.6431167,
+            "nodeid": "GGB232000832",
+            "nodenm": "자이더빌리지",
+            "nodeno": 35779
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64055,
+            "gpslong": 126.64255,
+            "nodeid": "GGB232000781",
+            "nodenm": "마산역",
+            "nodeno": 35685
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64115,
+            "gpslong": 126.6432,
+            "nodeid": "GGB232000008",
+            "nodenm": "마산역",
+            "nodeno": 35085
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6392333,
+            "gpslong": 126.6375167,
+            "nodeid": "GGB232000741",
+            "nodenm": "힐스테이트.경남아너스빌",
+            "nodeno": 35659
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6402667,
+            "gpslong": 126.6427333,
+            "nodeid": "GGB232000777",
+            "nodenm": "마산역",
+            "nodeno": 35684
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6410833,
+            "gpslong": 126.64355,
+            "nodeid": "GGB232000009",
+            "nodenm": "마산역",
+            "nodeno": 35086
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64145,
+            "gpslong": 126.6337833,
+            "nodeid": "GGB232000878",
+            "nodenm": "솔터초등학교",
+            "nodeno": 35825
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 16
+    }
+  }
+}

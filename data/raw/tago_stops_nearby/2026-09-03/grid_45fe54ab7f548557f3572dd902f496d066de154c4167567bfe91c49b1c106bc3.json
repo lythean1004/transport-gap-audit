@@ -1,0 +1,73 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.16,
+            "gpslong": 127.1202667,
+            "nodeid": "GGB233003168",
+            "nodenm": "동탄2아이파크2단지",
+            "nodeno": 55565
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1600333,
+            "gpslong": 127.1200333,
+            "nodeid": "GGB233003135",
+            "nodenm": "동탄2아이파크2단지",
+            "nodeno": 55531
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1613667,
+            "gpslong": 127.1199167,
+            "nodeid": "GGB233003167",
+            "nodenm": "동탄2아이파크1단지",
+            "nodeno": 55564
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1613167,
+            "gpslong": 127.1194667,
+            "nodeid": "GGB233003134",
+            "nodenm": "동탄2아이파크1단지",
+            "nodeno": 55530
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1594667,
+            "gpslong": 127.1161,
+            "nodeid": "GGB233002584",
+            "nodenm": "서연초",
+            "nodeno": 55939
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1588,
+            "gpslong": 127.1155,
+            "nodeid": "GGB233002531",
+            "nodenm": "서연초",
+            "nodeno": 55938
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.15505,
+            "gpslong": 127.1179333,
+            "nodeid": "GGB233000168",
+            "nodenm": "장지동농협",
+            "nodeno": 36808
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 7
+    }
+  }
+}

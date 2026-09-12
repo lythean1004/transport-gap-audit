@@ -1,0 +1,23 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "citycode": 31130,
+          "gpslati": 37.6372667,
+          "gpslong": 127.1644333,
+          "nodeid": "GGB222000422",
+          "nodenm": "배양리",
+          "nodeno": 23143
+        }
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 1
+    }
+  }
+}

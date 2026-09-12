@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31190,
+            "gpslati": 37.2232667,
+            "gpslong": 127.1150833,
+            "nodeid": "GGB228001650",
+            "nodenm": "이케아.리빙파워센터",
+            "nodeno": 47581
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2231667,
+            "gpslong": 127.11525,
+            "nodeid": "GGB228001570",
+            "nodenm": "이케아.리빙파워센터",
+            "nodeno": 47198
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2215833,
+            "gpslong": 127.1086167,
+            "nodeid": "GGB228001709",
+            "nodenm": "KMW복지관",
+            "nodeno": 47076
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2214167,
+            "gpslong": 127.10835,
+            "nodeid": "GGB228000051",
+            "nodenm": "KMW복지관",
+            "nodeno": 47668
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2263167,
+            "gpslong": 127.1117667,
+            "nodeid": "GGB228003323",
+            "nodenm": "노블하우스.기업은행연수원",
+            "nodeno": 56368
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2264333,
+            "gpslong": 127.1117167,
+            "nodeid": "GGB228003322",
+            "nodenm": "노블하우스.기업은행연수원",
+            "nodeno": 56367
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

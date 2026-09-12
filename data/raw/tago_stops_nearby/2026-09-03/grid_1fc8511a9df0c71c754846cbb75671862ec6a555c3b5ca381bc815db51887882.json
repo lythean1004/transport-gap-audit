@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6055667,
+            "gpslong": 127.17435,
+            "nodeid": "GGB222000298",
+            "nodenm": "남양주체육문화센터.에일린의뜰",
+            "nodeno": 23183
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6056,
+            "gpslong": 127.174,
+            "nodeid": "GGB222000305",
+            "nodenm": "남양주체육문화센터.에일린의뜰",
+            "nodeno": 23182
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6023667,
+            "gpslong": 127.1743,
+            "nodeid": "GGB222000299",
+            "nodenm": "신안인스빌2차",
+            "nodeno": 23181
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6023833,
+            "gpslong": 127.1739167,
+            "nodeid": "GGB222000304",
+            "nodenm": "신안인스빌2차",
+            "nodeno": 23179
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6076333,
+            "gpslong": 127.1732833,
+            "nodeid": "GGB222001607",
+            "nodenm": "이패야구장.센트럴",
+            "nodeno": 49490
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6075667,
+            "gpslong": 127.17295,
+            "nodeid": "GGB222001608",
+            "nodenm": "센트럴.한화아파트",
+            "nodeno": 49491
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

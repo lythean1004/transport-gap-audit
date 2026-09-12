@@ -1,0 +1,2649 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "gpslati": 37.2001167,
+            "gpslong": 127.053,
+            "nodeid": "GGB233001689",
+            "nodenm": "신일해피트리아파트",
+            "nodeno": 37717
+          },
+          {
+            "gpslati": 37.2015667,
+            "gpslong": 127.0542667,
+            "nodeid": "GGB233001690",
+            "nodenm": "두산신일아파트",
+            "nodeno": 37718
+          },
+          {
+            "gpslati": 37.2014167,
+            "gpslong": 127.0543667,
+            "nodeid": "GGB233001691",
+            "nodenm": "두산신일아파트",
+            "nodeno": 37720
+          },
+          {
+            "gpslati": 37.2016333,
+            "gpslong": 127.05795,
+            "nodeid": "GGB233001692",
+            "nodenm": "모아포스코아파트",
+            "nodeno": 37714
+          },
+          {
+            "gpslati": 37.2015,
+            "gpslong": 127.0577333,
+            "nodeid": "GGB233001693",
+            "nodenm": "모아포스코아파트",
+            "nodeno": 37719
+          },
+          {
+            "gpslati": 37.1133833,
+            "gpslong": 126.9348333,
+            "nodeid": "GGB233001694",
+            "nodenm": "수리재",
+            "nodeno": 37716
+          },
+          {
+            "gpslati": 37.1700333,
+            "gpslong": 127.1185333,
+            "nodeid": "GGB233001695",
+            "nodenm": "레이크파크뷰",
+            "nodeno": 37724
+          },
+          {
+            "gpslati": 37.1699167,
+            "gpslong": 127.119,
+            "nodeid": "GGB233001696",
+            "nodenm": "레이크파크뷰",
+            "nodeno": 37696
+          },
+          {
+            "gpslati": 37.1674,
+            "gpslong": 127.1170333,
+            "nodeid": "GGB233001699",
+            "nodenm": "호수부영6차.호수공원행복주택",
+            "nodeno": 55500
+          },
+          {
+            "gpslati": 37.1769167,
+            "gpslong": 126.9795333,
+            "nodeid": "GGB233001704",
+            "nodenm": "관항2리",
+            "nodeno": 55742
+          },
+          {
+            "gpslati": 37.1931,
+            "gpslong": 127.0804167,
+            "nodeid": "GGB233001706",
+            "nodenm": "월드반도",
+            "nodeno": 37697
+          },
+          {
+            "gpslati": 37.1992333,
+            "gpslong": 127.0745667,
+            "nodeid": "GGB233001707",
+            "nodenm": "솔빛동탄경남아너스빌",
+            "nodeno": 37698
+          },
+          {
+            "gpslati": 37.2237167,
+            "gpslong": 126.94525,
+            "nodeid": "GGB233001709",
+            "nodenm": "봉담초",
+            "nodeno": 55673
+          },
+          {
+            "gpslati": 37.16715,
+            "gpslong": 127.1174,
+            "nodeid": "GGB233001710",
+            "nodenm": "호수공원행복주택.호수부영6차",
+            "nodeno": 55501
+          },
+          {
+            "gpslati": 37.1305333,
+            "gpslong": 126.9304,
+            "nodeid": "GGB233001711",
+            "nodenm": "백토리상공회의소",
+            "nodeno": 37689
+          },
+          {
+            "gpslati": 37.2317167,
+            "gpslong": 126.94185,
+            "nodeid": "GGB233001712",
+            "nodenm": "중흥에듀포레.에듀시티",
+            "nodeno": 55759
+          },
+          {
+            "gpslati": 37.1913167,
+            "gpslong": 127.07455,
+            "nodeid": "GGB233001713",
+            "nodenm": "나루마을.한화꿈에그린2차",
+            "nodeno": 37745
+          },
+          {
+            "gpslati": 37.1920333,
+            "gpslong": 127.07385,
+            "nodeid": "GGB233001714",
+            "nodenm": "신도브레뉴아파트",
+            "nodeno": 37748
+          },
+          {
+            "gpslati": 37.2134667,
+            "gpslong": 127.0625,
+            "nodeid": "GGB233001715",
+            "nodenm": "능동주공단지",
+            "nodeno": 37744
+          },
+          {
+            "gpslati": 37.2130167,
+            "gpslong": 127.0624,
+            "nodeid": "GGB233001716",
+            "nodenm": "능동주공단지",
+            "nodeno": 37691
+          },
+          {
+            "gpslati": 37.2175667,
+            "gpslong": 127.0579333,
+            "nodeid": "GGB233001717",
+            "nodenm": "능동마을입구",
+            "nodeno": 37787
+          },
+          {
+            "gpslati": 37.21685,
+            "gpslong": 127.0581333,
+            "nodeid": "GGB233001718",
+            "nodenm": "능동마을입구",
+            "nodeno": 37920
+          },
+          {
+            "gpslati": 37.20895,
+            "gpslong": 127.0793,
+            "nodeid": "GGB233001719",
+            "nodenm": "대우푸르지오.예당고등학교",
+            "nodeno": 37846
+          },
+          {
+            "gpslati": 37.2071,
+            "gpslong": 127.07605,
+            "nodeid": "GGB233001720",
+            "nodenm": "동탄보건지소.우체국",
+            "nodeno": 37847
+          },
+          {
+            "gpslati": 37.2008333,
+            "gpslong": 127.0595833,
+            "nodeid": "GGB233001721",
+            "nodenm": "우림필유",
+            "nodeno": 37848
+          },
+          {
+            "gpslati": 37.2038,
+            "gpslong": 127.0594667,
+            "nodeid": "GGB233001722",
+            "nodenm": "동탄고.동탄청소년문화의집",
+            "nodeno": 37849
+          },
+          {
+            "gpslati": 37.2039333,
+            "gpslong": 127.0591667,
+            "nodeid": "GGB233001723",
+            "nodenm": "동탄고등학교",
+            "nodeno": 37850
+          },
+          {
+            "gpslati": 37.2167,
+            "gpslong": 127.0554833,
+            "nodeid": "GGB233001732",
+            "nodenm": "쌍용상록아파트",
+            "nodeno": 37709
+          },
+          {
+            "gpslati": 37.1988,
+            "gpslong": 127.0702667,
+            "nodeid": "GGB233001733",
+            "nodenm": "서해그랑블아파트",
+            "nodeno": 37851
+          },
+          {
+            "gpslati": 37.2011167,
+            "gpslong": 127.0711,
+            "nodeid": "GGB233001734",
+            "nodenm": "복합문화센터",
+            "nodeno": 37852
+          },
+          {
+            "gpslati": 37.2071,
+            "gpslong": 127.0765667,
+            "nodeid": "GGB233001735",
+            "nodenm": "동탄보건지소.우체국",
+            "nodeno": 37853
+          },
+          {
+            "gpslati": 37.2085,
+            "gpslong": 127.07895,
+            "nodeid": "GGB233001736",
+            "nodenm": "대우푸르지오.예당고등학교",
+            "nodeno": 37854
+          },
+          {
+            "gpslati": 37.1854667,
+            "gpslong": 126.6720833,
+            "nodeid": "GGB233001737",
+            "nodenm": "전곡산업단지",
+            "nodeno": 37258
+          },
+          {
+            "gpslati": 37.21285,
+            "gpslong": 127.0509667,
+            "nodeid": "GGB233001738",
+            "nodenm": "주공6단지",
+            "nodeno": 37799
+          },
+          {
+            "gpslati": 37.2117,
+            "gpslong": 127.05025,
+            "nodeid": "GGB233001739",
+            "nodenm": "주공6단지입구",
+            "nodeno": 37795
+          },
+          {
+            "gpslati": 37.1987,
+            "gpslong": 126.7220667,
+            "nodeid": "GGB233001740",
+            "nodenm": "코스코밸리아파트",
+            "nodeno": 55356
+          },
+          {
+            "gpslati": 37.1660333,
+            "gpslong": 127.1139,
+            "nodeid": "GGB233001741",
+            "nodenm": "센트리체.자연앤자이",
+            "nodeno": 55502
+          },
+          {
+            "gpslati": 37.1813167,
+            "gpslong": 126.7862,
+            "nodeid": "GGB233001742",
+            "nodenm": "마도산업단지",
+            "nodeno": 37768
+          },
+          {
+            "gpslati": 37.1811667,
+            "gpslong": 126.7857333,
+            "nodeid": "GGB233001743",
+            "nodenm": "마도산업단지",
+            "nodeno": 37752
+          },
+          {
+            "gpslati": 37.1642667,
+            "gpslong": 126.6721,
+            "nodeid": "GGB233001744",
+            "nodenm": "화남산단삼거리",
+            "nodeno": 37769
+          },
+          {
+            "gpslati": 37.1909833,
+            "gpslong": 126.79315,
+            "nodeid": "GGB233001745",
+            "nodenm": "마도교차로",
+            "nodeno": 37753
+          },
+          {
+            "gpslati": 37.1970667,
+            "gpslong": 126.8245167,
+            "nodeid": "GGB233001746",
+            "nodenm": "현대아파트",
+            "nodeno": 37771
+          },
+          {
+            "gpslati": 37.19725,
+            "gpslong": 126.8242333,
+            "nodeid": "GGB233001747",
+            "nodenm": "현대아파트",
+            "nodeno": 37767
+          },
+          {
+            "gpslati": 37.1657333,
+            "gpslong": 127.1142,
+            "nodeid": "GGB233001748",
+            "nodenm": "자연앤자이.센트리체",
+            "nodeno": 55503
+          },
+          {
+            "gpslati": 37.2058,
+            "gpslong": 126.8203333,
+            "nodeid": "GGB233001749",
+            "nodenm": "남양중고입구.기아남양점",
+            "nodeno": 37774
+          },
+          {
+            "gpslati": 37.1781167,
+            "gpslong": 126.8896,
+            "nodeid": "GGB233001750",
+            "nodenm": "창곡3리.독골",
+            "nodeno": 37766
+          },
+          {
+            "gpslati": 37.1774,
+            "gpslong": 126.8897167,
+            "nodeid": "GGB233001751",
+            "nodenm": "창곡3리",
+            "nodeno": 37761
+          },
+          {
+            "gpslati": 37.1855833,
+            "gpslong": 126.8846167,
+            "nodeid": "GGB233001752",
+            "nodenm": "창곡2리교회앞",
+            "nodeno": 37772
+          },
+          {
+            "gpslati": 37.1658833,
+            "gpslong": 127.1091167,
+            "nodeid": "GGB233001753",
+            "nodenm": "센트럴시티.아이파크",
+            "nodeno": 55504
+          },
+          {
+            "gpslati": 37.1655167,
+            "gpslong": 127.1093167,
+            "nodeid": "GGB233001754",
+            "nodenm": "아이파크.센트럴시티",
+            "nodeno": 55505
+          },
+          {
+            "gpslati": 37.2173167,
+            "gpslong": 126.9525667,
+            "nodeid": "GGB233001755",
+            "nodenm": "동문아파트.협성대학교.봉담중고교",
+            "nodeno": 37764
+          },
+          {
+            "gpslati": 37.2148333,
+            "gpslong": 126.9605833,
+            "nodeid": "GGB233001758",
+            "nodenm": "동화휴먼시아6단지",
+            "nodeno": 37762
+          },
+          {
+            "gpslati": 37.0866167,
+            "gpslong": 126.9048167,
+            "nodeid": "GGB233001761",
+            "nodenm": "구문천공원",
+            "nodeno": 37812
+          },
+          {
+            "gpslati": 37.1107167,
+            "gpslong": 126.9282833,
+            "nodeid": "GGB233001762",
+            "nodenm": "향남2교차로",
+            "nodeno": 55740
+          },
+          {
+            "gpslati": 37.0771667,
+            "gpslong": 126.8982333,
+            "nodeid": "GGB233001763",
+            "nodenm": "현동목장앞",
+            "nodeno": 37813
+          },
+          {
+            "gpslati": 37.2052,
+            "gpslong": 126.7157833,
+            "nodeid": "GGB233001764",
+            "nodenm": "양지말입구",
+            "nodeno": 37815
+          },
+          {
+            "gpslati": 37.0773333,
+            "gpslong": 126.8988833,
+            "nodeid": "GGB233001765",
+            "nodenm": "현동목장앞",
+            "nodeno": 37816
+          },
+          {
+            "gpslati": 37.111,
+            "gpslong": 126.9286333,
+            "nodeid": "GGB233001766",
+            "nodenm": "향남2교차로",
+            "nodeno": 55741
+          },
+          {
+            "gpslati": 37.0863167,
+            "gpslong": 126.9047,
+            "nodeid": "GGB233001767",
+            "nodenm": "구문천공원",
+            "nodeno": 37817
+          },
+          {
+            "gpslati": 37.0864833,
+            "gpslong": 126.9096167,
+            "nodeid": "GGB233001768",
+            "nodenm": "메탈산업단지",
+            "nodeno": 37818
+          },
+          {
+            "gpslati": 37.1355833,
+            "gpslong": 126.9109,
+            "nodeid": "GGB233001769",
+            "nodenm": "장짐교차로.축산농협",
+            "nodeno": 37809
+          },
+          {
+            "gpslati": 37.05585,
+            "gpslong": 126.8556167,
+            "nodeid": "GGB233001770",
+            "nodenm": "장명초교입구",
+            "nodeno": 37823
+          },
+          {
+            "gpslati": 37.07475,
+            "gpslong": 126.8564,
+            "nodeid": "GGB233001772",
+            "nodenm": "위닉스",
+            "nodeno": 37791
+          },
+          {
+            "gpslati": 37.0796667,
+            "gpslong": 126.86405,
+            "nodeid": "GGB233001773",
+            "nodenm": "독정3리",
+            "nodeno": 37842
+          },
+          {
+            "gpslati": 37.0753167,
+            "gpslong": 126.8563333,
+            "nodeid": "GGB233001774",
+            "nodenm": "위닉스",
+            "nodeno": 37793
+          },
+          {
+            "gpslati": 37.0979333,
+            "gpslong": 126.8369167,
+            "nodeid": "GGB233001775",
+            "nodenm": "어은1리한양빌라앞",
+            "nodeno": 37800
+          },
+          {
+            "gpslati": 37.0664833,
+            "gpslong": 126.8021667,
+            "nodeid": "GGB233001776",
+            "nodenm": "장자터",
+            "nodeno": 37834
+          },
+          {
+            "gpslati": 37.052,
+            "gpslong": 126.7649,
+            "nodeid": "GGB233001777",
+            "nodenm": "매향3리입구",
+            "nodeno": 37835
+          },
+          {
+            "gpslati": 37.05505,
+            "gpslong": 126.7572167,
+            "nodeid": "GGB233001778",
+            "nodenm": "매향3리회센터",
+            "nodeno": 37836
+          },
+          {
+            "gpslati": 37.0518167,
+            "gpslong": 126.7648,
+            "nodeid": "GGB233001779",
+            "nodenm": "매향3리.가로지입구",
+            "nodeno": 37838
+          },
+          {
+            "gpslati": 37.0664167,
+            "gpslong": 126.80225,
+            "nodeid": "GGB233001780",
+            "nodenm": "장자터",
+            "nodeno": 37839
+          },
+          {
+            "gpslati": 37.2080667,
+            "gpslong": 127.05475,
+            "nodeid": "GGB233001781",
+            "nodenm": "자연앤데시앙",
+            "nodeno": 37863
+          },
+          {
+            "gpslati": 37.2166333,
+            "gpslong": 127.0781167,
+            "nodeid": "GGB233001782",
+            "nodenm": "한림대병원(중)",
+            "nodeno": 37864
+          },
+          {
+            "gpslati": 37.1833833,
+            "gpslong": 127.11545,
+            "nodeid": "GGB233001785",
+            "nodenm": "의료복합",
+            "nodeno": 55506
+          },
+          {
+            "gpslati": 37.1053,
+            "gpslong": 126.7980333,
+            "nodeid": "GGB233001786",
+            "nodenm": "봉래사",
+            "nodeno": 37825
+          },
+          {
+            "gpslati": 37.2075833,
+            "gpslong": 127.05705,
+            "nodeid": "GGB233001787",
+            "nodenm": "한마음초교.광명메이루즈",
+            "nodeno": 37734
+          },
+          {
+            "gpslati": 37.0808167,
+            "gpslong": 126.9504833,
+            "nodeid": "GGB233001788",
+            "nodenm": "양감초등학교.중학교",
+            "nodeno": 37856
+          },
+          {
+            "gpslati": 37.0807167,
+            "gpslong": 126.9505,
+            "nodeid": "GGB233001792",
+            "nodenm": "양감초중교",
+            "nodeno": 37987
+          },
+          {
+            "gpslati": 37.0755333,
+            "gpslong": 126.8898,
+            "nodeid": "GGB233001793",
+            "nodenm": "구문천5리(회차)",
+            "nodeno": 37814
+          },
+          {
+            "gpslati": 37.1862667,
+            "gpslong": 127.1016667,
+            "nodeid": "GGB233001798",
+            "nodenm": "신리천리베라마을",
+            "nodeno": 55507
+          },
+          {
+            "gpslati": 37.1149833,
+            "gpslong": 126.6837833,
+            "nodeid": "GGB233001799",
+            "nodenm": "궁평항",
+            "nodeno": 37837
+          },
+          {
+            "gpslati": 37.1364333,
+            "gpslong": 126.9556833,
+            "nodeid": "GGB233001812",
+            "nodenm": "농심물류센터",
+            "nodeno": 37833
+          },
+          {
+            "gpslati": 37.1858,
+            "gpslong": 127.10235,
+            "nodeid": "GGB233001813",
+            "nodenm": "신리천리베라마을",
+            "nodeno": 55508
+          },
+          {
+            "gpslati": 37.08555,
+            "gpslong": 126.8265667,
+            "nodeid": "GGB233001816",
+            "nodenm": "어은삼거리",
+            "nodeno": 37792
+          },
+          {
+            "gpslati": 37.2153167,
+            "gpslong": 127.0791333,
+            "nodeid": "GGB233001817",
+            "nodenm": "이마트.한림대병원",
+            "nodeno": 37879
+          },
+          {
+            "gpslati": 37.1631333,
+            "gpslong": 126.9774,
+            "nodeid": "GGB233001818",
+            "nodenm": "신리앞",
+            "nodeno": 37859
+          },
+          {
+            "gpslati": 37.1421833,
+            "gpslong": 126.9583167,
+            "nodeid": "GGB233001819",
+            "nodenm": "효원납골공원",
+            "nodeno": 37860
+          },
+          {
+            "gpslati": 37.1319833,
+            "gpslong": 126.9532,
+            "nodeid": "GGB233001820",
+            "nodenm": "동오리종점",
+            "nodeno": 37861
+          },
+          {
+            "gpslati": 37.1842333,
+            "gpslong": 127.1070833,
+            "nodeid": "GGB233001821",
+            "nodenm": "신리천",
+            "nodeno": 55509
+          },
+          {
+            "gpslati": 37.1628,
+            "gpslong": 126.9767333,
+            "nodeid": "GGB233001822",
+            "nodenm": "신리주유소앞",
+            "nodeno": 37878
+          },
+          {
+            "gpslati": 37.1632833,
+            "gpslong": 126.9783,
+            "nodeid": "GGB233001823",
+            "nodenm": "신리앞",
+            "nodeno": 37862
+          },
+          {
+            "gpslati": 37.0818333,
+            "gpslong": 126.945,
+            "nodeid": "GGB233001824",
+            "nodenm": "양감면행정복지센터",
+            "nodeno": 37794
+          },
+          {
+            "gpslati": 37.1080167,
+            "gpslong": 126.9078167,
+            "nodeid": "GGB233001825",
+            "nodenm": "하길리",
+            "nodeno": 55745
+          },
+          {
+            "gpslati": 37.0905333,
+            "gpslong": 126.91545,
+            "nodeid": "GGB233001827",
+            "nodenm": "제약단지.하길리입구",
+            "nodeno": 37344
+          },
+          {
+            "gpslati": 37.2007167,
+            "gpslong": 126.8255167,
+            "nodeid": "GGB233001828",
+            "nodenm": "남양뉴타운.현대2차",
+            "nodeno": 36001
+          },
+          {
+            "gpslati": 37.0906833,
+            "gpslong": 126.9115167,
+            "nodeid": "GGB233001829",
+            "nodenm": "제약공단후문",
+            "nodeno": 37869
+          },
+          {
+            "gpslati": 37.0796167,
+            "gpslong": 126.9427167,
+            "nodeid": "GGB233001830",
+            "nodenm": "충만주유소",
+            "nodeno": 60033
+          },
+          {
+            "gpslati": 37.0889333,
+            "gpslong": 126.9322167,
+            "nodeid": "GGB233001831",
+            "nodenm": "동양콘크리트입구",
+            "nodeno": 55834
+          },
+          {
+            "gpslati": 37.2616,
+            "gpslong": 126.8842,
+            "nodeid": "GGB233001832",
+            "nodenm": "야목역",
+            "nodeno": 37872
+          },
+          {
+            "gpslati": 37.2540833,
+            "gpslong": 126.8713167,
+            "nodeid": "GGB233001834",
+            "nodenm": "구포리입구",
+            "nodeno": 37874
+          },
+          {
+            "gpslati": 37.09465,
+            "gpslong": 126.8942167,
+            "nodeid": "GGB233001835",
+            "nodenm": "상신리",
+            "nodeno": 37875
+          },
+          {
+            "gpslati": 37.0947167,
+            "gpslong": 126.89455,
+            "nodeid": "GGB233001836",
+            "nodenm": "상신리",
+            "nodeno": 37876
+          },
+          {
+            "gpslati": 37.0881,
+            "gpslong": 126.9388167,
+            "nodeid": "GGB233001837",
+            "nodenm": "신한바이오캠",
+            "nodeno": 55835
+          },
+          {
+            "gpslati": 37.2067667,
+            "gpslong": 126.9890167,
+            "nodeid": "GGB233001840",
+            "nodenm": "융건릉입구",
+            "nodeno": 36996
+          },
+          {
+            "gpslati": 37.2070333,
+            "gpslong": 126.989,
+            "nodeid": "GGB233001841",
+            "nodenm": "융건릉입구",
+            "nodeno": 36997
+          },
+          {
+            "gpslati": 37.2015,
+            "gpslong": 127.0030667,
+            "nodeid": "GGB233001842",
+            "nodenm": "중외제약사거리",
+            "nodeno": 36998
+          },
+          {
+            "gpslati": 37.2021,
+            "gpslong": 127.0021667,
+            "nodeid": "GGB233001843",
+            "nodenm": "중외제약사거리",
+            "nodeno": 36999
+          },
+          {
+            "gpslati": 37.17285,
+            "gpslong": 126.6596833,
+            "nodeid": "GGB233001850",
+            "nodenm": "제부도입구",
+            "nodeno": 55347
+          },
+          {
+            "gpslati": 37.1833333,
+            "gpslong": 127.1107,
+            "nodeid": "GGB233001851",
+            "nodenm": "신리천공원",
+            "nodeno": 55510
+          },
+          {
+            "gpslati": 37.1303167,
+            "gpslong": 126.9270833,
+            "nodeid": "GGB233001852",
+            "nodenm": "대방노블랜드.풍림아이원",
+            "nodeno": 37895
+          },
+          {
+            "gpslati": 37.1289333,
+            "gpslong": 126.9269167,
+            "nodeid": "GGB233001853",
+            "nodenm": "향남중고등학교",
+            "nodeno": 37896
+          },
+          {
+            "gpslati": 37.1260167,
+            "gpslong": 126.9242167,
+            "nodeid": "GGB233001854",
+            "nodenm": "한일베라체.행정초교",
+            "nodeno": 37897
+          },
+          {
+            "gpslati": 37.1261167,
+            "gpslong": 126.9198833,
+            "nodeid": "GGB233001855",
+            "nodenm": "에일린의뜰.휴먼시아6단지",
+            "nodeno": 37898
+          },
+          {
+            "gpslati": 37.1263167,
+            "gpslong": 126.9159,
+            "nodeid": "GGB233001856",
+            "nodenm": "신명스카이뷰.휴먼시아5단지",
+            "nodeno": 37899
+          },
+          {
+            "gpslati": 37.1277,
+            "gpslong": 126.9151167,
+            "nodeid": "GGB233001857",
+            "nodenm": "신명스카이뷰.우미린",
+            "nodeno": 37900
+          },
+          {
+            "gpslati": 37.1298333,
+            "gpslong": 126.9176333,
+            "nodeid": "GGB233001858",
+            "nodenm": "우미린아파트.향일고",
+            "nodeno": 37901
+          },
+          {
+            "gpslati": 37.1297167,
+            "gpslong": 126.9195833,
+            "nodeid": "GGB233001859",
+            "nodenm": "향남지웰2차아파트",
+            "nodeno": 37902
+          },
+          {
+            "gpslati": 37.1305333,
+            "gpslong": 126.9213,
+            "nodeid": "GGB233001860",
+            "nodenm": "화성소방서.향남홈플러스",
+            "nodeno": 37903
+          },
+          {
+            "gpslati": 37.1836333,
+            "gpslong": 127.1133,
+            "nodeid": "GGB233001861",
+            "nodenm": "의료복합",
+            "nodeno": 55511
+          },
+          {
+            "gpslati": 37.14095,
+            "gpslong": 126.91595,
+            "nodeid": "GGB233001862",
+            "nodenm": "가재4리",
+            "nodeno": 37904
+          },
+          {
+            "gpslati": 37.13875,
+            "gpslong": 126.9136333,
+            "nodeid": "GGB233001863",
+            "nodenm": "신성미소지움아파트",
+            "nodeno": 37905
+          },
+          {
+            "gpslati": 37.1347667,
+            "gpslong": 126.91145,
+            "nodeid": "GGB233001864",
+            "nodenm": "발안삼거리",
+            "nodeno": 37912
+          },
+          {
+            "gpslati": 37.13925,
+            "gpslong": 126.9145,
+            "nodeid": "GGB233001865",
+            "nodenm": "신성미소지움아파트",
+            "nodeno": 37906
+          },
+          {
+            "gpslati": 37.2374333,
+            "gpslong": 126.9607167,
+            "nodeid": "GGB233001866",
+            "nodenm": "수영오거리.수영지구",
+            "nodeno": 37907
+          },
+          {
+            "gpslati": 37.2372667,
+            "gpslong": 126.9607833,
+            "nodeid": "GGB233001867",
+            "nodenm": "수영오거리.수영지구",
+            "nodeno": 37908
+          },
+          {
+            "gpslati": 37.2365667,
+            "gpslong": 126.9554667,
+            "nodeid": "GGB233001868",
+            "nodenm": "수영초.우방아이유쉘1단지",
+            "nodeno": 37909
+          },
+          {
+            "gpslati": 37.2363833,
+            "gpslong": 126.9544,
+            "nodeid": "GGB233001869",
+            "nodenm": "수영초등학교",
+            "nodeno": 37910
+          },
+          {
+            "gpslati": 37.23655,
+            "gpslong": 126.9533,
+            "nodeid": "GGB233001870",
+            "nodenm": "신창아파트",
+            "nodeno": 37911
+          },
+          {
+            "gpslati": 37.1767833,
+            "gpslong": 126.6665833,
+            "nodeid": "GGB233001871",
+            "nodenm": "장외리.오리골",
+            "nodeno": 55348
+          },
+          {
+            "gpslati": 37.1669333,
+            "gpslong": 126.6592333,
+            "nodeid": "GGB233001872",
+            "nodenm": "제부해수탕",
+            "nodeno": 37925
+          },
+          {
+            "gpslati": 37.1700167,
+            "gpslong": 126.6791333,
+            "nodeid": "GGB233001873",
+            "nodenm": "장외리",
+            "nodeno": 37930
+          },
+          {
+            "gpslati": 37.1700167,
+            "gpslong": 126.6790333,
+            "nodeid": "GGB233001874",
+            "nodenm": "장외리",
+            "nodeno": 37926
+          },
+          {
+            "gpslati": 37.1742,
+            "gpslong": 126.68565,
+            "nodeid": "GGB233001875",
+            "nodenm": "숲풀안앞",
+            "nodeno": 37784
+          },
+          {
+            "gpslati": 37.1742833,
+            "gpslong": 126.6856,
+            "nodeid": "GGB233001876",
+            "nodenm": "숲풀안앞",
+            "nodeno": 37783
+          },
+          {
+            "gpslati": 37.1116167,
+            "gpslong": 126.93145,
+            "nodeid": "GGB233001877",
+            "nodenm": "하길1리",
+            "nodeno": 37785
+          },
+          {
+            "gpslati": 37.1112833,
+            "gpslong": 126.93065,
+            "nodeid": "GGB233001878",
+            "nodenm": "하길1리",
+            "nodeno": 37779
+          },
+          {
+            "gpslati": 37.1822667,
+            "gpslong": 127.1237333,
+            "nodeid": "GGB233001879",
+            "nodenm": "호반5차.르파비스",
+            "nodeno": 55512
+          },
+          {
+            "gpslati": 37.1826,
+            "gpslong": 127.1236167,
+            "nodeid": "GGB233001880",
+            "nodenm": "호반5차.르파비스",
+            "nodeno": 55513
+          },
+          {
+            "gpslati": 37.2265833,
+            "gpslong": 126.9356833,
+            "nodeid": "GGB233001883",
+            "nodenm": "신수리",
+            "nodeno": 36604
+          },
+          {
+            "gpslati": 37.1871667,
+            "gpslong": 126.68925,
+            "nodeid": "GGB233001884",
+            "nodenm": "전곡삼거리",
+            "nodeno": 37924
+          },
+          {
+            "gpslati": 37.1870667,
+            "gpslong": 126.6526667,
+            "nodeid": "GGB233001886",
+            "nodenm": "전곡항.서해랑케이블카",
+            "nodeno": 37921
+          },
+          {
+            "gpslati": 37.1743,
+            "gpslong": 126.69135,
+            "nodeid": "GGB233001887",
+            "nodenm": "느티나무앞",
+            "nodeno": 37928
+          },
+          {
+            "gpslati": 37.1743667,
+            "gpslong": 126.6914,
+            "nodeid": "GGB233001888",
+            "nodenm": "느티나무앞",
+            "nodeno": 37927
+          },
+          {
+            "gpslati": 37.1687167,
+            "gpslong": 126.7059,
+            "nodeid": "GGB233001889",
+            "nodenm": "서신초등학교",
+            "nodeno": 37959
+          },
+          {
+            "gpslati": 37.1688167,
+            "gpslong": 126.7059667,
+            "nodeid": "GGB233001890",
+            "nodenm": "서신초등학교",
+            "nodeno": 37960
+          },
+          {
+            "gpslati": 37.12295,
+            "gpslong": 126.9133333,
+            "nodeid": "GGB233001892",
+            "nodenm": "향남역",
+            "nodeno": 55925
+          },
+          {
+            "gpslati": 37.1227333,
+            "gpslong": 126.9136333,
+            "nodeid": "GGB233001893",
+            "nodenm": "향남역",
+            "nodeno": 55926
+          },
+          {
+            "gpslati": 37.1802667,
+            "gpslong": 127.1112667,
+            "nodeid": "GGB233001900",
+            "nodenm": "금강1차.왕배초",
+            "nodeno": 37072
+          },
+          {
+            "gpslati": 37.2761667,
+            "gpslong": 126.82455,
+            "nodeid": "GGB233001901",
+            "nodenm": "세영리첼",
+            "nodeno": 55333
+          },
+          {
+            "gpslati": 37.2117833,
+            "gpslong": 127.1032667,
+            "nodeid": "GGB233001902",
+            "nodenm": "동원.다원중",
+            "nodeno": 37073
+          },
+          {
+            "gpslati": 37.1766833,
+            "gpslong": 126.66635,
+            "nodeid": "GGB233001903",
+            "nodenm": "장외리.오리골",
+            "nodeno": 37929
+          },
+          {
+            "gpslati": 37.1735667,
+            "gpslong": 126.6609333,
+            "nodeid": "GGB233001904",
+            "nodenm": "제부도입구",
+            "nodeno": 55349
+          },
+          {
+            "gpslati": 37.1285667,
+            "gpslong": 126.9360333,
+            "nodeid": "GGB233001906",
+            "nodenm": "화성시남부노인복지관입구",
+            "nodeno": 36605
+          },
+          {
+            "gpslati": 37.18715,
+            "gpslong": 126.6893667,
+            "nodeid": "GGB233001909",
+            "nodenm": "전곡삼거리",
+            "nodeno": 37782
+          },
+          {
+            "gpslati": 37.27635,
+            "gpslong": 126.82485,
+            "nodeid": "GGB233001910",
+            "nodenm": "세영리첼",
+            "nodeno": 55334
+          },
+          {
+            "gpslati": 37.1398167,
+            "gpslong": 126.9564167,
+            "nodeid": "GGB233001911",
+            "nodenm": "유진레미콘",
+            "nodeno": 37786
+          },
+          {
+            "gpslati": 37.1869833,
+            "gpslong": 126.6526,
+            "nodeid": "GGB233001912",
+            "nodenm": "전곡항.서해랑케이블카",
+            "nodeno": 37932
+          },
+          {
+            "gpslati": 37.2031167,
+            "gpslong": 127.03435,
+            "nodeid": "GGB233001920",
+            "nodenm": "유앤아이.화성시청소년수련관",
+            "nodeno": 37935
+          },
+          {
+            "gpslati": 37.2023167,
+            "gpslong": 127.0347167,
+            "nodeid": "GGB233001921",
+            "nodenm": "유앤아이.화성시청소년수련관",
+            "nodeno": 37933
+          },
+          {
+            "gpslati": 37.2462167,
+            "gpslong": 126.83965,
+            "nodeid": "GGB233001923",
+            "nodenm": "유포리",
+            "nodeno": 55363
+          },
+          {
+            "gpslati": 37.2095333,
+            "gpslong": 127.1025,
+            "nodeid": "GGB233001924",
+            "nodenm": "동원로얄듀크",
+            "nodeno": 55927
+          },
+          {
+            "gpslati": 37.1997167,
+            "gpslong": 126.7003333,
+            "nodeid": "GGB233001925",
+            "nodenm": "전곡1리.당고지",
+            "nodeno": 37922
+          },
+          {
+            "gpslati": 37.1972,
+            "gpslong": 126.69685,
+            "nodeid": "GGB233001926",
+            "nodenm": "전곡1리마을회관",
+            "nodeno": 37923
+          },
+          {
+            "gpslati": 37.1856333,
+            "gpslong": 126.6909167,
+            "nodeid": "GGB233001927",
+            "nodenm": "전곡삼거리마트",
+            "nodeno": 37780
+          },
+          {
+            "gpslati": 37.17505,
+            "gpslong": 126.6638,
+            "nodeid": "GGB233001928",
+            "nodenm": "돈말입구",
+            "nodeno": 55350
+          },
+          {
+            "gpslati": 37.1748167,
+            "gpslong": 126.6637833,
+            "nodeid": "GGB233001930",
+            "nodenm": "돈말입구",
+            "nodeno": 55351
+          },
+          {
+            "gpslati": 37.1205333,
+            "gpslong": 126.8311333,
+            "nodeid": "GGB233001932",
+            "nodenm": "석포3리",
+            "nodeno": 37947
+          },
+          {
+            "gpslati": 37.1333667,
+            "gpslong": 126.9107833,
+            "nodeid": "GGB233001934",
+            "nodenm": "KEB하나은행발안지점",
+            "nodeno": 37940
+          },
+          {
+            "gpslati": 37.1310667,
+            "gpslong": 126.8990833,
+            "nodeid": "GGB233001935",
+            "nodenm": "발안주공아파트",
+            "nodeno": 37941
+          },
+          {
+            "gpslati": 37.1302833,
+            "gpslong": 126.91015,
+            "nodeid": "GGB233001936",
+            "nodenm": "발안기업은행",
+            "nodeno": 37277
+          },
+          {
+            "gpslati": 37.2085667,
+            "gpslong": 127.0608,
+            "nodeid": "GGB233001939",
+            "nodenm": "자연앤아너스빌",
+            "nodeno": 37943
+          },
+          {
+            "gpslati": 37.2009167,
+            "gpslong": 126.8258167,
+            "nodeid": "GGB233001943",
+            "nodenm": "남양뉴타운.상가단지",
+            "nodeno": 36002
+          },
+          {
+            "gpslati": 37.1104833,
+            "gpslong": 126.9039167,
+            "nodeid": "GGB233001945",
+            "nodenm": "서봉마을19단지",
+            "nodeno": 55173
+          },
+          {
+            "gpslati": 37.2125333,
+            "gpslong": 126.8322833,
+            "nodeid": "GGB233001946",
+            "nodenm": "현장민원실.시티프라디움4차",
+            "nodeno": 55928
+          },
+          {
+            "gpslati": 37.2025,
+            "gpslong": 126.893,
+            "nodeid": "GGB233001947",
+            "nodenm": "청요2리입구",
+            "nodeno": 37962
+          },
+          {
+            "gpslati": 37.1708,
+            "gpslong": 126.8125833,
+            "nodeid": "GGB277100614",
+            "nodenm": "남양로진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.1556333,
+            "gpslong": 127.1032167,
+            "nodeid": "GGB277100615",
+            "nodenm": "동탄2차고지(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2706667,
+            "gpslong": 126.9942,
+            "nodeid": "GGB277101594",
+            "nodenm": "서둔교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.11885,
+            "gpslong": 126.9024167,
+            "nodeid": "GGB277101611",
+            "nodenm": "제암교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.0384667,
+            "gpslong": 126.7499833,
+            "nodeid": "GGB277101618",
+            "nodenm": "고온리종점(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.1183833,
+            "gpslong": 126.7739667,
+            "nodeid": "GGB277101619",
+            "nodenm": "호곡리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.1047833,
+            "gpslong": 126.77745,
+            "nodeid": "GGB277101677",
+            "nodenm": "원안1리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.1418,
+            "gpslong": 126.91685,
+            "nodeid": "GGB277101678",
+            "nodenm": "점촌교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.1491167,
+            "gpslong": 126.922,
+            "nodeid": "GGB277101693",
+            "nodenm": "가재교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2546667,
+            "gpslong": 126.8987333,
+            "nodeid": "GGB277101700",
+            "nodenm": "숙곡교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.1929,
+            "gpslong": 126.9393333,
+            "nodeid": "GGB277101708",
+            "nodenm": "왕림교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.149,
+            "gpslong": 126.9223,
+            "nodeid": "GGB277101732",
+            "nodenm": "가재교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.1635833,
+            "gpslong": 126.9315833,
+            "nodeid": "GGB277101750",
+            "nodenm": "팔탄입구삼거리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.07975,
+            "gpslong": 126.7724167,
+            "nodeid": "GGB277101757",
+            "nodenm": "뒷말(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.1636,
+            "gpslong": 126.9317833,
+            "nodeid": "GGB277101775",
+            "nodenm": "팔탄입구삼거리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.20605,
+            "gpslong": 127.0366167,
+            "nodeid": "GGB277101836",
+            "nodenm": "병점정형외과(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2545833,
+            "gpslong": 126.8989167,
+            "nodeid": "GGB277101878",
+            "nodenm": "숙곡교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2169833,
+            "gpslong": 127.0917,
+            "nodeid": "GGB277101884",
+            "nodenm": "기흥동탄TG(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2385333,
+            "gpslong": 126.9001,
+            "nodeid": "GGB277101890",
+            "nodenm": "쌍학리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2599,
+            "gpslong": 127.0669333,
+            "nodeid": "GGB277101892",
+            "nodenm": "영통차고지대기(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.21655,
+            "gpslong": 127.0915667,
+            "nodeid": "GGB277101908",
+            "nodenm": "기흥동탄TG(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.22935,
+            "gpslong": 126.9572333,
+            "nodeid": "GGB277101927",
+            "nodenm": "봉담IC교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3024,
+            "gpslong": 126.8752667,
+            "nodeid": "GGB277101949",
+            "nodenm": "수인산업도로2(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3940333,
+            "gpslong": 127.0177,
+            "nodeid": "GGB277101960",
+            "nodenm": "청계동(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.1183333,
+            "gpslong": 126.6892167,
+            "nodeid": "GGB277101997",
+            "nodenm": "궁평1교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2272,
+            "gpslong": 126.957,
+            "nodeid": "GGB277102009",
+            "nodenm": "봉담IC진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.1415833,
+            "gpslong": 126.9170167,
+            "nodeid": "GGB277102040",
+            "nodenm": "점촌교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.1676667,
+            "gpslong": 126.8182,
+            "nodeid": "GGB277102091",
+            "nodenm": "장덕동(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2381167,
+            "gpslong": 127.1076167,
+            "nodeid": "GGB277102100",
+            "nodenm": "공세1교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3027167,
+            "gpslong": 126.8754833,
+            "nodeid": "GGB277102102",
+            "nodenm": "수인산업도로2(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3503667,
+            "gpslong": 127.1031167,
+            "nodeid": "GGB277102104",
+            "nodenm": "금곡(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.32435,
+            "gpslong": 126.7991667,
+            "nodeid": "GGB277102242",
+            "nodenm": "연수원사거리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3256333,
+            "gpslong": 126.7946833,
+            "nodeid": "GGB277102243",
+            "nodenm": "협성연립삼거리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.1090167,
+            "gpslong": 126.68825,
+            "nodeid": "GGB277102349",
+            "nodenm": "궁평리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.0990333,
+            "gpslong": 126.70105,
+            "nodeid": "GGB277102350",
+            "nodenm": "궁평리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.0861,
+            "gpslong": 126.7175167,
+            "nodeid": "GGB277102351",
+            "nodenm": "매향리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.0727,
+            "gpslong": 126.8168833,
+            "nodeid": "GGB277102392",
+            "nodenm": "차고지출발(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.1274167,
+            "gpslong": 127.0671333,
+            "nodeid": "GGB277102407",
+            "nodenm": "갈곶리삼거리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3985167,
+            "gpslong": 127.0992667,
+            "nodeid": "GGB277102429",
+            "nodenm": "판교IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.1639667,
+            "gpslong": 126.8446833,
+            "nodeid": "GGB277102459",
+            "nodenm": "현대기아연구소(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.29825,
+            "gpslong": 126.9148333,
+            "nodeid": "GGB277102471",
+            "nodenm": "양촌IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2296333,
+            "gpslong": 126.9568833,
+            "nodeid": "GGB277102501",
+            "nodenm": "봉담IC교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3003,
+            "gpslong": 126.8943667,
+            "nodeid": "GGB277102510",
+            "nodenm": "수인산업도로1(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2217333,
+            "gpslong": 127.10135,
+            "nodeid": "GGB277102516",
+            "nodenm": "기흥IC진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.1930333,
+            "gpslong": 127.0724167,
+            "nodeid": "GGB277102522",
+            "nodenm": "새강마을사거리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.30065,
+            "gpslong": 126.89415,
+            "nodeid": "GGB277102533",
+            "nodenm": "수인산업도로1(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2987333,
+            "gpslong": 126.9146833,
+            "nodeid": "GGB277102545",
+            "nodenm": "양촌IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2073,
+            "gpslong": 126.9437667,
+            "nodeid": "GGB277102570",
+            "nodenm": "왕림휴게소(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2115667,
+            "gpslong": 126.9838,
+            "nodeid": "GGB277102590",
+            "nodenm": "수원대학교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.39655,
+            "gpslong": 127.0542667,
+            "nodeid": "GGB277102599",
+            "nodenm": "청계터널진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2916,
+            "gpslong": 127.0789833,
+            "nodeid": "GGB277102617",
+            "nodenm": "동부차고지(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2351167,
+            "gpslong": 127.1061833,
+            "nodeid": "GGB277102621",
+            "nodenm": "기흥휴게소(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2546333,
+            "gpslong": 126.96295,
+            "nodeid": "GGB277102625",
+            "nodenm": "서부공용차고지(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3660833,
+            "gpslong": 126.946,
+            "nodeid": "GGB277102628",
+            "nodenm": "금정고가차도(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3497667,
+            "gpslong": 127.10355,
+            "nodeid": "GGB277102630",
+            "nodenm": "금곡(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2071833,
+            "gpslong": 126.9881333,
+            "nodeid": "GGB277102653",
+            "nodenm": "용건릉(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.23525,
+            "gpslong": 127.1066167,
+            "nodeid": "GGB277102660",
+            "nodenm": "기흥휴게소(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2088833,
+            "gpslong": 127.0301333,
+            "nodeid": "GGB277102693",
+            "nodenm": "병점육교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.19295,
+            "gpslong": 126.9390167,
+            "nodeid": "GGB277102694",
+            "nodenm": "왕림교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2309,
+            "gpslong": 127.1176333,
+            "nodeid": "GGB277102695",
+            "nodenm": "고매2교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3590833,
+            "gpslong": 126.9482667,
+            "nodeid": "GGB277102716",
+            "nodenm": "당정지하차도(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3961167,
+            "gpslong": 127.0549833,
+            "nodeid": "GGB277102796",
+            "nodenm": "청계터널출입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2717667,
+            "gpslong": 126.9952833,
+            "nodeid": "GGB277102877",
+            "nodenm": "운행종료(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2718,
+            "gpslong": 126.9954333,
+            "nodeid": "GGB277103108",
+            "nodenm": "서둔동차고지대기(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2738333,
+            "gpslong": 126.9948333,
+            "nodeid": "GGB277103109",
+            "nodenm": "차고지출발(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2708167,
+            "gpslong": 126.9948667,
+            "nodeid": "GGB277103110",
+            "nodenm": "서둔교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2693833,
+            "gpslong": 126.9993,
+            "nodeid": "GGB277103116",
+            "nodenm": "육교사거리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.27115,
+            "gpslong": 126.9965,
+            "nodeid": "GGB277103122",
+            "nodenm": "환승센터진입1(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2683667,
+            "gpslong": 126.9976167,
+            "nodeid": "GGB277103123",
+            "nodenm": "환승센터진입2(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2621,
+            "gpslong": 126.9963,
+            "nodeid": "GGB277103124",
+            "nodenm": "벌터교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2684167,
+            "gpslong": 126.99785,
+            "nodeid": "GGB277103125",
+            "nodenm": "환승센터출입1(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2711833,
+            "gpslong": 126.9966833,
+            "nodeid": "GGB277103126",
+            "nodenm": "환승센터출입2(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3688333,
+            "gpslong": 126.8678833,
+            "nodeid": "GGB277103142",
+            "nodenm": "조남JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3688333,
+            "gpslong": 126.86965,
+            "nodeid": "GGB277103143",
+            "nodenm": "조남JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3763333,
+            "gpslong": 126.9317833,
+            "nodeid": "GGB277103144",
+            "nodenm": "산본IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3756333,
+            "gpslong": 126.9308833,
+            "nodeid": "GGB277103145",
+            "nodenm": "산본IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.38175,
+            "gpslong": 126.96505,
+            "nodeid": "GGB277103146",
+            "nodenm": "평촌IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3820833,
+            "gpslong": 126.9654833,
+            "nodeid": "GGB277103147",
+            "nodenm": "평촌IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3956667,
+            "gpslong": 127.1021333,
+            "nodeid": "GGB277103148",
+            "nodenm": "판교TG(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.39595,
+            "gpslong": 127.1031667,
+            "nodeid": "GGB277103149",
+            "nodenm": "판교TG(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3988333,
+            "gpslong": 127.10005,
+            "nodeid": "GGB277103150",
+            "nodenm": "판교IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3986333,
+            "gpslong": 127.1006167,
+            "nodeid": "GGB277103151",
+            "nodenm": "판교IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3869833,
+            "gpslong": 127.0011667,
+            "nodeid": "GGB277103156",
+            "nodenm": "학의JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3875833,
+            "gpslong": 127.0018,
+            "nodeid": "GGB277103157",
+            "nodenm": "학의JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3876667,
+            "gpslong": 127.0015167,
+            "nodeid": "GGB277103158",
+            "nodenm": "학의JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.38705,
+            "gpslong": 127.0015833,
+            "nodeid": "GGB277103159",
+            "nodenm": "학의JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.40185,
+            "gpslong": 127.00175,
+            "nodeid": "GGB277103200",
+            "nodenm": "과천터널진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.4080167,
+            "gpslong": 126.9948833,
+            "nodeid": "GGB277103201",
+            "nodenm": "과천터널진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.4221333,
+            "gpslong": 126.99615,
+            "nodeid": "GGB277103202",
+            "nodenm": "과천IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.4216833,
+            "gpslong": 126.99665,
+            "nodeid": "GGB277103203",
+            "nodenm": "과천IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.4382833,
+            "gpslong": 127.00005,
+            "nodeid": "GGB277103204",
+            "nodenm": "대공원고가교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.4381833,
+            "gpslong": 127.0006667,
+            "nodeid": "GGB277103205",
+            "nodenm": "대공원고가교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3656667,
+            "gpslong": 126.9992333,
+            "nodeid": "GGB277103220",
+            "nodenm": "의왕터널진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3589167,
+            "gpslong": 126.9984167,
+            "nodeid": "GGB277103221",
+            "nodenm": "의왕터널진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2898,
+            "gpslong": 127.1031167,
+            "nodeid": "GGB277103231",
+            "nodenm": "신갈JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.4365333,
+            "gpslong": 127.1221833,
+            "nodeid": "GGB277103272",
+            "nodenm": "성남TG(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.4350833,
+            "gpslong": 127.12385,
+            "nodeid": "GGB277103273",
+            "nodenm": "성남TG(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3914833,
+            "gpslong": 126.8285167,
+            "nodeid": "GGB277103290",
+            "nodenm": "물왕(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3908833,
+            "gpslong": 126.8287,
+            "nodeid": "GGB277103291",
+            "nodenm": "물왕(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3803667,
+            "gpslong": 126.7315333,
+            "nodeid": "GGB277103294",
+            "nodenm": "정왕IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.38,
+            "gpslong": 126.7305,
+            "nodeid": "GGB277103295",
+            "nodenm": "정왕IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3877,
+            "gpslong": 126.7532167,
+            "nodeid": "GGB277103296",
+            "nodenm": "월곶JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3872667,
+            "gpslong": 126.7529333,
+            "nodeid": "GGB277103297",
+            "nodenm": "월곶JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.448,
+            "gpslong": 127.00545,
+            "nodeid": "GGB277103311",
+            "nodenm": "경마IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.4478167,
+            "gpslong": 127.0056167,
+            "nodeid": "GGB277103312",
+            "nodenm": "경마IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3326833,
+            "gpslong": 126.9682167,
+            "nodeid": "GGB277103314",
+            "nodenm": "의왕신부곡IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.33245,
+            "gpslong": 126.9683,
+            "nodeid": "GGB277103315",
+            "nodenm": "의왕신부곡IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3028333,
+            "gpslong": 126.9619667,
+            "nodeid": "GGB277103316",
+            "nodenm": "월암IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3026833,
+            "gpslong": 126.96215,
+            "nodeid": "GGB277103317",
+            "nodenm": "월암IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2983333,
+            "gpslong": 126.9143833,
+            "nodeid": "GGB277103318",
+            "nodenm": "양촌IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2986,
+            "gpslong": 126.9150667,
+            "nodeid": "GGB277103319",
+            "nodenm": "양촌IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.33045,
+            "gpslong": 126.9833333,
+            "nodeid": "GGB277103322",
+            "nodenm": "지지대고개(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.33055,
+            "gpslong": 126.9836667,
+            "nodeid": "GGB277103323",
+            "nodenm": "지지대고개(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2904333,
+            "gpslong": 127.10345,
+            "nodeid": "GGB277103360",
+            "nodenm": "신갈JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2896667,
+            "gpslong": 127.1038667,
+            "nodeid": "GGB277103361",
+            "nodenm": "신갈JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2668167,
+            "gpslong": 127.1035333,
+            "nodeid": "GGB277103362",
+            "nodenm": "수원신갈IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2657,
+            "gpslong": 127.104,
+            "nodeid": "GGB277103363",
+            "nodenm": "수원신갈IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2933833,
+            "gpslong": 126.95265,
+            "nodeid": "GGB277103367",
+            "nodenm": "서수원IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.29805,
+            "gpslong": 127.0475,
+            "nodeid": "GGB277103381",
+            "nodenm": "동수원TG(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2971,
+            "gpslong": 127.0470833,
+            "nodeid": "GGB277103382",
+            "nodenm": "동수원TG(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.36535,
+            "gpslong": 127.1026,
+            "nodeid": "GGB277103385",
+            "nodenm": "서울TG(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3649667,
+            "gpslong": 127.1043333,
+            "nodeid": "GGB277103386",
+            "nodenm": "서울TG(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3266,
+            "gpslong": 127.10315,
+            "nodeid": "GGB277103442",
+            "nodenm": "죽전(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3266333,
+            "gpslong": 127.1038167,
+            "nodeid": "GGB277103443",
+            "nodenm": "죽전(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.24605,
+            "gpslong": 126.9501167,
+            "nodeid": "GGB277103517",
+            "nodenm": "천천IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2459833,
+            "gpslong": 126.9505833,
+            "nodeid": "GGB277103518",
+            "nodenm": "천천IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2622667,
+            "gpslong": 126.9482,
+            "nodeid": "GGB277103519",
+            "nodenm": "호매실IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2619167,
+            "gpslong": 126.9485,
+            "nodeid": "GGB277103520",
+            "nodenm": "호매실IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2935333,
+            "gpslong": 126.9523667,
+            "nodeid": "GGB277103527",
+            "nodenm": "서수원IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2929167,
+            "gpslong": 126.9522833,
+            "nodeid": "GGB277103528",
+            "nodenm": "서수원IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2235333,
+            "gpslong": 126.8757,
+            "nodeid": "GGB277103611",
+            "nodenm": "양노교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2230833,
+            "gpslong": 126.8757167,
+            "nodeid": "GGB277103612",
+            "nodenm": "양노교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3614333,
+            "gpslong": 127.0626333,
+            "nodeid": "GGB277103644",
+            "nodenm": "서분당IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3610333,
+            "gpslong": 127.0630667,
+            "nodeid": "GGB277103645",
+            "nodenm": "서분당IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.4155,
+            "gpslong": 127.08445,
+            "nodeid": "GGB277103678",
+            "nodenm": "금토JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.4152833,
+            "gpslong": 127.0853167,
+            "nodeid": "GGB277103679",
+            "nodenm": "금토JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.26285,
+            "gpslong": 127.0031,
+            "nodeid": "GGB277103687",
+            "nodenm": "세평지하차도(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2645833,
+            "gpslong": 127.0021167,
+            "nodeid": "GGB277103688",
+            "nodenm": "수원역고가(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2643667,
+            "gpslong": 127.0017167,
+            "nodeid": "GGB277103689",
+            "nodenm": "수원역고가(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2613,
+            "gpslong": 127.0014667,
+            "nodeid": "GGB277103690",
+            "nodenm": "세평지하차도(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2931667,
+            "gpslong": 127.0789167,
+            "nodeid": "GGB277103691",
+            "nodenm": "광교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2933833,
+            "gpslong": 127.07955,
+            "nodeid": "GGB277103692",
+            "nodenm": "광교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2030667,
+            "gpslong": 126.8388833,
+            "nodeid": "GGB277104305",
+            "nodenm": "차고지도착(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2326167,
+            "gpslong": 126.8612,
+            "nodeid": "GGB277104306",
+            "nodenm": "양노IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2337167,
+            "gpslong": 126.8614667,
+            "nodeid": "GGB277104307",
+            "nodenm": "양노IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2314833,
+            "gpslong": 126.87945,
+            "nodeid": "GGB277104308",
+            "nodenm": "백학IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2317667,
+            "gpslong": 126.8800833,
+            "nodeid": "GGB277104309",
+            "nodenm": "백학IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2325833,
+            "gpslong": 126.9044333,
+            "nodeid": "GGB277104310",
+            "nodenm": "화성비봉(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2328667,
+            "gpslong": 126.9042167,
+            "nodeid": "GGB277104311",
+            "nodenm": "화성비봉(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2432833,
+            "gpslong": 126.9365667,
+            "nodeid": "GGB277104312",
+            "nodenm": "샘내IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2438,
+            "gpslong": 126.9369,
+            "nodeid": "GGB277104313",
+            "nodenm": "샘내IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2028833,
+            "gpslong": 126.8389,
+            "nodeid": "GGB277104331",
+            "nodenm": "차고지대기(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2193833,
+            "gpslong": 127.1183833,
+            "nodeid": "GGB277104332",
+            "nodenm": "고매1교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2268167,
+            "gpslong": 127.072,
+            "nodeid": "GGB277104346",
+            "nodenm": "반월삼거리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.1578333,
+            "gpslong": 127.1032667,
+            "nodeid": "GGB277104372",
+            "nodenm": "기점진입전(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2087167,
+            "gpslong": 127.12695,
+            "nodeid": "GGB277104373",
+            "nodenm": "중리IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2900167,
+            "gpslong": 126.8228333,
+            "nodeid": "GGB277104374",
+            "nodenm": "송산교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2888,
+            "gpslong": 126.8290667,
+            "nodeid": "GGB277104375",
+            "nodenm": "경기테크노파크(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3929167,
+            "gpslong": 127.0304167,
+            "nodeid": "GGB277104450",
+            "nodenm": "청계육교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3931833,
+            "gpslong": 127.0307167,
+            "nodeid": "GGB277104451",
+            "nodenm": "청계육교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.14645,
+            "gpslong": 127.0683333,
+            "nodeid": "GGB277104533",
+            "nodenm": "중앙파출소(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3162833,
+            "gpslong": 126.9826167,
+            "nodeid": "GGB277104542",
+            "nodenm": "이목사거리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3409167,
+            "gpslong": 126.97905,
+            "nodeid": "GGB277104543",
+            "nodenm": "의왕IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3409167,
+            "gpslong": 126.9784667,
+            "nodeid": "GGB277104544",
+            "nodenm": "의왕IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3165333,
+            "gpslong": 126.9824,
+            "nodeid": "GGB277104545",
+            "nodenm": "이목사거리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.35155,
+            "gpslong": 126.9623167,
+            "nodeid": "GGB277104546",
+            "nodenm": "고봉삼거리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3512667,
+            "gpslong": 126.9623667,
+            "nodeid": "GGB277104547",
+            "nodenm": "고봉삼거리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.347,
+            "gpslong": 126.943,
+            "nodeid": "GGB277104548",
+            "nodenm": "군포초교사거리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3471833,
+            "gpslong": 126.9427,
+            "nodeid": "GGB277104549",
+            "nodenm": "군포초교사거리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.32525,
+            "gpslong": 126.9866333,
+            "nodeid": "GGB277104640",
+            "nodenm": "효행공원(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.32515,
+            "gpslong": 126.98625,
+            "nodeid": "GGB277104641",
+            "nodenm": "효행공원(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3356,
+            "gpslong": 126.9807667,
+            "nodeid": "GGB277104642",
+            "nodenm": "골사그내교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3355833,
+            "gpslong": 126.9801167,
+            "nodeid": "GGB277104643",
+            "nodenm": "골사그내교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3412167,
+            "gpslong": 126.978,
+            "nodeid": "GGB277104644",
+            "nodenm": "의왕IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3210833,
+            "gpslong": 126.9657,
+            "nodeid": "GGB277104645",
+            "nodenm": "삼리교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3082167,
+            "gpslong": 126.9661,
+            "nodeid": "GGB277104646",
+            "nodenm": "월암IC진입전(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3996,
+            "gpslong": 127.1127167,
+            "nodeid": "GGB277104655",
+            "nodenm": "삼평사거리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.43025,
+            "gpslong": 127.1019333,
+            "nodeid": "GGB277104673",
+            "nodenm": "고등마을(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.4297833,
+            "gpslong": 127.10225,
+            "nodeid": "GGB277104674",
+            "nodenm": "고등마을(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.14845,
+            "gpslong": 127.07845,
+            "nodeid": "GGB277104701",
+            "nodenm": "시청앞교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.1585667,
+            "gpslong": 127.0925333,
+            "nodeid": "GGB277104702",
+            "nodenm": "경기동로진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2931,
+            "gpslong": 126.7843,
+            "nodeid": "GGB277104703",
+            "nodenm": "원시삼거리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2933667,
+            "gpslong": 126.7842833,
+            "nodeid": "GGB277104704",
+            "nodenm": "원시삼거리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2958,
+            "gpslong": 126.8045,
+            "nodeid": "GGB277104705",
+            "nodenm": "초지고가교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2957833,
+            "gpslong": 126.8048333,
+            "nodeid": "GGB277104706",
+            "nodenm": "초지고가교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2193833,
+            "gpslong": 127.1179333,
+            "nodeid": "GGB277104709",
+            "nodenm": "고매1교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2085833,
+            "gpslong": 127.1248667,
+            "nodeid": "GGB277104710",
+            "nodenm": "중리IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.0537167,
+            "gpslong": 127.0248333,
+            "nodeid": "GGB277104740",
+            "nodenm": "고덕중앙1로진입로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2034167,
+            "gpslong": 127.11355,
+            "nodeid": "GGB277104808",
+            "nodenm": "치동천5교교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2049333,
+            "gpslong": 127.0990833,
+            "nodeid": "GGB277104810",
+            "nodenm": "치동천2교교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.2137333,
+            "gpslong": 127.1007667,
+            "nodeid": "GGB277104811",
+            "nodenm": "현대트랜시스진입전(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3881333,
+            "gpslong": 127.0695667,
+            "nodeid": "GGB277103723",
+            "nodenm": "서판교IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.388,
+            "gpslong": 127.0704167,
+            "nodeid": "GGB277103724",
+            "nodenm": "서판교IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3886833,
+            "gpslong": 126.7981667,
+            "nodeid": "GGB277103806",
+            "nodenm": "연성IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3883833,
+            "gpslong": 126.79775,
+            "nodeid": "GGB277103807",
+            "nodenm": "연성IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.1655333,
+            "gpslong": 127.1069,
+            "nodeid": "GGB277103991",
+            "nodenm": "호수공원아이파크(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.1683167,
+            "gpslong": 127.1069167,
+            "nodeid": "GGB277103992",
+            "nodenm": "호수공원미래체험관(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.1659,
+            "gpslong": 127.115,
+            "nodeid": "GGB277103993",
+            "nodenm": "A74블럭(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3938167,
+            "gpslong": 127.1017333,
+            "nodeid": "GGB277104184",
+            "nodenm": "판교진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.3920667,
+            "gpslong": 127.1019833,
+            "nodeid": "GGB277104185",
+            "nodenm": "판교출입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "gpslati": 37.0522167,
+            "gpslong": 126.98745,
+            "nodeid": "GGB277104213",
+            "nodenm": "어연IC교차로(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 4,
+      "totalCount": 3376
+    }
+  }
+}

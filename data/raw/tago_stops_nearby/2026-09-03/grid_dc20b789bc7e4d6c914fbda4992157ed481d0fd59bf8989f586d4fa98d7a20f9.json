@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6608667,
+            "gpslong": 126.67325,
+            "nodeid": "GGB232000994",
+            "nodenm": "대촌리",
+            "nodeno": 35947
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6608,
+            "gpslong": 126.6732167,
+            "nodeid": "GGB232000995",
+            "nodenm": "대촌리",
+            "nodeno": 35948
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6657667,
+            "gpslong": 126.6706833,
+            "nodeid": "GGB277103530",
+            "nodenm": "운양.용화사IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6661,
+            "gpslong": 126.6707833,
+            "nodeid": "GGB277103531",
+            "nodenm": "운양.용화사IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6596833,
+            "gpslong": 126.6755667,
+            "nodeid": "GGB232000997",
+            "nodenm": "제촌마을회관",
+            "nodeno": 35950
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6597,
+            "gpslong": 126.6756333,
+            "nodeid": "GGB232000996",
+            "nodenm": "제촌마을회관",
+            "nodeno": 35949
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5662667,
+            "gpslong": 127.2054167,
+            "nodeid": "GGB227000620",
+            "nodenm": "미사동앞벌",
+            "nodeno": 28427
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5663,
+            "gpslong": 127.2054667,
+            "nodeid": "GGB227000689",
+            "nodenm": "미사동앞벌",
+            "nodeno": 28536
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5677667,
+            "gpslong": 127.2037333,
+            "nodeid": "GGB227000619",
+            "nodenm": "한가람",
+            "nodeno": 28426
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.568,
+            "gpslong": 127.2036,
+            "nodeid": "GGB227000618",
+            "nodenm": "한가람",
+            "nodeno": 28425
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5694667,
+            "gpslong": 127.2026167,
+            "nodeid": "GGB227000617",
+            "nodenm": "고부레앞",
+            "nodeno": 28424
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5695,
+            "gpslong": 127.2025333,
+            "nodeid": "GGB227000616",
+            "nodenm": "고부레앞",
+            "nodeno": 28423
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5642667,
+            "gpslong": 127.20095,
+            "nodeid": "GGB227000264",
+            "nodenm": "미사경정공원관람동",
+            "nodeno": 28191
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 7
+    }
+  }
+}

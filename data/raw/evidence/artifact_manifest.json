@@ -1,0 +1,95 @@
+{
+  "generated_at": "2026-09-02T18:30:00+09:00",
+  "files": [
+    {
+      "path": "C:\\Users\\parkd\\Documents\\Codex\\2026-08-20\\files-mentioned-by-the-user-30-2\\day1_day2_day3_refresh_report.md",
+      "bytes": 4363,
+      "sha256": "2e67849a7d85e3e3527916a9b1ca5f869f1474866b8aaa4940be4ef038842a44"
+    },
+    {
+      "path": "C:\\Users\\parkd\\Documents\\Codex\\2026-08-20\\files-mentioned-by-the-user-30-2\\evidence\\cross_validation.csv",
+      "bytes": 974,
+      "sha256": "2d574da136e64b0f1ed965f8f36b11274dc968170c85909139a431e173e61cf4"
+    },
+    {
+      "path": "C:\\Users\\parkd\\Documents\\Codex\\2026-08-20\\files-mentioned-by-the-user-30-2\\evidence\\cross_validation_sources.csv",
+      "bytes": 408,
+      "sha256": "868fdc1826d66c121587fa315ba58da6dcc916a0ee9e372da6e06a30985ecefe"
+    },
+    {
+      "path": "C:\\Users\\parkd\\Documents\\Codex\\2026-08-20\\files-mentioned-by-the-user-30-2\\evidence\\day1_qa.csv",
+      "bytes": 11739,
+      "sha256": "3cff173b3fcbb59c2656ef755a353900c283b2612fc30733f2eba63d0ee8f498"
+    },
+    {
+      "path": "C:\\Users\\parkd\\Documents\\Codex\\2026-08-20\\files-mentioned-by-the-user-30-2\\evidence\\event_coverage.csv",
+      "bytes": 5161,
+      "sha256": "a652581978d7ebc4e812abda52adecf16381117bc7c3d691e6f437b235efc9ff"
+    },
+    {
+      "path": "C:\\Users\\parkd\\Documents\\Codex\\2026-08-20\\files-mentioned-by-the-user-30-2\\evidence\\evidence_log.csv",
+      "bytes": 118508,
+      "sha256": "0cc2da27786bcb3c7dc5615f99d9bd8aefd797de4830dd06caa84b180936f155"
+    },
+    {
+      "path": "C:\\Users\\parkd\\Documents\\Codex\\2026-08-20\\files-mentioned-by-the-user-30-2\\evidence\\forward_monitoring.csv",
+      "bytes": 1144,
+      "sha256": "9ef455b6072e67af89a99086ca8c8e597e6660d147a811fd5956f7ce49985d9f"
+    },
+    {
+      "path": "C:\\Users\\parkd\\Documents\\Codex\\2026-08-20\\files-mentioned-by-the-user-30-2\\evidence\\gate_decision.csv",
+      "bytes": 279,
+      "sha256": "c0d92636a8c75f7a9f09354bca4b51b3ac8e7be2c9dd290083a82fd0ea281a82"
+    },
+    {
+      "path": "C:\\Users\\parkd\\Documents\\Codex\\2026-08-20\\files-mentioned-by-the-user-30-2\\evidence\\gate_results.csv",
+      "bytes": 1444,
+      "sha256": "df45e11f90dc87de4d4e07386e5548b9111529e8d08e208b94083b481d1b5d6c"
+    },
+    {
+      "path": "C:\\Users\\parkd\\Documents\\Codex\\2026-08-20\\files-mentioned-by-the-user-30-2\\evidence\\kapt_candidates.csv",
+      "bytes": 69203,
+      "sha256": "7fff531a21d69c5c402de78f63e854c9083c0ff44eedb9d7ebdce68275afb486"
+    },
+    {
+      "path": "C:\\Users\\parkd\\Documents\\Codex\\2026-08-20\\files-mentioned-by-the-user-30-2\\evidence\\occupancy_operation_gap.csv",
+      "bytes": 1291,
+      "sha256": "6a863ee081e1398d2365ffb3ca0109c6596d5cd68aa3c5b478a1c0e4960413c5"
+    },
+    {
+      "path": "C:\\Users\\parkd\\Documents\\Codex\\2026-08-20\\files-mentioned-by-the-user-30-2\\evidence\\pair_summary.csv",
+      "bytes": 3182,
+      "sha256": "4610f284387a0c477cc39aa064c3a9680b17f708ca398fbf78a016255f753ab7"
+    },
+    {
+      "path": "C:\\Users\\parkd\\Documents\\Codex\\2026-08-20\\files-mentioned-by-the-user-30-2\\evidence\\pairing_audit.csv",
+      "bytes": 16220,
+      "sha256": "f7e3e83655fb5586e96f323e6c5e9c5dd8ad1eb87160da8c980f863fcc9f9888"
+    },
+    {
+      "path": "C:\\Users\\parkd\\Documents\\Codex\\2026-08-20\\files-mentioned-by-the-user-30-2\\evidence\\precedent_matrix.csv",
+      "bytes": 5039,
+      "sha256": "eef4b87fbd8b5050dbeea93ad05588e6d8bb2987ed6f4002edab82833c59e01a"
+    },
+    {
+      "path": "C:\\Users\\parkd\\Documents\\Codex\\2026-08-20\\files-mentioned-by-the-user-30-2\\evidence\\promise_linkage.csv",
+      "bytes": 3182,
+      "sha256": "4610f284387a0c477cc39aa064c3a9680b17f708ca398fbf78a016255f753ab7"
+    },
+    {
+      "path": "C:\\Users\\parkd\\Documents\\Codex\\2026-08-20\\files-mentioned-by-the-user-30-2\\evidence\\repair_log.csv",
+      "bytes": 29807,
+      "sha256": "31d5176af277407a7b8a2fc8fdace47df8f540b9c74ab6051fbc722adbcdf2fe"
+    },
+    {
+      "path": "C:\\Users\\parkd\\Documents\\Codex\\2026-08-20\\files-mentioned-by-the-user-30-2\\evidence\\review_queue.csv",
+      "bytes": 132876,
+      "sha256": "18e932e3d3de8a98e4320e33d2ba43e014f770185590e3780b44ffeba8eaf99b"
+    },
+    {
+      "path": "C:\\Users\\parkd\\Documents\\Codex\\2026-08-20\\files-mentioned-by-the-user-30-2\\evidence\\source_registry.csv",
+      "bytes": 190960,
+      "sha256": "20c20368aa0ab02f97a1d4ab63cb28675633370b3f4686178fde3d1371ad11f4"
+    }
+  ]
+}

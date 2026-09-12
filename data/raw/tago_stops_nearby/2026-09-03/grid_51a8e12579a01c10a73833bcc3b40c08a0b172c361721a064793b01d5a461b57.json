@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1663333,
+            "gpslong": 127.1273667,
+            "nodeid": "GGB233000170",
+            "nodenm": "반도10차",
+            "nodeno": 55750
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1664167,
+            "gpslong": 127.1271667,
+            "nodeid": "GGB233003174",
+            "nodenm": "반도10차",
+            "nodeno": 55701
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1676,
+            "gpslong": 127.1248,
+            "nodeid": "GGB233002288",
+            "nodenm": "세정초.하우스디",
+            "nodeno": 37086
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1664167,
+            "gpslong": 127.1245167,
+            "nodeid": "GGB233000119",
+            "nodenm": "세정초남측",
+            "nodeno": 55749
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16785,
+            "gpslong": 127.1244333,
+            "nodeid": "GGB233000123",
+            "nodenm": "세정초.하우스디",
+            "nodeno": 55751
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1667,
+            "gpslong": 127.1241167,
+            "nodeid": "GGB233000084",
+            "nodenm": "세정초남측",
+            "nodeno": 55730
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

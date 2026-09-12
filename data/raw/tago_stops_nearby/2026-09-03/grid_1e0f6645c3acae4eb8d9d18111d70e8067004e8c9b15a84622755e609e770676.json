@@ -1,0 +1,57 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1862667,
+            "gpslong": 127.1016667,
+            "nodeid": "GGB233001798",
+            "nodenm": "신리천리베라마을",
+            "nodeno": 55507
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1858,
+            "gpslong": 127.10235,
+            "nodeid": "GGB233001813",
+            "nodenm": "신리천리베라마을",
+            "nodeno": 55508
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1876,
+            "gpslong": 127.1002333,
+            "nodeid": "GGB233000995",
+            "nodenm": "의료시설부지",
+            "nodeno": 36477
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1870333,
+            "gpslong": 127.0998333,
+            "nodeid": "GGB233000994",
+            "nodenm": "공공청사부지",
+            "nodeno": 36480
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1907167,
+            "gpslong": 127.0990833,
+            "nodeid": "GGB233000999",
+            "nodenm": "리베라CC.헤리엇",
+            "nodeno": 36501
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 5
+    }
+  }
+}

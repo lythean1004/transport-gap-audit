@@ -1,0 +1,145 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2082833,
+            "gpslong": 127.0990667,
+            "nodeid": "GGB233000121",
+            "nodenm": "상록.테크노밸리.GS자이",
+            "nodeno": 36463
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2095167,
+            "gpslong": 127.0996667,
+            "nodeid": "GGB233002432",
+            "nodenm": "대방디엠시티.센트럴상록",
+            "nodeno": 55308
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2109333,
+            "gpslong": 127.09885,
+            "nodeid": "GGB233000694",
+            "nodenm": "동탄테크노벨리(중)",
+            "nodeno": 55852
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2091667,
+            "gpslong": 127.1000333,
+            "nodeid": "GGB233000122",
+            "nodenm": "센트럴상록.대방디엠시티",
+            "nodeno": 36792
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2065167,
+            "gpslong": 127.0985167,
+            "nodeid": "GGB233002436",
+            "nodenm": "상록.테크노밸리.GS자이",
+            "nodeno": 36842
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.21195,
+            "gpslong": 127.0989167,
+            "nodeid": "GGB233000710",
+            "nodenm": "동탄테크노벨리(중)",
+            "nodeno": 55855
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2079333,
+            "gpslong": 127.0930333,
+            "nodeid": "GGB233001636",
+            "nodenm": "치동초등학교",
+            "nodeno": 37672
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2122833,
+            "gpslong": 127.0988167,
+            "nodeid": "GGB233003125",
+            "nodenm": "동탄테크노밸리",
+            "nodeno": 55521
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.208,
+            "gpslong": 127.09255,
+            "nodeid": "GGB233001635",
+            "nodenm": "치동초등학교",
+            "nodeno": 55496
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2109833,
+            "gpslong": 127.0929167,
+            "nodeid": "GGB233002269",
+            "nodenm": "동탄첨단산업지구",
+            "nodeno": 55614
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.211,
+            "gpslong": 127.0926333,
+            "nodeid": "GGB233002264",
+            "nodenm": "동탄첨단산업지구",
+            "nodeno": 55613
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.21245,
+            "gpslong": 127.0995833,
+            "nodeid": "GGB233003124",
+            "nodenm": "동탄테크노밸리",
+            "nodeno": 55520
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2091833,
+            "gpslong": 127.0918333,
+            "nodeid": "GGB233002442",
+            "nodenm": "푸르지오.한미약품",
+            "nodeno": 55314
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2095,
+            "gpslong": 127.0916167,
+            "nodeid": "GGB233002443",
+            "nodenm": "한미약품.푸르지오",
+            "nodeno": 55315
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2095333,
+            "gpslong": 127.1025,
+            "nodeid": "GGB233001924",
+            "nodenm": "동원로얄듀크",
+            "nodeno": 55927
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2049333,
+            "gpslong": 127.0990833,
+            "nodeid": "GGB277104810",
+            "nodenm": "치동천2교교차로(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 16
+    }
+  }
+}

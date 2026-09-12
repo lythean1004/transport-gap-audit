@@ -1,0 +1,129 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6368833,
+            "gpslong": 126.6378,
+            "nodeid": "GGB232000969",
+            "nodenm": "은여울중학교.경남아너스빌",
+            "nodeno": 35919
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6371167,
+            "gpslong": 126.6379167,
+            "nodeid": "GGB232000970",
+            "nodenm": "은여울중학교.경남아너스빌",
+            "nodeno": 35920
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6342,
+            "gpslong": 126.6357333,
+            "nodeid": "GGB232001292",
+            "nodenm": "구래1리입구",
+            "nodeno": 62311
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6339333,
+            "gpslong": 126.6412167,
+            "nodeid": "GGB232000991",
+            "nodenm": "동일스위트2단지",
+            "nodeno": 35944
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6340167,
+            "gpslong": 126.6356833,
+            "nodeid": "GGB232000298",
+            "nodenm": "구래1리입구",
+            "nodeno": 35674
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6373,
+            "gpslong": 126.6421,
+            "nodeid": "GGB232000890",
+            "nodenm": "상록데시앙",
+            "nodeno": 35838
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6338167,
+            "gpslong": 126.6415,
+            "nodeid": "GGB232000990",
+            "nodenm": "자이더빌리지4단지",
+            "nodeno": 35943
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6373333,
+            "gpslong": 126.6424,
+            "nodeid": "GGB232000889",
+            "nodenm": "상록데시앙",
+            "nodeno": 35837
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6392333,
+            "gpslong": 126.6375167,
+            "nodeid": "GGB232000741",
+            "nodenm": "힐스테이트.경남아너스빌",
+            "nodeno": 35659
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6363167,
+            "gpslong": 126.6430833,
+            "nodeid": "GGB232000342",
+            "nodenm": "은여울마을입구사거리",
+            "nodeno": 35969
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6359333,
+            "gpslong": 126.64315,
+            "nodeid": "GGB232000343",
+            "nodenm": "은여울마을입구사거리",
+            "nodeno": 35970
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6353167,
+            "gpslong": 126.6339833,
+            "nodeid": "GGB232000971",
+            "nodenm": "한강센트럴블루힐후문",
+            "nodeno": 35921
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6352167,
+            "gpslong": 126.6337,
+            "nodeid": "GGB232000972",
+            "nodenm": "한강센트럴블루힐후문",
+            "nodeno": 35922
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6384833,
+            "gpslong": 126.6344,
+            "nodeid": "GGB232000742",
+            "nodenm": "힐스테이트.경남아너스빌",
+            "nodeno": 35660
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 14
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5491833,
+            "gpslong": 127.18745,
+            "nodeid": "GGB227000360",
+            "nodenm": "황산사거리",
+            "nodeno": 28594
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5495833,
+            "gpslong": 127.1876167,
+            "nodeid": "GGB227000221",
+            "nodenm": "황산사거리",
+            "nodeno": 28259
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55065,
+            "gpslong": 127.1877667,
+            "nodeid": "GGB227000356",
+            "nodenm": "황산사거리.미사3동공공복합청사",
+            "nodeno": 28590
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5497667,
+            "gpslong": 127.1841833,
+            "nodeid": "GGB227000486",
+            "nodenm": "황산사거리.미사센텀비즈(중)",
+            "nodeno": 28255
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54935,
+            "gpslong": 127.1838,
+            "nodeid": "GGB227000027",
+            "nodenm": "황산사거리.하남수산물시장",
+            "nodeno": 28023
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5500167,
+            "gpslong": 127.1841667,
+            "nodeid": "GGB227000250",
+            "nodenm": "황산사거리.미사센텀비즈",
+            "nodeno": 28276
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5495,
+            "gpslong": 127.1838,
+            "nodeid": "GGB227000251",
+            "nodenm": "황산사거리.하남수산물시장(중)",
+            "nodeno": 28272
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5472,
+            "gpslong": 127.1912667,
+            "nodeid": "GGB227000028",
+            "nodenm": "지역현안1지구",
+            "nodeno": 28032
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5468833,
+            "gpslong": 127.19115,
+            "nodeid": "GGB227000026",
+            "nodenm": "지역현안1지구",
+            "nodeno": 28031
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5495333,
+            "gpslong": 127.19275,
+            "nodeid": "GGB227000710",
+            "nodenm": "코스트코",
+            "nodeno": 28557
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

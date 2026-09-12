@@ -1,0 +1,73 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6458167,
+            "gpslong": 126.6577167,
+            "nodeid": "GGB232000662",
+            "nodenm": "G버스대기소",
+            "nodeno": 35100
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6445167,
+            "gpslong": 126.6575667,
+            "nodeid": "GGB232000722",
+            "nodenm": "수자인.호반아파트",
+            "nodeno": 35647
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6442167,
+            "gpslong": 126.6572833,
+            "nodeid": "GGB232000723",
+            "nodenm": "수자인.호반아파트",
+            "nodeno": 35648
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6426667,
+            "gpslong": 126.6578,
+            "nodeid": "GGB232000966",
+            "nodenm": "한양수자인아파트",
+            "nodeno": 35916
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6453,
+            "gpslong": 126.6604833,
+            "nodeid": "GGB232000875",
+            "nodenm": "호반베르디움앞",
+            "nodeno": 35822
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6422833,
+            "gpslong": 126.6578667,
+            "nodeid": "GGB232000965",
+            "nodenm": "한양수자인아파트",
+            "nodeno": 35915
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6497167,
+            "gpslong": 126.6582667,
+            "nodeid": "GGB232000319",
+            "nodenm": "운곡마을",
+            "nodeno": 35190
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 7
+    }
+  }
+}

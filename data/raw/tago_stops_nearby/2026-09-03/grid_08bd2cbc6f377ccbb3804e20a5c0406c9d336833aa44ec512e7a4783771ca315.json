@@ -1,0 +1,105 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1915,
+            "gpslong": 127.0878333,
+            "nodeid": "GGB233000225",
+            "nodenm": "이산고등학교",
+            "nodeno": 55762
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1916,
+            "gpslong": 127.0877833,
+            "nodeid": "GGB233000224",
+            "nodenm": "이산고등학교",
+            "nodeno": 55761
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1898667,
+            "gpslong": 127.09035,
+            "nodeid": "GGB233000382",
+            "nodenm": "신미주아파트.포스코2차",
+            "nodeno": 55626
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1894167,
+            "gpslong": 127.0904,
+            "nodeid": "GGB233001504",
+            "nodenm": "포스코2차.신미주아파트",
+            "nodeno": 36737
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1928667,
+            "gpslong": 127.09255,
+            "nodeid": "GGB233001648",
+            "nodenm": "신미주아파트",
+            "nodeno": 36993
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1941667,
+            "gpslong": 127.0908,
+            "nodeid": "GGB233001641",
+            "nodenm": "반도5차",
+            "nodeno": 55485
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1929667,
+            "gpslong": 127.0929833,
+            "nodeid": "GGB233001649",
+            "nodenm": "신미주아파트",
+            "nodeno": 37965
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1944667,
+            "gpslong": 127.09145,
+            "nodeid": "GGB233001638",
+            "nodenm": "반도5차",
+            "nodeno": 55484
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1901333,
+            "gpslong": 127.0862333,
+            "nodeid": "GGB233000147",
+            "nodenm": "에일린의뜰아파트",
+            "nodeno": 36432
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1901167,
+            "gpslong": 127.0860333,
+            "nodeid": "GGB233001567",
+            "nodenm": "에일린의뜰아파트",
+            "nodeno": 55446
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1881333,
+            "gpslong": 127.0929833,
+            "nodeid": "GGB233002494",
+            "nodenm": "동탄초교",
+            "nodeno": 37003
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 11
+    }
+  }
+}

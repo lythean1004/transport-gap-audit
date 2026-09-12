@@ -1,0 +1,105 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.203,
+            "gpslong": 127.0990667,
+            "nodeid": "GGB233003206",
+            "nodenm": "우남퍼스트빌.예미지시그너스(좌회전전용)",
+            "nodeno": 36654
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.20315,
+            "gpslong": 127.0985,
+            "nodeid": "GGB233000130",
+            "nodenm": "예미지시그너스.우남퍼스트빌",
+            "nodeno": 36447
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2033667,
+            "gpslong": 127.0991,
+            "nodeid": "GGB233000964",
+            "nodenm": "우남퍼스트빌.예미지시그너스",
+            "nodeno": 36469
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2045667,
+            "gpslong": 127.1000833,
+            "nodeid": "GGB233002433",
+            "nodenm": "우남퍼스트빌.자이",
+            "nodeno": 37663
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2049333,
+            "gpslong": 127.0990833,
+            "nodeid": "GGB277104810",
+            "nodenm": "치동천2교교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2048333,
+            "gpslong": 127.0998667,
+            "nodeid": "GGB233000127",
+            "nodenm": "자이.우남퍼스트빌",
+            "nodeno": 36446
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1999333,
+            "gpslong": 127.0991,
+            "nodeid": "GGB233000979",
+            "nodenm": "포스코더샵.롯데캐슬",
+            "nodeno": 36465
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1997,
+            "gpslong": 127.0984667,
+            "nodeid": "GGB233000137",
+            "nodenm": "롯데캐슬.포스코더샵",
+            "nodeno": 36436
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.19985,
+            "gpslong": 127.0962833,
+            "nodeid": "GGB233003085",
+            "nodenm": "동탄역(동측)",
+            "nodeno": 55399
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1995833,
+            "gpslong": 127.0960833,
+            "nodeid": "GGB233003084",
+            "nodenm": "동탄역(서측)",
+            "nodeno": 55398
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2065167,
+            "gpslong": 127.0985167,
+            "nodeid": "GGB233002436",
+            "nodenm": "상록.테크노밸리.GS자이",
+            "nodeno": 36842
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 11
+    }
+  }
+}

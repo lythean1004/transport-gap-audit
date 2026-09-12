@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.17465,
+            "gpslong": 127.0971667,
+            "nodeid": "GGB233003062",
+            "nodenm": "ASML(A동)",
+            "nodeno": 55946
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1738333,
+            "gpslong": 127.0991833,
+            "nodeid": "GGB233003064",
+            "nodenm": "동탄레이크원",
+            "nodeno": 55947
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1752667,
+            "gpslong": 127.0997667,
+            "nodeid": "GGB233003063",
+            "nodenm": "ASML(B동)",
+            "nodeno": 55945
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1774333,
+            "gpslong": 127.0962,
+            "nodeid": "GGB277103445",
+            "nodenm": "동탄JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1778833,
+            "gpslong": 127.0957833,
+            "nodeid": "GGB277103444",
+            "nodenm": "동탄JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1714167,
+            "gpslong": 127.0987333,
+            "nodeid": "GGB233003241",
+            "nodenm": "동탄레이크자이더테라스후문",
+            "nodeno": 55990
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1712333,
+            "gpslong": 127.0986833,
+            "nodeid": "GGB233003242",
+            "nodenm": "동탄레이크자이더테라스후문",
+            "nodeno": 55991
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1734,
+            "gpslong": 127.09105,
+            "nodeid": "GGB233002211",
+            "nodenm": "한국지역난방공사",
+            "nodeno": 36669
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1723667,
+            "gpslong": 127.10085,
+            "nodeid": "GGB233000379",
+            "nodenm": "방교초.레이크자이더테라스",
+            "nodeno": 55625
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1738667,
+            "gpslong": 127.0908,
+            "nodeid": "GGB233002210",
+            "nodenm": "한국지역난방공사",
+            "nodeno": 55103
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

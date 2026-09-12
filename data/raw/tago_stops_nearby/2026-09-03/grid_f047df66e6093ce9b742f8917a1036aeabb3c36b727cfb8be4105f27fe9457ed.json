@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.48475,
+            "gpslong": 127.154,
+            "nodeid": "GGB227000345",
+            "nodenm": "위례호반써밋.힐스테이트센트럴위례",
+            "nodeno": 28578
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4853833,
+            "gpslong": 127.15305,
+            "nodeid": "GGB227000353",
+            "nodenm": "위례호반써밋.힐스테이트센트럴위례",
+            "nodeno": 28586
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4800667,
+            "gpslong": 127.1478,
+            "nodeid": "GGB227000685",
+            "nodenm": "스타필드시티.위례지웰푸르지오.하남시위례도서관",
+            "nodeno": 28532
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4775667,
+            "gpslong": 127.151,
+            "nodeid": "GGB227000298",
+            "nodenm": "하남시위례동행정복지센터.위례고",
+            "nodeno": 28371
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4847667,
+            "gpslong": 127.1559167,
+            "nodeid": "GGB227000352",
+            "nodenm": "위례숲우미린",
+            "nodeno": 28585
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4800833,
+            "gpslong": 127.1474,
+            "nodeid": "GGB227000686",
+            "nodenm": "스타필드시티.위례스타힐스.하남시위례도서관",
+            "nodeno": 28533
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

@@ -1,0 +1,14 @@
+label: "provisional_not_legal_standard"
+
+distance_m:
+  - 500
+  - 800
+  - 1000
+
+peak_headway_min:
+  - 15
+  - 20
+  - 30
+
+first_service_not_after: "06:30"
+last_service_not_before: "22:00"

@@ -1,0 +1,153 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31190,
+            "gpslati": 37.2216833,
+            "gpslong": 127.1066167,
+            "nodeid": "GGB228001672",
+            "nodenm": "서울자동차경매장",
+            "nodeno": 47510
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2215167,
+            "gpslong": 127.1065,
+            "nodeid": "GGB228001671",
+            "nodenm": "서울자동차경매장",
+            "nodeno": 47559
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2241167,
+            "gpslong": 127.1068833,
+            "nodeid": "GGB228003213",
+            "nodenm": "시뉴어하우스",
+            "nodeno": 56257
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2241833,
+            "gpslong": 127.1068,
+            "nodeid": "GGB228001275",
+            "nodenm": "시뉴어하우스",
+            "nodeno": 56842
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.22295,
+            "gpslong": 127.1037667,
+            "nodeid": "GGB228003122",
+            "nodenm": "hy중앙연구소",
+            "nodeno": 56166
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2214167,
+            "gpslong": 127.10835,
+            "nodeid": "GGB228000051",
+            "nodenm": "KMW복지관",
+            "nodeno": 47668
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2215833,
+            "gpslong": 127.1086167,
+            "nodeid": "GGB228001709",
+            "nodenm": "KMW복지관",
+            "nodeno": 47076
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.22175,
+            "gpslong": 127.1034333,
+            "nodeid": "GGB228001670",
+            "nodenm": "기흥IC",
+            "nodeno": 47644
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2215333,
+            "gpslong": 127.1035,
+            "nodeid": "GGB228001669",
+            "nodenm": "기흥IC",
+            "nodeno": 47645
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.22315,
+            "gpslong": 127.1031167,
+            "nodeid": "GGB228001276",
+            "nodenm": "hy중앙연구소",
+            "nodeno": 56843
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2257333,
+            "gpslong": 127.1075833,
+            "nodeid": "GGB228003326",
+            "nodenm": "기흥주택단지",
+            "nodeno": 56371
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2258667,
+            "gpslong": 127.1076,
+            "nodeid": "GGB228001396",
+            "nodenm": "기흥주택단지",
+            "nodeno": 56859
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2256167,
+            "gpslong": 127.1092167,
+            "nodeid": "GGB228003325",
+            "nodenm": "산정앞",
+            "nodeno": 56370
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2217333,
+            "gpslong": 127.10135,
+            "nodeid": "GGB277102516",
+            "nodenm": "기흥IC진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2258167,
+            "gpslong": 127.1093333,
+            "nodeid": "GGB228003324",
+            "nodenm": "산정앞",
+            "nodeno": 56369
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2248833,
+            "gpslong": 127.1017167,
+            "nodeid": "GGB228001112",
+            "nodenm": "유상냉장",
+            "nodeno": 29874
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.22495,
+            "gpslong": 127.10155,
+            "nodeid": "GGB228001115",
+            "nodenm": "유상냉장",
+            "nodeno": 29135
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 17
+    }
+  }
+}

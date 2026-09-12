@@ -1,0 +1,185 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6403,
+            "gpslong": 126.6659,
+            "nodeid": "GGB232000549",
+            "nodenm": "우미린.반도유보라아파트",
+            "nodeno": 35494
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64045,
+            "gpslong": 126.6657333,
+            "nodeid": "GGB232000550",
+            "nodenm": "반도유보라.우미린아파트",
+            "nodeno": 35503
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6409,
+            "gpslong": 126.6683833,
+            "nodeid": "GGB232000577",
+            "nodenm": "장기고등학교",
+            "nodeno": 35526
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64105,
+            "gpslong": 126.6685667,
+            "nodeid": "GGB232000594",
+            "nodenm": "장기고등학교",
+            "nodeno": 35536
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63915,
+            "gpslong": 126.6644667,
+            "nodeid": "GGB277102420",
+            "nodenm": "뉴고려병원(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6424,
+            "gpslong": 126.6661167,
+            "nodeid": "GGB232000585",
+            "nodenm": "장기초등학교",
+            "nodeno": 35534
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6424,
+            "gpslong": 126.6657,
+            "nodeid": "GGB232000576",
+            "nodenm": "장기초등학교",
+            "nodeno": 35525
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6377,
+            "gpslong": 126.6677333,
+            "nodeid": "GGB232000821",
+            "nodenm": "중흥s클래스후문",
+            "nodeno": 35733
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6426333,
+            "gpslong": 126.6679667,
+            "nodeid": "GGB232000553",
+            "nodenm": "장기역.주공아파트",
+            "nodeno": 35505
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6428,
+            "gpslong": 126.6677167,
+            "nodeid": "GGB232000554",
+            "nodenm": "장기역.신영아파트",
+            "nodeno": 35501
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6399667,
+            "gpslong": 126.66365,
+            "nodeid": "GGB232000548",
+            "nodenm": "고창마을.반도유보라후문",
+            "nodeno": 35504
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6371667,
+            "gpslong": 126.6678667,
+            "nodeid": "GGB232000816",
+            "nodenm": "중흥s클래스후문",
+            "nodeno": 35728
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6393667,
+            "gpslong": 126.6711,
+            "nodeid": "GGB232000506",
+            "nodenm": "장기동행정복지센터(마을)",
+            "nodeno": 35448
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63955,
+            "gpslong": 126.6713,
+            "nodeid": "GGB232000794",
+            "nodenm": "장기동행정복지센터(마을)",
+            "nodeno": 35775
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6401667,
+            "gpslong": 126.6625,
+            "nodeid": "GGB232000547",
+            "nodenm": "타운하우스",
+            "nodeno": 35506
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6378167,
+            "gpslong": 126.6707167,
+            "nodeid": "GGB232000840",
+            "nodenm": "중흥s클래스.우남퍼스트빌",
+            "nodeno": 35787
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64315,
+            "gpslong": 126.6702333,
+            "nodeid": "GGB232000692",
+            "nodenm": "고창중학교",
+            "nodeno": 35636
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6381833,
+            "gpslong": 126.6713667,
+            "nodeid": "GGB232000839",
+            "nodenm": "중흥s클래스.우남퍼스트빌",
+            "nodeno": 35786
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6434333,
+            "gpslong": 126.6705,
+            "nodeid": "GGB232000691",
+            "nodenm": "장기역5번출구",
+            "nodeno": 35634
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6445833,
+            "gpslong": 126.66765,
+            "nodeid": "GGB232000540",
+            "nodenm": "장기역.김포고용복지플러스센터",
+            "nodeno": 35513
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6389,
+            "gpslong": 126.6724667,
+            "nodeid": "GGB232000681",
+            "nodenm": "가현초등학교.장기동행정복지센터",
+            "nodeno": 35628
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 21
+    }
+  }
+}

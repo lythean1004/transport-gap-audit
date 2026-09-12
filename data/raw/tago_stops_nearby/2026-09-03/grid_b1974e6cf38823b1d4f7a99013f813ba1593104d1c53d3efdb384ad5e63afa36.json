@@ -1,0 +1,121 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2137333,
+            "gpslong": 127.1007667,
+            "nodeid": "GGB277104811",
+            "nodenm": "현대트랜시스진입전(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2121333,
+            "gpslong": 127.1035833,
+            "nodeid": "GGB233000063",
+            "nodenm": "동원.다원중",
+            "nodeno": 36033
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.21615,
+            "gpslong": 127.1038333,
+            "nodeid": "GGB233002017",
+            "nodenm": "현대트랜시스",
+            "nodeno": 55585
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2163,
+            "gpslong": 127.1036667,
+            "nodeid": "GGB233000698",
+            "nodenm": "현대트랜시스(중)",
+            "nodeno": 55853
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2117833,
+            "gpslong": 127.1032667,
+            "nodeid": "GGB233001902",
+            "nodenm": "동원.다원중",
+            "nodeno": 37073
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.21245,
+            "gpslong": 127.0995833,
+            "nodeid": "GGB233003124",
+            "nodenm": "동탄테크노밸리",
+            "nodeno": 55520
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2172833,
+            "gpslong": 127.1038167,
+            "nodeid": "GGB233000709",
+            "nodenm": "현대트랜시스(중)",
+            "nodeno": 55854
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2175667,
+            "gpslong": 127.1036333,
+            "nodeid": "GGB233002165",
+            "nodenm": "현대트랜시스",
+            "nodeno": 55602
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2168667,
+            "gpslong": 127.1055333,
+            "nodeid": "GGB233000183",
+            "nodenm": "현대트랜시스.동원4차",
+            "nodeno": 55755
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2122833,
+            "gpslong": 127.0988167,
+            "nodeid": "GGB233003125",
+            "nodenm": "동탄테크노밸리",
+            "nodeno": 55521
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.21195,
+            "gpslong": 127.0989167,
+            "nodeid": "GGB233000710",
+            "nodenm": "동탄테크노벨리(중)",
+            "nodeno": 55855
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2167,
+            "gpslong": 127.10605,
+            "nodeid": "GGB233000182",
+            "nodenm": "동원4차.현대트랜시스",
+            "nodeno": 55754
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2109333,
+            "gpslong": 127.09885,
+            "nodeid": "GGB233000694",
+            "nodenm": "동탄테크노벨리(중)",
+            "nodeno": 55852
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 13
+    }
+  }
+}

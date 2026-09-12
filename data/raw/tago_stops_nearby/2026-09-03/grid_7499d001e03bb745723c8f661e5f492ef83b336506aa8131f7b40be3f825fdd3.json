@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6371667,
+            "gpslong": 126.6678667,
+            "nodeid": "GGB232000816",
+            "nodenm": "중흥s클래스후문",
+            "nodeno": 35728
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6377,
+            "gpslong": 126.6677333,
+            "nodeid": "GGB232000821",
+            "nodenm": "중흥s클래스후문",
+            "nodeno": 35733
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

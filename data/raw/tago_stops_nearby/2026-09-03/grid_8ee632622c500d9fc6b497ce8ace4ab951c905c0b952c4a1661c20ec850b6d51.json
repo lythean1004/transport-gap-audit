@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.57475,
+            "gpslong": 127.1928,
+            "nodeid": "GGB227000684",
+            "nodenm": "미사강변한신더휴",
+            "nodeno": 28531
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5738333,
+            "gpslong": 127.1934,
+            "nodeid": "GGB227000270",
+            "nodenm": "미사강변한신더휴.트래지안",
+            "nodeno": 28091
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

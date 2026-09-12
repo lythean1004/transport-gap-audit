@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6464333,
+            "gpslong": 126.6189167,
+            "nodeid": "GGB232000236",
+            "nodenm": "구래3리",
+            "nodeno": 35094
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6460167,
+            "gpslong": 126.6187333,
+            "nodeid": "GGB232000179",
+            "nodenm": "구래3리",
+            "nodeno": 35095
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6456333,
+            "gpslong": 126.6199667,
+            "nodeid": "GGB232000944",
+            "nodenm": "LH한가람마을2단지",
+            "nodeno": 35894
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6451,
+            "gpslong": 126.6215667,
+            "nodeid": "GGB232000822",
+            "nodenm": "구래동행정복지센터",
+            "nodeno": 35734
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64565,
+            "gpslong": 126.6225,
+            "nodeid": "GGB232000817",
+            "nodenm": "구래동행정복지센터",
+            "nodeno": 35729
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64425,
+            "gpslong": 126.6199333,
+            "nodeid": "GGB232000557",
+            "nodenm": "LH한가람마을2단지",
+            "nodeno": 35500
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.62255,
+            "gpslong": 127.1467667,
+            "nodeid": "GGB222001153",
+            "nodenm": "유승한내들골든뷰.다산메트로3단지",
+            "nodeno": 49264
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6223833,
+            "gpslong": 127.14705,
+            "nodeid": "GGB222000907",
+            "nodenm": "다산메트로3단지.유승한내들골든뷰",
+            "nodeno": 49157
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62465,
+            "gpslong": 127.1467833,
+            "nodeid": "GGB222001935",
+            "nodenm": "한양수자인1차입구",
+            "nodeno": 49806
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6248,
+            "gpslong": 127.1470667,
+            "nodeid": "GGB222001936",
+            "nodenm": "한양수자인1차입구",
+            "nodeno": 49807
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6207833,
+            "gpslong": 127.14715,
+            "nodeid": "GGB222000910",
+            "nodenm": "한양수자인2차",
+            "nodeno": 49781
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6203333,
+            "gpslong": 127.1478167,
+            "nodeid": "GGB222000911",
+            "nodenm": "한양수자인2차",
+            "nodeno": 49804
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6250833,
+            "gpslong": 127.1488667,
+            "nodeid": "GGB222000856",
+            "nodenm": "다산역4번출구.경기행복주택",
+            "nodeno": 23036
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6253,
+            "gpslong": 127.1487667,
+            "nodeid": "GGB222000835",
+            "nodenm": "다산역4번출구.경기행복주택",
+            "nodeno": 23035
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62055,
+            "gpslong": 127.1495167,
+            "nodeid": "GGB222001919",
+            "nodenm": "다산가람초교.벧엘교회",
+            "nodeno": 49789
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6263667,
+            "gpslong": 127.1473333,
+            "nodeid": "GGB222001475",
+            "nodenm": "다산진건데시앙.경기행복주택",
+            "nodeno": 49392
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62035,
+            "gpslong": 127.1497,
+            "nodeid": "GGB222001918",
+            "nodenm": "다산가람초교.벧엘교회",
+            "nodeno": 49788
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6238167,
+            "gpslong": 127.1508,
+            "nodeid": "GGB222000878",
+            "nodenm": "다산역1번출구",
+            "nodeno": 49928
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6266667,
+            "gpslong": 127.1471667,
+            "nodeid": "GGB222000818",
+            "nodenm": "다산하늘초.한양수자인1차후문",
+            "nodeno": 49203
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6242,
+            "gpslong": 127.15085,
+            "nodeid": "GGB222000877",
+            "nodenm": "다산역1번출구",
+            "nodeno": 49927
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6219833,
+            "gpslong": 127.1411667,
+            "nodeid": "GGB221000013",
+            "nodenm": "샘말.성신양회",
+            "nodeno": 22114
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6223667,
+            "gpslong": 127.1515167,
+            "nodeid": "GGB222000874",
+            "nodenm": "다산역자연앤푸르지오",
+            "nodeno": 49924
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6220333,
+            "gpslong": 127.1408667,
+            "nodeid": "GGB221000131",
+            "nodenm": "샘말.성신양회",
+            "nodeno": 22111
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6224333,
+            "gpslong": 127.1517167,
+            "nodeid": "GGB222000875",
+            "nodenm": "다산역자연앤푸르지오",
+            "nodeno": 49925
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 18
+    }
+  }
+}

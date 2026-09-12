@@ -1,0 +1,89 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1972,
+            "gpslong": 127.1112,
+            "nodeid": "GGB233000134",
+            "nodenm": "호반베르디움.롯데캐슬",
+            "nodeno": 36511
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.19685,
+            "gpslong": 127.1110667,
+            "nodeid": "GGB233002420",
+            "nodenm": "롯데캐슬.호반베르디움",
+            "nodeno": 55297
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1981167,
+            "gpslong": 127.11465,
+            "nodeid": "GGB233001167",
+            "nodenm": "센트럴푸르지오.반도유보라",
+            "nodeno": 37484
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1987333,
+            "gpslong": 127.11515,
+            "nodeid": "GGB233000150",
+            "nodenm": "반도유보라.센트럴푸르지오",
+            "nodeno": 36515
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2001,
+            "gpslong": 127.1154,
+            "nodeid": "GGB233000430",
+            "nodenm": "반도4차.동탄4동복지센터",
+            "nodeno": 55663
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2018833,
+            "gpslong": 127.1141,
+            "nodeid": "GGB233001491",
+            "nodenm": "반도1차.모아아파트",
+            "nodeno": 37551
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1999833,
+            "gpslong": 127.11605,
+            "nodeid": "GGB233000129",
+            "nodenm": "신안2차.반도4차",
+            "nodeno": 36460
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.20205,
+            "gpslong": 127.11455,
+            "nodeid": "GGB233000980",
+            "nodenm": "모아.반도1차아파트",
+            "nodeno": 36459
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2031667,
+            "gpslong": 127.1107667,
+            "nodeid": "GGB233000164",
+            "nodenm": "반도1차.경남",
+            "nodeno": 36811
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 9
+    }
+  }
+}

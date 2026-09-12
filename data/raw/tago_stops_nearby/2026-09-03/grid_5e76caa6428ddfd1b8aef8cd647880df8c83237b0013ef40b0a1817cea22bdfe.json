@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2095833,
+            "gpslong": 127.1189667,
+            "nodeid": "GGB233001993",
+            "nodenm": "동탄행복마을푸르지오아파트",
+            "nodeno": 55584
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2087833,
+            "gpslong": 127.1183167,
+            "nodeid": "GGB233001306",
+            "nodenm": "반도유보라후문",
+            "nodeno": 36482
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2088333,
+            "gpslong": 127.1181833,
+            "nodeid": "GGB233001172",
+            "nodenm": "반도유보라후문",
+            "nodeno": 36785
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2083,
+            "gpslong": 127.1172,
+            "nodeid": "GGB233001162",
+            "nodenm": "반도유보라정문",
+            "nodeno": 36448
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2083667,
+            "gpslong": 127.1168,
+            "nodeid": "GGB233001169",
+            "nodenm": "반도유보라정문",
+            "nodeno": 36450
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2085833,
+            "gpslong": 127.1248667,
+            "nodeid": "GGB277104710",
+            "nodenm": "중리IC(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

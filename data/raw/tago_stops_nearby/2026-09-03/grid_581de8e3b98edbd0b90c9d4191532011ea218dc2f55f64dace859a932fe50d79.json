@@ -1,0 +1,177 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31020,
+            "gpslati": 37.4707333,
+            "gpslong": 127.1445333,
+            "nodeid": "GGB204000034",
+            "nodenm": "래미안위례.위례고운초등학교앞",
+            "nodeno": 5081
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.46735,
+            "gpslong": 127.14405,
+            "nodeid": "GGB204000090",
+            "nodenm": "밀리토피아시티.위례역푸르지오",
+            "nodeno": 5180
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4671167,
+            "gpslong": 127.1442667,
+            "nodeid": "GGB204000097",
+            "nodenm": "위례래미안이편한세상.힐스테이트위례",
+            "nodeno": 5060
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4710333,
+            "gpslong": 127.14365,
+            "nodeid": "GGB204000093",
+            "nodenm": "래미안위례.위례고운초교.위례35단지",
+            "nodeno": 5082
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4708167,
+            "gpslong": 127.1422833,
+            "nodeid": "GGB204000236",
+            "nodenm": "성남시위례동행정복지센터.위례아트리버푸르지오",
+            "nodeno": 5176
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.47115,
+            "gpslong": 127.1466333,
+            "nodeid": "GGB204000325",
+            "nodenm": "위례고운초교",
+            "nodeno": 5312
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4716667,
+            "gpslong": 127.1433667,
+            "nodeid": "GGB204000328",
+            "nodenm": "위례35단지아파트",
+            "nodeno": 5315
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4710833,
+            "gpslong": 127.1416333,
+            "nodeid": "GGB204000240",
+            "nodenm": "성남시위례동행정복지센터.위례보미리즌빌",
+            "nodeno": 5069
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4714,
+            "gpslong": 127.1472167,
+            "nodeid": "GGB204000324",
+            "nodenm": "위례고운초교",
+            "nodeno": 5311
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.47215,
+            "gpslong": 127.1431167,
+            "nodeid": "GGB204000329",
+            "nodenm": "위례35단지아파트",
+            "nodeno": 5316
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4698,
+            "gpslong": 127.1485167,
+            "nodeid": "GGB204000332",
+            "nodenm": "위례새초롱유치원",
+            "nodeno": 5322
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4676167,
+            "gpslong": 127.14055,
+            "nodeid": "GGB204000015",
+            "nodenm": "위례역푸르지오4단지",
+            "nodeno": 5113
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4700167,
+            "gpslong": 127.1486333,
+            "nodeid": "GGB204000333",
+            "nodenm": "위례새초롱유치원",
+            "nodeno": 5323
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4706167,
+            "gpslong": 127.14045,
+            "nodeid": "GGB204000156",
+            "nodenm": "위례자이후문",
+            "nodeno": 5084
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4717667,
+            "gpslong": 127.1408167,
+            "nodeid": "GGB204000010",
+            "nodenm": "위례보미리즌빌",
+            "nodeno": 5317
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4666833,
+            "gpslong": 127.1485833,
+            "nodeid": "GGB204000089",
+            "nodenm": "위례래미안이편한세상.위례한빛중학교",
+            "nodeno": 5296
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4672333,
+            "gpslong": 127.1493333,
+            "nodeid": "GGB204000195",
+            "nodenm": "위례한빛고.이편한세상테라스위례",
+            "nodeno": 5288
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4709333,
+            "gpslong": 127.1394833,
+            "nodeid": "GGB204000238",
+            "nodenm": "위례자이정문",
+            "nodeno": 5309
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4722167,
+            "gpslong": 127.14055,
+            "nodeid": "GGB204000146",
+            "nodenm": "위례센트럴자이정문",
+            "nodeno": 5319
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.46895,
+            "gpslong": 127.1501167,
+            "nodeid": "GGB204000098",
+            "nodenm": "위례평생학습관",
+            "nodeno": 5295
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 20
+    }
+  }
+}

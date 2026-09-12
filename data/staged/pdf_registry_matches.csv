@@ -1,0 +1,127 @@
+﻿pdf_id,filename,sha256,match_type,source_id
+PDF-001,(250131)고양창릉A-4블록신혼희망타운(공공분양)입주자모집공고문.pdf,e9ecf26d9d265a70fb06ab20847c338f10a9bf24ef3dbf6ed58c57c6a251b931,exact_excerpt,SRC-E2-A06
+PDF-003,(251127)남양주왕숙_B-17BL_공공분양_입주자모집공고문.pdf,0f2f8e767b8aaf98df7013e0bdfb1f133a23c7e784c22ac5ab774d071ffa4e37,hash,SRC-U001
+PDF-003,(251127)남양주왕숙_B-17BL_공공분양_입주자모집공고문.pdf,0f2f8e767b8aaf98df7013e0bdfb1f133a23c7e784c22ac5ab774d071ffa4e37,filename,SRC-U001
+PDF-003,(251127)남양주왕숙_B-17BL_공공분양_입주자모집공고문.pdf,0f2f8e767b8aaf98df7013e0bdfb1f133a23c7e784c22ac5ab774d071ffa4e37,exact_excerpt,SRC-U001
+PDF-006,(정정)250424_교산푸르지오더퍼스트_입주자모집공고.pdf,08438e6ac19967e88de5ae5dfe94e8f5bd891efefd0eb07195d96045b0707fa6,hash,SRC-U002
+PDF-006,(정정)250424_교산푸르지오더퍼스트_입주자모집공고.pdf,08438e6ac19967e88de5ae5dfe94e8f5bd891efefd0eb07195d96045b0707fa6,filename,SRC-U002
+PDF-006,(정정)250424_교산푸르지오더퍼스트_입주자모집공고.pdf,08438e6ac19967e88de5ae5dfe94e8f5bd891efefd0eb07195d96045b0707fa6,exact_excerpt,SRC-U002
+PDF-007,"(정정)고양창릉S-5,S-6블록공공분양주택입주자모집공고문.pdf",a65a5c4807f9e93fe2cd6c465ccaaccae2657d5b48db24ded879e80b26468319,exact_excerpt,SRC-E2-A06
+PDF-008,(정정)교산푸르지오더퍼스트_입주자모집공고.pdf,17f890d3468fb4f720c33fa6aefb56dd0eb6cfae7df0b4bd9996a5b6f554de4d,exact_excerpt,SRC-U002
+PDF-009,(정정공고) 다산신도시 자연앤푸르지오 입주자모집 정정공고(A3).pdf,78e1f182e7fd0b7a08ca5d3c27ae6e6d7fda39a6479c6788bce1f18d7d80e999,hash,SRC-H021
+PDF-009,(정정공고) 다산신도시 자연앤푸르지오 입주자모집 정정공고(A3).pdf,78e1f182e7fd0b7a08ca5d3c27ae6e6d7fda39a6479c6788bce1f18d7d80e999,exact_excerpt,SRC-H021
+PDF-010,(정정공고)인천계양A-2블록공공분양입주자모집공고문.pdf,f7202e924988f383730f245784e37a1ec66f0f54d655fb3b8171c45314389195,hash,SRC-E2-A06
+PDF-010,(정정공고)인천계양A-2블록공공분양입주자모집공고문.pdf,f7202e924988f383730f245784e37a1ec66f0f54d655fb3b8171c45314389195,filename,SRC-E2-A06
+PDF-010,(정정공고)인천계양A-2블록공공분양입주자모집공고문.pdf,f7202e924988f383730f245784e37a1ec66f0f54d655fb3b8171c45314389195,exact_excerpt,SRC-E2-A06
+PDF-012,(참고자료)김포양곡_행복주택_사회적기업공간_위치_및_공간현황.pdf,a3c74951c8e5c04931fc3d631c069bf6b22718e2978eb0d577e1941c58393e7f,hash,SRC-H009
+PDF-012,(참고자료)김포양곡_행복주택_사회적기업공간_위치_및_공간현황.pdf,a3c74951c8e5c04931fc3d631c069bf6b22718e2978eb0d577e1941c58393e7f,exact_excerpt,SRC-H009
+PDF-013,(참고자료)김포한강_행복주택_사회적기업공간_위치_및_공간_현황.pdf,e1ebc0fea640403e26a71cfea8ebace74b5da734ea1371ad0713ba9974d0da49,hash,SRC-H010
+PDF-013,(참고자료)김포한강_행복주택_사회적기업공간_위치_및_공간_현황.pdf,e1ebc0fea640403e26a71cfea8ebace74b5da734ea1371ad0713ba9974d0da49,exact_excerpt,SRC-H010
+PDF-014,(최종)250331_교산푸르지오더퍼스트_입주자모집공고.pdf,b247b3e65cb7029821c352a345952c0fb73323ae3462b90b52f5b653dca1a2f5,exact_excerpt,SRC-U002
+PDF-017,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,hash,SRC-E1-B09
+PDF-017,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,hash,SRC-E2-B08
+PDF-017,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,hash,SRC-F015
+PDF-017,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,filename,SRC-E1-B09
+PDF-017,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,filename,SRC-E2-B08
+PDF-017,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,filename,SRC-F015
+PDF-021,210125 (조간)3기 신도시_패스트트랙_교통대책 조기 확정 등으로 신속 공급(공공택지기획과).pdf,894b933a4fc5a46612a01bb5806599544d52a78c702fdf34203d30d7240bac5b,exact_excerpt,SRC-E2-B06
+PDF-021,210125 (조간)3기 신도시_패스트트랙_교통대책 조기 확정 등으로 신속 공급(공공택지기획과).pdf,894b933a4fc5a46612a01bb5806599544d52a78c702fdf34203d30d7240bac5b,exact_excerpt,SRC-E2-B09
+PDF-021,210125 (조간)3기 신도시_패스트트랙_교통대책 조기 확정 등으로 신속 공급(공공택지기획과).pdf,894b933a4fc5a46612a01bb5806599544d52a78c702fdf34203d30d7240bac5b,exact_excerpt,SRC-E2-B10
+PDF-022,210629(15시이후)서부권 2기 신도시 (김포한강_인천검단) 교통개선 대책(광역시설운영과).pdf,f54821ed2da56cc09c6281ab080ed96a84252a1fad9af1fff9c07bb78913eb1f,hash,SRC-E1-B03
+PDF-024,220617(조간)_호매실_동탄2_광역교통_개선을_위해_주민의견_듣는다(광역교통정책과).pdf,ea078d9bb489eb228f003f5675c7825a8b6223f409e3dad8375bcf6a9e780378,hash,SRC-E1-B02
+PDF-024,220617(조간)_호매실_동탄2_광역교통_개선을_위해_주민의견_듣는다(광역교통정책과).pdf,ea078d9bb489eb228f003f5675c7825a8b6223f409e3dad8375bcf6a9e780378,exact_excerpt,SRC-E1-B02
+PDF-026,221111(석간)_수도권_서부지역의_광역교통_확충_등_지역현안_해결_추진(공공택지조사과).pdf,d7e578abba3c7c6fe3592dbebdaef288ee0ace8aeb5d4a35909946668e2838f1,hash,SRC-E1-B04
+PDF-034,260226(동정) 김용석 대광위원장 위례신도시 광역교통개선대책 점검(광역교통정책과).pdf,dbf2922f167bc6ed4a6e634ca45cd33925611b91d3696fffa35e4263bd88d3ad,exact_excerpt,SRC-E1-C06
+PDF-038,bodo_2.pdf,90f107e315964eadde4d306bc9bd50f6b4883562335c9cbb3a6a6c4b486b8c77,hash,SRC-F010
+PDF-038,bodo_2.pdf,90f107e315964eadde4d306bc9bd50f6b4883562335c9cbb3a6a6c4b486b8c77,hash,SRC-F022
+PDF-038,bodo_2.pdf,90f107e315964eadde4d306bc9bd50f6b4883562335c9cbb3a6a6c4b486b8c77,exact_excerpt,SRC-F010
+PDF-038,bodo_2.pdf,90f107e315964eadde4d306bc9bd50f6b4883562335c9cbb3a6a6c4b486b8c77,exact_excerpt,SRC-F022
+PDF-041,2024-01-25_신도시_광역교통_개선_투자계획.pdf,90f107e315964eadde4d306bc9bd50f6b4883562335c9cbb3a6a6c4b486b8c77,hash,SRC-F010
+PDF-041,2024-01-25_신도시_광역교통_개선_투자계획.pdf,90f107e315964eadde4d306bc9bd50f6b4883562335c9cbb3a6a6c4b486b8c77,hash,SRC-F022
+PDF-041,2024-01-25_신도시_광역교통_개선_투자계획.pdf,90f107e315964eadde4d306bc9bd50f6b4883562335c9cbb3a6a6c4b486b8c77,filename,SRC-F010
+PDF-041,2024-01-25_신도시_광역교통_개선_투자계획.pdf,90f107e315964eadde4d306bc9bd50f6b4883562335c9cbb3a6a6c4b486b8c77,filename,SRC-F022
+PDF-041,2024-01-25_신도시_광역교통_개선_투자계획.pdf,90f107e315964eadde4d306bc9bd50f6b4883562335c9cbb3a6a6c4b486b8c77,exact_excerpt,SRC-F010
+PDF-041,2024-01-25_신도시_광역교통_개선_투자계획.pdf,90f107e315964eadde4d306bc9bd50f6b4883562335c9cbb3a6a6c4b486b8c77,exact_excerpt,SRC-F022
+PDF-042,2017_김포양곡_행복주택_지역위치도_교통망도.pdf,a3c74951c8e5c04931fc3d631c069bf6b22718e2978eb0d577e1941c58393e7f,hash,SRC-H009
+PDF-042,2017_김포양곡_행복주택_지역위치도_교통망도.pdf,a3c74951c8e5c04931fc3d631c069bf6b22718e2978eb0d577e1941c58393e7f,filename,SRC-H009
+PDF-042,2017_김포양곡_행복주택_지역위치도_교통망도.pdf,a3c74951c8e5c04931fc3d631c069bf6b22718e2978eb0d577e1941c58393e7f,exact_excerpt,SRC-H009
+PDF-043,2017_김포한강_행복주택_지역위치도_교통망도.pdf,e1ebc0fea640403e26a71cfea8ebace74b5da734ea1371ad0713ba9974d0da49,hash,SRC-H010
+PDF-043,2017_김포한강_행복주택_지역위치도_교통망도.pdf,e1ebc0fea640403e26a71cfea8ebace74b5da734ea1371ad0713ba9974d0da49,filename,SRC-H010
+PDF-043,2017_김포한강_행복주택_지역위치도_교통망도.pdf,e1ebc0fea640403e26a71cfea8ebace74b5da734ea1371ad0713ba9974d0da49,exact_excerpt,SRC-H010
+PDF-046,2025-12_2035년_김포도시기본계획_변경_주요내용.pdf,0fe071799169540ddae02383e3dcd67457b752ddf6d52e1f0881c4811e3aa8c1,hash,SRC-H012
+PDF-046,2025-12_2035년_김포도시기본계획_변경_주요내용.pdf,0fe071799169540ddae02383e3dcd67457b752ddf6d52e1f0881c4811e3aa8c1,filename,SRC-H012
+PDF-046,2025-12_2035년_김포도시기본계획_변경_주요내용.pdf,0fe071799169540ddae02383e3dcd67457b752ddf6d52e1f0881c4811e3aa8c1,exact_excerpt,SRC-H012
+PDF-047,2019_다산신도시_자연_푸르지오_공공분양주택_입주자모집_정정공고.pdf,78e1f182e7fd0b7a08ca5d3c27ae6e6d7fda39a6479c6788bce1f18d7d80e999,hash,SRC-H021
+PDF-047,2019_다산신도시_자연_푸르지오_공공분양주택_입주자모집_정정공고.pdf,78e1f182e7fd0b7a08ca5d3c27ae6e6d7fda39a6479c6788bce1f18d7d80e999,filename,SRC-H021
+PDF-047,2019_다산신도시_자연_푸르지오_공공분양주택_입주자모집_정정공고.pdf,78e1f182e7fd0b7a08ca5d3c27ae6e6d7fda39a6479c6788bce1f18d7d80e999,exact_excerpt,SRC-H021
+PDF-048,2024-01-25_신도시_광역교통_개선_투자계획.pdf,90f107e315964eadde4d306bc9bd50f6b4883562335c9cbb3a6a6c4b486b8c77,hash,SRC-F010
+PDF-048,2024-01-25_신도시_광역교통_개선_투자계획.pdf,90f107e315964eadde4d306bc9bd50f6b4883562335c9cbb3a6a6c4b486b8c77,hash,SRC-F022
+PDF-048,2024-01-25_신도시_광역교통_개선_투자계획.pdf,90f107e315964eadde4d306bc9bd50f6b4883562335c9cbb3a6a6c4b486b8c77,filename,SRC-F010
+PDF-048,2024-01-25_신도시_광역교통_개선_투자계획.pdf,90f107e315964eadde4d306bc9bd50f6b4883562335c9cbb3a6a6c4b486b8c77,filename,SRC-F022
+PDF-048,2024-01-25_신도시_광역교통_개선_투자계획.pdf,90f107e315964eadde4d306bc9bd50f6b4883562335c9cbb3a6a6c4b486b8c77,exact_excerpt,SRC-F010
+PDF-048,2024-01-25_신도시_광역교통_개선_투자계획.pdf,90f107e315964eadde4d306bc9bd50f6b4883562335c9cbb3a6a6c4b486b8c77,exact_excerpt,SRC-F022
+PDF-052,＇25년 상반기 경기행복주택 예비입주자 추가모집 공고.pdf,17e730dc3c2b81cfa2c2e820f79ca45e50b657236b8cb5870235dfbf463083b2,hash,SRC-E1-A08
+PDF-052,＇25년 상반기 경기행복주택 예비입주자 추가모집 공고.pdf,17e730dc3c2b81cfa2c2e820f79ca45e50b657236b8cb5870235dfbf463083b2,filename,SRC-E1-A08
+PDF-053,E1-B01.pdf,ee97d54c55cef1585e0d54df1a891d04e68b3dbdc1c8fcde9b4cbc7ef7087556,hash,SRC-E1-B01
+PDF-053,E1-B01.pdf,ee97d54c55cef1585e0d54df1a891d04e68b3dbdc1c8fcde9b4cbc7ef7087556,filename,SRC-E1-B01
+PDF-053,E1-B01.pdf,ee97d54c55cef1585e0d54df1a891d04e68b3dbdc1c8fcde9b4cbc7ef7087556,exact_excerpt,SRC-H003
+PDF-054,E1-B02.pdf,ea078d9bb489eb228f003f5675c7825a8b6223f409e3dad8375bcf6a9e780378,hash,SRC-E1-B02
+PDF-054,E1-B02.pdf,ea078d9bb489eb228f003f5675c7825a8b6223f409e3dad8375bcf6a9e780378,filename,SRC-E1-B02
+PDF-054,E1-B02.pdf,ea078d9bb489eb228f003f5675c7825a8b6223f409e3dad8375bcf6a9e780378,exact_excerpt,SRC-E1-B02
+PDF-055,E1-B03.pdf,f54821ed2da56cc09c6281ab080ed96a84252a1fad9af1fff9c07bb78913eb1f,hash,SRC-E1-B03
+PDF-055,E1-B03.pdf,f54821ed2da56cc09c6281ab080ed96a84252a1fad9af1fff9c07bb78913eb1f,filename,SRC-E1-B03
+PDF-056,E1-B04.pdf,d7e578abba3c7c6fe3592dbebdaef288ee0ace8aeb5d4a35909946668e2838f1,hash,SRC-E1-B04
+PDF-056,E1-B04.pdf,d7e578abba3c7c6fe3592dbebdaef288ee0ace8aeb5d4a35909946668e2838f1,filename,SRC-E1-B04
+PDF-057,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,hash,SRC-E1-B09
+PDF-057,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,hash,SRC-E2-B08
+PDF-057,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,hash,SRC-F015
+PDF-057,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,filename,SRC-E1-B09
+PDF-057,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,filename,SRC-E2-B08
+PDF-057,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,filename,SRC-F015
+PDF-058,E1-B09.pdf,bc80d2e3ee3dadbec345a636c7840673b07f8bc9da12f3a14d21a33c94ed5d33,hash,SRC-E1-B09
+PDF-058,E1-B09.pdf,bc80d2e3ee3dadbec345a636c7840673b07f8bc9da12f3a14d21a33c94ed5d33,filename,SRC-E1-B09
+PDF-058,E1-B09.pdf,bc80d2e3ee3dadbec345a636c7840673b07f8bc9da12f3a14d21a33c94ed5d33,exact_excerpt,SRC-E1-B09
+PDF-058,E1-B09.pdf,bc80d2e3ee3dadbec345a636c7840673b07f8bc9da12f3a14d21a33c94ed5d33,exact_excerpt,SRC-F015
+PDF-059,(정정공고)인천계양A-2블록공공분양입주자모집공고문.pdf,f7202e924988f383730f245784e37a1ec66f0f54d655fb3b8171c45314389195,hash,SRC-E2-A06
+PDF-059,(정정공고)인천계양A-2블록공공분양입주자모집공고문.pdf,f7202e924988f383730f245784e37a1ec66f0f54d655fb3b8171c45314389195,filename,SRC-E2-A06
+PDF-059,(정정공고)인천계양A-2블록공공분양입주자모집공고문.pdf,f7202e924988f383730f245784e37a1ec66f0f54d655fb3b8171c45314389195,exact_excerpt,SRC-E2-A06
+PDF-060,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,hash,SRC-E1-B09
+PDF-060,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,hash,SRC-E2-B08
+PDF-060,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,hash,SRC-F015
+PDF-060,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,filename,SRC-E1-B09
+PDF-060,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,filename,SRC-E2-B08
+PDF-060,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,filename,SRC-F015
+PDF-061,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,hash,SRC-E1-B09
+PDF-061,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,hash,SRC-E2-B08
+PDF-061,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,hash,SRC-F015
+PDF-061,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,filename,SRC-E1-B09
+PDF-061,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,filename,SRC-E2-B08
+PDF-061,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,filename,SRC-F015
+PDF-062,(251127)남양주왕숙_B-17BL_공공분양_입주자모집공고문.pdf,0f2f8e767b8aaf98df7013e0bdfb1f133a23c7e784c22ac5ab774d071ffa4e37,hash,SRC-U001
+PDF-062,(251127)남양주왕숙_B-17BL_공공분양_입주자모집공고문.pdf,0f2f8e767b8aaf98df7013e0bdfb1f133a23c7e784c22ac5ab774d071ffa4e37,filename,SRC-U001
+PDF-062,(251127)남양주왕숙_B-17BL_공공분양_입주자모집공고문.pdf,0f2f8e767b8aaf98df7013e0bdfb1f133a23c7e784c22ac5ab774d071ffa4e37,exact_excerpt,SRC-U001
+PDF-063,(정정)250424_교산푸르지오더퍼스트_입주자모집공고.pdf,08438e6ac19967e88de5ae5dfe94e8f5bd891efefd0eb07195d96045b0707fa6,hash,SRC-U002
+PDF-063,(정정)250424_교산푸르지오더퍼스트_입주자모집공고.pdf,08438e6ac19967e88de5ae5dfe94e8f5bd891efefd0eb07195d96045b0707fa6,filename,SRC-U002
+PDF-063,(정정)250424_교산푸르지오더퍼스트_입주자모집공고.pdf,08438e6ac19967e88de5ae5dfe94e8f5bd891efefd0eb07195d96045b0707fa6,exact_excerpt,SRC-U002
+PDF-064,E1-B01.pdf,ee97d54c55cef1585e0d54df1a891d04e68b3dbdc1c8fcde9b4cbc7ef7087556,hash,SRC-E1-B01
+PDF-064,E1-B01.pdf,ee97d54c55cef1585e0d54df1a891d04e68b3dbdc1c8fcde9b4cbc7ef7087556,filename,SRC-E1-B01
+PDF-064,E1-B01.pdf,ee97d54c55cef1585e0d54df1a891d04e68b3dbdc1c8fcde9b4cbc7ef7087556,exact_excerpt,SRC-H003
+PDF-065,E1-B02.pdf,ea078d9bb489eb228f003f5675c7825a8b6223f409e3dad8375bcf6a9e780378,hash,SRC-E1-B02
+PDF-065,E1-B02.pdf,ea078d9bb489eb228f003f5675c7825a8b6223f409e3dad8375bcf6a9e780378,filename,SRC-E1-B02
+PDF-065,E1-B02.pdf,ea078d9bb489eb228f003f5675c7825a8b6223f409e3dad8375bcf6a9e780378,exact_excerpt,SRC-E1-B02
+PDF-066,E1-B03.pdf,f54821ed2da56cc09c6281ab080ed96a84252a1fad9af1fff9c07bb78913eb1f,hash,SRC-E1-B03
+PDF-066,E1-B03.pdf,f54821ed2da56cc09c6281ab080ed96a84252a1fad9af1fff9c07bb78913eb1f,filename,SRC-E1-B03
+PDF-067,E1-B04.pdf,d7e578abba3c7c6fe3592dbebdaef288ee0ace8aeb5d4a35909946668e2838f1,hash,SRC-E1-B04
+PDF-067,E1-B04.pdf,d7e578abba3c7c6fe3592dbebdaef288ee0ace8aeb5d4a35909946668e2838f1,filename,SRC-E1-B04
+PDF-068,E1-B09.pdf,bc80d2e3ee3dadbec345a636c7840673b07f8bc9da12f3a14d21a33c94ed5d33,hash,SRC-E1-B09
+PDF-068,E1-B09.pdf,bc80d2e3ee3dadbec345a636c7840673b07f8bc9da12f3a14d21a33c94ed5d33,filename,SRC-E1-B09
+PDF-068,E1-B09.pdf,bc80d2e3ee3dadbec345a636c7840673b07f8bc9da12f3a14d21a33c94ed5d33,exact_excerpt,SRC-E1-B09
+PDF-068,E1-B09.pdf,bc80d2e3ee3dadbec345a636c7840673b07f8bc9da12f3a14d21a33c94ed5d33,exact_excerpt,SRC-F015
+PDF-086,민생토론회(교통) _ 국토교통부.pdf,8f0fe3faf922f11b696f2037df4e39f81f0469ee14c22ff396095a3bede4965c,exact_excerpt,SRC-F016
+PDF-093,송파구청 - 분야별정보 - 주택_도시 - 교통대책 - 위례신도시 광역교통 개선대책.pdf,7e77caac8ab8aadaad63f26fe2d9c7bb2754b437be598bcb82795b95a75c5d21,exact_excerpt,SRC-E1-B06
+PDF-100,제259회 제1차 본회의(2011.05.03. 화요일) _ 경기도의회 회의록 _ 경기도의회.pdf,a7dd2379b5b5c8ef62f841f11759dc858b2f3a120b4f0f27f9ff50b737a17289,exact_excerpt,SRC-H008
+PDF-101,제312회 제2차 기획재정위원회(2016.07.18. 월요일) _ 경기도의회 회의록 _ 경기도의회.pdf,662cae34a3c8e14374c392303378b0ba439c99f3c2adc01123332b85f12a931f,exact_excerpt,SRC-H019
+PDF-111,화성 동탄신도시∼김포공항 버스 노선 내달 1일부터 운행 _ 연합뉴스.pdf,e8f57f80285b5bdd4a7c065b26e86816a49adf47b0621eb892b91b0ed574c58a,exact_excerpt,SRC-E1-C01
+PDF-111,화성 동탄신도시∼김포공항 버스 노선 내달 1일부터 운행 _ 연합뉴스.pdf,e8f57f80285b5bdd4a7c065b26e86816a49adf47b0621eb892b91b0ed574c58a,exact_excerpt,SRC-E1-C04
+PDF-112,＇25년 상반기 경기행복주택 예비입주자 추가모집 공고.pdf,17e730dc3c2b81cfa2c2e820f79ca45e50b657236b8cb5870235dfbf463083b2,hash,SRC-E1-A08
+PDF-112,＇25년 상반기 경기행복주택 예비입주자 추가모집 공고.pdf,17e730dc3c2b81cfa2c2e820f79ca45e50b657236b8cb5870235dfbf463083b2,filename,SRC-E1-A08

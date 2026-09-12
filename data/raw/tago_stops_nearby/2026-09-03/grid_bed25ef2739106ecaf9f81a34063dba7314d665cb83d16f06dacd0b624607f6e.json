@@ -1,0 +1,41 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2029667,
+            "gpslong": 127.1295333,
+            "nodeid": "GGB233000971",
+            "nodenm": "일진정공",
+            "nodeno": 36500
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2030667,
+            "gpslong": 127.1290833,
+            "nodeid": "GGB233000972",
+            "nodenm": "일진정공",
+            "nodeno": 36499
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2021833,
+            "gpslong": 127.1256667,
+            "nodeid": "GGB233002426",
+            "nodenm": "치동천힐링마을",
+            "nodeno": 55302
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 3
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2048667,
+            "gpslong": 127.09085,
+            "nodeid": "GGB233003120",
+            "nodenm": "반도유보라6차",
+            "nodeno": 55516
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2045833,
+            "gpslong": 127.091,
+            "nodeid": "GGB233003121",
+            "nodenm": "반도유보라6차",
+            "nodeno": 55517
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2037167,
+            "gpslong": 127.0925333,
+            "nodeid": "GGB233001629",
+            "nodenm": "반도유보라6차",
+            "nodeno": 55492
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2023333,
+            "gpslong": 127.0870833,
+            "nodeid": "GGB233003240",
+            "nodenm": "동탄여울공원",
+            "nodeno": 55989
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2039167,
+            "gpslong": 127.0930333,
+            "nodeid": "GGB233001631",
+            "nodenm": "반도유보라6차",
+            "nodeno": 55493
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2020667,
+            "gpslong": 127.0869833,
+            "nodeid": "GGB233003239",
+            "nodenm": "동탄여울공원",
+            "nodeno": 55988
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2015667,
+            "gpslong": 127.09035,
+            "nodeid": "GGB233003210",
+            "nodenm": "반도유보라.삼정그린코아",
+            "nodeno": 55968
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.208,
+            "gpslong": 127.09255,
+            "nodeid": "GGB233001635",
+            "nodenm": "치동초등학교",
+            "nodeno": 55496
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2051833,
+            "gpslong": 127.0838833,
+            "nodeid": "GGB277104956",
+            "nodenm": "삼성1로진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2013333,
+            "gpslong": 127.0904,
+            "nodeid": "GGB233003211",
+            "nodenm": "반도유보라.삼정그린코아",
+            "nodeno": 55969
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2079333,
+            "gpslong": 127.0930333,
+            "nodeid": "GGB233001636",
+            "nodenm": "치동초등학교",
+            "nodeno": 37672
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2092,
+            "gpslong": 127.0869667,
+            "nodeid": "GGB233003207",
+            "nodenm": "경기남부직업능력개발원",
+            "nodeno": 55967
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2051,
+            "gpslong": 127.0836,
+            "nodeid": "GGB277104957",
+            "nodenm": "동탄원천로진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2018667,
+            "gpslong": 127.0925167,
+            "nodeid": "GGB233002294",
+            "nodenm": "반도8차",
+            "nodeno": 37134
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.20955,
+            "gpslong": 127.08725,
+            "nodeid": "GGB233002493",
+            "nodenm": "경기남부직업능력개발원",
+            "nodeno": 55937
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 15
+    }
+  }
+}

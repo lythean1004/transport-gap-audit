@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6453,
+            "gpslong": 126.6836,
+            "nodeid": "GGB232000743",
+            "nodenm": "전원마을1단지.김포한강롯데캐슬",
+            "nodeno": 35577
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6454667,
+            "gpslong": 126.6836167,
+            "nodeid": "GGB232000744",
+            "nodenm": "전원마을1단지.김포한강롯데캐슬",
+            "nodeno": 35578
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.643911,
+            "gpslong": 126.681462,
+            "nodeid": "ICB232000422",
+            "nodenm": "전원마을.김포한강롯데캐슬",
+            "nodeno": 35210
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6439167,
+            "gpslong": 126.68145,
+            "nodeid": "GGB232000422",
+            "nodenm": "전원마을.김포한강롯데캐슬",
+            "nodeno": 35210
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.643041,
+            "gpslong": 126.681729,
+            "nodeid": "ICB232000366",
+            "nodenm": "장기사거리.수정마을",
+            "nodeno": 35211
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6430167,
+            "gpslong": 126.6817,
+            "nodeid": "GGB232000366",
+            "nodenm": "장기사거리.수정마을",
+            "nodeno": 35211
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6444333,
+            "gpslong": 126.6882833,
+            "nodeid": "GGB232000746",
+            "nodenm": "전원마을3단지.KCC스위첸",
+            "nodeno": 35584
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6442833,
+            "gpslong": 126.6883333,
+            "nodeid": "GGB232000745",
+            "nodenm": "전원마을3단지.KCC스위첸",
+            "nodeno": 35579
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64605,
+            "gpslong": 126.6806167,
+            "nodeid": "GGB232000754",
+            "nodenm": "전원마을4단지",
+            "nodeno": 35666
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6462333,
+            "gpslong": 126.6806167,
+            "nodeid": "GGB232000755",
+            "nodenm": "전원마을4단지",
+            "nodeno": 35667
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

@@ -1,0 +1,82 @@
+========================================================================
+Day 3 게이트 판정 (과거 5곳)
+========================================================================
+
+[화성 동탄2]
+  G1: SRC-H001 verified=True precision=day ✓
+  G2: ['SRC-H002', 'SRC-H003'] verified with target/plan ✓
+  G3: SRC-H005 verified ✓
+  G4: line=GTX-A 수서~동탄 mode(rail/rail) 일치 ✓
+  G5: 전 관련행 excerpt/sim/page 통과 ✓
+  G6: commitment_version 지정 완료 ({'SRC-H002': 'v1', 'SRC-H003': 'latest'}) ✓
+  G7: 캐논 페어 내 dup/rejected 0건 ✓
+  → G1~G7: {'G1': 'PASS', 'G2': 'PASS', 'G3': 'PASS', 'G4': 'PASS', 'G5': 'PASS', 'G6': 'PASS', 'G7': 'PASS'}
+  → 종합: PASS
+
+[김포 한강]
+  G1: SRC-H007 verified=True precision=day ✓
+  G2: ['SRC-H010', 'SRC-H010'] verified with target/plan ✓
+  G3: SRC-H011 verified ✓
+  G4: line=김포도시철도(김포골드라인) mode(rail/rail) 일치 ✓
+  G5: 전 관련행 excerpt/sim/page 통과 ✓
+  G6: commitment_version 지정 완료 ({'SRC-H010': 'latest'}) ✓
+  G7: 캐논 페어 내 dup/rejected 0건 ✓
+  → G1~G7: {'G1': 'PASS', 'G2': 'PASS', 'G3': 'PASS', 'G4': 'PASS', 'G5': 'PASS', 'G6': 'PASS', 'G7': 'PASS'}
+  → 종합: PASS
+
+[위례]
+  G1: SRC-H013 verified=True precision=month ✓
+  G2: ['SRC-E1-B06', 'SRC-E1-C05', 'SRC-E1-C06'] verified with target/plan ✓
+  G3: censored=TRUE, as_of=2026-09-02, evidence=SRC-E1-C06 verified ✓
+  G4: censored - promise 라인 자기일치 ✓
+  G5: 전 관련행 excerpt/sim/page 통과 ✓
+  G6: commitment_version 지정 완료 ({'SRC-E1-B06': 'v1', 'SRC-E1-C05': 'v2', 'SRC-E1-C06': 'latest'}) ✓
+  G7: 캐논 페어 내 dup/rejected 0건 ✓
+  → G1~G7: {'G1': 'PASS', 'G2': 'PASS', 'G3': 'PASS (censored)', 'G4': 'PASS', 'G5': 'PASS', 'G6': 'PASS', 'G7': 'PASS'}
+  → 종합: PASS
+
+[남양주 다산]
+  G1: SRC-H020 data_gap=TRUE (contradiction: 실제 2017-12-29 진건 B8, 대책일 2018-02-12만 문서화)
+  G2: ['SRC-H021', 'SRC-H022'] verified with target/plan ✓
+  G3: SRC-H024 verified ✓
+  G4: line=별내선(8호선 연장) mode(rail/rail) 일치 ✓
+  G5: 전 관련행 excerpt/sim/page 통과 ✓
+  G6: commitment_version 지정 완료 ({'SRC-H021': 'v1', 'SRC-H022': 'latest'}) ✓
+  G7: 캐논 페어 내 dup/rejected 0건 ✓
+  → G1~G7: {'G1': 'DATA_GAP', 'G2': 'PASS', 'G3': 'PASS', 'G4': 'PASS', 'G5': 'PASS', 'G6': 'PASS', 'G7': 'PASS'}
+  → 종합: DATA_GAP (G1 예외 허용)
+
+[하남 미사]
+  G1: SRC-H025 verified=True precision=day ✓
+  G2: ['SRC-H027', 'SRC-H028'] verified with target/plan ✓
+  G3: SRC-H029 verified ✓
+  G4: line=하남선(5호선 연장) mode(rail/rail) 일치 ✓
+  G5: 전 관련행 excerpt/sim/page 통과 ✓
+  G6: commitment_version 지정 완료 ({'SRC-H027': 'v1', 'SRC-H028': 'latest'}) ✓
+  G7: 캐논 페어 내 dup/rejected 0건 ✓
+  → G1~G7: {'G1': 'PASS', 'G2': 'PASS', 'G3': 'PASS', 'G4': 'PASS', 'G5': 'PASS', 'G6': 'PASS', 'G7': 'PASS'}
+  → 종합: PASS
+
+========================================================================
+Day 3 전방 5곳 라벨 (target_undated/at_risk/on_track_if_delivered)
+========================================================================
+
+[인천 계양] → target_undated
+  first_planned: SRC-F001 verified=True
+  reason: S-BRT 목표일 문서 부재 = 데이터 공백 자체가 발견
+
+[남양주 왕숙] → at_risk
+  first_planned: SRC-F007 verified=True
+  reason: 목표 2028-12-31 상한 > 입주 2028-08-31 (약속 후행)
+
+[하남 교산] → on_track_if_delivered
+  first_planned: SRC-F013 verified=True
+  reason: 목표 2028-12 ≤ 입주 2029-06 (정상순서)
+
+[고양 창릉] → target_undated
+  first_planned: SRC-F019 verified=True
+  reason: 고양은평선 목표일 미확정
+
+[부천 대장] → target_undated
+  first_planned: SRC-F025 verified=True
+  reason: 계양~대장 S-BRT 목표일 미확정

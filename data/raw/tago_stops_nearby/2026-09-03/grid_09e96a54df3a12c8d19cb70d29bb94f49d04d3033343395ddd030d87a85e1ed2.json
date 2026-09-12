@@ -1,0 +1,209 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6442833,
+            "gpslong": 126.66235,
+            "nodeid": "GGB232000876",
+            "nodenm": "한양수자인",
+            "nodeno": 35823
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6424,
+            "gpslong": 126.6657,
+            "nodeid": "GGB232000576",
+            "nodenm": "장기초등학교",
+            "nodeno": 35525
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6448167,
+            "gpslong": 126.6617833,
+            "nodeid": "GGB232000627",
+            "nodenm": "고창마을KCC아파트",
+            "nodeno": 35573
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6424,
+            "gpslong": 126.6661167,
+            "nodeid": "GGB232000585",
+            "nodenm": "장기초등학교",
+            "nodeno": 35534
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6417833,
+            "gpslong": 126.6604167,
+            "nodeid": "GGB232000546",
+            "nodenm": "뉴고려병원.이니스더원",
+            "nodeno": 35493
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6453,
+            "gpslong": 126.6604833,
+            "nodeid": "GGB232000875",
+            "nodenm": "호반베르디움앞",
+            "nodeno": 35822
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6414333,
+            "gpslong": 126.6602833,
+            "nodeid": "GGB232000545",
+            "nodenm": "뉴고려병원",
+            "nodeno": 35509
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6428,
+            "gpslong": 126.6677167,
+            "nodeid": "GGB232000554",
+            "nodenm": "장기역.신영아파트",
+            "nodeno": 35501
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6401667,
+            "gpslong": 126.6625,
+            "nodeid": "GGB232000547",
+            "nodenm": "타운하우스",
+            "nodeno": 35506
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64045,
+            "gpslong": 126.6657333,
+            "nodeid": "GGB232000550",
+            "nodenm": "반도유보라.우미린아파트",
+            "nodeno": 35503
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6399667,
+            "gpslong": 126.66365,
+            "nodeid": "GGB232000548",
+            "nodenm": "고창마을.반도유보라후문",
+            "nodeno": 35504
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6465333,
+            "gpslong": 126.6647833,
+            "nodeid": "GGB232000440",
+            "nodenm": "은혜와진리교회",
+            "nodeno": 35465
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6445833,
+            "gpslong": 126.66765,
+            "nodeid": "GGB232000540",
+            "nodenm": "장기역.김포고용복지플러스센터",
+            "nodeno": 35513
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6426333,
+            "gpslong": 126.6679667,
+            "nodeid": "GGB232000553",
+            "nodenm": "장기역.주공아파트",
+            "nodeno": 35505
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6403,
+            "gpslong": 126.6659,
+            "nodeid": "GGB232000549",
+            "nodenm": "우미린.반도유보라아파트",
+            "nodeno": 35494
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6449,
+            "gpslong": 126.6678167,
+            "nodeid": "GGB232000541",
+            "nodenm": "장기역.김포고용복지플러스센터",
+            "nodeno": 35508
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.647086,
+            "gpslong": 126.663865,
+            "nodeid": "ICB232000708",
+            "nodenm": "청송마을.성우오스타",
+            "nodeno": 80329
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6471,
+            "gpslong": 126.6637167,
+            "nodeid": "GGB232000708",
+            "nodenm": "청송마을.성우오스타",
+            "nodeno": 35193
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6471167,
+            "gpslong": 126.6631167,
+            "nodeid": "GGB232000709",
+            "nodenm": "고창마을.KCC",
+            "nodeno": 35194
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.647234,
+            "gpslong": 126.662967,
+            "nodeid": "ICB232000709",
+            "nodenm": "고창마을.KCC",
+            "nodeno": 80328
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6471333,
+            "gpslong": 126.6615667,
+            "nodeid": "GGB232000676",
+            "nodenm": "운유초교",
+            "nodeno": 35760
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63915,
+            "gpslong": 126.6644667,
+            "nodeid": "GGB277102420",
+            "nodenm": "뉴고려병원(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6409,
+            "gpslong": 126.6683833,
+            "nodeid": "GGB232000577",
+            "nodenm": "장기고등학교",
+            "nodeno": 35526
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64105,
+            "gpslong": 126.6685667,
+            "nodeid": "GGB232000594",
+            "nodenm": "장기고등학교",
+            "nodeno": 35536
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 24
+    }
+  }
+}

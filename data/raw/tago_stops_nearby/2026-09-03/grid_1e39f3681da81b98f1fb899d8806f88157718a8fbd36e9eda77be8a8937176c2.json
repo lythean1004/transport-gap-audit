@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1742,
+            "gpslong": 127.1260833,
+            "nodeid": "GGB233000333",
+            "nodenm": "디루체",
+            "nodeno": 55804
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1738833,
+            "gpslong": 127.12575,
+            "nodeid": "GGB233000332",
+            "nodenm": "디루체",
+            "nodeno": 55803
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

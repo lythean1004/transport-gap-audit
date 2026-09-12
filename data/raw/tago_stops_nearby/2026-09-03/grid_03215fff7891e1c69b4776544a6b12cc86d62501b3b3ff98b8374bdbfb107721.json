@@ -1,0 +1,113 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1795667,
+            "gpslong": 127.11455,
+            "nodeid": "GGB233000125",
+            "nodenm": "호반베르디움3차",
+            "nodeno": 55401
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1796167,
+            "gpslong": 127.1188833,
+            "nodeid": "GGB233002373",
+            "nodenm": "호반3차.창의고",
+            "nodeno": 55444
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1794,
+            "gpslong": 127.1141,
+            "nodeid": "GGB233000126",
+            "nodenm": "호반베르디움3차",
+            "nodeno": 55402
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1797333,
+            "gpslong": 127.1197,
+            "nodeid": "GGB233002006",
+            "nodenm": "호반3차.창의고",
+            "nodeno": 55445
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1833833,
+            "gpslong": 127.11545,
+            "nodeid": "GGB233001785",
+            "nodenm": "의료복합",
+            "nodeno": 55506
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.17685,
+            "gpslong": 127.1148833,
+            "nodeid": "GGB233003046",
+            "nodenm": "금강펜테리움2차",
+            "nodeno": 55577
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1767,
+            "gpslong": 127.11475,
+            "nodeid": "GGB233003047",
+            "nodenm": "금강펜테리움2차",
+            "nodeno": 55578
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1829,
+            "gpslong": 127.1204833,
+            "nodeid": "GGB233000184",
+            "nodenm": "힐스테이트동탄",
+            "nodeno": 55704
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1804,
+            "gpslong": 127.1114167,
+            "nodeid": "GGB233002289",
+            "nodenm": "왕배초.금강1차",
+            "nodeno": 37112
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1836333,
+            "gpslong": 127.1133,
+            "nodeid": "GGB233001861",
+            "nodenm": "의료복합",
+            "nodeno": 55511
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1802667,
+            "gpslong": 127.1112667,
+            "nodeid": "GGB233001900",
+            "nodenm": "금강1차.왕배초",
+            "nodeno": 37072
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1831333,
+            "gpslong": 127.1207167,
+            "nodeid": "GGB233002057",
+            "nodenm": "힐스테이트동탄",
+            "nodeno": 55027
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 12
+    }
+  }
+}

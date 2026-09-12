@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6346333,
+            "gpslong": 126.6752,
+            "nodeid": "GGB232000818",
+            "nodenm": "한강센트럴자이",
+            "nodeno": 35730
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63495,
+            "gpslong": 126.6750167,
+            "nodeid": "GGB232000631",
+            "nodenm": "한강센트럴자이",
+            "nodeno": 35603
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6357833,
+            "gpslong": 126.6789833,
+            "nodeid": "GGB232000490",
+            "nodenm": "금빛초등학교",
+            "nodeno": 35402
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6359667,
+            "gpslong": 126.6796,
+            "nodeid": "GGB232000632",
+            "nodenm": "금빛초등학교",
+            "nodeno": 35604
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

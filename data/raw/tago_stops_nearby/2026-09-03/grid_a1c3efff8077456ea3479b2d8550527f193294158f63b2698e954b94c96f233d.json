@@ -1,0 +1,113 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.15505,
+            "gpslong": 127.1179333,
+            "nodeid": "GGB233000168",
+            "nodenm": "장지동농협",
+            "nodeno": 36808
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.15575,
+            "gpslong": 127.1153667,
+            "nodeid": "GGB233000167",
+            "nodenm": "장지동",
+            "nodeno": 36809
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1556333,
+            "gpslong": 127.11535,
+            "nodeid": "GGB233001320",
+            "nodenm": "장지동",
+            "nodeno": 37508
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1588,
+            "gpslong": 127.1155,
+            "nodeid": "GGB233002531",
+            "nodenm": "서연초",
+            "nodeno": 55938
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1594667,
+            "gpslong": 127.1161,
+            "nodeid": "GGB233002584",
+            "nodenm": "서연초",
+            "nodeno": 55939
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1570667,
+            "gpslong": 127.1126833,
+            "nodeid": "GGB233003165",
+            "nodenm": "호반6차",
+            "nodeno": 55562
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1538333,
+            "gpslong": 127.1210833,
+            "nodeid": "GGB277104803",
+            "nodenm": "장지IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1572333,
+            "gpslong": 127.1125167,
+            "nodeid": "GGB233003129",
+            "nodenm": "호반6차",
+            "nodeno": 55525
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1534667,
+            "gpslong": 127.1211667,
+            "nodeid": "GGB277104804",
+            "nodenm": "장지IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1534333,
+            "gpslong": 127.1213333,
+            "nodeid": "GGB277104805",
+            "nodenm": "장지IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1591667,
+            "gpslong": 127.1131333,
+            "nodeid": "GGB233002290",
+            "nodenm": "제일풍경체.서연초",
+            "nodeno": 37091
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1600333,
+            "gpslong": 127.1200333,
+            "nodeid": "GGB233003135",
+            "nodenm": "동탄2아이파크2단지",
+            "nodeno": 55531
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 12
+    }
+  }
+}

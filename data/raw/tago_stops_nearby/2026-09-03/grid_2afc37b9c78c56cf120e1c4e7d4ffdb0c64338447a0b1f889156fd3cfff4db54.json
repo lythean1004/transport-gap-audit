@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6158667,
+            "gpslong": 127.1508833,
+            "nodeid": "GGB222000209",
+            "nodenm": "현대프리미엄아울렛.빙그레",
+            "nodeno": 49880
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6154333,
+            "gpslong": 127.1508167,
+            "nodeid": "GGB222000208",
+            "nodenm": "빙그레.현대프리미엄아울렛",
+            "nodeno": 49879
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6203333,
+            "gpslong": 127.1478167,
+            "nodeid": "GGB222000911",
+            "nodenm": "한양수자인2차",
+            "nodeno": 49804
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6181167,
+            "gpslong": 127.1434667,
+            "nodeid": "GGB221000236",
+            "nodenm": "인창해모로아파트후문",
+            "nodeno": 22225
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62035,
+            "gpslong": 127.1497,
+            "nodeid": "GGB222001918",
+            "nodenm": "다산가람초교.벧엘교회",
+            "nodeno": 49788
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6178,
+            "gpslong": 127.1430333,
+            "nodeid": "GGB221000321",
+            "nodenm": "인창해모로아파트후문.농협하나로마트",
+            "nodeno": 22256
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

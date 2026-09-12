@@ -1,0 +1,145 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.53305,
+            "gpslong": 127.1978167,
+            "nodeid": "GGB227000600",
+            "nodenm": "한솔리치빌.그린나래아파트",
+            "nodeno": 28407
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5321167,
+            "gpslong": 127.1960667,
+            "nodeid": "GGB277102518",
+            "nodenm": "하남JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5322,
+            "gpslong": 127.1957667,
+            "nodeid": "GGB277103275",
+            "nodenm": "하남JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5337333,
+            "gpslong": 127.1970667,
+            "nodeid": "GGB227000016",
+            "nodenm": "한솔리치빌1.5단지",
+            "nodeno": 28045
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.53345,
+            "gpslong": 127.1983167,
+            "nodeid": "GGB227000693",
+            "nodenm": "한솔리치빌5단지.그린나래아파트",
+            "nodeno": 28540
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5335333,
+            "gpslong": 127.1985167,
+            "nodeid": "GGB227000692",
+            "nodenm": "한솔리치빌5단지.그린나래아파트",
+            "nodeno": 28539
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5340167,
+            "gpslong": 127.1971,
+            "nodeid": "GGB227000008",
+            "nodenm": "한솔리치빌1.5단지",
+            "nodeno": 28041
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5310667,
+            "gpslong": 127.19505,
+            "nodeid": "GGB277103274",
+            "nodenm": "하남JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5320667,
+            "gpslong": 127.2002167,
+            "nodeid": "GGB227000015",
+            "nodenm": "덕풍쌍용아파트",
+            "nodeno": 28059
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.53225,
+            "gpslong": 127.20035,
+            "nodeid": "GGB227000160",
+            "nodenm": "덕풍쌍용아파트",
+            "nodeno": 28181
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.53495,
+            "gpslong": 127.1961167,
+            "nodeid": "GGB227000017",
+            "nodenm": "한솔리치빌2.3단지",
+            "nodeno": 28038
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5354,
+            "gpslong": 127.19605,
+            "nodeid": "GGB227000007",
+            "nodenm": "한솔리치빌2.3단지",
+            "nodeno": 28037
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5353,
+            "gpslong": 127.1989,
+            "nodeid": "GGB227000695",
+            "nodenm": "덕풍1동행정복지센터",
+            "nodeno": 28542
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5356333,
+            "gpslong": 127.19935,
+            "nodeid": "GGB227000694",
+            "nodenm": "덕풍1동행정복지센터",
+            "nodeno": 28541
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5327667,
+            "gpslong": 127.2022333,
+            "nodeid": "GGB227000099",
+            "nodenm": "덕풍현대아파트",
+            "nodeno": 28065
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5331167,
+            "gpslong": 127.2022167,
+            "nodeid": "GGB227000122",
+            "nodenm": "덕풍현대아파트",
+            "nodeno": 28066
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 16
+    }
+  }
+}

@@ -1,0 +1,163 @@
+[
+  {
+    "file": "ACCESS-LINK_Antigravity_Starter.zip",
+    "bytes": 12736,
+    "role": "prior_reference",
+    "members": [
+      ".agents/skills/",
+      ".agents/rules/project.md",
+      ".agents/skills/access-link-pipeline/SKILL.md",
+      "config/sources.yaml",
+      "metadata/data_catalog.csv",
+      "metadata/license_log.csv",
+      "prompts/01_discovery.md",
+      "prompts/02_pilot.md",
+      "prompts/03_pipeline.md",
+      "prompts/04_validation.md",
+      "prompts/05_report.md",
+      "sql/001_schema.sql",
+      ".env.example",
+      ".gitignore",
+      "README.md",
+      "requirements.txt"
+    ]
+  },
+  {
+    "file": "Antigravity 프롬프트.docx",
+    "bytes": 47336,
+    "role": "prior_reference",
+    "paragraphs": 632,
+    "tables": 1,
+    "secret_flags": 0
+  },
+  {
+    "file": "genspark와 검증한내용.docx",
+    "bytes": 21405,
+    "role": "prior_reference",
+    "paragraphs": 265,
+    "tables": 0,
+    "secret_flags": 0
+  },
+  {
+    "file": "review_queue_v01.csv",
+    "bytes": 132876,
+    "role": "prior_reference"
+  },
+  {
+    "file": "source_registry_v01.csv",
+    "bytes": 190960,
+    "role": "prior_reference"
+  },
+  {
+    "file": "교통데이터공모전_180개_재평가.xlsx",
+    "bytes": 43333,
+    "role": "prior_reference",
+    "sheets": [
+      {
+        "name": "요약",
+        "rows": null,
+        "cols": null
+      },
+      {
+        "name": "180개 재평가",
+        "rows": null,
+        "cols": null
+      },
+      {
+        "name": "혁신안 6개",
+        "rows": null,
+        "cols": null
+      },
+      {
+        "name": "선행사례 근거",
+        "rows": null,
+        "cols": null
+      },
+      {
+        "name": "루브릭",
+        "rows": null,
+        "cols": null
+      },
+      {
+        "name": "DB 설계",
+        "rows": null,
+        "cols": null
+      }
+    ]
+  },
+  {
+    "file": "교통데이터공모전_분석보고서_초안.docx",
+    "bytes": 86097,
+    "role": "prior_reference",
+    "paragraphs": 54,
+    "tables": 8,
+    "secret_flags": 0
+  },
+  {
+    "file": "교통데이터공모전_아이디어재평가_및_실행전략.docx",
+    "bytes": 118168,
+    "role": "prior_reference",
+    "paragraphs": 119,
+    "tables": 17,
+    "secret_flags": 0
+  },
+  {
+    "file": "교통데이터공모전_참가신청서_작성본.docx",
+    "bytes": 36087,
+    "role": "private_admin_excluded",
+    "paragraphs": 24,
+    "tables": 5,
+    "secret_flags": 0
+  },
+  {
+    "file": "데이터관리.txt",
+    "bytes": 3544,
+    "role": "private_admin_excluded"
+  },
+  {
+    "file": "박도현-국문-재학증명서-202608211735.pdf",
+    "bytes": 372903,
+    "role": "private_admin_excluded"
+  },
+  {
+    "file": "붙임1-참가신청서최종.hwp",
+    "bytes": 114688,
+    "role": "private_admin_excluded"
+  },
+  {
+    "file": "붙임1-참가신청서최종_박도현.hwp",
+    "bytes": 49152,
+    "role": "private_admin_excluded"
+  },
+  {
+    "file": "붙임1-참가신청서최종_박도현.hwp.pdf",
+    "bytes": 177949,
+    "role": "private_admin_excluded"
+  },
+  {
+    "file": "붙임1-참가신청서최종_박도현.hwp_서명됨.pdf",
+    "bytes": 616443,
+    "role": "private_admin_excluded"
+  },
+  {
+    "file": "붙임2-분석보고서최종.hwp",
+    "bytes": 104960,
+    "role": "prior_reference"
+  },
+  {
+    "file": "선교통_약속감사_Antigravity_실행가이드.docx",
+    "bytes": 99716,
+    "role": "prior_reference",
+    "paragraphs": 511,
+    "tables": 17,
+    "secret_flags": 1
+  },
+  {
+    "file": "한국수산회 게시글 아이디어 30개 검토 요청.docx",
+    "bytes": 88896,
+    "role": "prior_reference",
+    "paragraphs": 325,
+    "tables": 18,
+    "secret_flags": 0
+  }
+]

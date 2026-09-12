@@ -1,0 +1,209 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5389333,
+            "gpslong": 127.2051333,
+            "nodeid": "GGB227000124",
+            "nodenm": "신장시장.GS마트.새마을금고",
+            "nodeno": 28079
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5393833,
+            "gpslong": 127.20565,
+            "nodeid": "GGB227000096",
+            "nodenm": "신장시장.GS마트",
+            "nodeno": 28080
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5378667,
+            "gpslong": 127.2051667,
+            "nodeid": "GGB227000147",
+            "nodenm": "신장사거리.신장시장",
+            "nodeno": 28077
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5381833,
+            "gpslong": 127.20395,
+            "nodeid": "GGB227000021",
+            "nodenm": "신장사거리.신장시장",
+            "nodeno": 28073
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5373333,
+            "gpslong": 127.2043833,
+            "nodeid": "GGB227000097",
+            "nodenm": "벽산아파트",
+            "nodeno": 28202
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5402667,
+            "gpslong": 127.2060833,
+            "nodeid": "GGB227000125",
+            "nodenm": "하남시청역.진모루현대아파트",
+            "nodeno": 28082
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5404333,
+            "gpslong": 127.2064167,
+            "nodeid": "GGB227000095",
+            "nodenm": "하남시청역.진모루현대아파트",
+            "nodeno": 28083
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5367,
+            "gpslong": 127.2039833,
+            "nodeid": "GGB227000384",
+            "nodenm": "남한고정문",
+            "nodeno": 28618
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5397667,
+            "gpslong": 127.2018333,
+            "nodeid": "GGB227000146",
+            "nodenm": "덕풍시장.하남우체국.KT하남지사",
+            "nodeno": 28063
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5361667,
+            "gpslong": 127.2038,
+            "nodeid": "GGB227000123",
+            "nodenm": "동부중.남한고",
+            "nodeno": 28071
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5367833,
+            "gpslong": 127.2077167,
+            "nodeid": "GGB227000020",
+            "nodenm": "동부주유소",
+            "nodeno": 28085
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5356167,
+            "gpslong": 127.2039833,
+            "nodeid": "GGB227000098",
+            "nodenm": "동부중.남한고",
+            "nodeno": 28072
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5366167,
+            "gpslong": 127.2083333,
+            "nodeid": "GGB227000148",
+            "nodenm": "동부주유소",
+            "nodeno": 28086
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54085,
+            "gpslong": 127.2087667,
+            "nodeid": "GGB227000244",
+            "nodenm": "장지마을(중)",
+            "nodeno": 28279
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5403167,
+            "gpslong": 127.2092833,
+            "nodeid": "GGB227000138",
+            "nodenm": "장지마을",
+            "nodeno": 28087
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5424667,
+            "gpslong": 127.2052333,
+            "nodeid": "GGB227000246",
+            "nodenm": "하남시청역.덕풍시장(중)",
+            "nodeno": 28280
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54045,
+            "gpslong": 127.2093,
+            "nodeid": "GGB227000245",
+            "nodenm": "장지마을(중)",
+            "nodeno": 28274
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5404833,
+            "gpslong": 127.2096667,
+            "nodeid": "GGB227000033",
+            "nodenm": "장지마을앞",
+            "nodeno": 28089
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5427667,
+            "gpslong": 127.2042833,
+            "nodeid": "GGB227000139",
+            "nodenm": "하남시청역.덕풍시장",
+            "nodeno": 28076
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54055,
+            "gpslong": 127.20045,
+            "nodeid": "GGB227000022",
+            "nodenm": "하남우체국.덕풍시장",
+            "nodeno": 28060
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5430333,
+            "gpslong": 127.2045167,
+            "nodeid": "GGB227000031",
+            "nodenm": "하남시청역.덕풍시장",
+            "nodeno": 28075
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5371667,
+            "gpslong": 127.2000333,
+            "nodeid": "GGB227000696",
+            "nodenm": "덕풍공원.제1공영주차장",
+            "nodeno": 28543
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5430333,
+            "gpslong": 127.2042333,
+            "nodeid": "GGB227000247",
+            "nodenm": "하남시청역.덕풍시장(중)",
+            "nodeno": 28275
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5370833,
+            "gpslong": 127.1999833,
+            "nodeid": "GGB227000697",
+            "nodenm": "덕풍공원.제1공영주차장",
+            "nodeno": 28544
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 24
+    }
+  }
+}

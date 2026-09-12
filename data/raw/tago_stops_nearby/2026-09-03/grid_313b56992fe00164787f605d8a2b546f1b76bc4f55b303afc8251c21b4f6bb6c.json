@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6452667,
+            "gpslong": 126.70115,
+            "nodeid": "GGB232000752",
+            "nodenm": "향교마을",
+            "nodeno": 35664
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6453167,
+            "gpslong": 126.7012833,
+            "nodeid": "GGB232000751",
+            "nodenm": "향교마을",
+            "nodeno": 35663
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6432667,
+            "gpslong": 126.7016,
+            "nodeid": "GGB277104566",
+            "nodenm": "걸포교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6471833,
+            "gpslong": 126.7005833,
+            "nodeid": "GGB232000779",
+            "nodenm": "샘재마을",
+            "nodeno": 35690
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6472,
+            "gpslong": 126.7004333,
+            "nodeid": "GGB232000780",
+            "nodenm": "샘재마을",
+            "nodeno": 35691
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6430167,
+            "gpslong": 126.70155,
+            "nodeid": "GGB277102577",
+            "nodenm": "걸포교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6460833,
+            "gpslong": 126.6976667,
+            "nodeid": "GGB232000749",
+            "nodenm": "한옥마을.아트빌리지.문화원",
+            "nodeno": 35661
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6462167,
+            "gpslong": 126.6976,
+            "nodeid": "GGB232000750",
+            "nodenm": "한옥마을.아트빌리지.문화원",
+            "nodeno": 35662
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64875,
+            "gpslong": 126.70035,
+            "nodeid": "GGB277103995",
+            "nodenm": "김포한강신도시IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6487,
+            "gpslong": 126.7027333,
+            "nodeid": "GGB277102331",
+            "nodenm": "김포한강신도시IC(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

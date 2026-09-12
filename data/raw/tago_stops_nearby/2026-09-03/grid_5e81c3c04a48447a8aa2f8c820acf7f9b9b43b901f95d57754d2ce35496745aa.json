@@ -1,0 +1,145 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1574833,
+            "gpslong": 127.1051167,
+            "nodeid": "GGB233000089",
+            "nodenm": "장지지하차도",
+            "nodeno": 36117
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1574833,
+            "gpslong": 127.10425,
+            "nodeid": "GGB233000088",
+            "nodenm": "장지지하차도",
+            "nodeno": 36116
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1554,
+            "gpslong": 127.1034667,
+            "nodeid": "GGB233002247",
+            "nodenm": "동탄2차고지",
+            "nodeno": 55998
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1556333,
+            "gpslong": 127.1032167,
+            "nodeid": "GGB277100615",
+            "nodenm": "동탄2차고지(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1552833,
+            "gpslong": 127.10335,
+            "nodeid": "GGB233002248",
+            "nodenm": "동탄2차고지",
+            "nodeno": 55999
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1578333,
+            "gpslong": 127.1032667,
+            "nodeid": "GGB277104372",
+            "nodenm": "기점진입전(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1554,
+            "gpslong": 127.10165,
+            "nodeid": "GGB233003122",
+            "nodenm": "동탄2차고지",
+            "nodeno": 55518
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1590667,
+            "gpslong": 127.1059167,
+            "nodeid": "GGB233003163",
+            "nodenm": "호수자이파밀리에",
+            "nodeno": 55560
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1555167,
+            "gpslong": 127.1012667,
+            "nodeid": "GGB233003123",
+            "nodenm": "동탄2차고지",
+            "nodeno": 55519
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1592167,
+            "gpslong": 127.1060333,
+            "nodeid": "GGB233003131",
+            "nodenm": "호수자이파밀리에",
+            "nodeno": 55527
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.15595,
+            "gpslong": 127.10855,
+            "nodeid": "GGB233001319",
+            "nodenm": "한국제지",
+            "nodeno": 37509
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1556833,
+            "gpslong": 127.10855,
+            "nodeid": "GGB233001322",
+            "nodenm": "한국제지",
+            "nodeno": 36944
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1574167,
+            "gpslong": 127.1090833,
+            "nodeid": "GGB233003164",
+            "nodenm": "롯데캐슬.제일풍경채",
+            "nodeno": 55561
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1579167,
+            "gpslong": 127.1089,
+            "nodeid": "GGB233003130",
+            "nodenm": "롯데캐슬.제일풍경채",
+            "nodeno": 55526
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1586,
+            "gpslong": 127.1009333,
+            "nodeid": "GGB233001323",
+            "nodenm": "꽃가마약수터",
+            "nodeno": 36943
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1607333,
+            "gpslong": 127.1052,
+            "nodeid": "GGB233003132",
+            "nodenm": "호수자이파밀리에.아이원",
+            "nodeno": 55528
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 16
+    }
+  }
+}

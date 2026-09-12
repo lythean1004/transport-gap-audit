@@ -1,0 +1,81 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6504,
+            "gpslong": 126.6612333,
+            "nodeid": "GGB232000812",
+            "nodenm": "모아미래도",
+            "nodeno": 35724
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6508167,
+            "gpslong": 126.6563833,
+            "nodeid": "GGB232000312",
+            "nodenm": "은행연립",
+            "nodeno": 35187
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6498667,
+            "gpslong": 126.6586,
+            "nodeid": "GGB232000313",
+            "nodenm": "운곡마을",
+            "nodeno": 35192
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6506667,
+            "gpslong": 126.6618167,
+            "nodeid": "GGB232000811",
+            "nodenm": "모아미래도",
+            "nodeno": 35723
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65035,
+            "gpslong": 126.6568333,
+            "nodeid": "GGB232000320",
+            "nodenm": "은행연립",
+            "nodeno": 35188
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6497167,
+            "gpslong": 126.6582667,
+            "nodeid": "GGB232000319",
+            "nodenm": "운곡마을",
+            "nodeno": 35190
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6507833,
+            "gpslong": 126.6637833,
+            "nodeid": "GGB232000868",
+            "nodenm": "성우오스타.모아미래도엘가",
+            "nodeno": 35815
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6504167,
+            "gpslong": 126.6637167,
+            "nodeid": "GGB232000870",
+            "nodenm": "성우오스타.모아미래도엘가",
+            "nodeno": 35817
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 8
+    }
+  }
+}

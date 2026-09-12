@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5345667,
+            "gpslong": 127.18745,
+            "nodeid": "GGB227000561",
+            "nodenm": "굴다리",
+            "nodeno": 28364
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5345167,
+            "gpslong": 127.1874667,
+            "nodeid": "GGB227000562",
+            "nodenm": "굴다리",
+            "nodeno": 28365
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

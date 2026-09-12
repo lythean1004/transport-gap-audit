@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1663667,
+            "gpslong": 127.09365,
+            "nodeid": "GGB233003225",
+            "nodenm": "호수마을푸르지오시티",
+            "nodeno": 55984
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1663833,
+            "gpslong": 127.0934167,
+            "nodeid": "GGB233003224",
+            "nodenm": "호수마을푸르지오시티",
+            "nodeno": 55983
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1696333,
+            "gpslong": 127.09495,
+            "nodeid": "GGB233002525",
+            "nodenm": "동탄레이크자이더테라스",
+            "nodeno": 55717
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1696667,
+            "gpslong": 127.09525,
+            "nodeid": "GGB233002950",
+            "nodenm": "동탄레이크자이더테라스",
+            "nodeno": 55721
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1649833,
+            "gpslong": 127.0954,
+            "nodeid": "GGB233002067",
+            "nodenm": "동탄호수마을",
+            "nodeno": 55591
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1690667,
+            "gpslong": 127.0895167,
+            "nodeid": "GGB233002113",
+            "nodenm": "산척리",
+            "nodeno": 55089
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16465,
+            "gpslong": 127.0955167,
+            "nodeid": "GGB233002066",
+            "nodenm": "화남초",
+            "nodeno": 55590
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1639667,
+            "gpslong": 127.0936333,
+            "nodeid": "GGB233000176",
+            "nodenm": "행복주택28단지",
+            "nodeno": 55753
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1638833,
+            "gpslong": 127.0934,
+            "nodeid": "GGB233000175",
+            "nodenm": "행복주택28단지",
+            "nodeno": 55752
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1710167,
+            "gpslong": 127.09,
+            "nodeid": "GGB233002114",
+            "nodenm": "산척리",
+            "nodeno": 55090
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

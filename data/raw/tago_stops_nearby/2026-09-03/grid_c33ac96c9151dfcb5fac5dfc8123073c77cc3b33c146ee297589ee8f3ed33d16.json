@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6286,
+            "gpslong": 127.1584,
+            "nodeid": "GGB222000791",
+            "nodenm": "다산중학교",
+            "nodeno": 49916
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6283667,
+            "gpslong": 127.1566833,
+            "nodeid": "GGB222000790",
+            "nodenm": "다산중학교.성산플레이스1",
+            "nodeno": 49915
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

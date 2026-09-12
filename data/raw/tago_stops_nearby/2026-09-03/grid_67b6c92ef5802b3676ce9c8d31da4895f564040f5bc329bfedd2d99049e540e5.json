@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6338167,
+            "gpslong": 126.6415,
+            "nodeid": "GGB232000990",
+            "nodenm": "자이더빌리지4단지",
+            "nodeno": 35943
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6339333,
+            "gpslong": 126.6412167,
+            "nodeid": "GGB232000991",
+            "nodenm": "동일스위트2단지",
+            "nodeno": 35944
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

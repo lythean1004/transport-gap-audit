@@ -1,0 +1,57 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6387833,
+            "gpslong": 126.70325,
+            "nodeid": "GGB277103994",
+            "nodenm": "서촌교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6340833,
+            "gpslong": 126.7015167,
+            "nodeid": "GGB232000071",
+            "nodenm": "메트로자이2단지",
+            "nodeno": 35259
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6404667,
+            "gpslong": 126.7026,
+            "nodeid": "GGB232000699",
+            "nodenm": "걸포동",
+            "nodeno": 35311
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6404667,
+            "gpslong": 126.70275,
+            "nodeid": "GGB232000700",
+            "nodenm": "걸포동",
+            "nodeno": 35583
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6332167,
+            "gpslong": 126.6977167,
+            "nodeid": "GGB232000424",
+            "nodenm": "나진교.메트로자이2단지",
+            "nodeno": 35217
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 5
+    }
+  }
+}

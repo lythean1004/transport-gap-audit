@@ -1,0 +1,89 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1759167,
+            "gpslong": 127.1057833,
+            "nodeid": "GGB233000162",
+            "nodenm": "나래학교.더샵레이크",
+            "nodeno": 36493
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1760833,
+            "gpslong": 127.1050833,
+            "nodeid": "GGB233000997",
+            "nodenm": "레이크빌.하우스디더레이크",
+            "nodeno": 36494
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1802667,
+            "gpslong": 127.1112667,
+            "nodeid": "GGB233001900",
+            "nodenm": "금강1차.왕배초",
+            "nodeno": 37072
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1814333,
+            "gpslong": 127.1089833,
+            "nodeid": "GGB233000124",
+            "nodenm": "금강1차.센트럴힐즈",
+            "nodeno": 55400
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1813,
+            "gpslong": 127.1052167,
+            "nodeid": "GGB233003049",
+            "nodenm": "반도유보라",
+            "nodeno": 55412
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1812333,
+            "gpslong": 127.1049667,
+            "nodeid": "GGB233003048",
+            "nodenm": "반도유보라",
+            "nodeno": 55411
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1802,
+            "gpslong": 127.1031333,
+            "nodeid": "GGB233000996",
+            "nodenm": "반도3차.금강1차",
+            "nodeno": 36488
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1804,
+            "gpslong": 127.1114167,
+            "nodeid": "GGB233002289",
+            "nodenm": "왕배초.금강1차",
+            "nodeno": 37112
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1814333,
+            "gpslong": 127.1096167,
+            "nodeid": "GGB233000120",
+            "nodenm": "센트럴힐즈.금강1차",
+            "nodeno": 36409
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 9
+    }
+  }
+}

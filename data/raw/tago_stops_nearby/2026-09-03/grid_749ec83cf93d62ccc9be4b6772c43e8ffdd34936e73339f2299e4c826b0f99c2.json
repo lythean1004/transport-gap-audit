@@ -1,0 +1,209 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5448833,
+            "gpslong": 127.2122667,
+            "nodeid": "GGB227000490",
+            "nodenm": "신평어린이공원.호반써밋",
+            "nodeno": 28094
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54385,
+            "gpslong": 127.2125833,
+            "nodeid": "GGB227000265",
+            "nodenm": "신평어린이공원.대명루첸",
+            "nodeno": 28192
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5432333,
+            "gpslong": 127.211,
+            "nodeid": "GGB227000515",
+            "nodenm": "에코2단지.신장고등학교",
+            "nodeno": 28322
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5433833,
+            "gpslong": 127.21305,
+            "nodeid": "GGB227000668",
+            "nodenm": "에코3단지.신평중학교",
+            "nodeno": 28493
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5430167,
+            "gpslong": 127.2105,
+            "nodeid": "GGB227000491",
+            "nodenm": "에코2단지.신장고등학교",
+            "nodeno": 28090
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5431833,
+            "gpslong": 127.21305,
+            "nodeid": "GGB227000624",
+            "nodenm": "에코3단지.신평중학교",
+            "nodeno": 28431
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5453833,
+            "gpslong": 127.2097,
+            "nodeid": "GGB227000213",
+            "nodenm": "호반써밋에듀파크.풍산아이파크1단지",
+            "nodeno": 28245
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5463,
+            "gpslong": 127.21135,
+            "nodeid": "GGB227000664",
+            "nodenm": "호반써밋에듀파크",
+            "nodeno": 28489
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5455333,
+            "gpslong": 127.20945,
+            "nodeid": "GGB227000214",
+            "nodenm": "풍산아이파크1단지.호반써밋에듀파크",
+            "nodeno": 28246
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5461,
+            "gpslong": 127.2137333,
+            "nodeid": "GGB227000665",
+            "nodenm": "대명루첸.신평마을",
+            "nodeno": 28490
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54695,
+            "gpslong": 127.2111667,
+            "nodeid": "GGB227000310",
+            "nodenm": "신평마을앞",
+            "nodeno": 28480
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5462833,
+            "gpslong": 127.2138667,
+            "nodeid": "GGB227000666",
+            "nodenm": "대명루첸.신평마을",
+            "nodeno": 28491
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5470167,
+            "gpslong": 127.2098667,
+            "nodeid": "GGB227000227",
+            "nodenm": "나룰초등학교.풍산아이파크1단지",
+            "nodeno": 28248
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54305,
+            "gpslong": 127.2082667,
+            "nodeid": "GGB227000675",
+            "nodenm": "신장초등학교.남한중학교",
+            "nodeno": 28500
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54355,
+            "gpslong": 127.20785,
+            "nodeid": "GGB227000224",
+            "nodenm": "하남문화예술회관",
+            "nodeno": 28249
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5428667,
+            "gpslong": 127.2081667,
+            "nodeid": "GGB227000674",
+            "nodenm": "신장초등학교.남한중학교",
+            "nodeno": 28499
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5472833,
+            "gpslong": 127.20975,
+            "nodeid": "GGB227000226",
+            "nodenm": "나룰초등학교.풍산아이파크1단지",
+            "nodeno": 28251
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5478333,
+            "gpslong": 127.2116,
+            "nodeid": "GGB227000311",
+            "nodenm": "신평마을앞",
+            "nodeno": 28481
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5435333,
+            "gpslong": 127.2074667,
+            "nodeid": "GGB227000225",
+            "nodenm": "하남문화예술회관",
+            "nodeno": 28250
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54365,
+            "gpslong": 127.2067167,
+            "nodeid": "GGB227000492",
+            "nodenm": "하남문화예술회관.하남문화원",
+            "nodeno": 28084
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5435833,
+            "gpslong": 127.2066,
+            "nodeid": "GGB227000573",
+            "nodenm": "하남문화예술회관.하남문화원",
+            "nodeno": 28380
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54085,
+            "gpslong": 127.2087667,
+            "nodeid": "GGB227000244",
+            "nodenm": "장지마을(중)",
+            "nodeno": 28279
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5404833,
+            "gpslong": 127.2096667,
+            "nodeid": "GGB227000033",
+            "nodenm": "장지마을앞",
+            "nodeno": 28089
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54045,
+            "gpslong": 127.2093,
+            "nodeid": "GGB227000245",
+            "nodenm": "장지마을(중)",
+            "nodeno": 28274
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 24
+    }
+  }
+}

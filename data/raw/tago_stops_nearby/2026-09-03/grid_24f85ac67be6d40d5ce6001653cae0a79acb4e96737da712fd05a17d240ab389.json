@@ -1,0 +1,73 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.17075,
+            "gpslong": 127.1238667,
+            "nodeid": "GGB277104772",
+            "nodenm": "신리IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1732333,
+            "gpslong": 127.1332333,
+            "nodeid": "GGB233000354",
+            "nodenm": "호반써밋동탄",
+            "nodeno": 55816
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1738833,
+            "gpslong": 127.12575,
+            "nodeid": "GGB233000332",
+            "nodenm": "디루체",
+            "nodeno": 55803
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1730167,
+            "gpslong": 127.13365,
+            "nodeid": "GGB233000353",
+            "nodenm": "호반써밋동탄",
+            "nodeno": 55815
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1742,
+            "gpslong": 127.1260833,
+            "nodeid": "GGB233000333",
+            "nodenm": "디루체",
+            "nodeno": 55804
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1664167,
+            "gpslong": 127.1271667,
+            "nodeid": "GGB233003174",
+            "nodenm": "반도10차",
+            "nodeno": 55701
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1663333,
+            "gpslong": 127.1273667,
+            "nodeid": "GGB233000170",
+            "nodenm": "반도10차",
+            "nodeno": 55750
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 7
+    }
+  }
+}

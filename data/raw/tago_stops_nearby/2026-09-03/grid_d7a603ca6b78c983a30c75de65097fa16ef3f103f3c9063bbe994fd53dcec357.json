@@ -1,0 +1,41 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6454667,
+            "gpslong": 126.6836167,
+            "nodeid": "GGB232000744",
+            "nodenm": "전원마을1단지.김포한강롯데캐슬",
+            "nodeno": 35578
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6453,
+            "gpslong": 126.6836,
+            "nodeid": "GGB232000743",
+            "nodenm": "전원마을1단지.김포한강롯데캐슬",
+            "nodeno": 35577
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6462333,
+            "gpslong": 126.6806167,
+            "nodeid": "GGB232000755",
+            "nodenm": "전원마을4단지",
+            "nodeno": 35667
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 3
+    }
+  }
+}

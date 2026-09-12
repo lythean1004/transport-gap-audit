@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31190,
+            "gpslati": 37.22185,
+            "gpslong": 127.08635,
+            "nodeid": "GGB277102632",
+            "nodenm": "기흥교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2169,
+            "gpslong": 127.0876333,
+            "nodeid": "GGB233002521",
+            "nodenm": "영천교삼거리",
+            "nodeno": 55936
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2167,
+            "gpslong": 127.0874667,
+            "nodeid": "GGB233002490",
+            "nodenm": "영천교삼거리",
+            "nodeno": 55935
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2173,
+            "gpslong": 127.0806333,
+            "nodeid": "GGB233002559",
+            "nodenm": "한림대성심병원",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

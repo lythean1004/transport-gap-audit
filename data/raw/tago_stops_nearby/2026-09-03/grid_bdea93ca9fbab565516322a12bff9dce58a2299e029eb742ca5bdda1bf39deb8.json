@@ -1,0 +1,217 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6428167,
+            "gpslong": 126.6328833,
+            "nodeid": "GGB232000877",
+            "nodenm": "솔터마을2.3단지정문",
+            "nodeno": 35824
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6426333,
+            "gpslong": 126.6327,
+            "nodeid": "GGB232000879",
+            "nodenm": "솔터마을2.3단지정문",
+            "nodeno": 35826
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6415,
+            "gpslong": 126.6334833,
+            "nodeid": "GGB232001083",
+            "nodenm": "솔터초등학교",
+            "nodeno": 35339
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64145,
+            "gpslong": 126.6337833,
+            "nodeid": "GGB232000878",
+            "nodenm": "솔터초등학교",
+            "nodeno": 35825
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6439167,
+            "gpslong": 126.6309,
+            "nodeid": "GGB232000536",
+            "nodenm": "솔터마을3단지",
+            "nodeno": 35757
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6441833,
+            "gpslong": 126.6307833,
+            "nodeid": "GGB232000494",
+            "nodenm": "솔터3단지.이마트",
+            "nodeno": 35755
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.641,
+            "gpslong": 126.63635,
+            "nodeid": "GGB232000496",
+            "nodenm": "솔터고교",
+            "nodeno": 35397
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64035,
+            "gpslong": 126.6330833,
+            "nodeid": "GGB232000207",
+            "nodenm": "한강힐스테이트",
+            "nodeno": 35512
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6409,
+            "gpslong": 126.6368667,
+            "nodeid": "GGB232000534",
+            "nodenm": "솔터고교",
+            "nodeno": 35756
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6401,
+            "gpslong": 126.6328833,
+            "nodeid": "GGB232000208",
+            "nodenm": "한강힐스테이트",
+            "nodeno": 35522
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.641281,
+            "gpslong": 126.630248,
+            "nodeid": "ICB232000706",
+            "nodenm": "솔터마을입구",
+            "nodeno": 80336
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6411833,
+            "gpslong": 126.6302333,
+            "nodeid": "GGB232000706",
+            "nodenm": "솔터마을입구.화성파크드림",
+            "nodeno": 35643
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6473667,
+            "gpslong": 126.6328667,
+            "nodeid": "GGB232000823",
+            "nodenm": "호수마을5단지.호반베르디움2차",
+            "nodeno": 35735
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.647449,
+            "gpslong": 126.632773,
+            "nodeid": "ICB232000823",
+            "nodenm": "호수마을5단지후문",
+            "nodeno": 35735
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.645057,
+            "gpslong": 126.629008,
+            "nodeid": "ICB232000724",
+            "nodenm": "구래역",
+            "nodeno": 80338
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64765,
+            "gpslong": 126.6326,
+            "nodeid": "GGB232000074",
+            "nodenm": "호수마을5단지.호반베르디움2차",
+            "nodeno": 35270
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.647678,
+            "gpslong": 126.632619,
+            "nodeid": "ICB232000074",
+            "nodenm": "호수마을5단지후문",
+            "nodeno": 35270
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6406667,
+            "gpslong": 126.63015,
+            "nodeid": "GGB232000707",
+            "nodenm": "화성파크드림.솔터마을입구",
+            "nodeno": 35642
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6452,
+            "gpslong": 126.629,
+            "nodeid": "GGB232000724",
+            "nodenm": "구래역",
+            "nodeno": 35195
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.640687,
+            "gpslong": 126.630078,
+            "nodeid": "ICB232000707",
+            "nodenm": "솔터마을입구",
+            "nodeno": 80327
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.644936,
+            "gpslong": 126.628786,
+            "nodeid": "ICB232000725",
+            "nodenm": "구래역",
+            "nodeno": 80337
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6440833,
+            "gpslong": 126.6392833,
+            "nodeid": "GGB232000979",
+            "nodenm": "레이크에일린의뜰",
+            "nodeno": 35929
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6450833,
+            "gpslong": 126.6287,
+            "nodeid": "GGB232000725",
+            "nodenm": "구래역",
+            "nodeno": 35196
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6432333,
+            "gpslong": 126.6394667,
+            "nodeid": "GGB232000865",
+            "nodenm": "마산도서관.에일린의뜰",
+            "nodeno": 35812
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6443,
+            "gpslong": 126.6395167,
+            "nodeid": "GGB232000980",
+            "nodenm": "레이크에일린의뜰",
+            "nodeno": 35930
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 25
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2039333,
+            "gpslong": 127.1048833,
+            "nodeid": "GGB233000131",
+            "nodenm": "계룡.영천초",
+            "nodeno": 36812
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2042833,
+            "gpslong": 127.1049333,
+            "nodeid": "GGB233000961",
+            "nodenm": "영천초.계룡",
+            "nodeno": 36453
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2032333,
+            "gpslong": 127.1087667,
+            "nodeid": "GGB233002434",
+            "nodenm": "시범예미지.영천유치원",
+            "nodeno": 55292
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2035167,
+            "gpslong": 127.1087833,
+            "nodeid": "GGB233002435",
+            "nodenm": "영천유치원.시범예미지",
+            "nodeno": 55293
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2063667,
+            "gpslong": 127.1035833,
+            "nodeid": "GGB233000975",
+            "nodenm": "센트럴예미지",
+            "nodeno": 55687
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2063667,
+            "gpslong": 127.1033,
+            "nodeid": "GGB233000974",
+            "nodenm": "센트럴자이",
+            "nodeno": 55686
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2045667,
+            "gpslong": 127.1000833,
+            "nodeid": "GGB233002433",
+            "nodenm": "우남퍼스트빌.자이",
+            "nodeno": 37663
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 7
+    }
+  }
+}

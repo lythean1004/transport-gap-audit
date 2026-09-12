@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31020,
+            "gpslati": 37.4603667,
+            "gpslong": 127.13725,
+            "nodeid": "GGB204000169",
+            "nodenm": "복정고.남위례역아테라",
+            "nodeno": 5095
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.46055,
+            "gpslong": 127.1372667,
+            "nodeid": "GGB204000168",
+            "nodenm": "복정고.남위례역아테라",
+            "nodeno": 5087
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

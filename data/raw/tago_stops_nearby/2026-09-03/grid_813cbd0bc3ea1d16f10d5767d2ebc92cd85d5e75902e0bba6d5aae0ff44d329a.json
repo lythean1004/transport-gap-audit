@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6525333,
+            "gpslong": 126.6397667,
+            "nodeid": "GGB232000323",
+            "nodenm": "장단",
+            "nodeno": 35155
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6525333,
+            "gpslong": 126.6395667,
+            "nodeid": "GGB232000309",
+            "nodenm": "장단",
+            "nodeno": 35154
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6533333,
+            "gpslong": 126.6366833,
+            "nodeid": "GGB277102729",
+            "nodenm": "차량대기(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6525333,
+            "gpslong": 126.6359667,
+            "nodeid": "GGB232000574",
+            "nodenm": "김포한강듀클래스",
+            "nodeno": 35521
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6526667,
+            "gpslong": 126.63585,
+            "nodeid": "GGB232000643",
+            "nodenm": "김포한강듀클래스",
+            "nodeno": 35597
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65645,
+            "gpslong": 126.63545,
+            "nodeid": "GGB232000638",
+            "nodenm": "신양초교.신양고교",
+            "nodeno": 35592
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6238167,
+            "gpslong": 127.1508,
+            "nodeid": "GGB222000878",
+            "nodenm": "다산역1번출구",
+            "nodeno": 49928
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6242,
+            "gpslong": 127.15085,
+            "nodeid": "GGB222000877",
+            "nodenm": "다산역1번출구",
+            "nodeno": 49927
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6223667,
+            "gpslong": 127.1515167,
+            "nodeid": "GGB222000874",
+            "nodenm": "다산역자연앤푸르지오",
+            "nodeno": 49924
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6224333,
+            "gpslong": 127.1517167,
+            "nodeid": "GGB222000875",
+            "nodenm": "다산역자연앤푸르지오",
+            "nodeno": 49925
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62465,
+            "gpslong": 127.1528667,
+            "nodeid": "GGB222000248",
+            "nodenm": "다산선형공원",
+            "nodeno": 49886
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6250833,
+            "gpslong": 127.1488667,
+            "nodeid": "GGB222000856",
+            "nodenm": "다산역4번출구.경기행복주택",
+            "nodeno": 23036
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62475,
+            "gpslong": 127.15325,
+            "nodeid": "GGB222000871",
+            "nodenm": "다산선형공원",
+            "nodeno": 49921
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6253,
+            "gpslong": 127.1487667,
+            "nodeid": "GGB222000835",
+            "nodenm": "다산역4번출구.경기행복주택",
+            "nodeno": 23035
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6254167,
+            "gpslong": 127.1529,
+            "nodeid": "GGB222001694",
+            "nodenm": "다산역데시앙",
+            "nodeno": 49885
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6221833,
+            "gpslong": 127.1540833,
+            "nodeid": "GGB222001943",
+            "nodenm": "유승한내들센트럴.e편한세상",
+            "nodeno": 49821
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62055,
+            "gpslong": 127.1495167,
+            "nodeid": "GGB222001919",
+            "nodenm": "다산가람초교.벧엘교회",
+            "nodeno": 49789
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62035,
+            "gpslong": 127.1497,
+            "nodeid": "GGB222001918",
+            "nodenm": "다산가람초교.벧엘교회",
+            "nodeno": 49788
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6223333,
+            "gpslong": 127.1544167,
+            "nodeid": "GGB222001632",
+            "nodenm": "e편한세상.유승한내들센트럴",
+            "nodeno": 49516
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6223833,
+            "gpslong": 127.14705,
+            "nodeid": "GGB222000907",
+            "nodenm": "다산메트로3단지.유승한내들골든뷰",
+            "nodeno": 49157
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6206667,
+            "gpslong": 127.1529,
+            "nodeid": "GGB222000626",
+            "nodenm": "유승한내들.e편한세상자이",
+            "nodeno": 49153
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62255,
+            "gpslong": 127.1467667,
+            "nodeid": "GGB222001153",
+            "nodenm": "유승한내들골든뷰.다산메트로3단지",
+            "nodeno": 49264
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6248,
+            "gpslong": 127.1470667,
+            "nodeid": "GGB222001936",
+            "nodenm": "한양수자인1차입구",
+            "nodeno": 49807
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62465,
+            "gpslong": 127.1467833,
+            "nodeid": "GGB222001935",
+            "nodenm": "한양수자인1차입구",
+            "nodeno": 49806
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6266667,
+            "gpslong": 127.1497167,
+            "nodeid": "GGB222000872",
+            "nodenm": "다산역5번출구.다산진건데시앙",
+            "nodeno": 49922
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6268,
+            "gpslong": 127.1499167,
+            "nodeid": "GGB222000873",
+            "nodenm": "다산역5번출구.다산자이아이비플레이스",
+            "nodeno": 49923
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62045,
+            "gpslong": 127.1538167,
+            "nodeid": "GGB222000956",
+            "nodenm": "유승한내들.e편한세상자이",
+            "nodeno": 49784
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6203333,
+            "gpslong": 127.1478167,
+            "nodeid": "GGB222000911",
+            "nodenm": "한양수자인2차",
+            "nodeno": 49804
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6207833,
+            "gpslong": 127.14715,
+            "nodeid": "GGB222000910",
+            "nodenm": "한양수자인2차",
+            "nodeno": 49781
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6239,
+            "gpslong": 127.1556167,
+            "nodeid": "GGB222000342",
+            "nodenm": "e편한세상.힐스테이트",
+            "nodeno": 49162
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62595,
+            "gpslong": 127.15435,
+            "nodeid": "GGB222001942",
+            "nodenm": "다산롯데캐슬정문",
+            "nodeno": 49820
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6261333,
+            "gpslong": 127.1543333,
+            "nodeid": "GGB222001941",
+            "nodenm": "다산롯데캐슬정문",
+            "nodeno": 49819
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62375,
+            "gpslong": 127.1559167,
+            "nodeid": "GGB222000172",
+            "nodenm": "힐스테이트.e편한세상",
+            "nodeno": 23474
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6248167,
+            "gpslong": 127.1555667,
+            "nodeid": "GGB222000890",
+            "nodenm": "힐스테이트후문",
+            "nodeno": 23518
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6263667,
+            "gpslong": 127.1473333,
+            "nodeid": "GGB222001475",
+            "nodenm": "다산진건데시앙.경기행복주택",
+            "nodeno": 49392
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6249,
+            "gpslong": 127.1558667,
+            "nodeid": "GGB222000891",
+            "nodenm": "힐스테이트후문",
+            "nodeno": 23498
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6275667,
+            "gpslong": 127.1520167,
+            "nodeid": "GGB222000948",
+            "nodenm": "다산자이.다산롯데캐슬",
+            "nodeno": 49059
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6266667,
+            "gpslong": 127.1471667,
+            "nodeid": "GGB222000818",
+            "nodenm": "다산하늘초.한양수자인1차후문",
+            "nodeno": 49203
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 32
+    }
+  }
+}

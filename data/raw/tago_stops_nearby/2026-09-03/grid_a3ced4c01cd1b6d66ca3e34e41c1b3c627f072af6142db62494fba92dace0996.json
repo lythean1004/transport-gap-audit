@@ -1,0 +1,105 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6203333,
+            "gpslong": 127.1478167,
+            "nodeid": "GGB222000911",
+            "nodenm": "한양수자인2차",
+            "nodeno": 49804
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6207833,
+            "gpslong": 127.14715,
+            "nodeid": "GGB222000910",
+            "nodenm": "한양수자인2차",
+            "nodeno": 49781
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6181167,
+            "gpslong": 127.1434667,
+            "nodeid": "GGB221000236",
+            "nodenm": "인창해모로아파트후문",
+            "nodeno": 22225
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6178,
+            "gpslong": 127.1430333,
+            "nodeid": "GGB221000321",
+            "nodenm": "인창해모로아파트후문.농협하나로마트",
+            "nodeno": 22256
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62035,
+            "gpslong": 127.1497,
+            "nodeid": "GGB222001918",
+            "nodenm": "다산가람초교.벧엘교회",
+            "nodeno": 49788
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62055,
+            "gpslong": 127.1495167,
+            "nodeid": "GGB222001919",
+            "nodenm": "다산가람초교.벧엘교회",
+            "nodeno": 49789
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6223833,
+            "gpslong": 127.14705,
+            "nodeid": "GGB222000907",
+            "nodenm": "다산메트로3단지.유승한내들골든뷰",
+            "nodeno": 49157
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62255,
+            "gpslong": 127.1467667,
+            "nodeid": "GGB222001153",
+            "nodenm": "유승한내들골든뷰.다산메트로3단지",
+            "nodeno": 49264
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6193667,
+            "gpslong": 127.1416,
+            "nodeid": "GGB221000163",
+            "nodenm": "인창해모로아파트",
+            "nodeno": 22177
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.61895,
+            "gpslong": 127.1413,
+            "nodeid": "GGB221000033",
+            "nodenm": "인창해모로아파트",
+            "nodeno": 22112
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6158667,
+            "gpslong": 127.1508833,
+            "nodeid": "GGB222000209",
+            "nodenm": "현대프리미엄아울렛.빙그레",
+            "nodeno": 49880
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 11
+    }
+  }
+}

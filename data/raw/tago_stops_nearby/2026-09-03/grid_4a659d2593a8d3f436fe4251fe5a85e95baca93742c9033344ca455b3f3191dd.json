@@ -1,0 +1,153 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6096333,
+            "gpslong": 127.15185,
+            "nodeid": "GGB222000886",
+            "nodenm": "빙그레앞",
+            "nodeno": 23083
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6096333,
+            "gpslong": 127.1519667,
+            "nodeid": "GGB222000889",
+            "nodenm": "빙그레",
+            "nodeno": 23084
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6086833,
+            "gpslong": 127.1444333,
+            "nodeid": "GGB221000361",
+            "nodenm": "수산물시장입구",
+            "nodeno": 22292
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6113667,
+            "gpslong": 127.1516167,
+            "nodeid": "GGB222001767",
+            "nodenm": "도농고",
+            "nodeno": 49689
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6085167,
+            "gpslong": 127.1444167,
+            "nodeid": "GGB221000360",
+            "nodenm": "수산물시장입구",
+            "nodeno": 22291
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6117833,
+            "gpslong": 127.1517667,
+            "nodeid": "GGB222000903",
+            "nodenm": "도농고",
+            "nodeno": 49810
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6083333,
+            "gpslong": 127.15205,
+            "nodeid": "GGB222000887",
+            "nodenm": "다산리버팰리체아파트",
+            "nodeno": 23085
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6084,
+            "gpslong": 127.15215,
+            "nodeid": "GGB222000888",
+            "nodenm": "다산리버팰리체아파트",
+            "nodeno": 23086
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6113167,
+            "gpslong": 127.1523333,
+            "nodeid": "GGB222000852",
+            "nodenm": "도농고앞",
+            "nodeno": 23092
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6062833,
+            "gpslong": 127.14585,
+            "nodeid": "GGB221000284",
+            "nodenm": "인창중고등학교",
+            "nodeno": 22101
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6069333,
+            "gpslong": 127.1443667,
+            "nodeid": "GGB221000315",
+            "nodenm": "인창주공4단지",
+            "nodeno": 22223
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6061,
+            "gpslong": 127.1457333,
+            "nodeid": "GGB221000274",
+            "nodenm": "인창중고등학교",
+            "nodeno": 22063
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.60685,
+            "gpslong": 127.1443333,
+            "nodeid": "GGB221000318",
+            "nodenm": "인창주공6단지",
+            "nodeno": 22197
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6086833,
+            "gpslong": 127.1427667,
+            "nodeid": "GGB221000286",
+            "nodenm": "인창포레리움.주공4단지",
+            "nodeno": 22218
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6116167,
+            "gpslong": 127.1531333,
+            "nodeid": "GGB222000851",
+            "nodenm": "도농고앞",
+            "nodeno": 23093
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.60855,
+            "gpslong": 127.1428,
+            "nodeid": "GGB221000296",
+            "nodenm": "인창포레리움.주공4단지",
+            "nodeno": 22178
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6122333,
+            "gpslong": 127.1433,
+            "nodeid": "GGB221000264",
+            "nodenm": "농수산물시장",
+            "nodeno": 22245
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 17
+    }
+  }
+}

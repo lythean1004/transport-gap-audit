@@ -1,0 +1,41 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6340167,
+            "gpslong": 126.6356833,
+            "nodeid": "GGB232000298",
+            "nodenm": "구래1리입구",
+            "nodeno": 35674
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6342,
+            "gpslong": 126.6357333,
+            "nodeid": "GGB232001292",
+            "nodenm": "구래1리입구",
+            "nodeno": 62311
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6301,
+            "gpslong": 126.6280833,
+            "nodeid": "GGB277102732",
+            "nodenm": "구래리(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 3
+    }
+  }
+}

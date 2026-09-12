@@ -1,0 +1,81 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1818667,
+            "gpslong": 127.1342167,
+            "nodeid": "GGB233000001",
+            "nodenm": "동탄숨마데시앙",
+            "nodeno": 55955
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1818333,
+            "gpslong": 127.1338667,
+            "nodeid": "GGB233003189",
+            "nodenm": "동탄숨마데시앙",
+            "nodeno": 55958
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.17975,
+            "gpslong": 127.1330333,
+            "nodeid": "GGB233001317",
+            "nodenm": "C10",
+            "nodeno": 55914
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.17945,
+            "gpslong": 127.1328333,
+            "nodeid": "GGB233001333",
+            "nodenm": "C10",
+            "nodeno": 55915
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1835333,
+            "gpslong": 127.1329667,
+            "nodeid": "GGB233003187",
+            "nodenm": "동탄아테라파밀리에",
+            "nodeno": 55956
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1834167,
+            "gpslong": 127.1327333,
+            "nodeid": "GGB233003188",
+            "nodenm": "동탄아테라파밀리에",
+            "nodeno": 55957
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1802667,
+            "gpslong": 127.1377333,
+            "nodeid": "GGB233000356",
+            "nodenm": "동탄9동행정복지센터",
+            "nodeno": 55818
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1799833,
+            "gpslong": 127.138,
+            "nodeid": "GGB233000355",
+            "nodenm": "동탄9동행정복지센터",
+            "nodeno": 55817
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 8
+    }
+  }
+}

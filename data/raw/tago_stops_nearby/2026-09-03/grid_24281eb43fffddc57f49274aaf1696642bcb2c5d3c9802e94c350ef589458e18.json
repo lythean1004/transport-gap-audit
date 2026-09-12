@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.4767333,
+            "gpslong": 127.1521333,
+            "nodeid": "GGB227000297",
+            "nodenm": "하남시위례동행정복지센터.위례고",
+            "nodeno": 28370
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4775667,
+            "gpslong": 127.151,
+            "nodeid": "GGB227000298",
+            "nodenm": "하남시위례동행정복지센터.위례고",
+            "nodeno": 28371
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6525,
+            "gpslong": 126.66565,
+            "nodeid": "GGB232000867",
+            "nodenm": "푸른솔초교",
+            "nodeno": 35814
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6558833,
+            "gpslong": 126.6684167,
+            "nodeid": "GGB232000740",
+            "nodenm": "김포패션아울렛",
+            "nodeno": 35658
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6585,
+            "gpslong": 126.6671167,
+            "nodeid": "GGB232000369",
+            "nodenm": "바리미",
+            "nodeno": 35201
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6523,
+            "gpslong": 126.66565,
+            "nodeid": "GGB232000871",
+            "nodenm": "푸른솔초교",
+            "nodeno": 35818
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6561833,
+            "gpslong": 126.6687,
+            "nodeid": "GGB232000733",
+            "nodenm": "김포패션아울렛",
+            "nodeno": 35654
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6592833,
+            "gpslong": 126.6671167,
+            "nodeid": "GGB232000419",
+            "nodenm": "바리미",
+            "nodeno": 35199
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

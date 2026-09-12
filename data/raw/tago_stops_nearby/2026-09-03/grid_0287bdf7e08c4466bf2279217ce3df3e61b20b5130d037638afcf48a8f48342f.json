@@ -1,0 +1,193 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5457667,
+            "gpslong": 127.2055333,
+            "nodeid": "GGB227000572",
+            "nodenm": "역사박물관.하남교회.더샵센트럴뷰",
+            "nodeno": 28379
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5458667,
+            "gpslong": 127.2053,
+            "nodeid": "GGB227000571",
+            "nodenm": "역사박물관.하남교회.더샵센트럴뷰",
+            "nodeno": 28378
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5435833,
+            "gpslong": 127.2066,
+            "nodeid": "GGB227000573",
+            "nodenm": "하남문화예술회관.하남문화원",
+            "nodeno": 28380
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54365,
+            "gpslong": 127.2067167,
+            "nodeid": "GGB227000492",
+            "nodenm": "하남문화예술회관.하남문화원",
+            "nodeno": 28084
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5430333,
+            "gpslong": 127.2045167,
+            "nodeid": "GGB227000031",
+            "nodenm": "하남시청역.덕풍시장",
+            "nodeno": 28075
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5430333,
+            "gpslong": 127.2042333,
+            "nodeid": "GGB227000247",
+            "nodenm": "하남시청역.덕풍시장(중)",
+            "nodeno": 28275
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5427667,
+            "gpslong": 127.2042833,
+            "nodeid": "GGB227000139",
+            "nodenm": "하남시청역.덕풍시장",
+            "nodeno": 28076
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5435333,
+            "gpslong": 127.2074667,
+            "nodeid": "GGB227000225",
+            "nodenm": "하남문화예술회관",
+            "nodeno": 28250
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5475167,
+            "gpslong": 127.2052833,
+            "nodeid": "GGB227000568",
+            "nodenm": "풍산참아름아파트.공판장",
+            "nodeno": 28375
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5424667,
+            "gpslong": 127.2052333,
+            "nodeid": "GGB227000246",
+            "nodenm": "하남시청역.덕풍시장(중)",
+            "nodeno": 28280
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54355,
+            "gpslong": 127.20785,
+            "nodeid": "GGB227000224",
+            "nodenm": "하남문화예술회관",
+            "nodeno": 28249
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54805,
+            "gpslong": 127.2053333,
+            "nodeid": "GGB227000567",
+            "nodenm": "풍산참아름아파트.공판장",
+            "nodeno": 28374
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54305,
+            "gpslong": 127.2082667,
+            "nodeid": "GGB227000675",
+            "nodenm": "신장초등학교.남한중학교",
+            "nodeno": 28500
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5428667,
+            "gpslong": 127.2081667,
+            "nodeid": "GGB227000674",
+            "nodenm": "신장초등학교.남한중학교",
+            "nodeno": 28499
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5455333,
+            "gpslong": 127.20945,
+            "nodeid": "GGB227000214",
+            "nodenm": "풍산아이파크1단지.호반써밋에듀파크",
+            "nodeno": 28246
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5448667,
+            "gpslong": 127.20045,
+            "nodeid": "GGB227000253",
+            "nodenm": "라인.한솔솔파크아파트(중)",
+            "nodeno": 28285
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5453833,
+            "gpslong": 127.2097,
+            "nodeid": "GGB227000213",
+            "nodenm": "호반써밋에듀파크.풍산아이파크1단지",
+            "nodeno": 28245
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5449333,
+            "gpslong": 127.20005,
+            "nodeid": "GGB227000252",
+            "nodenm": "라인.한솔솔파크아파트(중)",
+            "nodeno": 28284
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5449833,
+            "gpslong": 127.1997167,
+            "nodeid": "GGB227000140",
+            "nodenm": "라인.한솔솔파크아파트",
+            "nodeno": 28054
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5470167,
+            "gpslong": 127.2098667,
+            "nodeid": "GGB227000227",
+            "nodenm": "나룰초등학교.풍산아이파크1단지",
+            "nodeno": 28248
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5472833,
+            "gpslong": 127.20975,
+            "nodeid": "GGB227000226",
+            "nodenm": "나룰초등학교.풍산아이파크1단지",
+            "nodeno": 28251
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5489833,
+            "gpslong": 127.2077167,
+            "nodeid": "GGB227000228",
+            "nodenm": "새뜰마을3단지정문",
+            "nodeno": 28252
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 22
+    }
+  }
+}

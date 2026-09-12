@@ -1,0 +1,137 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6056,
+            "gpslong": 127.174,
+            "nodeid": "GGB222000305",
+            "nodenm": "남양주체육문화센터.에일린의뜰",
+            "nodeno": 23182
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6023833,
+            "gpslong": 127.1739167,
+            "nodeid": "GGB222000304",
+            "nodenm": "신안인스빌2차",
+            "nodeno": 23179
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6055667,
+            "gpslong": 127.17435,
+            "nodeid": "GGB222000298",
+            "nodenm": "남양주체육문화센터.에일린의뜰",
+            "nodeno": 23183
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6023667,
+            "gpslong": 127.1743,
+            "nodeid": "GGB222000299",
+            "nodenm": "신안인스빌2차",
+            "nodeno": 23181
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6075667,
+            "gpslong": 127.17295,
+            "nodeid": "GGB222001608",
+            "nodenm": "센트럴.한화아파트",
+            "nodeno": 49491
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.60775,
+            "gpslong": 127.17155,
+            "nodeid": "GGB222001417",
+            "nodenm": "에일린의뜰아파트정문",
+            "nodeno": 49856
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6007,
+            "gpslong": 127.1737667,
+            "nodeid": "GGB222001952",
+            "nodenm": "금강펜테리움1차",
+            "nodeno": 49831
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6078333,
+            "gpslong": 127.1715,
+            "nodeid": "GGB222000761",
+            "nodenm": "에일린의뜰아파트정문",
+            "nodeno": 49857
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6076333,
+            "gpslong": 127.1732833,
+            "nodeid": "GGB222001607",
+            "nodenm": "이패야구장.센트럴",
+            "nodeno": 49490
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6007167,
+            "gpslong": 127.17415,
+            "nodeid": "GGB222001953",
+            "nodenm": "금강펜테리움1차",
+            "nodeno": 49832
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6003,
+            "gpslong": 127.1701833,
+            "nodeid": "GGB222001963",
+            "nodenm": "다산한강반도유보라.금강펜테리움2차후문",
+            "nodeno": 49842
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6001333,
+            "gpslong": 127.1729333,
+            "nodeid": "GGB222001964",
+            "nodenm": "다산한강초등학교",
+            "nodeno": 49843
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6001167,
+            "gpslong": 127.1702667,
+            "nodeid": "GGB222001962",
+            "nodenm": "다산한강반도유보라.금강펜테리움2차후문",
+            "nodeno": 49841
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5999333,
+            "gpslong": 127.17295,
+            "nodeid": "GGB222001965",
+            "nodenm": "다산한강초등학교",
+            "nodeno": 49844
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6079667,
+            "gpslong": 127.1689167,
+            "nodeid": "GGB222001471",
+            "nodenm": "한화꿈에그린아파트.다산2동주민센터",
+            "nodeno": 49388
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 15
+    }
+  }
+}

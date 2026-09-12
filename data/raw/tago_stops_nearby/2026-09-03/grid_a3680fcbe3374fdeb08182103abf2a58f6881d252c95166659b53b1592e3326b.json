@@ -1,0 +1,185 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6462167,
+            "gpslong": 126.6976,
+            "nodeid": "GGB232000750",
+            "nodenm": "한옥마을.아트빌리지.문화원",
+            "nodeno": 35662
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6460833,
+            "gpslong": 126.6976667,
+            "nodeid": "GGB232000749",
+            "nodenm": "한옥마을.아트빌리지.문화원",
+            "nodeno": 35661
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6472,
+            "gpslong": 126.7004333,
+            "nodeid": "GGB232000780",
+            "nodenm": "샘재마을",
+            "nodeno": 35691
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6471833,
+            "gpslong": 126.7005833,
+            "nodeid": "GGB232000779",
+            "nodenm": "샘재마을",
+            "nodeno": 35690
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6452667,
+            "gpslong": 126.70115,
+            "nodeid": "GGB232000752",
+            "nodenm": "향교마을",
+            "nodeno": 35664
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6453167,
+            "gpslong": 126.7012833,
+            "nodeid": "GGB232000751",
+            "nodenm": "향교마을",
+            "nodeno": 35663
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64875,
+            "gpslong": 126.70035,
+            "nodeid": "GGB277103995",
+            "nodenm": "김포한강신도시IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6494833,
+            "gpslong": 126.6954667,
+            "nodeid": "GGB232000828",
+            "nodenm": "한신더휴테라스",
+            "nodeno": 35761
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.649535,
+            "gpslong": 126.695481,
+            "nodeid": "ICB232000828",
+            "nodenm": "한신더휴테라스",
+            "nodeno": 35761
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.649733,
+            "gpslong": "126.695480",
+            "nodeid": "ICB232000829",
+            "nodenm": "한신더휴테라스",
+            "nodeno": 35762
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6497667,
+            "gpslong": 126.6954833,
+            "nodeid": "GGB232000829",
+            "nodenm": "한신더휴테라스",
+            "nodeno": 35762
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6496,
+            "gpslong": 126.70105,
+            "nodeid": "GGB277103532",
+            "nodenm": "김포한강신도시IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65025,
+            "gpslong": 126.7000667,
+            "nodeid": "GGB277104632",
+            "nodenm": "김포한강신도시IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6444667,
+            "gpslong": 126.6932833,
+            "nodeid": "GGB232000747",
+            "nodenm": "화성파크드림.KCC스위첸",
+            "nodeno": 35483
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6446167,
+            "gpslong": 126.6930667,
+            "nodeid": "GGB232000748",
+            "nodenm": "화성파크드림.KCC스위첸",
+            "nodeno": 35484
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6432667,
+            "gpslong": 126.7016,
+            "nodeid": "GGB277104566",
+            "nodenm": "걸포교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65025,
+            "gpslong": 126.7006,
+            "nodeid": "GGB277104633",
+            "nodenm": "김포한강신도시IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6487,
+            "gpslong": 126.7027333,
+            "nodeid": "GGB277102331",
+            "nodenm": "김포한강신도시IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6500667,
+            "gpslong": 126.7011833,
+            "nodeid": "GGB277103533",
+            "nodenm": "김포한강신도시IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6430833,
+            "gpslong": 126.6944167,
+            "nodeid": "GGB232000953",
+            "nodenm": "늘푸른어린이집",
+            "nodeno": 35903
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6430167,
+            "gpslong": 126.70155,
+            "nodeid": "GGB277102577",
+            "nodenm": "걸포교(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 21
+    }
+  }
+}

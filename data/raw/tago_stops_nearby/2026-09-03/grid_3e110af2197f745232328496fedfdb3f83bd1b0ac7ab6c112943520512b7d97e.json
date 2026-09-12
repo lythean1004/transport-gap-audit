@@ -1,0 +1,185 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2052167,
+            "gpslong": 127.1122333,
+            "nodeid": "GGB233002516",
+            "nodenm": "지산마을",
+            "nodeno": 55070
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2071,
+            "gpslong": 127.1108667,
+            "nodeid": "GGB233002429",
+            "nodenm": "이주택지.상록.경남아파트",
+            "nodeno": 55305
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2068667,
+            "gpslong": 127.1105333,
+            "nodeid": "GGB233001492",
+            "nodenm": "상록.경남아파트.이주택지",
+            "nodeno": 37550
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.20705,
+            "gpslong": 127.1146667,
+            "nodeid": "GGB233000135",
+            "nodenm": "한백초중교",
+            "nodeno": 36513
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.20775,
+            "gpslong": 127.11415,
+            "nodeid": "GGB233000569",
+            "nodenm": "한백고등학교",
+            "nodeno": 55620
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2072333,
+            "gpslong": 127.1147667,
+            "nodeid": "GGB233000149",
+            "nodenm": "한백초중교",
+            "nodeno": 36514
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2077833,
+            "gpslong": 127.1143333,
+            "nodeid": "GGB233001609",
+            "nodenm": "한백고등학교",
+            "nodeno": 37674
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2053667,
+            "gpslong": 127.1158667,
+            "nodeid": "GGB233000981",
+            "nodenm": "포레너스아파트",
+            "nodeno": 36434
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2035167,
+            "gpslong": 127.1108167,
+            "nodeid": "GGB233000960",
+            "nodenm": "경남.반도1차",
+            "nodeno": 36452
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2034167,
+            "gpslong": 127.11355,
+            "nodeid": "GGB277104808",
+            "nodenm": "치동천5교교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2038333,
+            "gpslong": 127.115,
+            "nodeid": "GGB233002423",
+            "nodenm": "무봉초",
+            "nodeno": 55299
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2051667,
+            "gpslong": 127.1161833,
+            "nodeid": "GGB233001506",
+            "nodenm": "포레너스아파트",
+            "nodeno": 37582
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2031667,
+            "gpslong": 127.1107667,
+            "nodeid": "GGB233000164",
+            "nodenm": "반도1차.경남",
+            "nodeno": 36811
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2100667,
+            "gpslong": 127.11185,
+            "nodeid": "GGB233002179",
+            "nodenm": "동탄파크이지더원.자이후문",
+            "nodeno": 55609
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2101667,
+            "gpslong": 127.1120333,
+            "nodeid": "GGB233002181",
+            "nodenm": "동탄파크자이.이지더원후문",
+            "nodeno": 55610
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2086833,
+            "gpslong": 127.1083,
+            "nodeid": "GGB233001493",
+            "nodenm": "퍼스트파크.이지더원",
+            "nodeno": 37549
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2035167,
+            "gpslong": 127.1087833,
+            "nodeid": "GGB233002435",
+            "nodenm": "영천유치원.시범예미지",
+            "nodeno": 55293
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.209,
+            "gpslong": 127.1085,
+            "nodeid": "GGB233002430",
+            "nodenm": "퍼스트파크.이지더원",
+            "nodeno": 55306
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2083667,
+            "gpslong": 127.1168,
+            "nodeid": "GGB233001169",
+            "nodenm": "반도유보라정문",
+            "nodeno": 36450
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2032333,
+            "gpslong": 127.1087667,
+            "nodeid": "GGB233002434",
+            "nodenm": "시범예미지.영천유치원",
+            "nodeno": 55292
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2083,
+            "gpslong": 127.1172,
+            "nodeid": "GGB233001162",
+            "nodenm": "반도유보라정문",
+            "nodeno": 36448
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 21
+    }
+  }
+}

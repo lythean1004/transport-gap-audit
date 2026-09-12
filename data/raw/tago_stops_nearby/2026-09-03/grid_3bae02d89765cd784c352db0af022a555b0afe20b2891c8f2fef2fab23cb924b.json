@@ -1,0 +1,129 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.65895,
+            "gpslong": 126.6828167,
+            "nodeid": "GGB232000776",
+            "nodenm": "한라비발디",
+            "nodeno": 35683
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65605,
+            "gpslong": 126.6828333,
+            "nodeid": "GGB232000863",
+            "nodenm": "제이엘마켓탑",
+            "nodeno": 35810
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6559,
+            "gpslong": 126.6830167,
+            "nodeid": "GGB232000079",
+            "nodenm": "제이엘마켓탑",
+            "nodeno": 35360
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6587667,
+            "gpslong": 126.6815,
+            "nodeid": "GGB232000764",
+            "nodenm": "한라비발디",
+            "nodeno": 35672
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6562833,
+            "gpslong": 126.6809667,
+            "nodeid": "GGB232000774",
+            "nodenm": "대림e편한세상정문",
+            "nodeno": 35681
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6584,
+            "gpslong": 126.6806833,
+            "nodeid": "GGB232000775",
+            "nodenm": "대림e편한세상후문",
+            "nodeno": 35682
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65395,
+            "gpslong": 126.6847833,
+            "nodeid": "GGB232000010",
+            "nodenm": "운양역2번출구",
+            "nodeno": 35088
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.653714,
+            "gpslong": "126.685220",
+            "nodeid": "ICB232000727",
+            "nodenm": "운양역",
+            "nodeno": 80348
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6536833,
+            "gpslong": 126.6851333,
+            "nodeid": "GGB232000727",
+            "nodenm": "운양역",
+            "nodeno": 35650
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6555333,
+            "gpslong": 126.6806333,
+            "nodeid": "GGB232000772",
+            "nodenm": "롯데캐슬정문",
+            "nodeno": 35679
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6551,
+            "gpslong": 126.6890833,
+            "nodeid": "GGB232000771",
+            "nodenm": "하늘빛초등학교",
+            "nodeno": 35678
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6580167,
+            "gpslong": 126.6797167,
+            "nodeid": "GGB232000765",
+            "nodenm": "대림e편한세상후문",
+            "nodeno": 35673
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6538167,
+            "gpslong": 126.6826667,
+            "nodeid": "GGB232000726",
+            "nodenm": "운양역",
+            "nodeno": 35649
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.653833,
+            "gpslong": 126.682407,
+            "nodeid": "ICB232000726",
+            "nodenm": "운양역",
+            "nodeno": 80351
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 14
+    }
+  }
+}

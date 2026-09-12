@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.17695,
+            "gpslong": 127.0857167,
+            "nodeid": "GGB233003234",
+            "nodenm": "동탄2수질복원센터",
+            "nodeno": 36681
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1738667,
+            "gpslong": 127.0908,
+            "nodeid": "GGB233002210",
+            "nodenm": "한국지역난방공사",
+            "nodeno": 55103
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1734,
+            "gpslong": 127.09105,
+            "nodeid": "GGB233002211",
+            "nodenm": "한국지역난방공사",
+            "nodeno": 36669
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.17265,
+            "gpslong": 127.0892167,
+            "nodeid": "GGB233001551",
+            "nodenm": "방교동일반산업단지",
+            "nodeno": 36694
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1723667,
+            "gpslong": 127.0879833,
+            "nodeid": "GGB233001969",
+            "nodenm": "방교동일반산업단지",
+            "nodeno": 36154
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1790667,
+            "gpslong": 127.0915167,
+            "nodeid": "GGB233002361",
+            "nodenm": "방교동",
+            "nodeno": 36269
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

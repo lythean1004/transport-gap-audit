@@ -1,0 +1,89 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6500667,
+            "gpslong": 126.7011833,
+            "nodeid": "GGB277103533",
+            "nodenm": "김포한강신도시IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6496,
+            "gpslong": 126.70105,
+            "nodeid": "GGB277103532",
+            "nodenm": "김포한강신도시IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6487,
+            "gpslong": 126.7027333,
+            "nodeid": "GGB277102331",
+            "nodenm": "김포한강신도시IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65025,
+            "gpslong": 126.7006,
+            "nodeid": "GGB277104633",
+            "nodenm": "김포한강신도시IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65025,
+            "gpslong": 126.7000667,
+            "nodeid": "GGB277104632",
+            "nodenm": "김포한강신도시IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64875,
+            "gpslong": 126.70035,
+            "nodeid": "GGB277103995",
+            "nodenm": "김포한강신도시IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6471833,
+            "gpslong": 126.7005833,
+            "nodeid": "GGB232000779",
+            "nodenm": "샘재마을",
+            "nodeno": 35690
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6533333,
+            "gpslong": 126.6992167,
+            "nodeid": "GGB232000045",
+            "nodenm": "에코센터",
+            "nodeno": 35144
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6472,
+            "gpslong": 126.7004333,
+            "nodeid": "GGB232000780",
+            "nodenm": "샘재마을",
+            "nodeno": 35691
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 9
+    }
+  }
+}

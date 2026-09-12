@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1911,
+            "gpslong": 127.1419167,
+            "nodeid": "GGB233003223",
+            "nodenm": "동탄파크릭스",
+            "nodeno": 55982
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1910667,
+            "gpslong": 127.14175,
+            "nodeid": "GGB233002980",
+            "nodenm": "동탄파크릭스",
+            "nodeno": 55974
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

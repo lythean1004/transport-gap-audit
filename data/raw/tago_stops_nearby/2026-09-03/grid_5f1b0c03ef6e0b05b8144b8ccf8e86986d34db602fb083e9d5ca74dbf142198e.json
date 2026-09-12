@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2051,
+            "gpslong": 127.0836,
+            "nodeid": "GGB277104957",
+            "nodenm": "동탄원천로진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2051833,
+            "gpslong": 127.0838833,
+            "nodeid": "GGB277104956",
+            "nodenm": "삼성1로진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2020667,
+            "gpslong": 127.0869833,
+            "nodeid": "GGB233003239",
+            "nodenm": "동탄여울공원",
+            "nodeno": 55988
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2023333,
+            "gpslong": 127.0870833,
+            "nodeid": "GGB233003240",
+            "nodenm": "동탄여울공원",
+            "nodeno": 55989
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

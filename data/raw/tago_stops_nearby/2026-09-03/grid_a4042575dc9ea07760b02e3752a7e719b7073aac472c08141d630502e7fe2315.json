@@ -1,0 +1,23 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "citycode": 31240,
+          "gpslati": 37.1886667,
+          "gpslong": 127.1232667,
+          "nodeid": "GGB233001623",
+          "nodenm": "동원로얄듀크2차.목동초",
+          "nodeno": 37682
+        }
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 1
+    }
+  }
+}

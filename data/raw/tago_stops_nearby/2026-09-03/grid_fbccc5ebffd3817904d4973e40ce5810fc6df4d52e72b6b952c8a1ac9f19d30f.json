@@ -1,0 +1,153 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6576667,
+            "gpslong": 126.6227,
+            "nodeid": "GGB232000301",
+            "nodenm": "양곡주공아파트.오라니장터시장",
+            "nodeno": 35433
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6579167,
+            "gpslong": 126.6228167,
+            "nodeid": "GGB232000292",
+            "nodenm": "양곡주공아파트.오라니장터시장",
+            "nodeno": 35368
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6550667,
+            "gpslong": 126.6243667,
+            "nodeid": "GGB232000306",
+            "nodenm": "양곡사거리.양촌터미널",
+            "nodeno": 35104
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65405,
+            "gpslong": 126.6239,
+            "nodeid": "GGB232000293",
+            "nodenm": "김포한강신협.양곡전통시장",
+            "nodeno": 35101
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.655084,
+            "gpslong": 126.624794,
+            "nodeid": "ICB232000306",
+            "nodenm": "양곡사거리.양촌터미널",
+            "nodeno": 80116
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.653934,
+            "gpslong": 126.623937,
+            "nodeid": "ICB232000293",
+            "nodenm": "김포한강신협",
+            "nodeno": 80035
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6549667,
+            "gpslong": 126.6249333,
+            "nodeid": "GGB232000326",
+            "nodenm": "양곡버스정류장",
+            "nodeno": 35464
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.654962,
+            "gpslong": 126.624971,
+            "nodeid": "ICB232000326",
+            "nodenm": "양곡버스정류장",
+            "nodeno": 80115
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.653664,
+            "gpslong": 126.623848,
+            "nodeid": "ICB232000300",
+            "nodenm": "김포한강신협",
+            "nodeno": 80032
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6535167,
+            "gpslong": 126.6239,
+            "nodeid": "GGB232000300",
+            "nodenm": "김포한강신협.양곡전통시장",
+            "nodeno": 35102
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6566667,
+            "gpslong": 126.6256,
+            "nodeid": "GGB232000666",
+            "nodenm": "양촌읍행정복지센터",
+            "nodeno": 35966
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6595,
+            "gpslong": 126.6179667,
+            "nodeid": "GGB232001154",
+            "nodenm": "오니산교",
+            "nodeno": 35485
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6600833,
+            "gpslong": 126.6239,
+            "nodeid": "GGB232000714",
+            "nodenm": "양곡중.고등학교",
+            "nodeno": 35835
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65975,
+            "gpslong": 126.6178833,
+            "nodeid": "GGB232001155",
+            "nodenm": "오니산교",
+            "nodeno": 35489
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6599833,
+            "gpslong": 126.6241833,
+            "nodeid": "GGB232001085",
+            "nodenm": "양곡중.고등학교",
+            "nodeno": 35342
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6552,
+            "gpslong": 126.6266833,
+            "nodeid": "GGB232000678",
+            "nodenm": "천주교양곡성당.양곡중고",
+            "nodeno": 35112
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6553167,
+            "gpslong": 126.6267333,
+            "nodeid": "GGB232000307",
+            "nodenm": "천주교양곡성당.양곡중고",
+            "nodeno": 35111
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 17
+    }
+  }
+}

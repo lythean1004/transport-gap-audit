@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6376667,
+            "gpslong": 126.6220333,
+            "nodeid": "GGB232000844",
+            "nodenm": "금성백조예미지",
+            "nodeno": 35791
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63735,
+            "gpslong": 126.6226,
+            "nodeid": "GGB232000847",
+            "nodenm": "금성백조예미지",
+            "nodeno": 35794
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6376667,
+            "gpslong": 126.61425,
+            "nodeid": "GGB232000210",
+            "nodenm": "유현1리",
+            "nodeno": 35477
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6377667,
+            "gpslong": 126.6142667,
+            "nodeid": "GGB232000205",
+            "nodenm": "유현1리",
+            "nodeno": 35087
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6355167,
+            "gpslong": 126.6137333,
+            "nodeid": "GGB232000204",
+            "nodenm": "유현리",
+            "nodeno": 35082
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6354333,
+            "gpslong": 126.6137333,
+            "nodeid": "GGB232000211",
+            "nodenm": "사류지마을",
+            "nodeno": 35478
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

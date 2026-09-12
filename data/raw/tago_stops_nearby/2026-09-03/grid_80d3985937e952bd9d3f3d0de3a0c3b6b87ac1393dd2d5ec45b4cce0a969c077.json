@@ -1,0 +1,129 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6104333,
+            "gpslong": 127.1664,
+            "nodeid": "GGB222000724",
+            "nodenm": "다산2동주민센터.양정초.한화아파트(중)",
+            "nodeno": 23804
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6083833,
+            "gpslong": 127.1620333,
+            "nodeid": "GGB222001321",
+            "nodenm": "도농역.동화중고교.다산플루리움(중)",
+            "nodeno": 23929
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6121333,
+            "gpslong": 127.1640333,
+            "nodeid": "GGB222000892",
+            "nodenm": "플루리움3단지",
+            "nodeno": 23138
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6121333,
+            "gpslong": 127.1642833,
+            "nodeid": "GGB222000071",
+            "nodenm": "플루리움3단지",
+            "nodeno": 23165
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.61075,
+            "gpslong": 127.16695,
+            "nodeid": "GGB222000659",
+            "nodenm": "다산2동주민센터.양정초.한화아파트(중)",
+            "nodeno": 23145
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6121833,
+            "gpslong": 127.1659333,
+            "nodeid": "GGB222000712",
+            "nodenm": "정약용도서관",
+            "nodeno": 49861
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.60785,
+            "gpslong": 127.1612333,
+            "nodeid": "GGB222001320",
+            "nodenm": "도농역.동화중고교.다산플루리움(중)",
+            "nodeno": 23925
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6078333,
+            "gpslong": 127.16085,
+            "nodeid": "GGB222001884",
+            "nodenm": "도농역시외.공항버스승강장",
+            "nodeno": 49545
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6108667,
+            "gpslong": 127.1678167,
+            "nodeid": "GGB222001322",
+            "nodenm": "다산2동주민센터.양정초교.한화아파트",
+            "nodeno": 23924
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.61255,
+            "gpslong": 127.1664667,
+            "nodeid": "GGB222000705",
+            "nodenm": "정약용도서관",
+            "nodeno": 49860
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6073833,
+            "gpslong": 127.1606333,
+            "nodeid": "GGB222001885",
+            "nodenm": "도농역시외.공항버스승강장",
+            "nodeno": 49680
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6110667,
+            "gpslong": 127.169,
+            "nodeid": "GGB222000368",
+            "nodenm": "구리남양주교육지원청",
+            "nodeno": 49853
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6079667,
+            "gpslong": 127.1689167,
+            "nodeid": "GGB222001471",
+            "nodenm": "한화꿈에그린아파트.다산2동주민센터",
+            "nodeno": 49388
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.60815,
+            "gpslong": 127.1690833,
+            "nodeid": "GGB222001472",
+            "nodenm": "다산2동주민센터.한화꿈에그린아파트",
+            "nodeno": 49389
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 14
+    }
+  }
+}

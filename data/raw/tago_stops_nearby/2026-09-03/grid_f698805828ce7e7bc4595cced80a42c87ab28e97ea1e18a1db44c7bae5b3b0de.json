@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.5890167,
+            "gpslong": 127.1704833,
+            "nodeid": "GGB222000301",
+            "nodenm": "수석동",
+            "nodeno": 23167
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5888833,
+            "gpslong": 127.17005,
+            "nodeid": "GGB222000302",
+            "nodenm": "수석동.풍속마을",
+            "nodeno": 23166
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

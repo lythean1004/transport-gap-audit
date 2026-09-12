@@ -1,0 +1,1053 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+	<head>
+	    <meta charset="utf-8" />
+	    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=2.0, minimum-scale=1.0, user-scalable=yes" />
+	    <meta name="keywords" content="" />
+	    <meta name="description" content="" />
+	    <meta name="theme-color" content="" />
+	    <link rel="stylesheet" type="text/css" href="/common_2018/css/font.css" />
+	    <!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="/common_2018/css/font_ie8.css" /><![endif]-->
+	    <link rel="stylesheet" type="text/css" href="/site/cleanh/css/sub.css?ver=260120" />
+	    <!--[if lt IE 9]><script src="/common_2018/js/html5.js"></script><![endif]-->
+	    <script src="/common_2018/js/jquery-1.12.4.min.js"></script>
+	    <script src="/common_2018/js/jquery.easing.1.3.min.js"></script>
+		<script src="/common_2020/js/jquery-ui.1.12.1.min.js"></script>
+	    <script src="/common_2018/js/jquery.tab.min.js"></script>
+	    <script src="/common_2018/js/slick.min.js"></script>
+	    <script src="/common_2018/js/slick.extensions.min.js"></script>
+	    <script src="/common_2018/js/jquery.menu.min.js"></script>
+	    <script src="/common_2018/js/jquery.menu.responsive.js"></script>
+	    <script src="/common_2018/js/jquery.responsive.min.js"></script>
+	    <script src="/common_2018/js/program.min.js"></script>
+		<script src="/common_2020/js/plugins.js"></script>
+		<script src="/common_2020/js/layout.js"></script>
+	    <script src="/site/public/js/common.js"></script>
+		<script src="/site/cleanh/js/common.js"></script>
+	    <script src="/site/public/js/sub.js"></script>
+	    <script src="/site/cleanh/js/sub.js"></script>
+
+	    <title>호별보기 - 청정하남</title>
+	</head>
+	<body>
+		<div id="wrapper">
+			
+
+<header id="header" class="center">
+	<h1 class="skip">청정하남</h1>
+	<div class="accessibility">
+		<a href="#contents">본문 바로가기</a>
+	</div>
+
+	<div class="gnb">
+		<div class="wrap clearfix">
+			<div class="site">
+				<ul class="site_list clearfix">
+				<li class="site_item n1"><a href="/sotong/index.do " target="_blank" title="새창" rel="noopener noreferrer" class="site_anchor">시민소통누리집</a></li>
+				<li class="site_item n2"><a href="/photo/index.do" target="_blank" title="새창" rel="noopener noreferrer" class="site_anchor">포토하남</a></li>
+				<li class="site_item n3"><a href="/health/index.do" target="_blank" title="새창" rel="noopener noreferrer" class="site_anchor">보건소</a></li>
+				<li class="site_item n4"><a href="/jumin/index.do" target="_blank" title="새창" rel="noopener noreferrer" class="site_anchor">행정복지센터</a></li>
+				<li class="site_item n5"><a href="http://council.hanam.go.kr" target="_blank" title="새창" rel="noopener noreferrer" class="site_anchor">의회</a></li>
+				<li class="site_item n6"><a href="https://www.hanamlib.go.kr" target="_blank" title="새창" rel="noopener noreferrer" class="site_anchor">시립도서관</a></li>
+				</ul>
+			</div>
+
+			<div class="link">
+				<ul class="link_list clearfix">
+					<!--<li class="link_item user">
+						<ul class="user_list">
+							<li class="user_item login"><a href="/www/loginView.do" class="user_anchor">로그인</a></li>
+						</ul>
+					</li>-->
+					<li class="link_item sitemap">
+						<a href="./sitemap.do?key=4388" class="sitemap_anchor">누리집맵</a>
+					</li>
+					<!--<li class="link_item language">
+						<button type="button" class="language_button">GLOBAL</button>
+						<div class="language_panel" style="display: none;">
+							<ul class="language_list">
+								<li class="language_item active"><a href="/www/index.do" class="language_anchor">KOREAN</a></li>
+								<li class="language_item"><a href="/english/index.do" class="language_anchor">ENGLISH</a></li>
+								<li class="language_item"><a href="/japan/index.do" class="language_anchor">JAPANESE</a></li>
+								<li class="language_item"><a href="/china/index.do" class="language_anchor">CHINESE</a></li>
+							</ul>
+						</div>
+					</li>-->
+					<!--<li class="link_item fz_change">
+						<span class="title">글자크기</span>
+						<ul class="list clearfix">
+							<li class="plus"><button type="button" onclick="Zoom.exec(1); return false;">글자 크게</button></li>
+							<li class="minus"><button type="button" onclick="Zoom.exec(-1); return false;">글자 작게</button></li>
+							<li class="reset"><button type="button" onclick="Zoom.exec(0); return false;">글자 크기 원래대로</button></li>
+						</ul>
+					</li>-->
+					<li class="link_item hanam"><a href="/www/index.do" target="_blank" title="새창" rel="noopener noreferrer" class="hanam_anchor">도약하는 하남</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<div class="home">
+		<div class="wrap">
+			<div class="logo">
+				<a href="./index.do" class="logo_anchor">
+					<img src="/site/jumin/images/common/logo.png" alt="하남시">
+					<span>청정하남</span>
+				</a>
+			</div>
+
+			<div class="search">
+				<button class="search_open">통합검색 열기</button>
+				<div class="search_panel">
+					<h2 class="skip">통합검색</h2>
+					<form name="searchForm" id="searchForm2" action="/search/searchNew.jsp"  method="post" class="search_form">
+						<fieldset class="search_fieldset">
+							<legend>검색</legend>
+							<span class="search_input">
+                                    <input type="search" title="검색어" placeholder="무엇을 찾고 계신가요?" class="search_query" name="query" id="query" onfocus="this.value=''" />
+                                </span>
+							<div class="search_button">
+								<button type="button" class="search_keyboard" value="가상키보드"></button>
+								<input type="submit" class="search_submit" value="검색" />
+							</div>
+						</fieldset>
+					</form>
+					<div class="search_word">
+						<span class="word_title">인기검색어</span>
+						<ul class="word_list">
+							<li class="word_item"><a href="#n" class="word_anchor">공공텃밭</a></li>
+							<li class="word_item"><a href="#n" class="word_anchor">조직도</a></li>
+							<li class="word_item"><a href="#n" class="word_anchor">대형폐기물</a></li>
+							<li class="word_item"><a href="#n" class="word_anchor">방역물품</a></li>
+							<li class="word_item"><a href="#n" class="word_anchor">하남신문고</a></li>
+						</ul>
+					</div>
+					<button type="button" class="search_close">통합검색 닫기</button>
+				</div>
+			</div>
+
+			<!--<div class="weather">
+				<div class="weather_info">
+					<span class="weather_sate type1">맑음</span>
+					&lt;!&ndash; weatherData : true &ndash;&gt;
+					<span class="weather_date">03.18.금</span>
+					<span class="weather_celsius"><span>13.0</span><span>℃</span></span>
+					&lt;!&ndash; airData :
+                      exist : true
+                      , 10 :  2
+                      , 10T :
+                      , 25 : 2
+                      , 25T :
+                      , khai : 2
+                      , khaiT :
+                    &ndash;&gt;
+				</div>
+				<div class="weather_indicator">
+					<span class="weather_aqi">미세먼지 8㎍/m³ <span class="weather_level">좋음</span></span>
+					<span class="weather_cal">대기환경지수 <span class="weather_level">좋음</span></span>
+				</div>
+			</div>-->
+
+			<div class="weather">
+				<div class="weather_info">
+					
+					
+						
+						
+						
+						
+							<span class="weather_sate type4">흐림</span>
+						
+						
+						
+						
+						
+					
+					<span class="weather_date"></span>
+					<span class="weather_celsius"><span>26.0</span><span>℃</span></span>
+
+				</div>
+				<div class="weather_indicator">
+					
+						
+							
+							
+							
+							
+							
+							
+						
+						<span class="weather_aqi">미세먼지㎍/m³ <span class="weather_level">좋음</span></span>
+					
+					
+					
+						
+							
+							
+							
+							
+							
+							
+						
+						<span class="weather_cal">대기환경지수 <span class="weather_level">보통</span></span>
+					
+					
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+	<div id="lnb" class="lnb">
+		<div class="user">
+			<ul class="user_list">
+				<li class="user_item login"><a href="#n" class="user_anchor">로그인</a></li>
+				<!-- 로그인시
+                    <li class="user_item info"><a href="#n" class="user_anchor">내정보</a></li>
+                    <li class="user_item logout"><a href="#n" class="user_anchor">로그아웃</a></li>
+                -->
+			</ul>
+		</div>
+
+		<div class="menu_show">
+			<button type="button" class="menu_btn">주메뉴 열기</button>
+		</div>
+
+		<nav class="menu after eachdown init" style="">
+			<h2 class="skip">주메뉴</h2>
+
+			<div class="menu_header">
+				<div class="link">
+					<ul class="link_list">
+						<li class="link_item hanam">
+							<a href="/www/index.do" class="hanam_anchor">도약하는 하남</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="wrap">
+				<div class="depth depth1"> <!-- 차수에 맞는 숫자와 조합하여 클래스를 넣어주세요 (예 : depth#, depth#_#) -->
+					<ul class="depth_list depth1_list cut">
+												<li class="depth_item depth1_item n1 has">
+							<a href="/cleanh/cleanhNewsLetterWebList.do?key=4348&amp;newsletterType=HO" target="_self" class="depth_text depth1_text">호별보기</a>
+</li>
+						<li class="depth_item depth1_item n2 has">
+							<a href="/cleanh/cleanhBbsNttWebList.do?key=8364" target="_self" class="depth_text depth1_text">기사별보기</a>
+</li>
+						<li class="depth_item depth1_item n3 has">
+							<a href="/cleanh/selectBbsNttList.do?bbsNo=1324&amp;key=5100" target="_self" class="depth_text depth1_text">청정하남TV</a>
+</li>
+						<li class="depth_item depth1_item n4 has">
+							<a href="/cleanh/addCityAdministReaderReqstView.do?key=8367" target="_self" class="depth_text depth1_text">구독 신청·변경·중단</a>
+							<div class="depth depth2">
+								<div class="depth2_content">
+				<div class="depth2_info">
+					<p class="depth2_slogan">시민이 좋아합니다<br />하남이 좋아집니다</p>
+				</div>
+				<ul class="depth_list depth2_list cut">
+					<li class="depth_item depth2_item n1">
+						<a href="/cleanh/addCityAdministReaderReqstView.do?key=8367" target="_self" class="depth_text depth2_text">시정소식지 구독 신청·변경·중단</a>
+					</li>
+					<li class="depth_item depth2_item n2">
+						<a href="/www/contents.do?key=2475&amp;ty=app" target="_blank" class="depth_text depth2_text">시정소식 알림서비스 신청</a>
+					</li>
+			</ul>
+	</div>
+	</div>
+</li>
+						<li class="depth_item depth1_item n5 has">
+							<a href="/cleanh/addNewsletterQuizApplcnWebView.do?key=8366" target="_self" class="depth_text depth1_text">독자참여</a>
+</li>
+
+
+
+<li class="depth_item depth1_item menu_family has">
+<a href="#n" target="_self" class="depth_text depth1_text">패밀리누리집</a>
+<div class="depth depth2">
+	<div class="depth2_content">
+	<ul class="depth_list depth2_list cut">
+		<li class="depth_item depth2_item has wide">
+		<a href="#n" target="_self" class="depth_text depth2_text">하남시 누리집</a>
+		<div class="depth depth3">
+			<ul class="depth_list depth3_list">
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="/sosik/index.do" target="_blank" title="새창" rel="noopener noreferrer">시정소식포털</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="/cleanh/index.do" target="_blank" title="새창" rel="noopener noreferrer">청정하남</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="/photo/index.do" target="_blank" title="새창" rel="noopener noreferrer">포토하남</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="/health/index.do" target="_blank" title="새창" rel="noopener noreferrer">하남시 보건소</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.hanamlib.go.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남시립도서관</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://council.hanam.go.kr" target="_blank" title="새창" rel="noopener noreferrer">하남시의회</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://lll.hanam.go.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남시 평생학습관</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://hedu.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남교육재단</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.hanam.go.kr/hnedu" target="_blank" title="새창" rel="noopener noreferrer">하남혁신교육지구</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.hanam.go.kr/biz/index.do" target="_blank" title="새창" rel="noopener noreferrer">기업지원포털</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://gyeonggi.work.go.kr/hanam/main.do" target="_blank" title="새창" rel="noopener noreferrer">하남일자리센터</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.hnart.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남문화재단</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.huic.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남도시공사</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.hanam.go.kr/its/index.do" target="_blank" title="새창" rel="noopener noreferrer">하남시 교통정보센터</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://hanamsport.or.kr/www/index.do" target="_blank" title="새창" rel="noopener noreferrer">하남종합운동장</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.allsports.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남시체육회</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.holthanam.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남시종합사회복지관</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://hnchildcare.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남시육아종합지원센터</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.hanamrehab.or.kr" target="_blank" title="새창" rel="noopener noreferrer">하남시장애인복지관</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://hanam.familynet.or.kr/index.jsp" target="_blank" title="새창" rel="noopener noreferrer">하남시가족센터</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.cmhc.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남시 정신건강복지센터</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.hmgcwc.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">미사강변종합사회복지관</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.hanamcity1365.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남자원봉사센터</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://hanamcall.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남시 교통약자 이동지원센터</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.hanam.go.kr/youth/" target="_blank" title="새창" rel="noopener noreferrer">하남시청소년상담복지센터</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.hanam.go.kr/mediapole/Home" target="_blank" title="새창" rel="noopener noreferrer">하남시 전자게시대</a></li>
+			<!--<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://map.hanam.go.kr" target="_blank" title="새창" rel="noopener noreferrer">하남시 생활지도</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="/finance/index.do" target="_blank" title="새창" rel="noopener noreferrer">재정정보공개</a></li>-->
+			<!--<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="/www/contents.do?key=3363" target="_self">환경기초시설</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="/www/contents.do?key=3321" target="_self">시민정보화교육</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="/www/contents.do?key=3124" target="_self">사회복지</a></li>-->
+			</ul>
+		</div>
+		</li>
+		<li class="depth_item depth2_item has wide">
+		<a href="#n" target="_self" class="depth_text depth2_text">행정복지센터 누리집</a>
+		<div class="depth depth3">
+			<ul class="depth_list depth3_list cut">
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11283&searchCtgry=%EC%B2%9C%ED%98%84%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">천현동 행정복지센터</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11286&searchCtgry=%EC%8B%A0%EC%9E%A51%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">신장1동 행정복지센터</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11289&searchCtgry=%EC%8B%A0%EC%9E%A52%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">신장2동행정복지센터</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11292&searchCtgry=%EB%8D%95%ED%92%8D1%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">덕풍1동행정복지센터</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11295&searchCtgry=%EB%8D%95%ED%92%8D2%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">덕풍2동행정복지센터</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11298&searchCtgry=%EB%8D%95%ED%92%8D3%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">덕풍3동행정복지센터</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11301&searchCtgry=%EB%AF%B8%EC%82%AC1%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">미사1동행정복지센터</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11304&searchCtgry=%EB%AF%B8%EC%82%AC2%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">미사2동행정복지센터</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11307&searchCtgry=%EB%AF%B8%EC%82%AC3%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">미사3동행정복지센터</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11310&searchCtgry=%EA%B0%90%EB%B6%81%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">감북동행정복지센터</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11313&searchCtgry=%EA%B0%90%EC%9D%BC%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">감일동행정복지센터</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11316&searchCtgry=%EC%9C%84%EB%A1%80%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">위례동행정복지센터</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11319&searchCtgry=%EC%B6%98%EA%B6%81%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">춘궁동행정복지센터</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11322&searchCtgry=%EC%B4%88%EC%9D%B4%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">초이동행정복지센터</a></li>
+			</ul>
+		</div>
+		</li>
+		<li class="depth_item depth2_item has">
+		<a href="#n" target="_self" class="depth_text depth2_text">유관기관 누리집</a>
+		<div class="depth depth3">
+			<ul class="depth_list depth3_list cut">
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.ggpolice.go.kr/hn" target="_blank" title="새창" rel="noopener noreferrer">하남경찰서</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://119.gg.go.kr/hanam" target="_blank" title="새창" rel="noopener noreferrer">하남소방서</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.koreapost.go.kr/465/index.do" target="_blank" title="새창" rel="noopener noreferrer">하남우체국</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://gb.nec.go.kr/gg/bbs/B0000265/list.do?menuNo=1000269#" target="_blank" title="새창" rel="noopener noreferrer">하남선거관리위원회</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://j.nts.go.kr/gyeonggigwangju/main.do" target="_blank" title="새창" rel="noopener noreferrer">경기광주세무서</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://home.kepco.co.kr/kepco/BR/BRACPP001/main.do?boardCd=BRD_000175&teamJisaCd=3900&menuCd=FN140502&jisaNum=53" target="_blank" title="새창" rel="noopener noreferrer">한국전력공사 하남지사</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.me.go.kr/hg/web/main.do" target="_blank" title="새창" rel="noopener noreferrer">한강유역환경청</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.xn--q20b93roljctocfb.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남문화원</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.goegh.kr/goegh/main.do" target="_blank" title="새창" rel="noopener noreferrer">경기도광주하남교육지원청</a></li>
+<!--			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.i-teco.com/" target="_blank" title="새창" rel="noopener noreferrer">지식산업센터</a></li>-->
+			</ul>
+		</div>
+		</li>
+		<li class="depth_item depth2_item has wide">
+		<a href="#n" target="_self" class="depth_text depth2_text">경기도/시/군 누리집</a>
+		<div class="depth depth3">
+			<ul class="depth_list depth3_list cut">
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.gg.go.kr/" target="_blank" title="새창" rel="noopener noreferrer">경기도</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.gp.go.kr" target="_blank" title="새창" rel="noopener noreferrer">가평군</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.goyang.go.kr/index.do" target="_blank" title="새창" rel="noopener noreferrer">고양시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.gccity.go.kr/intro.jsp" target="_blank" title="새창" rel="noopener noreferrer">과천시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.gm.go.kr/pt/index.do" target="_blank" title="새창" rel="noopener noreferrer">광명시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.gjcity.go.kr" target="_blank" title="새창" rel="noopener noreferrer">광주시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.guri.go.kr/www/index.do" target="_blank" title="새창" rel="noopener noreferrer">구리시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.gunpo.go.kr/www/index.do" target="_blank" title="새창" rel="noopener noreferrer">군포시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.gimpo.go.kr/portal/index.do" target="_blank" title="새창" rel="noopener noreferrer">김포시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.bucheon.go.kr/site/main/intro" target="_blank" title="새창" rel="noopener noreferrer">부천시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.yeoncheon.go.kr/www/index.do" target="_blank" title="새창" rel="noopener noreferrer">연천군</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.pocheon.go.kr/www/index.do" target="_blank" title="새창" rel="noopener noreferrer">포천시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.nyj.go.kr/main/1?space=main_header_gnb" target="_blank" title="새창" rel="noopener noreferrer">남양주시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.ddc.go.kr/ddc/index.do" target="_blank" title="새창" rel="noopener noreferrer">동두천시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.seongnam.go.kr/index.do" target="_blank" title="새창" rel="noopener noreferrer">성남시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.suwon.go.kr/index.do" target="_blank" title="새창" rel="noopener noreferrer">수원시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.siheung.go.kr/" target="_blank" title="새창" rel="noopener noreferrer">시흥시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.ansan.go.kr/" target="_blank" title="새창" rel="noopener noreferrer">안산시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.anseong.go.kr/main.do" target="_blank" title="새창" rel="noopener noreferrer">안성시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.anyang.go.kr/main/index.do" target="_blank" title="새창" rel="noopener noreferrer">안양시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.yangju.go.kr/www/index.do" target="_blank" title="새창" rel="noopener noreferrer">양주시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.yp21.go.kr/" target="_blank" title="새창" rel="noopener noreferrer">양평군</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.yeoju.go.kr/main/yj" target="_blank" title="새창" rel="noopener noreferrer">여주시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.osan.go.kr/main.do" target="_blank" title="새창" rel="noopener noreferrer">오산시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.yongin.go.kr/index.do" target="_blank" title="새창" rel="noopener noreferrer">용인시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.uiwang.go.kr/index" target="_blank" title="새창" rel="noopener noreferrer">의왕시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.ui4u.go.kr/main.do" target="_blank" title="새창" rel="noopener noreferrer">의정부시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.icheon.go.kr" target="_blank" title="새창" rel="noopener noreferrer">이천시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.paju.go.kr/index.do" target="_blank" title="새창" rel="noopener noreferrer">파주시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.pyeongtaek.go.kr/main.do" target="_blank" title="새창" rel="noopener noreferrer">평택시</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.hscity.go.kr/www/index.do" target="_blank" title="새창" rel="noopener noreferrer">화성시</a></li>
+			</ul>
+		</div>
+		</li>
+		<!--<li class="depth_item depth2_item has wide">
+		<a href="#n" target="_self" class="depth_text depth2_text">언론기관 누리집</a>
+		<div class="depth depth3">
+			<ul class="depth_list depth3_list cut">
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="https://www.asiatime.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">아시아타임즈</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.kocus.com/" target="_blank" title="새창" rel="noopener noreferrer">교차로저널</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.ctnews.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">시티뉴스</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.ypdn.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남양평매일뉴스</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.kyungdosinmoon.com/" target="_blank" title="새창" rel="noopener noreferrer">경도신문</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.kgmaeil.net/" target="_blank" title="새창" rel="noopener noreferrer">경기매일</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.kgnews.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">경기신문</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.kgdm.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">경기도민</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.jonghapnews.com/" target="_blank" title="새창" rel="noopener noreferrer">종합일보</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.jeonmae.co.kr/main/index.html" target="_blank" title="새창" rel="noopener noreferrer">전국매일</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.joongboo.com/" target="_blank" title="새창" rel="noopener noreferrer">중부일보</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.ccdailynews.com/" target="_blank" title="새창" rel="noopener noreferrer">충청일보</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://hyundaiilbo.com/default.html" target="_blank" title="새창" rel="noopener noreferrer">현대일보</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.sudokwon.com/" target="_blank" title="새창" rel="noopener noreferrer">수도권일보</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.shinailbo.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">신아일보</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.sidaeilbo.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">시대일보</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.1gan.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">일간경기</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.dtoday.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">일간투데이</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.incheonilbo.com/" target="_blank" title="새창" rel="noopener noreferrer">인천일보</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.newstoday.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">뉴스투데이24</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://error.interbest.net/" target="_blank" title="새창" rel="noopener noreferrer">하광신문</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.ehanam.net/" target="_blank" title="새창" rel="noopener noreferrer">하남신문</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.h-dmc.net/" target="_blank" title="새창" rel="noopener noreferrer">미디어하남</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.goodtms.net/" target="_blank" title="새창" rel="noopener noreferrer">굿타임즈</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.kyeonggi.com/" target="_blank" title="새창" rel="noopener noreferrer">경기일보</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.kyeongin.com/main/index.php" target="_blank" title="새창" rel="noopener noreferrer">경인일보</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.kihoilbo.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">기호일보</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.seoul.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">서울신문</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.sktimes.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">선경일보</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.seoulilbo.com/" target="_blank" title="새창" rel="noopener noreferrer">서울신문</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.siminilbo.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">시민일보</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.sisailbo.com/" target="_blank" title="새창" rel="noopener noreferrer">시사일보</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.anewsa.com/" target="_blank" title="새창" rel="noopener noreferrer">아시아뉴스통신</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.asiailbo.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">아시아일보</a></li>
+			<li class="depth_item depth3_item"><a class="depth_text depth3_text" href="http://www.wooriilbomedia.com/" target="_blank" title="새창" rel="noopener noreferrer">우리일보</a></li>
+			</ul>
+		</div>
+		</li>-->
+	</ul>
+	</div>
+</div>
+</li>
+
+<li class="depth_item depth1_item menu_sitemap">
+	<a href="#n" target="_self" class="depth_text depth1_text">전체메뉴</a>
+</li>
+</ul>
+</div>
+
+<div class="family">
+<button class="family_open">하남 패밀리누리집</button>
+<div id="family_panel" class="family_panel">
+	<div class="family_content">
+	<div class="wrap">
+		<h2 class="family_title">하남의 주요 누리집을 한눈에! 하남 패밀리누리집 모아보기</h2>
+		<ul class="family_list">
+		<li class="family_item basic">
+			<div class="basic_title">하남시 누리집</div>
+			<div class="basic_panel">
+			<ul class="basic_list">
+				<li class="basic_item"><a class="basic_anchor" href="/sosik/index.do" target="_blank" title="새창" rel="noopener noreferrer">시정소식포털</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="/cleanh/index.do" target="_blank" title="새창" rel="noopener noreferrer">청정하남</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="/photo/index.do" target="_blank" title="새창" rel="noopener noreferrer">포토하남</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="/health/index.do" target="_blank" title="새창" rel="noopener noreferrer">하남시 보건소</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.hanamlib.go.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남시립도서관</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://council.hanam.go.kr" target="_blank" title="새창" rel="noopener noreferrer">하남시의회</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://lll.hanam.go.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남시 평생학습관</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://hedu.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남교육재단</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.hanam.go.kr/hnedu" target="_blank" title="새창" rel="noopener noreferrer">하남혁신교육지구</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.hanam.go.kr/biz/index.do" target="_blank" title="새창" rel="noopener noreferrer">기업지원포털</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://gyeonggi.work.go.kr/hanam/main.do" target="_blank" title="새창" rel="noopener noreferrer">하남일자리센터</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.hnart.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남문화재단</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.huic.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남도시공사</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.hanam.go.kr/its/index.do" target="_blank" title="새창" rel="noopener noreferrer">하남시 교통정보센터</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://hanamsport.or.kr/www/index.do" target="_blank" title="새창" rel="noopener noreferrer">하남종합운동장</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.allsports.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남시체육회</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.holthanam.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남시종합사회복지관</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://hnchildcare.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남시육아종합지원센터</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.hanamrehab.or.kr" target="_blank" title="새창" rel="noopener noreferrer">하남시장애인복지관</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://hanam.familynet.or.kr/index.jsp" target="_blank" title="새창" rel="noopener noreferrer">하남시가족센터</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.cmhc.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남시 정신건강복지센터</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.hmgcwc.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">미사강변종합사회복지관</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.hanamcity1365.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남자원봉사센터</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://hanamcall.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남시 교통약자 이동지원센터</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.hanam.go.kr/youth/" target="_blank" title="새창" rel="noopener noreferrer">하남시청소년상담복지센터</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.hanam.go.kr/mediapole/Home" target="_blank" title="새창" rel="noopener noreferrer">하남시 전자게시대</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://hncssa.kr" target="_blank" title="새창" rel="noopener noreferrer">하남시지역사회보장협의체</a></li>
+				<!--<li class="basic_item"><a class="basic_anchor" href="http://map.hanam.go.kr" target="_blank" title="새창" rel="noopener noreferrer">하남시 생활지도</a></li>-->
+				<!--<li class="basic_item"><a class="basic_anchor" href="/finance/index.do" target="_blank" title="새창" rel="noopener noreferrer">재정정보공개</a></li>-->
+				<!--<li class="basic_item"><a class="basic_anchor" href="/www/contents.do?key=3363" target="_self">환경기초시설</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="/www/contents.do?key=3321" target="_self">시민정보화교육</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="/www/contents.do?key=3124" target="_self">사회복지</a></li>-->
+			</ul>
+			</div>
+		</li>
+		<li class="family_item basic">
+			<div class="basic_title">행정복지센터 누리집</div>
+			<div class="basic_panel">
+			<ul class="basic_list">
+				<li class="basic_item"><a class="basic_anchor" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11283&searchCtgry=%EC%B2%9C%ED%98%84%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">천현동 행정복지센터</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11286&searchCtgry=%EC%8B%A0%EC%9E%A51%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">신장1동 행정복지센터</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11289&searchCtgry=%EC%8B%A0%EC%9E%A52%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">신장2동행정복지센터</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11292&searchCtgry=%EB%8D%95%ED%92%8D1%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">덕풍1동행정복지센터</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11295&searchCtgry=%EB%8D%95%ED%92%8D2%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">덕풍2동행정복지센터</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11298&searchCtgry=%EB%8D%95%ED%92%8D3%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">덕풍3동행정복지센터</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11301&searchCtgry=%EB%AF%B8%EC%82%AC1%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">미사1동행정복지센터</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11304&searchCtgry=%EB%AF%B8%EC%82%AC2%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">미사2동행정복지센터</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11307&searchCtgry=%EB%AF%B8%EC%82%AC3%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">미사3동행정복지센터</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11310&searchCtgry=%EA%B0%90%EB%B6%81%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">감북동행정복지센터</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11313&searchCtgry=%EA%B0%90%EC%9D%BC%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">감일동 행정복지센터</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11316&searchCtgry=%EC%9C%84%EB%A1%80%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">위례동행정복지센터</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11319&searchCtgry=%EC%B6%98%EA%B6%81%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">춘궁동행정복지센터</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="/jumin/selectBbsNttList.do?bbsNo=764&key=11322&searchCtgry=%EC%B4%88%EC%9D%B4%EB%8F%99" target="_blank" title="새창" rel="noopener noreferrer">초이동행정복지센터</a></li>
+			</ul>
+			</div>
+		</li>
+		<li class="family_item basic">
+			<div class="basic_title">유관기관 누리집</div>
+			<div class="basic_panel">
+			<ul class="basic_list">
+				<li class="basic_item"><a class="basic_anchor" href="http://www.ggpolice.go.kr/hn" target="_blank" title="새창" rel="noopener noreferrer">하남경찰서</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://119.gg.go.kr/hanam" target="_blank" title="새창" rel="noopener noreferrer">하남소방서</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.koreapost.go.kr/465/index.do" target="_blank" title="새창" rel="noopener noreferrer">하남우체국</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://gb.nec.go.kr/gg/bbs/B0000265/list.do?menuNo=1000269" target="_blank" title="새창" rel="noopener noreferrer">하남선거관리위원회</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://j.nts.go.kr/gyeonggigwangju/main.do" target="_blank" title="새창" rel="noopener noreferrer">경기광주세무서</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://home.kepco.co.kr/kepco/BR/BRACPP001/main.do?boardCd=BRD_000175&teamJisaCd=3900&menuCd=FN140502&jisaNum=53" target="_blank" title="새창" rel="noopener noreferrer">한국전력공사 하남지사</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.me.go.kr/hg/web/main.do" target="_blank" title="새창" rel="noopener noreferrer">한강유역환경청</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.xn--q20b93roljctocfb.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남문화원</a></li>
+				<!--<li class="basic_item"><a class="basic_anchor" href="http://www.i-teco.com/" target="_blank" title="새창" rel="noopener noreferrer">지식산업센터</a></li>-->
+				<li class="basic_item"><a class="basic_anchor" href="https://www.goegh.kr/goegh/main.do" target="_blank" title="새창" rel="noopener noreferrer">경기도광주하남교육지원청</a></li>
+			</ul>
+			</div>
+		</li>
+		<li class="family_item basic">
+			<div class="basic_title">경기도/시/군 누리집</div>
+			<div class="basic_panel">
+			<ul class="basic_list">
+				<li class="basic_item"><a class="basic_anchor" href="http://www.gg.go.kr/" target="_blank" title="새창" rel="noopener noreferrer">경기도</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.gp.go.kr" target="_blank" title="새창" rel="noopener noreferrer">가평군</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.goyang.go.kr/index.do" target="_blank" title="새창" rel="noopener noreferrer">고양시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.gccity.go.kr/intro.jsp" target="_blank" title="새창" rel="noopener noreferrer">과천시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.gm.go.kr/pt/index.do" target="_blank" title="새창" rel="noopener noreferrer">광명시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.gjcity.go.kr" target="_blank" title="새창" rel="noopener noreferrer">광주시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.guri.go.kr/www/index.do" target="_blank" title="새창" rel="noopener noreferrer">구리시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.gunpo.go.kr/www/index.do" target="_blank" title="새창" rel="noopener noreferrer">군포시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.gimpo.go.kr/portal/index.do" target="_blank" title="새창" rel="noopener noreferrer">김포시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.bucheon.go.kr/site/main/intro" target="_blank" title="새창" rel="noopener noreferrer">부천시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.yeoncheon.go.kr/www/index.do" target="_blank" title="새창" rel="noopener noreferrer">연천군</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.pocheon.go.kr/www/index.do" target="_blank" title="새창" rel="noopener noreferrer">포천시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.nyj.go.kr/main/1?space=main_header_gnb" target="_blank" title="새창" rel="noopener noreferrer">남양주시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.ddc.go.kr/ddc/index.do" target="_blank" title="새창" rel="noopener noreferrer">동두천시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.seongnam.go.kr/index.do" target="_blank" title="새창" rel="noopener noreferrer">성남시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.suwon.go.kr/index.do" target="_blank" title="새창" rel="noopener noreferrer">수원시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.siheung.go.kr/" target="_blank" title="새창" rel="noopener noreferrer">시흥시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.ansan.go.kr/" target="_blank" title="새창" rel="noopener noreferrer">안산시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.anseong.go.kr/main.do" target="_blank" title="새창" rel="noopener noreferrer">안성시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.anyang.go.kr/main/index.do" target="_blank" title="새창" rel="noopener noreferrer">안양시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.yangju.go.kr/www/index.do" target="_blank" title="새창" rel="noopener noreferrer">양주시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.yp21.go.kr/" target="_blank" title="새창" rel="noopener noreferrer">양평군</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.yeoju.go.kr/main/yj" target="_blank" title="새창" rel="noopener noreferrer">여주시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.osan.go.kr/main.do" target="_blank" title="새창" rel="noopener noreferrer">오산시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.yongin.go.kr/index.do" target="_blank" title="새창" rel="noopener noreferrer">용인시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.uiwang.go.kr/index" target="_blank" title="새창" rel="noopener noreferrer">의왕시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.ui4u.go.kr/main.do" target="_blank" title="새창" rel="noopener noreferrer">의정부시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.icheon.go.kr" target="_blank" title="새창" rel="noopener noreferrer">이천시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.paju.go.kr/index.do" target="_blank" title="새창" rel="noopener noreferrer">파주시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.pyeongtaek.go.kr/main.do" target="_blank" title="새창" rel="noopener noreferrer">평택시</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="https://www.hscity.go.kr/www/index.do" target="_blank" title="새창" rel="noopener noreferrer">화성시</a></li>
+			</ul>
+			</div>
+		</li>
+		<!--<li class="family_item basic">
+			<div class="basic_title">언론기관 누리집</div>
+			<div class="basic_panel">
+			<ul class="basic_list">
+				<li class="basic_item"><a class="basic_anchor" href="https://www.asiatime.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">아시아타임즈</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.kocus.com/" target="_blank" title="새창" rel="noopener noreferrer">교차로저널</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.ctnews.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">시티뉴스</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.ypdn.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남양평매일뉴스</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.kyungdosinmoon.com/" target="_blank" title="새창" rel="noopener noreferrer">경도신문</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.kgmaeil.net/" target="_blank" title="새창" rel="noopener noreferrer">경기매일</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.kgnews.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">경기신문</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.kgdm.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">경기도민</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.jonghapnews.com/" target="_blank" title="새창" rel="noopener noreferrer">종합일보</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.jeonmae.co.kr/main/index.html" target="_blank" title="새창" rel="noopener noreferrer">전국매일</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.joongboo.com/" target="_blank" title="새창" rel="noopener noreferrer">중부일보</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.ccdailynews.com/" target="_blank" title="새창" rel="noopener noreferrer">충청일보</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://hyundaiilbo.com/default.html" target="_blank" title="새창" rel="noopener noreferrer">현대일보</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.sudokwon.com/" target="_blank" title="새창" rel="noopener noreferrer">수도권일보</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.shinailbo.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">신아일보</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.sidaeilbo.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">시대일보</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.1gan.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">일간경기</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.dtoday.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">일간투데이</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.incheonilbo.com/" target="_blank" title="새창" rel="noopener noreferrer">인천일보</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.newstoday.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">뉴스투데이24</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://error.interbest.net/" target="_blank" title="새창" rel="noopener noreferrer">하광신문</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.ehanam.net/" target="_blank" title="새창" rel="noopener noreferrer">하남신문</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.h-dmc.net/" target="_blank" title="새창" rel="noopener noreferrer">미디어하남</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.goodtms.net/" target="_blank" title="새창" rel="noopener noreferrer">굿타임즈</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.kyeonggi.com/" target="_blank" title="새창" rel="noopener noreferrer">경기일보</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.kyeongin.com/main/index.php" target="_blank" title="새창" rel="noopener noreferrer">경인일보</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.kihoilbo.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">기호일보</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.seoul.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">서울신문</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.sktimes.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">선경일보</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.seoulilbo.com/" target="_blank" title="새창" rel="noopener noreferrer">서울신문</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.siminilbo.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">시민일보</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.sisailbo.com/" target="_blank" title="새창" rel="noopener noreferrer">시사일보</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.anewsa.com/" target="_blank" title="새창" rel="noopener noreferrer">아시아뉴스통신</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.asiailbo.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">아시아일보</a></li>
+				<li class="basic_item"><a class="basic_anchor" href="http://www.wooriilbomedia.com/" target="_blank" title="새창" rel="noopener noreferrer">우리일보</a></li>
+			</ul>
+			</div>
+		</li>-->
+		</ul>
+		<button class="family_hide">패밀리누리집 닫기</button>
+	</div>
+	</div>
+</div>
+</div>
+
+</div>
+
+<div class="menu_hide">
+	<button type="button" class="menu_btn">주메뉴 닫기</button>
+</div>
+
+</nav>
+</div>
+</header>
+
+			<main id="container">
+				<article class="wrap">
+					
+
+
+<header class="sub_head">
+	<div class="path">
+		<div class="path_home">
+            <a href="./index.do">홈</a>
+        </div>
+        <ul class="path_list clearfix">
+        	        		<li class="path_item"><span class="path_title">호별보기<button type="button" class="path_open">토글</button></span>
+        		<div class="path_content">
+        			<ul>
+				<li><a href="/cleanh/cleanhNewsLetterWebList.do?key=4348&amp;newsletterType=HO" target="_self">호별보기</a></li>
+			<!-- 더이상 남은 메뉴가 없을 경우 div, ul 닫음 -->
+				<li><a href="/cleanh/cleanhBbsNttWebList.do?key=8364" target="_self">기사별보기</a></li>
+			<!-- 더이상 남은 메뉴가 없을 경우 div, ul 닫음 -->
+				<li><a href="/cleanh/selectBbsNttList.do?bbsNo=1324&amp;key=5100" target="_self">청정하남TV</a></li>
+			<!-- 더이상 남은 메뉴가 없을 경우 div, ul 닫음 -->
+				<li><a href="/cleanh/addCityAdministReaderReqstView.do?key=8367" target="_self">구독 신청·변경·중단</a></li>
+			<!-- 더이상 남은 메뉴가 없을 경우 div, ul 닫음 -->
+				<li><a href="/cleanh/addNewsletterQuizApplcnWebView.do?key=8366" target="_self">독자참여</a></li>
+			<!-- 더이상 남은 메뉴가 없을 경우 div, ul 닫음 -->
+					</ul>
+                 </div>
+                </li>
+
+        </ul>
+	</div>
+	<div class="sub_visual">
+          <div class="sub_title">
+              <h2>호별보기</h2>
+          </div>
+      </div>
+
+       	
+</header>
+
+					 <div id="contents">
+						<div class="pro_cleanview clearfix">
+	
+
+	 <div class="real_view">
+	 	<div class="real_title">
+	 		 <div class="textarea">
+                <div class="pointarea">
+                     <span class="point n1">시정 뉴스</span>
+                </div>
+                <div class="title">
+                    <span>K-pop 허브 도시, 기업 유치로 자족도시 구현</span>
+                </div>
+                <div class="cont">
+                    <p></p>
+                </div>
+                <span class="date">2023-09-21</span>
+            </div>
+	 	</div>
+	 	<div class="real_cont">
+	 	<p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><img src="https://www.hanam.go.kr:443/DATA/editor/2023/09/20230921_115622859_75776.jpeg" style="width: 639px; height: 774px;"></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><img src="https://www.hanam.go.kr:443/DATA/editor/2023/09/20230921_115417035_97716.jpeg" style="width: 569px; height: 588px;"></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="color: rgb(160, 26, 92); font-family: 돋움; font-size: 12pt;"><strong><span style="font-size: 16pt; font-family: 돋움;">미국&nbsp;Sphere社와&nbsp;공&nbsp;모양의&nbsp;대형&nbsp;공연장인&nbsp;‘Sphere’</span></strong></span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="color: rgb(160, 26, 92); font-family: 돋움; font-size: 12pt;"><strong><span style="font-size: 16pt; font-family: 돋움;">하남시&nbsp;유치&nbsp;MOU&nbsp;체결</span></strong></span></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><img src="https://www.hanam.go.kr:443/DATA/editor/2023/09/20230921_115437801_11095.jpeg" style="font-size: 12pt; width: 24px; height: 29px;">&nbsp;세계&nbsp;최대&nbsp;엔터테인먼트&nbsp;회사&nbsp;미국&nbsp;‘Sphere’와&nbsp;MOU&nbsp;체결</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><img src="https://www.hanam.go.kr/DATA/editor/2023/09/20230921_115437801_11095.jpeg" style="font-size: 12pt; width: 24px; height: 29px;"><span style="font-size: 12pt; font-family: 돋움;">&nbsp;</span>스피어社의&nbsp;최첨단&nbsp;대형&nbsp;공연장인&nbsp;공&nbsp;모양의&nbsp;스피어를&nbsp;하남시에&nbsp;유치하기로&nbsp;합의</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><img src="https://www.hanam.go.kr/DATA/editor/2023/09/20230921_115437801_11095.jpeg" style="font-size: 12pt; width: 24px; height: 29px;"><span style="font-size: 12pt; font-family: 돋움;">&nbsp;</span>미국&nbsp;라스베이거스&nbsp;스피어&nbsp;공연장은&nbsp;18K&nbsp;해상도의&nbsp;특수&nbsp;촬영&nbsp;카메라와&nbsp;167,000개의&nbsp;<span style="font-size: 12pt; font-family: 돋움;">증</span><span style="font-size: 12pt; font-family: 돋움;">폭형&nbsp;</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="font-size: 12pt; font-family: 돋움;">스피커로&nbsp;지구&nbsp;표면,&nbsp;우주&nbsp;세계,&nbsp;해저&nbsp;화면&nbsp;등을&nbsp;특수&nbsp;안경을&nbsp;쓰지&nbsp;않고&nbsp;생동감&nbsp;있는&nbsp;</span><span style="font-size: 12pt; font-family: 돋움;">영상으로&nbsp;관람&nbsp;가능</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><img src="https://www.hanam.go.kr/DATA/editor/2023/09/20230921_115437801_11095.jpeg" style="font-size: 12pt; width: 24px; height: 29px;"><span style="font-size: 12pt; font-family: 돋움;">&nbsp;</span>58만&nbsp;평방피트의&nbsp;대형&nbsp;LED&nbsp;스크린&nbsp;외벽을&nbsp;자랑하는&nbsp;스피어&nbsp;공연장&nbsp;유치로&nbsp;하남시가&nbsp;K-pop<span style="font-size: 12pt; font-family: 돋움;">의&nbsp;</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="font-size: 12pt; font-family: 돋움;">허브&nbsp;위치를&nbsp;공고히&nbsp;할&nbsp;것으로&nbsp;예상</span></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><strong style="font-size: 16pt;"><span style="color: rgb(160, 26, 92); font-size: 16pt; font-family: 돋움;">‘우수&nbsp;기업&nbsp;유치’&nbsp;서희건설&nbsp;본사&nbsp;하남&nbsp;이전</span></strong></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><img src="https://www.hanam.go.kr:443/DATA/editor/2023/09/20230921_115506430_54144.jpeg" style="width: 333px; height: 218px;"></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;매출액&nbsp;1.4조&nbsp;원(2022년&nbsp;기준)&nbsp;도급&nbsp;순위&nbsp;21위,&nbsp;총&nbsp;사<span style="font-size: 12pt; font-family: 돋움;">원&nbsp;수&nbsp;1,100명에&nbsp;달하는&nbsp;유명&nbsp;</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="font-size: 12pt; font-family: 돋움;">건설기업&nbsp;서희건설&nbsp;본</span><span style="font-size: 12pt; font-family: 돋움;">사,&nbsp;하남으로&nbsp;이전</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;8월&nbsp;16일&nbsp;하남시-서희건설&nbsp;상호&nbsp;협력을&nbsp;위한&nbsp;업무&nbsp;협<span style="font-size: 12pt; font-family: 돋움;">약을&nbsp;체결함에&nbsp;따라,&nbsp;</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="font-size: 12pt; font-family: 돋움;">기업&nbsp;투자유치&nbsp;지원&nbsp;조례에&nbsp;의거</span><span style="font-size: 12pt; font-family: 돋움;">해&nbsp;경제적&nbsp;인센티브&nbsp;및&nbsp;행정&nbsp;절차&nbsp;지원&nbsp;예정</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;지역&nbsp;경제&nbsp;발전,&nbsp;좋은&nbsp;일자리&nbsp;창출과&nbsp;법인소득세&nbsp;확충<span style="font-size: 12pt; font-family: 돋움;">을&nbsp;통한&nbsp;시의&nbsp;재정&nbsp;안정&nbsp;기대</span></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="color: rgb(160, 26, 92); font-size: 16pt; font-family: 돋움;"><strong style="font-size: 16pt;">‘기업하기&nbsp;좋은&nbsp;도시’&nbsp;</strong></span><strong style="color: rgb(160, 26, 92); font-size: 16pt;">인센티브,&nbsp;세제&nbsp;혜택&nbsp;담긴</strong></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="color: rgb(160, 26, 92); font-family: 돋움; font-size: 12pt;"><strong><span style="font-size: 16pt; font-family: 돋움;">「하남시&nbsp;기업&nbsp;투자유치&nbsp;및&nbsp;지원에&nbsp;관한&nbsp;조례」&nbsp;제정</span></strong></span></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><img src="https://www.hanam.go.kr:443/DATA/editor/2023/09/20230921_115526217_96837.jpeg" style="width: 333px; height: 221px;"></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;국내외&nbsp;기업&nbsp;대상&nbsp;시설&nbsp;투자비,&nbsp;고용&nbsp;보조금,&nbsp;교육<span style="font-size: 12pt; font-family: 돋움;">훈련비&nbsp;지원</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;대규모&nbsp;투자기업&nbsp;특별&nbsp;보조금(투자비&nbsp;500억&nbsp;원&nbsp;이<span style="font-size: 12pt; font-family: 돋움;">상,&nbsp;상시&nbsp;고용&nbsp;인원&nbsp;300명&nbsp;이상&nbsp;기업)&nbsp;지급,&nbsp;</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="font-size: 12pt; font-family: 돋움;">중소기</span><span style="font-size: 12pt; font-family: 돋움;">업&nbsp;지원&nbsp;근로자&nbsp;주택&nbsp;우선&nbsp;공급&nbsp;지원</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;기업유치센터&nbsp;운영,&nbsp;1대1&nbsp;전담&nbsp;프로젝트&nbsp;매니저<span style="font-size: 12pt; font-family: 돋움;">(PM)&nbsp;지정&nbsp;및&nbsp;전문적&nbsp;상담과&nbsp;안내&nbsp;제공&nbsp;예정</span></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="color: rgb(160, 26, 92); font-size: 16pt; font-family: 돋움;"><strong style="font-size: 16pt;">‘현안&nbsp;사업&nbsp;본격&nbsp;추진&nbsp;가동’&nbsp;국토부&nbsp;GB&nbsp;해제&nbsp;지침&nbsp;고시&nbsp;개정</strong></span></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><img src="https://www.hanam.go.kr:443/DATA/editor/2023/09/20230921_115541373_58654.jpeg" style="width: 331px; height: 207px;"></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;개발제한구역&nbsp;환경평가&nbsp;등급&nbsp;1~2등급지&nbsp;그린벨트&nbsp;해<span style="font-size: 12pt; font-family: 돋움;">제&nbsp;불가능했으나,&nbsp;</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="font-size: 12pt; font-family: 돋움;">수질오염원&nbsp;관리&nbsp;대책&nbsp;수립&nbsp;시&nbsp;해</span><span style="font-size: 12pt; font-family: 돋움;">제&nbsp;가능</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;K-스타월드&nbsp;사업&nbsp;대상지인&nbsp;미사동&nbsp;일원부터&nbsp;창우동&nbsp;<span style="font-size: 12pt; font-family: 돋움;">일원&nbsp;등&nbsp;그동안&nbsp;수질&nbsp;2등급지로&nbsp;개발이&nbsp;</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="font-size: 12pt; font-family: 돋움;">불가능했던&nbsp;</span><span style="font-size: 12pt; font-family: 돋움;">지역의&nbsp;그린벨트&nbsp;해제로&nbsp;사업&nbsp;추진&nbsp;기반&nbsp;마련</span></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><img src="https://www.hanam.go.kr:443/DATA/editor/2023/09/20230921_115638588_10842.jpeg" style="width: 492px; height: 389px;"></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="color: rgb(0, 112, 54); font-family: 돋움; font-size: 12pt;"><strong style="font-size: 16pt;">‘명품&nbsp;맨발&nbsp;걷기&nbsp;코스’&nbsp;구산둘레길과&nbsp;황토산책길</strong></span></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;미사한강5호공원(망월동&nbsp;832번지)&nbsp;내&nbsp;구산둘레길&nbsp;및&nbsp;황토산책길&nbsp;조성</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;맨발&nbsp;걷기&nbsp;시설&nbsp;확충해&nbsp;달라는&nbsp;시민&nbsp;요구&nbsp;반영해&nbsp;야자매트&nbsp;둘레길&nbsp;600m,&nbsp;건식&nbsp;황토산책길&nbsp;200m&nbsp;조성</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;단조롭던&nbsp;산책로를&nbsp;개선해,&nbsp;야자매트&nbsp;둘레길로&nbsp;숲을&nbsp;산책하고&nbsp;건식&nbsp;황토산책길&nbsp;맨발&nbsp;걷기로&nbsp;건강&nbsp;관리&nbsp;가능</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="color: rgb(0, 112, 54); font-family: 돋움; font-size: 12pt;"><strong style="font-size: 16pt;">똑똑하게&nbsp;이용하는&nbsp;하남시&nbsp;똑버스&nbsp;운행</strong></span></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;시민이&nbsp;원하는&nbsp;시간과&nbsp;장소에&nbsp;찾아오는&nbsp;수요응답형&nbsp;버<span style="font-size: 12pt; font-family: 돋움;">스&nbsp;8월&nbsp;30일&nbsp;개통</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;감일동&nbsp;3대,&nbsp;위례동&nbsp;3대&nbsp;총&nbsp;6대&nbsp;매일&nbsp;오전&nbsp;6시&nbsp;30분&nbsp;부<span style="font-size: 12pt; font-family: 돋움;">터&nbsp;24시&nbsp;30분까지&nbsp;운행</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;감일&nbsp;지역:&nbsp;감일동&nbsp;전역+서울시&nbsp;올림픽공원역,&nbsp;거여역,&nbsp;<span style="font-size: 12pt; font-family: 돋움;">마천역,&nbsp;마천시장&nbsp;승하차</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">위례&nbsp;지역:&nbsp;위례동&nbsp;전역+서울시&nbsp;장지역,&nbsp;복정역,&nbsp;거여역,&nbsp;<span style="font-size: 12pt; font-family: 돋움;">마천역&nbsp;승하차</span></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><img src="https://www.hanam.go.kr:443/DATA/editor/2023/09/20230921_115701085_70858.jpeg" style="width: 296px; height: 113px;"></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="color: rgb(0, 112, 54); font-family: 돋움; font-size: 12pt;"><strong style="font-size: 16pt;">‘맑고&nbsp;깨끗한&nbsp;수돗물&nbsp;공급’&nbsp;</strong></span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="color: rgb(0, 112, 54); font-family: 돋움; font-size: 12pt;"><strong style="font-size: 16pt;">상수도관&nbsp;개량&nbsp;비용&nbsp;최대&nbsp;180만&nbsp;원&nbsp;지원</strong></span></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;준공&nbsp;후&nbsp;20년&nbsp;이상된&nbsp;130㎡&nbsp;이하의&nbsp;공동&nbsp;주택·단독&nbsp;주<span style="font-size: 12pt; font-family: 돋움;">택·다가구&nbsp;주택을&nbsp;대상으로&nbsp;</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="font-size: 12pt; font-family: 돋움;">면적별&nbsp;총&nbsp;공사비&nbsp;30~90%</span><span style="font-size: 12pt; font-family: 돋움;">(최대&nbsp;180만&nbsp;원)&nbsp;지원</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;하남시&nbsp;홈페이지&nbsp;신청&nbsp;및&nbsp;시청&nbsp;민원실로&nbsp;방문,&nbsp;우편&nbsp;접수</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="font-size: 12pt; font-family: 돋움;">•&nbsp;급수관&nbsp;노후로&nbsp;불편&nbsp;겪는&nbsp;시민에게&nbsp;더&nbsp;맑고&nbsp;깨끗한&nbsp;수</span><span style="font-size: 12pt; font-family: 돋움;">돗물&nbsp;공급</span></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><img src="https://www.hanam.go.kr:443/DATA/editor/2023/09/20230921_115712314_46058.jpeg" style="width: 296px; height: 141px;"></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><img src="https://www.hanam.go.kr:443/DATA/editor/2023/09/20230921_115721677_08278.jpeg" style="width: 610px; height: 389px;"></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="color: rgb(255, 0, 0); font-family: 돋움; font-size: 12pt;"><strong style="font-size: 16pt;">‘안전한&nbsp;통학로&nbsp;조성’&nbsp;워킹&nbsp;스쿨버스(Walking&nbsp;School&nbsp;Bus)</strong></span></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;지정된&nbsp;시간과&nbsp;장소에서&nbsp;학생들이&nbsp;안전하게&nbsp;등교할&nbsp;수&nbsp;있도록&nbsp;워킹&nbsp;스쿨버스&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">도우미의&nbsp;보호&nbsp;아래&nbsp;함께&nbsp;걸어서&nbsp;이동</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;호주,&nbsp;캐나다&nbsp;등&nbsp;해외에서&nbsp;인정받는&nbsp;선진&nbsp;정책&nbsp;적극&nbsp;도입</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;신축&nbsp;건물&nbsp;공사&nbsp;현장이&nbsp;있어,&nbsp;안전사고&nbsp;발생&nbsp;우려가&nbsp;높은&nbsp;감일초등학교&nbsp;통학길을&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">우선&nbsp;선정해&nbsp;9월&nbsp;11일부터&nbsp;사업시&nbsp;행</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;개별&nbsp;통학로&nbsp;특성에&nbsp;맞게&nbsp;미사,&nbsp;감일,&nbsp;위례,&nbsp;원도심에&nbsp;고르게&nbsp;시범&nbsp;노선&nbsp;운영&nbsp;및&nbsp;사업&nbsp;확대&nbsp;예정</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="color: rgb(255, 0, 0); font-family: 돋움; font-size: 12pt;"><strong style="font-size: 16pt;">‘아이들을&nbsp;언어&nbsp;천재로’&nbsp;타일러&nbsp;라쉬,&nbsp;명사&nbsp;특강</strong></span></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;9개&nbsp;국어&nbsp;구사로&nbsp;유명한&nbsp;타일러&nbsp;라쉬가&nbsp;8월&nbsp;30일&nbsp;시청&nbsp;<span style="font-size: 12pt; font-family: 돋움;">별관&nbsp;대강당에서&nbsp;청중&nbsp;500명이&nbsp;</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="font-size: 12pt; font-family: 돋움;">모인&nbsp;가운데&nbsp;‘자녀를&nbsp;</span><span style="font-size: 12pt; font-family: 돋움;">언어&nbsp;천재로&nbsp;키우는&nbsp;교육’을&nbsp;주제로&nbsp;강연</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;명품&nbsp;평생학습도시를&nbsp;조성하겠다는&nbsp;이현재&nbsp;시장의&nbsp;의<span style="font-size: 12pt; font-family: 돋움;">지에&nbsp;따른&nbsp;명사&nbsp;초청&nbsp;강연으로&nbsp;시민들의&nbsp;큰&nbsp;호응</span></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><img src="https://www.hanam.go.kr:443/DATA/editor/2023/09/20230921_115751878_07202.jpeg" style="width: 296px; height: 141px;"></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="color: rgb(255, 0, 0); font-size: 16pt; font-family: 돋움;"><strong style="font-size: 16pt;">‘어르신들도&nbsp;편리하게&nbsp;배우는’&nbsp;찾아가는&nbsp;시니어&nbsp;스마트&nbsp;교육</strong></span></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;7~12월&nbsp;지역&nbsp;내&nbsp;경로당,&nbsp;노인기관&nbsp;등&nbsp;13개소&nbsp;대상으로&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="font-size: 12pt; font-family: 돋움;">총&nbsp;150여&nbsp;차례&nbsp;찾아가는&nbsp;시니어&nbsp;스마트&nbsp;교육&nbsp;실시</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;스마트폰&nbsp;활용&nbsp;방법,&nbsp;키오스크&nbsp;사용&nbsp;교육,&nbsp;생활&nbsp;문해(건<span style="font-size: 12pt; font-family: 돋움;">강&nbsp;관리,&nbsp;인지&nbsp;능력&nbsp;강화)&nbsp;등&nbsp;일상에서&nbsp;</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="font-size: 12pt; font-family: 돋움;">활용할&nbsp;수&nbsp;있는&nbsp;</span><span style="font-size: 12pt; font-family: 돋움;">디지털&nbsp;문해&nbsp;교육으로&nbsp;급변하는&nbsp;생활환경에&nbsp;적응할&nbsp;수&nbsp;</span><span style="font-size: 12pt; font-family: 돋움;">있는&nbsp;프로그램&nbsp;제공</span></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><img src="https://www.hanam.go.kr:443/DATA/editor/2023/09/20230921_115758527_94122.jpeg" style="width: 299px; height: 141px;"></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><img src="https://www.hanam.go.kr:443/DATA/editor/2023/09/20230921_115807671_99014.jpeg" style="width: 501px; height: 374px;"></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><strong><span style="font-size: 16pt; color: rgb(147, 51, 143); font-family: 돋움;">‘시민&nbsp;대화합&nbsp;음악&nbsp;축제’&nbsp;「뮤직&nbsp;인(人)&nbsp;더&nbsp;하남」&nbsp;개최</span></strong></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><img src="https://www.hanam.go.kr:443/DATA/editor/2023/09/20230921_115817846_36129.jpeg" style="width: 187px; height: 133px;"></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;9월&nbsp;9일&nbsp;미사경정공원에서&nbsp;시민&nbsp;중심형&nbsp;축제&nbsp;「뮤직&nbsp;인(人)&nbsp;더&nbsp;하남」&nbsp;개최</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;하남문화재단&nbsp;주관하에&nbsp;하남&nbsp;시민과&nbsp;예술인&nbsp;450명,&nbsp;뮤지컬&nbsp;배우&nbsp;이건명,</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">남경주,&nbsp;민우혁,&nbsp;신영숙,&nbsp;트로트&nbsp;신동&nbsp;정동원&nbsp;축하&nbsp;공연</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;5,000여&nbsp;명의&nbsp;관람객이&nbsp;함께한&nbsp;전례&nbsp;없는&nbsp;대규모&nbsp;음악&nbsp;축제&nbsp;성공적&nbsp;개최</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="color: rgb(147, 51, 143); font-family: 돋움; font-size: 12pt;"><strong style="font-size: 16pt;">‘청년의&nbsp;문제를&nbsp;함께&nbsp;소통하는’&nbsp;</strong></span><strong style="color: rgb(147, 51, 143); font-size: 16pt;">청년의&nbsp;날&nbsp;기념식</strong></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;9월&nbsp;15일&nbsp;청소년수련관&nbsp;다목적홀에서&nbsp;제1회&nbsp;하남시&nbsp;청<span style="font-size: 12pt; font-family: 돋움;">년의&nbsp;날&nbsp;기념식&nbsp;개최</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;다양한&nbsp;청년&nbsp;정책을&nbsp;소개하고,&nbsp;청년들과&nbsp;직접&nbsp;소통하<span style="font-size: 12pt; font-family: 돋움;">며&nbsp;문제&nbsp;해결&nbsp;및&nbsp;청년&nbsp;지원&nbsp;정책을&nbsp;</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="font-size: 12pt; font-family: 돋움;">발굴하는&nbsp;‘청년&nbsp;축제’</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;유명&nbsp;개그맨&nbsp;김원훈&nbsp;강연,&nbsp;팝페라&nbsp;그룹&nbsp;일&nbsp;볼라레(IL&nbsp;Volare)<span style="font-size: 12pt; font-family: 돋움;">공연,</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="font-size: 12pt; font-family: 돋움;">청년&nbsp;멘토&nbsp;특강으로&nbsp;풍성한&nbsp;즐길&nbsp;거리&nbsp;제공</span></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><img src="https://www.hanam.go.kr:443/DATA/editor/2023/09/20230921_115830373_45819.jpeg" style="width: 299px; height: 141px;"></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="color: rgb(147, 51, 143); font-family: 돋움; font-size: 12pt;"><strong style="font-size: 16pt;">‘주민이&nbsp;직접&nbsp;지역&nbsp;문제&nbsp;해결하는’&nbsp;</strong></span><strong style="color: rgb(147, 51, 143); font-size: 16pt;">하남시&nbsp;주민총회</strong></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;8월&nbsp;21일~9월&nbsp;1일,&nbsp;하남시&nbsp;지역&nbsp;내&nbsp;13개동&nbsp;7,984명&nbsp;주<span style="font-size: 12pt; font-family: 돋움;">민&nbsp;참여,&nbsp;</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="font-size: 12pt; font-family: 돋움;">총&nbsp;36개&nbsp;안건을&nbsp;동별&nbsp;주민&nbsp;자치&nbsp;사업으로&nbsp;선정</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;봄봄&nbsp;음악회,&nbsp;힐링&nbsp;음악회,&nbsp;돗자리&nbsp;영화제,&nbsp;WeHA&nbsp;달<span style="font-size: 12pt; font-family: 돋움;">빛초롱&nbsp;걷기&nbsp;축제&nbsp;등&nbsp;축제와&nbsp;정원&nbsp;만들기,&nbsp;</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;"><span style="font-size: 12pt; font-family: 돋움;">덕풍골&nbsp;벽</span><span style="font-size: 12pt; font-family: 돋움;">화&nbsp;조성&nbsp;등&nbsp;다양한&nbsp;지역&nbsp;문제&nbsp;해결&nbsp;사업이&nbsp;주민&nbsp;주도로&nbsp;</span><span style="font-size: 12pt; font-family: 돋움;">2024년&nbsp;추진&nbsp;예정</span></p><p style="line-height: 1.8; font-family: 돋움; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">•&nbsp;동별로&nbsp;주민총회와&nbsp;연계해&nbsp;축제&nbsp;형식으로&nbsp;다채로운&nbsp;행<span style="font-size: 12pt; font-family: 돋움;">사&nbsp;개최,&nbsp;즐거운&nbsp;화합의&nbsp;장&nbsp;마련</span></p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p><p style="line-height: 1.8; font-family: 굴림; font-size: 12pt; margin-top: 0px; margin-bottom: 0px;">&nbsp;</p>
+
+
+
+		  <div class="graybox">
+                <ul class="empathybox">
+                    <li class="empath_li"><span>조회<span class="number">588</span>건</span></li>
+                    <li class="empath_li">
+                        <ul class="snss">
+                            <li><a href="#n" title="새창" class="item_twt">트위터</a></li>
+                            <li><a href="#n" title="새창" class="item_fac">페이스북</a></li>
+                            <li><a href="#n" title="새창" class="item_blo">블로그</a></li>
+                            <li><a href="#n" title="새창" class="item_kak">카카오톡</a></li>
+                            <li><button class="item_copy">URL 복사</button></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+
+	 	  <ul class="temp_board_bottom">
+	 	  
+                <li class="post_prev">
+                <span class="skip">이전글</span>
+                <a href="./cleanhBbsNttWebView.do?key=4348&amp;nttNo=2244">세계 최대 엔터社 ‘Sphere’ 방문 현장</a>
+                </li>
+           
+             
+                <li class="post_next">
+                <span class="skip">다음글</span>
+                <a href="./cleanhBbsNttWebView.do?key=4348&amp;nttNo=2262">《청정하남》에서 하남 시민 여러분의 소중한 의견을 기다립니다!</a>
+                </li>
+               
+            </ul>
+	 	</div>
+	 </div>
+
+	 <div class="right_title">
+		 <div class="row1">
+            <div class="subject">
+                <span class="name">2023년 10월호</span>
+            </div>
+            <div class="sub">
+                <ul class="info">
+                    <li>기사수 1744</li>
+                    <li>조회수 876</li>
+                </ul>
+                <div class="date"><span>2023-09-20</span></div>
+            </div>
+        </div>
+        <div class="imgarea">
+			
+			
+			
+			
+					
+						
+						
+						
+					
+			
+					
+			
+			
+				<img  src="/DATA/newsletter/3223/20230920035612199_XgLh.jpg" alt="2023년 10월호 썸네일"/>
+			
+		</div>
+		 <div class="cont">
+            <div class="buttonarea clearfix">
+            			
+			
+			
+			
+			
+					
+			
+					
+						
+						
+						
+						
+					
+			
+			
+					<a href="/DATA/newsletter/3223/20230920035612209_qnT7.pdf" download="청정하남-10월호-최종 단면-저해상.pdf" class="pro_btn pdf">
+					<span>PDF</span>보기</a>
+			
+            	
+            		<a href="/DATA/cleanhFile/hanam_2023/cleanh10/index.html" target="_blank"  class="pro_btn ebook">
+            		<span>e-book</span>보기
+            		</a>
+            	
+            </div>
+
+            <div class="snsarea">
+                <div class="title">SNS<br/>공유하기</div>
+                <div class="sns_button">
+                    <ul class="sns">
+                        <li class="item_twt"><a href="#n" title="새창">트위터</a></li>
+                        <li class="item_fac"><a href="#n" title="새창">페이스북</a></li>
+                        <li class="item_blo"><a href="#n" title="새창">블로그</a></li>
+                        <li class="item_kak"><a href="#n" title="새창">카카오</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+	</div>
+
+</div>
+		            </div>
+
+					<footer class="satisfy">
+						<h3 class="skip">콘텐츠 만족도 조사</h3>
+
+						<form method="post" name="cntntsEvalHist" id="cntntsEvalHist" action="/sym/sit/cem/addContentsEvalHist.do" onsubmit="return fn_validateCntntsEvalHist(this);">
+							<input type="hidden" name="cntntsEvlNo" id="cntntsEvlNo" value="22716"/>
+							<input type="hidden" name="menuNo" id="menuNo" value="4348"/>
+							<fieldset>
+								<legend>만족도 조사</legend>
+								<div class="satisfy_list clearfix">
+									<p class="question">현재 페이지에서 제공하는 정보와 편의성에 대하여 만족하시나요?</p>
+									<div class="input_radio">
+										<span class="p-form-checkbox">
+											<input type="radio" name="cntntsEvlSe" id="value5" class="p-form-radio__input" value="VERY_SATSFC">
+											<label for="value5" class="p-form-radio__label">매우만족</label>
+										</span>
+										<span class="p-form-checkbox">
+											<input type="radio" name="cntntsEvlSe" id="value4" class="p-form-radio__input" value="SATSFC">
+											<label for="value4" class="p-form-radio__label">만족</label>
+										</span>
+										<span class="p-form-checkbox">
+											<input type="radio" name="cntntsEvlSe" id="value3" class="p-form-radio__input" value="NRMLTY">
+											<label for="value3" class="p-form-radio__label">보통</label>
+										</span>
+										<span class="p-form-checkbox">
+											<input type="radio" name="cntntsEvlSe" id="value2" class="p-form-radio__input" value="DSCNTT">
+											<label for="value2" class="p-form-radio__label">불만족</label>
+										</span>
+										<span class="p-form-checkbox">
+											<input type="radio" name="cntntsEvlSe" id="value1" class="p-form-radio__input" value="VERY_DSCNTT">
+											<label for="value1" class="p-form-radio__label">매우불만족</label>
+										</span>
+									</div>
+								</div>
+								<div class="opinion">
+									<input type="text" name="cntntsOpinionCn" id="cntntsOpinionCn" title="의견을 입력해주세요" placeholder="의견을 입력해 주세요" class="p-input">
+									<span class="opinion_submit"><input type="submit" value="의견등록하기" class="p-button"></span>
+								</div>
+							</fieldset>
+						</form>
+						
+							<h3 class="skip">담당자 정보</h3>
+							<div class="manager_info clearfix">
+								<ul class="clearfix">
+									
+										
+											<li class="n1"><span>정보관리</span> 공보담당관 &nbsp; 브랜드마케팅팀</li>
+											<li class="n2"><span>전화번호</span> <a href="tel:031-790-6066">031-790-6066</a></li>
+											<li class="n3"><span>최종수정일</span> 2024.06.10.</li>
+										
+										
+									
+								</ul>
+								
+									
+										
+										
+										
+										
+											<div class="kogl_open">
+												<button>
+													<img src="/common/images/program/img_opentype04.jpg" alt="공공누리 공공저작물 자유이용허락 : 출처표시 + 상업용금지 + 변경금지">
+												</button>
+											</div>
+											<div class="explanation">
+												<span>본 저작물은 공공누리 제4유형 : 출처표시 + 상업적 이용금지 + 변경금지" 조건에 따라 이용할 수 있습니다.</span>
+											</div>
+										
+									
+								
+							</div>
+						
+					</footer>
+
+				</article>
+			</main>
+			
+
+<footer id="footer">
+	<!--<div class="footer_content2">
+		<div class="wrap">
+
+			 <div class="footer_site">
+				<ul class="footer_site_list clearfix">
+					<li class="footer_site_item">
+						<button type="button" class="footer_site_open">하남시 홈페이지 <span class="footer_site_icon">토글</span></button>
+						<div class="footer_site_content">
+							<ul class="basic_list">
+								<li class="basic_item"><a class="basic_anchor" href="/news/index.do" target="_blank" title="새창" rel="noopener noreferrer">시정뉴스포털</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="/cleanh/index.do" target="_blank" title="새창" rel="noopener noreferrer">청정하남</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="/photo/index.do" target="_blank" title="새창" rel="noopener noreferrer">포토하남</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="https://www.hanam.go.kr/biz/index.do" target="_blank" title="새창" rel="noopener noreferrer">기업지원포털</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://digicamp.kr" target="_blank" title="새창" rel="noopener noreferrer">디지털캠프</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://map.hanam.go.kr" target="_blank" title="새창" rel="noopener noreferrer">하남시 생활지도</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.hanamrehab.or.kr" target="_blank" title="새창" rel="noopener noreferrer">하남시장애인복지관</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://lll.hanam.go.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남시평생학습관</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://council.hanam.go.kr" target="_blank" title="새창" rel="noopener noreferrer">하남시의회</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://gyeonggi.work.go.kr/hanam/main.do" target="_blank" title="새창" rel="noopener noreferrer">일자리센터</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.hanamcity1365.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">자원봉사센터</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="/finance/index.do" target="_blank" title="새창" rel="noopener noreferrer">재정정보공개</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="https://hanamsport.or.kr/www/index.do" target="_blank" title="새창" rel="noopener noreferrer">하남종합운동장</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="https://www.hnart.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남문화재단</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://hanam.familynet.or.kr/index.jsp" target="_blank" title="새창" rel="noopener noreferrer">건강가정·다문화가족<br />지원센터</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.holthanam.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남시종합사회복지관</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://hedu.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남교육재단</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.hmgcwc.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">미사강변종합사회복지관</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.cmhc.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">정신건강증진센터</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="https://www.huic.co.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남도시공사</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.allsports.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남시체육회</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="/health/index.do" target="_blank" title="새창" rel="noopener noreferrer">하남시보건소</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="https://www.hanamlib.go.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남시립도서관</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://hnchildcare.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남시육아종합지원센터</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="https://hanamcall.or.kr/" target="_blank" title="새창" rel="noopener noreferrer">하남시 교통약자이동지원센터</a></li>
+							</ul>
+
+						</div>
+					</li>
+					<li class="footer_site_item">
+						<button type="button" class="footer_site_open">행정복지센터 홈페이지 <span class="footer_site_icon">토글</span></button>
+						<div class="footer_site_content">
+							<ul class="basic_list">
+								<li class="basic_item"><a class="basic_anchor" href="/jumin/contents.do?key=3035" target="_blank" title="새창" rel="noopener noreferrer">천현동 행정복지센터</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="/jumin/contents.do?key=3041" target="_blank" title="새창" rel="noopener noreferrer">신장1동 행정복지센터</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="/jumin/contents.do?key=3047" target="_blank" title="새창" rel="noopener noreferrer">신장2동 행정복지센터</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="/jumin/contents.do?key=3053" target="_blank" title="새창" rel="noopener noreferrer">덕풍1동 행정복지센터</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="/jumin/contents.do?key=3059" target="_blank" title="새창" rel="noopener noreferrer">덕풍2동 행정복지센터</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="/jumin/contents.do?key=3065" target="_blank" title="새창" rel="noopener noreferrer">덕풍3동 행정복지센터</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="/jumin/contents.do?key=3077" target="_blank" title="새창" rel="noopener noreferrer">미사1동 행정복지센터</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="/jumin/contents.do?key=3083" target="_blank" title="새창" rel="noopener noreferrer">미사2동 행정복지센터</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="/jumin/contents.do?key=3071" target="_blank" title="새창" rel="noopener noreferrer">미사3동 행정복지센터</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="/jumin/contents.do?key=3089" target="_blank" title="새창" rel="noopener noreferrer">감북동 행정복지센터</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="/jumin/contents.do?key=5342" target="_blank" title="새창" rel="noopener noreferrer">감일동 행정복지센터</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="/jumin/contents.do?key=3095" target="_blank" title="새창" rel="noopener noreferrer">위례동 행정복지센터</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="/jumin/contents.do?key=3101" target="_blank" title="새창" rel="noopener noreferrer">춘궁동 행정복지센터</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="/jumin/contents.do?key=3107" target="_blank" title="새창" rel="noopener noreferrer">초이동 행정복지센터</a></li>
+							</ul>
+						</div>
+					</li>
+					<li class="footer_site_item">
+						<button type="button" class="footer_site_open">유관기관 홈페이지 <span class="footer_site_icon">토글</span></button>
+						<div class="footer_site_content">
+							<ul class="basic_list">
+								<li class="basic_item"><a class="basic_anchor" href="https://www.ggpolice.go.kr/hn/" target="_blank" title="새창" rel="noopener noreferrer">하남경찰서</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="https://119.gg.go.kr/hanam" target="_blank" title="새창" rel="noopener noreferrer">하남소방서</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="https://www.koreapost.go.kr/465/index.do" target="_blank" title="새창" rel="noopener noreferrer">하남우체국</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.i-teco.com/" target="_blank" title="새창" rel="noopener noreferrer">지식산업센터</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="https://www.goegh.kr/main.php" target="_blank" title="새창" rel="noopener noreferrer">교육지원청</a></li>
+							</ul>
+						</div>
+					</li>
+					<li class="footer_site_item">
+						<button type="button" class="footer_site_open">경기도/시/군 홈페이지 <span class="footer_site_icon">토글</span></button>
+						<div class="footer_site_content">
+							<ul>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.gg.go.kr/" target="_blank" title="새창" rel="noopener noreferrer">경기도</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.gp.go.kr" target="_blank" title="새창" rel="noopener noreferrer">가평군</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.goyang.go.kr/index.do" target="_blank" title="새창" rel="noopener noreferrer">고양시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.gccity.go.kr/main/main.do" target="_blank" title="새창" rel="noopener noreferrer">과천시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.gm.go.kr/pt/index.do" target="_blank" title="새창" rel="noopener noreferrer">광명시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.gjcity.go.kr" target="_blank" title="새창" rel="noopener noreferrer">광주시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.guri.go.kr/main/cityhall" target="_blank" title="새창" rel="noopener noreferrer">구리시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.gunpo.go.kr/www/index.do" target="_blank" title="새창" rel="noopener noreferrer">군포시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.gimpo.go.kr/portal/main.do" target="_blank" title="새창" rel="noopener noreferrer">김포시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.bucheon.go.kr/" target="_blank" title="새창" rel="noopener noreferrer">부천시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="https://www.yeoncheon.go.kr/index.yeoncheon" target="_blank" title="새창" rel="noopener noreferrer">연천군</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.pocheon.go.kr/www/index.do" target="_blank" title="새창" rel="noopener noreferrer">포천시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="https://www.nyj.go.kr/main/1?space=main_header_gnb" target="_blank" title="새창" rel="noopener noreferrer">남양주시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.ddc21.net/ddc/" target="_blank" title="새창" rel="noopener noreferrer">동두천시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.seongnam.go.kr/index.do" target="_blank" title="새창" rel="noopener noreferrer">성남시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.suwon.go.kr/index.do" target="_blank" title="새창" rel="noopener noreferrer">수원시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.siheung.go.kr/" target="_blank" title="새창" rel="noopener noreferrer">시흥시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.ansan.go.kr/" target="_blank" title="새창" rel="noopener noreferrer">안산시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.suwon.go.kr/index.do" target="_blank" title="새창" rel="noopener noreferrer">안성시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="https://www.anyang.go.kr/main/index.do" target="_blank" title="새창" rel="noopener noreferrer">안양시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.yangju.go.kr/www/index.do" target="_blank" title="새창" rel="noopener noreferrer">양주시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="https://www.yp21.go.kr/" target="_blank" title="새창" rel="noopener noreferrer">양평군</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.yeoju.go.kr/main/yj" target="_blank" title="새창" rel="noopener noreferrer">여주시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.osan.go.kr/main.do" target="_blank" title="새창" rel="noopener noreferrer">오산시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="https://www.yongin.go.kr/index.do" target="_blank" title="새창" rel="noopener noreferrer">용인시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.uiwang.go.kr/index" target="_blank" title="새창" rel="noopener noreferrer">의왕시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="https://www.ui4u.go.kr/main.do" target="_blank" title="새창" rel="noopener noreferrer">의정부시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.icheon.go.kr/site/ic/main.do" target="_blank" title="새창" rel="noopener noreferrer">이천시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.paju.go.kr/index.do" target="_blank" title="새창" rel="noopener noreferrer">파주시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.pyeongtaek.go.kr/main.do" target="_blank" title="새창" rel="noopener noreferrer">평택시</a></li>
+								<li class="basic_item"><a class="basic_anchor" href="http://www.hscity.go.kr/index.jsp" target="_blank" title="새창" rel="noopener noreferrer">화성시</a></li>
+							</ul>
+
+						</div>
+					</li>
+
+				</ul>
+			</div>
+
+		</div>
+	</div>-->
+
+	<div class="link">
+		<div class="wrap">
+			<ul class="link_list">
+				<li class="link_item"><a href="/www/contents.do?key=459" class="link_anchor">개인정보처리방침</a></li>
+				<li class="link_item"><a href="/www/contents.do?key=2259" class="link_anchor">저작권정책</a></li>
+				<!--<li class="link_item"><a href="/www/contents.do?key=480" class="link_anchor">청사안내</a></li>-->
+				<li class="link_item"><a href="/www/contents.do?key=482" class="link_anchor">찾아오시는길</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="wrap">
+		<div class="footer_content">
+			<div class="footer_logo2">
+				<span class="logo_image"><img src="/site/www/images/common/footer_logo.png" alt="하남시" /></span>
+			</div>
+			<div class="info">
+				<address><span class="info_address">우)12951 경기도 하남시 대청로 10 (신장동) 하남시청</span><!--<span class="tel">대표전화:031-790-6114</span><span class="fax">팩스:031-790-6399</span>--></address>
+				<p class="info_copyright">COPYRIGHT(C) 2023 HANAM CITY. ALL RIGHTS RESERVED.</p>
+			</div>
+			<div class="footer_call">
+				<a href="tel:031-790-6114">
+					<span class="call_title">하남시 콜센터</span>
+					<span class="call_num">031-790-6114</span>
+					<span class="call_info">이용시간<span>평일 09:00 ~ 18:00</span></span>
+					<span class="call_info2">운영시간 이외에는 당직실 자동전환<br />(031-790-6222)</span>
+				</a>
+			</div>
+		</div>
+	</div>
+
+
+</footer>
+
+			
+
+		</div>
+
+		<script>
+			function fn_validateCntntsEvalHist( frm ) {
+				var valiEvl = false;
+				for( var i=0; i<frm.cntntsEvlSe.length; i++ ) {
+					if( frm.cntntsEvlSe[i].checked == true ) {
+						valiEvl = true;
+						break;
+					}
+				}
+				if( !valiEvl ) {
+					alert("만족도의 등급을 선택하지 않으셨습니다.\n만족도 등급을 선택하여 주세요.");
+					return false;
+				}
+				return true;
+			};
+		</script>
+
+
+	</body>
+</html>

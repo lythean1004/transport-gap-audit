@@ -1,0 +1,185 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6440667,
+            "gpslong": 126.6763667,
+            "nodeid": "GGB232000797",
+            "nodenm": "운양중학교",
+            "nodeno": 35706
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64375,
+            "gpslong": 126.6764,
+            "nodeid": "GGB232000799",
+            "nodenm": "운양중학교",
+            "nodeno": 35708
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6473,
+            "gpslong": 126.6770667,
+            "nodeid": "GGB232000367",
+            "nodenm": "지경",
+            "nodeno": 35209
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6473833,
+            "gpslong": 126.6746,
+            "nodeid": "GGB232000808",
+            "nodenm": "금빛수로",
+            "nodeno": 35717
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6433333,
+            "gpslong": 126.6784,
+            "nodeid": "GGB232000683",
+            "nodenm": "수정마을.휴먼시아",
+            "nodeno": 35623
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6474833,
+            "gpslong": 126.6776,
+            "nodeid": "GGB232000421",
+            "nodenm": "지경",
+            "nodeno": 35208
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6476167,
+            "gpslong": 126.6746833,
+            "nodeid": "GGB232000807",
+            "nodenm": "금빛수로",
+            "nodeno": 35716
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6433333,
+            "gpslong": 126.6787667,
+            "nodeid": "GGB232000684",
+            "nodenm": "수정마을.쌍용예가",
+            "nodeno": 35622
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64775,
+            "gpslong": 126.6784833,
+            "nodeid": "GGB232000753",
+            "nodenm": "한강신도시푸르지오",
+            "nodeno": 35665
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6481,
+            "gpslong": 126.67845,
+            "nodeid": "GGB232000756",
+            "nodenm": "한강신도시푸르지오",
+            "nodeno": 35668
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6475667,
+            "gpslong": 126.6724833,
+            "nodeid": "GGB232000543",
+            "nodenm": "고창초등학교",
+            "nodeno": 35495
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64605,
+            "gpslong": 126.6806167,
+            "nodeid": "GGB232000754",
+            "nodenm": "전원마을4단지",
+            "nodeno": 35666
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6462333,
+            "gpslong": 126.6806167,
+            "nodeid": "GGB232000755",
+            "nodenm": "전원마을4단지",
+            "nodeno": 35667
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6413,
+            "gpslong": 126.6769833,
+            "nodeid": "GGB232000837",
+            "nodenm": "캐널시티",
+            "nodeno": 35784
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6412,
+            "gpslong": 126.6765167,
+            "nodeid": "GGB232000838",
+            "nodenm": "캐널시티",
+            "nodeno": 35785
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6414167,
+            "gpslong": 126.6741833,
+            "nodeid": "GGB232000593",
+            "nodenm": "중앙공원",
+            "nodeno": 35533
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6473833,
+            "gpslong": 126.6718333,
+            "nodeid": "GGB232000544",
+            "nodenm": "고창초등학교",
+            "nodeno": 35499
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6421667,
+            "gpslong": 126.67955,
+            "nodeid": "GGB232000798",
+            "nodenm": "라베니체.쌍용예가",
+            "nodeno": 35707
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6411333,
+            "gpslong": 126.674,
+            "nodeid": "GGB232000579",
+            "nodenm": "중앙공원",
+            "nodeno": 35528
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6439167,
+            "gpslong": 126.68145,
+            "nodeid": "GGB232000422",
+            "nodenm": "전원마을.김포한강롯데캐슬",
+            "nodeno": 35210
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.643911,
+            "gpslong": 126.681462,
+            "nodeid": "ICB232000422",
+            "nodenm": "전원마을.김포한강롯데캐슬",
+            "nodeno": 35210
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 21
+    }
+  }
+}

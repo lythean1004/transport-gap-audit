@@ -1,0 +1,91 @@
+﻿pdf_id,pdf_event_id,filename,event_type,registry_source_id,match_method,match_score,requires_new_registry_row
+PDF-001,PDF-001-occupancy_planned_block,(250131)고양창릉A-4블록신혼희망타운(공공분양)입주자모집공고문.pdf,occupancy_planned_block,SRC-F019,title_development_event,0.894,Y
+PDF-002,PDF-002-occupancy_planned_block,(250724)남양주왕숙A-2블록신혼희망타운(공공분양)입주자모집공고문.pdf,occupancy_planned_block,SRC-F008,title_development_event,0.898,Y
+PDF-003,PDF-003-occupancy_planned_block,(251127)남양주왕숙_B-17BL_공공분양_입주자모집공고문.pdf,occupancy_planned_block,SRC-U001,sha256,1.0,N
+PDF-004,PDF-004-occupancy_planned_block,(정정)(정정)고양창릉S-3블록입주자모집공고문.pdf,occupancy_planned_block,SRC-E2-A09,title_development_event,0.757,Y
+PDF-005,PDF-005-occupancy_planned_block,(정정)(정정)고양창릉S-4블록공공분양입주자모집공고문.pdf,occupancy_planned_block,SRC-E2-A09,title_development_event,0.927,N
+PDF-006,PDF-006-occupancy_planned_block,(정정)250424_교산푸르지오더퍼스트_입주자모집공고.pdf,occupancy_planned_block,SRC-U002,sha256,1.0,N
+PDF-007,PDF-007-occupancy_planned_block,"(정정)고양창릉S-5,S-6블록공공분양주택입주자모집공고문.pdf",occupancy_planned_block,SRC-F020,title_development_event,0.933,N
+PDF-008,PDF-008-occupancy_planned_block,(정정)교산푸르지오더퍼스트_입주자모집공고.pdf,occupancy_planned_block,SRC-U002,exact_excerpt,0.98,N
+PDF-009,PDF-009-occupancy_planned_block,(정정공고) 다산신도시 자연앤푸르지오 입주자모집 정정공고(A3).pdf,occupancy_planned_block,SRC-H021,sha256,1.0,N
+PDF-010,PDF-010-occupancy_planned_block,(정정공고)인천계양A-2블록공공분양입주자모집공고문.pdf,occupancy_planned_block,SRC-E2-A06,sha256,1.0,N
+PDF-012,PDF-012-occupancy_planned_block,(참고자료)김포양곡_행복주택_사회적기업공간_위치_및_공간현황.pdf,occupancy_planned_block,SRC-H009,sha256,1.0,N
+PDF-013,PDF-013-occupancy_planned_block,(참고자료)김포한강_행복주택_사회적기업공간_위치_및_공간_현황.pdf,occupancy_planned_block,SRC-H010,sha256,1.0,N
+PDF-014,PDF-014-occupancy_planned_block,(최종)250331_교산푸르지오더퍼스트_입주자모집공고.pdf,occupancy_planned_block,SRC-U002,exact_excerpt,0.98,N
+PDF-015,PDF-015-occupancy_first_actual,110624(조간)__11년_6~8월_입주예정_아파트_공개(주택정책과).pdf,occupancy_first_actual,,,0.0,Y
+PDF-016,PDF-016-occupancy_first_actual,140630_LH_미사강변도시_첫_입주_시작.pdf,occupancy_first_actual,SRC-H025,title_development_event,1.0,N
+PDF-017,PDF-017-promise_date,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,promise_date,SRC-E1-B09,sha256,1.0,N
+PDF-018,PDF-018-promise_date,200521(14시이후)+하남교산+신도시_과천지구+광역교통개선대책+확정(공공택지기획과).pdf,promise_date,SRC-E2-B08,title_development_event,0.735,Y
+PDF-019,PDF-019-promise_date,201230(조간)남양주왕숙_고양창릉 신도시 교통대책 확정(공공택지기획과 광역교통정책과).pdf,promise_date,SRC-F021,title_development_event,0.692,Y
+PDF-020,PDF-020-occupancy_first_actual,20150123_ 동탄2신도시 첫 입주.pdf,occupancy_first_actual,,,0.0,Y
+PDF-021,PDF-021-promise_date,210125 (조간)3기 신도시_패스트트랙_교통대책 조기 확정 등으로 신속 공급(공공택지기획과).pdf,promise_date,SRC-E2-B06,title_development_event,0.828,Y
+PDF-022,PDF-022-promise_date,210629(15시이후)서부권 2기 신도시 (김포한강_인천검단) 교통개선 대책(광역시설운영과).pdf,promise_date,SRC-E1-B03,sha256,1.0,N
+PDF-023,PDF-023-actual_operation,220318(석간)_진접선_개통_남양주의_새로운_길(철도투자개발과).pdf,actual_operation,,,0.0,Y
+PDF-024,PDF-024-promise_date,220617(조간)_호매실_동탄2_광역교통_개선을_위해_주민의견_듣는다(광역교통정책과).pdf,promise_date,SRC-E1-B02,sha256,1.0,N
+PDF-025,PDF-025-promise_date,221026(석간)_수원_호매실_화성_동탄2_광역교통특별대책_발표(광역교통정책과).pdf,promise_date,SRC-E1-B01,title_development_event,0.816,Y
+PDF-026,PDF-026-promise_date,221111(석간)_수도권_서부지역의_광역교통_확충_등_지역현안_해결_추진(공공택지조사과).pdf,promise_date,SRC-E1-B04,sha256,1.0,N
+PDF-027,PDF-027-promise_date,221128(석간)_위례신도시_노면전차_사업으로_교통이_편리해진다(광역시설정책과).pdf,promise_date,,,0.0,Y
+PDF-027,PDF-027-basic_service,221128(석간)_위례신도시_노면전차_사업으로_교통이_편리해진다(광역시설정책과).pdf,basic_service,,,0.0,Y
+PDF-028,PDF-028-actual_operation,230630(참고)_대곡-소사_복선전철_7월_1일_개통(철도투자개발과).pdf,actual_operation,SRC-F024,title_development_event,0.757,Y
+PDF-029,PDF-029-actual_operation,240329(참고)_GTX-A_수서~동탄_3월_30일_개통(수도권광역급행철도과).pdf,actual_operation,SRC-H005,title_development_event,0.682,Y
+PDF-030,PDF-030-promise_date,240719(조간)_수도권_동부지역__출퇴근_30분_시대_실현_4.4조원_규모의_철도·도로_사업_본격_추진(광역교통정책과) (1).pdf,promise_date,,,0.0,Y
+PDF-031,PDF-031-actual_operation,240809(조간)_남양주~잠실_27분__8월_10일_별내선_개통(광역시설정책과).pdf,actual_operation,SRC-H024,title_development_event,0.8,Y
+PDF-031,PDF-031-basic_service,240809(조간)_남양주~잠실_27분__8월_10일_별내선_개통(광역시설정책과).pdf,basic_service,,,0.0,Y
+PDF-032,PDF-032-actual_operation,241212(조간)_GTX-A_운정중앙~서울역구간__12월_28일_개통(광역급행철도건설과).pdf,actual_operation,,,0.0,Y
+PDF-032,PDF-032-basic_service,241212(조간)_GTX-A_운정중앙~서울역구간__12월_28일_개통(광역급행철도건설과).pdf,basic_service,,,0.0,Y
+PDF-033,PDF-033-occupancy_planned_block,250724(석간) 3기 신도시 남양주왕숙 첫 공급 개시(공공택지관리과).pdf,occupancy_planned_block,,,0.0,Y
+PDF-034,PDF-034-promise_date,260226(동정) 김용석 대광위원장 위례신도시 광역교통개선대책 점검(광역교통정책과).pdf,promise_date,SRC-E1-C06,source_url,0.99,N
+PDF-035,PDF-035-basic_service,"8849번(하남-미사-김포,인천공항) - 하남시청.pdf",basic_service,SRC-E1-C03,source_url,0.99,N
+PDF-036,PDF-036-occupancy_planned_block,[공고문]부천대장_A5블록_신혼희망타운_행복주택_입주자모집(`26.07.23.).pdf,occupancy_planned_block,SRC-F025,title_development_event,0.642,Y
+PDF-037,PDF-037-occupancy_planned_block,[공고문]부천대장_A6블록_신혼희망타운_행복주택_입주자모집(`26.07.23.).pdf,occupancy_planned_block,SRC-F025,title_development_event,0.642,Y
+PDF-038,PDF-038-promise_date,bodo_2.pdf,promise_date,SRC-F010,sha256,1.0,N
+PDF-039,PDF-039-promise_date,BRT _ 대도시권광역교통위원회.pdf,promise_date,SRC-F004,source_url,0.99,N
+PDF-040,PDF-040-occupancy_first_planned,buy.gh.or.kr_land_svc_announce_land_announce_html.jsp_strFile=00586_201802271541281.jsp.pdf,occupancy_first_planned,SRC-H022,source_url,0.99,N
+PDF-044,PDF-044-promise_date,2021-06-29__참고__서부권_2기_신도시_김포한강__인천검단__교통개선_대책.pdf,promise_date,SRC-E1-B03,title_development_event,1.0,N
+PDF-045,PDF-045-promise_date,2022-11-11_수도권_서부지역의_광역교통_확충_등_지역현안_해결_추진.pdf,promise_date,SRC-E1-B04,title_development_event,1.0,N
+PDF-049,PDF-049-promise_date,2020-05-21_하남교산_신도시__과천지구_광역교통개선대책_확정.pdf,promise_date,SRC-E2-B08,title_development_event,0.923,N
+PDF-050,PDF-050-promise_date,2022-06-16_수원_호매실_17일__화성_동탄2지구_21일__광역교통_주민간담회_개최.pdf,promise_date,SRC-E1-B02,title_development_event,1.0,N
+PDF-051,PDF-051-promise_date,2022-10-26__수원호매실_화성동탄2_광역교통_특별대책__발표.pdf,promise_date,SRC-E1-B01,title_development_event,1.0,N
+PDF-052,PDF-052-occupancy_planned_block,＇25년 상반기 경기행복주택 예비입주자 추가모집 공고.pdf,occupancy_planned_block,SRC-E1-A08,sha256,1.0,N
+PDF-069,PDF-069-occupancy_planned_block,★(정정)남양주왕숙A-1BL공공분양입주자모집공고문.pdf,occupancy_planned_block,SRC-F007,title_development_event,0.837,Y
+PDF-070,PDF-070-occupancy_planned_block,★하남시지역국민임대주택예비입주자모집공고(20250314)_최종.pdf,occupancy_planned_block,,,0.0,Y
+PDF-071,PDF-071-occupancy_planned_block,★화성동탄2C-27블록공공분양주택입주자모집공고문.pdf,occupancy_planned_block,SRC-E1-A01,title_development_event,0.979,N
+PDF-072,PDF-072-actual_operation,"경기도, 별내선 개통. 남양주 별내에서 잠실까지 27분이면 간다. 김동연, “구리, 남양주. 경기동북부 주민들 교통 숨통 확 트일 것”.pdf",actual_operation,SRC-F012,source_url,0.99,N
+PDF-072,PDF-072-basic_service,"경기도, 별내선 개통. 남양주 별내에서 잠실까지 27분이면 간다. 김동연, “구리, 남양주. 경기동북부 주민들 교통 숨통 확 트일 것”.pdf",basic_service,SRC-F012,source_url,0.99,N
+PDF-073,PDF-073-occupancy_planned_block,고양창릉S-4블록공공분양입주자모집공고문(안).pdf,occupancy_planned_block,SRC-E2-A09,title_development_event,0.905,N
+PDF-074,PDF-074-actual_operation,"김상호 하남시장, “5호선 개통은 마을, 도시, 일자리 잇는 촉진제”.pdf",actual_operation,,,0.0,Y
+PDF-075,PDF-075-occupancy_planned_block,김포한강Ac-01a블록(데세리브)10년공공임대주택리츠예비입주자모집공고문(26.06.19).pdf,occupancy_planned_block,SRC-E1-A03,title_development_event,0.817,Y
+PDF-076,PDF-076-occupancy_planned_block,김포한강Ac-05블록(센트럴블루힐)10년공공임대주택리츠예비입주자모집공고문(26.08.25).pdf,occupancy_planned_block,SRC-E1-A04,title_development_event,0.822,Y
+PDF-077,PDF-077-occupancy_planned_block,김포한강센트럴블루힐10년공공임대주택리츠예비입주자모집공고(25.10.28).pdf,occupancy_planned_block,SRC-E1-A04,title_development_event,0.758,Y
+PDF-078,PDF-078-basic_service,"남양주시, 땡큐버스 등 6개 노선 개편으로 시민 불편 해소.pdf",basic_service,,,0.0,Y
+PDF-079,PDF-079-occupancy_planned_block,남양주왕숙A-1BL공공분양입주자모집공고문(250724).pdf,occupancy_planned_block,SRC-E2-A07,title_development_event,0.735,Y
+PDF-080,PDF-080-promise_date,"내년 개통 앞둔 위례선 트램, 실제 차량 대공개! 승하차 태그는 어떻게_ _ 서울시 - 내 손안에 서울.pdf",promise_date,,,0.0,Y
+PDF-082,PDF-082-occupancy_planned_block,다산지금A1블록 국민임대주택 입주자모집공고문(200827).pdf,occupancy_planned_block,SRC-E1-A07,title_development_event,0.778,Y
+PDF-084,PDF-084-occupancy_planned_block,미사강변도시 A24블록 10년 공공임대주택리츠 입주자 모집.pdf,occupancy_planned_block,SRC-E1-A10,title_development_event,0.947,N
+PDF-085,PDF-085-occupancy_planned_block,미사강변도시 A25블록 10년 공공임대주택리츠 입주자 모집.pdf,occupancy_planned_block,SRC-E1-A10,title_development_event,0.947,N
+PDF-086,PDF-086-promise_date,민생토론회(교통) _ 국토교통부.pdf,promise_date,SRC-F016,source_url,0.99,N
+PDF-087,PDF-087-basic_service,변경 노선도（다산역）-홈페이지 게시용.pdf,basic_service,,,0.0,Y
+PDF-088,PDF-088-actual_operation,보도자료 - 김포시뉴스포털.pdf,actual_operation,SRC-H011,source_url,0.99,N
+PDF-088,PDF-088-basic_service,보도자료 - 김포시뉴스포털.pdf,basic_service,SRC-H011,source_url,0.99,N
+PDF-089,PDF-089-occupancy_first_actual,보도자료 다산신도시 입주지원 특별대책반 가동.pdf,occupancy_first_actual,SRC-H020,title_development_event,0.842,Y
+PDF-090,PDF-090-occupancy_first_planned,보도자료_final_동탄2신도시_070601.pdf,occupancy_first_planned,,,0.0,Y
+PDF-091,PDF-091-occupancy_planned_block,부천대장A7블록공공분양주택입주자모집공고문_최종.pdf,occupancy_planned_block,SRC-E2-A10,title_development_event,0.933,N
+PDF-092,PDF-092-occupancy_planned_block,부천대장A8블록공공분양주택입주자모집공고문.pdf,occupancy_planned_block,SRC-F026,title_development_event,0.977,N
+PDF-093,PDF-093-promise_date,송파구청 - 분야별정보 - 주택_도시 - 교통대책 - 위례신도시 광역교통 개선대책.pdf,promise_date,SRC-E1-B06,source_url,0.99,N
+PDF-094,PDF-094-occupancy_planned_block,"예비입주자모집공고문(미사12,16)(2).pdf",occupancy_planned_block,,,0.0,Y
+PDF-095,PDF-095-promise_date,"오 시장, 12월 개통 '위례선 트램' 현장점검… _교통체계 혁신, 지역상권 활성화_ _ 시정뉴스 _ 소통공간 _ 서울특별시장.pdf",promise_date,SRC-H016,source_url,0.99,N
+PDF-096,PDF-096-occupancy_planned_block,"위례신도시 1,676세대 공공분양…분양가·청약조건은_ _ 서울시 - 내 손안에 서울.pdf",occupancy_planned_block,,,0.0,Y
+PDF-097,PDF-097-basic_service,인쇄하기 - 하남시청.pdf,basic_service,,,0.0,Y
+PDF-098,PDF-098-actual_operation,"인천시, 6월 27일 검단연장선 개통 기념행사 개최 … 28일 첫 운행.pdf",actual_operation,SRC-F006,source_url,0.99,N
+PDF-099,PDF-099-occupancy_first_planned,정책브리핑 _ 기사인쇄하기.pdf,occupancy_first_planned,,,0.0,Y
+PDF-102,PDF-102-actual_operation,지하철 8호선 남위례역 18일 개통…잠실까지 15분 _ 서울시 - 내 손안에 서울.pdf,actual_operation,SRC-H017,title_development_event,0.652,Y
+PDF-102,PDF-102-basic_service,지하철 8호선 남위례역 18일 개통…잠실까지 15분 _ 서울시 - 내 손안에 서울.pdf,basic_service,,,0.0,Y
+PDF-103,PDF-103-actual_operation,지하철 하남선 개통에 대하여.pdf,actual_operation,SRC-H028,source_url,0.99,N
+PDF-105,PDF-105-promise_date,친환경 트램 '위례선' 시범운행 시작…내년 하반기 개통 _ 서울시 - 내 손안에 서울.pdf,promise_date,,,0.0,Y
+PDF-106,PDF-106-promise_date,"하남미사지구 광역교통개선대책 변경, 확정된 바 없어.pdf",promise_date,SRC-E1-B10,title_development_event,1.0,N
+PDF-107,PDF-107-basic_service,하남시 시내버스 - 하남시청.pdf,basic_service,SRC-E1-C09,source_url,0.99,N
+PDF-108,PDF-108-actual_operation,"하남시, 2021년 ‘빛나는 하남’ 10대 뉴스 선정.pdf",actual_operation,,,0.0,Y
+PDF-108,PDF-108-promise_date,"하남시, 2021년 ‘빛나는 하남’ 10대 뉴스 선정.pdf",promise_date,SRC-H027,title_development_event,0.727,Y
+PDF-109,PDF-109-actual_operation,"하남시, 미사순환 마을버스 노선 개통.pdf",actual_operation,SRC-E1-C09,title_development_event,1.0,N
+PDF-111,PDF-111-actual_operation,화성 동탄신도시∼김포공항 버스 노선 내달 1일부터 운행 _ 연합뉴스.pdf,actual_operation,SRC-E1-C01,source_url,0.99,N
+PDF-111,PDF-111-basic_service,화성 동탄신도시∼김포공항 버스 노선 내달 1일부터 운행 _ 연합뉴스.pdf,basic_service,SRC-E1-C01,source_url,0.99,N

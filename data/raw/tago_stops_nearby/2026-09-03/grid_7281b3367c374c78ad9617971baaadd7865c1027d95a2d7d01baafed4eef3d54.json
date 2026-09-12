@@ -1,0 +1,225 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 23,
+            "gpslati": 37.650687,
+            "gpslong": 126.670802,
+            "nodeid": "ICB232000317",
+            "nodenm": "청송1단지.중흥S클래스",
+            "nodeno": 80102
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6509333,
+            "gpslong": 126.6709167,
+            "nodeid": "GGB232000317",
+            "nodenm": "청송1단지.중흥S클래스",
+            "nodeno": 35202
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6510333,
+            "gpslong": 126.6707,
+            "nodeid": "GGB232000316",
+            "nodenm": "청송1단지.중흥S클래스",
+            "nodeno": 35203
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.651077,
+            "gpslong": 126.670725,
+            "nodeid": "ICB232000316",
+            "nodenm": "청송1단지.중흥S클래스",
+            "nodeno": 80090
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6506667,
+            "gpslong": 126.6737167,
+            "nodeid": "GGB232000730",
+            "nodenm": "한강로사거리",
+            "nodeno": 35291
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6518167,
+            "gpslong": 126.6717167,
+            "nodeid": "GGB232000457",
+            "nodenm": "장기본동행정복지센터(마을)",
+            "nodeno": 35207
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.650678,
+            "gpslong": 126.673737,
+            "nodeid": "ICB232000730",
+            "nodenm": "한강로사거리",
+            "nodeno": 35291
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6475667,
+            "gpslong": 126.6724833,
+            "nodeid": "GGB232000543",
+            "nodenm": "고창초등학교",
+            "nodeno": 35495
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6473833,
+            "gpslong": 126.6718333,
+            "nodeid": "GGB232000544",
+            "nodenm": "고창초등학교",
+            "nodeno": 35499
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.650916,
+            "gpslong": 126.674084,
+            "nodeid": "ICB232000732",
+            "nodenm": "한강로사거리",
+            "nodeno": 35295
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65095,
+            "gpslong": 126.6741,
+            "nodeid": "GGB232000732",
+            "nodenm": "한강로사거리",
+            "nodeno": 35295
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65215,
+            "gpslong": 126.66895,
+            "nodeid": "GGB232000872",
+            "nodenm": "중흥S클래스.호반더퍼스트",
+            "nodeno": 35819
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65225,
+            "gpslong": 126.6691167,
+            "nodeid": "GGB232000866",
+            "nodenm": "중흥S클래스.호반더퍼스트",
+            "nodeno": 35813
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.652753,
+            "gpslong": 126.671502,
+            "nodeid": "ICB232000368",
+            "nodenm": "장기본동행정복지센터",
+            "nodeno": 35204
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6527667,
+            "gpslong": 126.6715333,
+            "nodeid": "GGB232000368",
+            "nodenm": "장기본동행정복지센터",
+            "nodeno": 35204
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6476167,
+            "gpslong": 126.6746833,
+            "nodeid": "GGB232000807",
+            "nodenm": "금빛수로",
+            "nodeno": 35716
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.648257,
+            "gpslong": 126.667274,
+            "nodeid": "ICB232000318",
+            "nodenm": "청송2.3단지",
+            "nodeno": 80101
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6473833,
+            "gpslong": 126.6746,
+            "nodeid": "GGB232000808",
+            "nodenm": "금빛수로",
+            "nodeno": 35717
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64825,
+            "gpslong": 126.6671833,
+            "nodeid": "GGB232000318",
+            "nodenm": "청송2.3단지",
+            "nodeno": 35200
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.653123,
+            "gpslong": 126.671726,
+            "nodeid": "ICB232000420",
+            "nodenm": "장기본동행정복지센터.성창.에일린의뜰",
+            "nodeno": 35206
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65315,
+            "gpslong": 126.6717333,
+            "nodeid": "GGB232000420",
+            "nodenm": "장기본동행정복지센터.성창.에일린의뜰",
+            "nodeno": 35206
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64815,
+            "gpslong": 126.66665,
+            "nodeid": "GGB232000315",
+            "nodenm": "청송2.3단지",
+            "nodeno": 35198
+          },
+          {
+            "citycode": 23,
+            "gpslati": "37.648140",
+            "gpslong": 126.666643,
+            "nodeid": "ICB232000315",
+            "nodenm": "청송2.3단지",
+            "nodeno": 80089
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6455333,
+            "gpslong": 126.6700667,
+            "nodeid": "GGB232000518",
+            "nodenm": "장기역4번출구",
+            "nodeno": 35313
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6518333,
+            "gpslong": 126.6757667,
+            "nodeid": "GGB232000786",
+            "nodenm": "삼성래미안",
+            "nodeno": 35697
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6518833,
+            "gpslong": 126.67595,
+            "nodeid": "GGB232000785",
+            "nodenm": "삼성래미안",
+            "nodeno": 35696
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 26
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31120,
+            "gpslati": 37.6352,
+            "gpslong": 127.1404167,
+            "nodeid": "GGB221000135",
+            "nodenm": "두레물골",
+            "nodeno": 22100
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6365,
+            "gpslong": 127.1403167,
+            "nodeid": "GGB221000010",
+            "nodenm": "두레물골",
+            "nodeno": 22099
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6328333,
+            "gpslong": 127.1420333,
+            "nodeid": "GGB221000011",
+            "nodenm": "사노리안말",
+            "nodeno": 22115
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.63795,
+            "gpslong": 127.1394,
+            "nodeid": "GGB221000136",
+            "nodenm": "양지마을.내양초교.시립노인요양원",
+            "nodeno": 22088
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6319667,
+            "gpslong": 127.14195,
+            "nodeid": "GGB221000134",
+            "nodenm": "사노리안말",
+            "nodeno": 22116
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6391667,
+            "gpslong": 127.1399667,
+            "nodeid": "GGB221000095",
+            "nodenm": "언제마을.내양초교.시립노인요양원",
+            "nodeno": 22087
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6377167,
+            "gpslong": 127.1382833,
+            "nodeid": "GGB221000363",
+            "nodenm": "양촌노인정",
+            "nodeno": 22294
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6376833,
+            "gpslong": 127.1381667,
+            "nodeid": "GGB221000362",
+            "nodenm": "양촌노인정",
+            "nodeno": 22293
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 8
+    }
+  }
+}

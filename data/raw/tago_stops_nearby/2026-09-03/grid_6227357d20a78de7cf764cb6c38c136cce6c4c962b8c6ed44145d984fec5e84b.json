@@ -1,0 +1,121 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31120,
+            "gpslati": 37.6295833,
+            "gpslong": 127.1429167,
+            "nodeid": "GGB221000169",
+            "nodenm": "구리왕숙체육공원입구",
+            "nodeno": 22331
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.62955,
+            "gpslong": 127.14215,
+            "nodeid": "GGB221000161",
+            "nodenm": "구리왕숙체육공원입구",
+            "nodeno": 22325
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6304167,
+            "gpslong": 127.1413333,
+            "nodeid": "GGB221000012",
+            "nodenm": "구리시립묘지",
+            "nodeno": 22113
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6292333,
+            "gpslong": 127.14065,
+            "nodeid": "GGB221000133",
+            "nodenm": "구리시립묘지",
+            "nodeno": 22107
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6319667,
+            "gpslong": 127.14195,
+            "nodeid": "GGB221000134",
+            "nodenm": "사노리안말",
+            "nodeno": 22116
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6269833,
+            "gpslong": 127.1403333,
+            "nodeid": "GGB221000096",
+            "nodenm": "돌무들",
+            "nodeno": 22096
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6328333,
+            "gpslong": 127.1420333,
+            "nodeid": "GGB221000011",
+            "nodenm": "사노리안말",
+            "nodeno": 22115
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6268333,
+            "gpslong": 127.1399833,
+            "nodeid": "GGB221000132",
+            "nodenm": "돌무들",
+            "nodeno": 22093
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.63105,
+            "gpslong": 127.1386167,
+            "nodeid": "GGB221000023",
+            "nodenm": "구리해오름교회",
+            "nodeno": 22123
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6289833,
+            "gpslong": 127.1475667,
+            "nodeid": "GGB222000373",
+            "nodenm": "다산리코빌",
+            "nodeno": 49850
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6286167,
+            "gpslong": 127.1476,
+            "nodeid": "GGB277104597",
+            "nodenm": "차고지출발(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6312333,
+            "gpslong": 127.1382667,
+            "nodeid": "GGB221000341",
+            "nodenm": "사노동.안말",
+            "nodeno": 22272
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6266667,
+            "gpslong": 127.1471667,
+            "nodeid": "GGB222000818",
+            "nodenm": "다산하늘초.한양수자인1차후문",
+            "nodeno": 49203
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 13
+    }
+  }
+}

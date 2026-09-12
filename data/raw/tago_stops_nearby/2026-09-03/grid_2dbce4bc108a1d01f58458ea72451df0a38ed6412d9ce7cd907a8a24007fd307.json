@@ -1,0 +1,23 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "citycode": 31240,
+          "gpslati": 37.1902833,
+          "gpslong": 127.1258167,
+          "nodeid": "GGB233003156",
+          "nodenm": "e편한세상동탄",
+          "nodeno": 55553
+        }
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 1
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.64775,
+            "gpslong": 126.6784833,
+            "nodeid": "GGB232000753",
+            "nodenm": "한강신도시푸르지오",
+            "nodeno": 35665
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6481,
+            "gpslong": 126.67845,
+            "nodeid": "GGB232000756",
+            "nodenm": "한강신도시푸르지오",
+            "nodeno": 35668
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6474833,
+            "gpslong": 126.6776,
+            "nodeid": "GGB232000421",
+            "nodenm": "지경",
+            "nodeno": 35208
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6473,
+            "gpslong": 126.6770667,
+            "nodeid": "GGB232000367",
+            "nodenm": "지경",
+            "nodeno": 35209
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6462333,
+            "gpslong": 126.6806167,
+            "nodeid": "GGB232000755",
+            "nodenm": "전원마을4단지",
+            "nodeno": 35667
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6497833,
+            "gpslong": 126.67795,
+            "nodeid": "GGB232001170",
+            "nodenm": "모담폭포",
+            "nodeno": 35994
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64605,
+            "gpslong": 126.6806167,
+            "nodeid": "GGB232000754",
+            "nodenm": "전원마을4단지",
+            "nodeno": 35666
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6476167,
+            "gpslong": 126.6746833,
+            "nodeid": "GGB232000807",
+            "nodenm": "금빛수로",
+            "nodeno": 35716
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6473833,
+            "gpslong": 126.6746,
+            "nodeid": "GGB232000808",
+            "nodenm": "금빛수로",
+            "nodeno": 35717
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6514,
+            "gpslong": 126.6779,
+            "nodeid": "GGB232000759",
+            "nodenm": "반도유보라2차.김포대학교",
+            "nodeno": 35669
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6516667,
+            "gpslong": 126.6788333,
+            "nodeid": "GGB232000758",
+            "nodenm": "반도유보라2차.김포대학교",
+            "nodeno": 35389
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6440667,
+            "gpslong": 126.6763667,
+            "nodeid": "GGB232000797",
+            "nodenm": "운양중학교",
+            "nodeno": 35706
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6439167,
+            "gpslong": 126.68145,
+            "nodeid": "GGB232000422",
+            "nodenm": "전원마을.김포한강롯데캐슬",
+            "nodeno": 35210
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.643911,
+            "gpslong": 126.681462,
+            "nodeid": "ICB232000422",
+            "nodenm": "전원마을.김포한강롯데캐슬",
+            "nodeno": 35210
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6454667,
+            "gpslong": 126.6836167,
+            "nodeid": "GGB232000744",
+            "nodenm": "전원마을1단지.김포한강롯데캐슬",
+            "nodeno": 35578
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6453,
+            "gpslong": 126.6836,
+            "nodeid": "GGB232000743",
+            "nodenm": "전원마을1단지.김포한강롯데캐슬",
+            "nodeno": 35577
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6433333,
+            "gpslong": 126.6787667,
+            "nodeid": "GGB232000684",
+            "nodenm": "수정마을.쌍용예가",
+            "nodeno": 35622
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6433333,
+            "gpslong": 126.6784,
+            "nodeid": "GGB232000683",
+            "nodenm": "수정마을.휴먼시아",
+            "nodeno": 35623
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 18
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5620167,
+            "gpslong": 127.1815333,
+            "nodeid": "GGB227000220",
+            "nodenm": "윤슬중학교.강솔초등학교",
+            "nodeno": 28508
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5645833,
+            "gpslong": 127.18015,
+            "nodeid": "GGB227000006",
+            "nodenm": "미사강변17단지.강일리버7단지",
+            "nodeno": 28467
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5597167,
+            "gpslong": 127.1820333,
+            "nodeid": "GGB227000005",
+            "nodenm": "미사강변센텀팰리스.강일리버10단지",
+            "nodeno": 28022
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55935,
+            "gpslong": 127.1834667,
+            "nodeid": "GGB227000266",
+            "nodenm": "미사역사일가공원.센텀팰리스.하남고",
+            "nodeno": 28298
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.56645,
+            "gpslong": 127.1811833,
+            "nodeid": "GGB227000199",
+            "nodenm": "미사강변루나리움.17단지",
+            "nodeno": 28017
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5591833,
+            "gpslong": 127.1840833,
+            "nodeid": "GGB227000354",
+            "nodenm": "미사역사일가공원.동일하이빌.센텀팰리스",
+            "nodeno": 28587
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5667167,
+            "gpslong": 127.18085,
+            "nodeid": "GGB227000196",
+            "nodenm": "미사강변루나리움.17단지",
+            "nodeno": 28018
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5627833,
+            "gpslong": 127.1862167,
+            "nodeid": "GGB227000232",
+            "nodenm": "미사강변푸르지오.하우스디더레이크",
+            "nodeno": 28289
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5638,
+            "gpslong": 127.1860167,
+            "nodeid": "GGB227000230",
+            "nodenm": "미사강변푸르지오.하우스디더레이크",
+            "nodeno": 28287
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 9
+    }
+  }
+}

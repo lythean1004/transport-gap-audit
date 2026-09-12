@@ -1,0 +1,209 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5383333,
+            "gpslong": 127.2127833,
+            "nodeid": "GGB227000272",
+            "nodenm": "하남시청정문.홈플러스",
+            "nodeno": 28510
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5392667,
+            "gpslong": 127.21145,
+            "nodeid": "GGB227000137",
+            "nodenm": "시청사거리",
+            "nodeno": 28093
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.53775,
+            "gpslong": 127.2135667,
+            "nodeid": "GGB227000275",
+            "nodenm": "하남시청정문.홈플러스",
+            "nodeno": 28511
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5396167,
+            "gpslong": 127.2136,
+            "nodeid": "GGB227000136",
+            "nodenm": "하남시청",
+            "nodeno": 28095
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5400333,
+            "gpslong": 127.2136333,
+            "nodeid": "GGB227000034",
+            "nodenm": "하남시청",
+            "nodeno": 28096
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5363833,
+            "gpslong": 127.2139667,
+            "nodeid": "GGB227000259",
+            "nodenm": "현대홈타운",
+            "nodeno": 28292
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5364,
+            "gpslong": 127.2143833,
+            "nodeid": "GGB227000258",
+            "nodenm": "하남시평생학습관",
+            "nodeno": 28291
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5404833,
+            "gpslong": 127.2096667,
+            "nodeid": "GGB227000033",
+            "nodenm": "장지마을앞",
+            "nodeno": 28089
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5357667,
+            "gpslong": 127.2096667,
+            "nodeid": "GGB227000149",
+            "nodenm": "하남지구대",
+            "nodeno": 28088
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5403167,
+            "gpslong": 127.2092833,
+            "nodeid": "GGB227000138",
+            "nodenm": "장지마을",
+            "nodeno": 28087
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54025,
+            "gpslong": 127.2140833,
+            "nodeid": "GGB227000243",
+            "nodenm": "하남시청(중)",
+            "nodeno": 28278
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54045,
+            "gpslong": 127.2093,
+            "nodeid": "GGB227000245",
+            "nodenm": "장지마을(중)",
+            "nodeno": 28274
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5366167,
+            "gpslong": 127.2083333,
+            "nodeid": "GGB227000148",
+            "nodenm": "동부주유소",
+            "nodeno": 28086
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5351667,
+            "gpslong": 127.2108,
+            "nodeid": "GGB227000019",
+            "nodenm": "성광학교",
+            "nodeno": 28171
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5350333,
+            "gpslong": 127.2117833,
+            "nodeid": "GGB227000150",
+            "nodenm": "성광학교",
+            "nodeno": 28092
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5367833,
+            "gpslong": 127.2077167,
+            "nodeid": "GGB227000020",
+            "nodenm": "동부주유소",
+            "nodeno": 28085
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54085,
+            "gpslong": 127.2087667,
+            "nodeid": "GGB227000244",
+            "nodenm": "장지마을(중)",
+            "nodeno": 28279
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5369,
+            "gpslong": 127.2158,
+            "nodeid": "GGB227000011",
+            "nodenm": "천현초등학교",
+            "nodeno": 28104
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5406333,
+            "gpslong": 127.2149167,
+            "nodeid": "GGB227000242",
+            "nodenm": "하남시청(중)",
+            "nodeno": 28281
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5366833,
+            "gpslong": 127.2158833,
+            "nodeid": "GGB227000010",
+            "nodenm": "천현초등학교",
+            "nodeno": 28102
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5347667,
+            "gpslong": 127.21375,
+            "nodeid": "GGB227000151",
+            "nodenm": "천현사거리.꿈나무공원",
+            "nodeno": 28097
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5348,
+            "gpslong": 127.2140667,
+            "nodeid": "GGB227000018",
+            "nodenm": "천현사거리.꿈나무공원",
+            "nodeno": 28099
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5406,
+            "gpslong": 127.2158167,
+            "nodeid": "GGB227000135",
+            "nodenm": "현대베스코아.세무서",
+            "nodeno": 28103
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5408833,
+            "gpslong": 127.21575,
+            "nodeid": "GGB227000355",
+            "nodenm": "현대베스코아.세무서",
+            "nodeno": 28589
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 24
+    }
+  }
+}

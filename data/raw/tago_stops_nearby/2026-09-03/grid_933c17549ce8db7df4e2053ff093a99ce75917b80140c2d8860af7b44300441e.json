@@ -1,0 +1,145 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6562833,
+            "gpslong": 126.6350833,
+            "nodeid": "GGB232000637",
+            "nodenm": "신양초교.신양고교",
+            "nodeno": 35595
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65645,
+            "gpslong": 126.63545,
+            "nodeid": "GGB232000638",
+            "nodenm": "신양초교.신양고교",
+            "nodeno": 35592
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6538667,
+            "gpslong": 126.6340667,
+            "nodeid": "GGB232000664",
+            "nodenm": "고다니8단지",
+            "nodeno": 35608
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6533333,
+            "gpslong": 126.6366833,
+            "nodeid": "GGB277102729",
+            "nodenm": "차량대기(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6582333,
+            "gpslong": 126.6351833,
+            "nodeid": "GGB232000636",
+            "nodenm": "신양중학교",
+            "nodeno": 35440
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6536,
+            "gpslong": 126.6336833,
+            "nodeid": "GGB232000663",
+            "nodenm": "고다니8단지",
+            "nodeno": 35306
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6584333,
+            "gpslong": 126.6353167,
+            "nodeid": "GGB232000635",
+            "nodenm": "신양중학교",
+            "nodeno": 35594
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6555833,
+            "gpslong": 126.6321833,
+            "nodeid": "GGB232001088",
+            "nodenm": "고다니마을7단지",
+            "nodeno": 35428
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65545,
+            "gpslong": 126.6321333,
+            "nodeid": "GGB232001089",
+            "nodenm": "고다니마을7단지",
+            "nodeno": 35466
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6526667,
+            "gpslong": 126.63585,
+            "nodeid": "GGB232000643",
+            "nodenm": "김포한강듀클래스",
+            "nodeno": 35597
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6525333,
+            "gpslong": 126.6359667,
+            "nodeid": "GGB232000574",
+            "nodenm": "김포한강듀클래스",
+            "nodeno": 35521
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6591833,
+            "gpslong": 126.6369,
+            "nodeid": "GGB232000667",
+            "nodenm": "신양중학교(마을)",
+            "nodeno": 35103
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6592333,
+            "gpslong": 126.6367167,
+            "nodeid": "GGB232000592",
+            "nodenm": "신양중학교(마을)",
+            "nodeno": 35535
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6585833,
+            "gpslong": 126.6324667,
+            "nodeid": "GGB232000239",
+            "nodenm": "곡촌마을.금호어울림1단지",
+            "nodeno": 35117
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6583167,
+            "gpslong": 126.6320833,
+            "nodeid": "GGB232000238",
+            "nodenm": "곡촌마을.금호어울림1단지",
+            "nodeno": 35467
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6525333,
+            "gpslong": 126.6395667,
+            "nodeid": "GGB232000309",
+            "nodenm": "장단",
+            "nodeno": 35154
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 16
+    }
+  }
+}

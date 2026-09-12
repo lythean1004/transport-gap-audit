@@ -1,0 +1,23 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "citycode": 31130,
+          "gpslati": 37.6055667,
+          "gpslong": 127.17435,
+          "nodeid": "GGB222000298",
+          "nodenm": "남양주체육문화센터.에일린의뜰",
+          "nodeno": 23183
+        }
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 1
+    }
+  }
+}

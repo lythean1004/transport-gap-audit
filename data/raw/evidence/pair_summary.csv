@@ -1,0 +1,11 @@
+﻿linkage_id,cohort,development,promise_source_id,actual_source_id,mode,promise_line_name,actual_line_name,promise_scope,actual_scope,mode_match,line_match,section_match,promise_event_date,actual_event_date,delay_days_representative,linkage_status,deadline_status,review_status,notes
+PL-001,historical_validation,화성 동탄2,SRC-H003,SRC-H005,rail,GTX-A 수서~동탄,GTX-A 수서~동탄,district,corridor,true,true,true,2024-H1,2024-03-30,-92,fulfilled,elapsed,needs_human,목표 상반기 안에 동일 GTX-A 수서~동탄 구간 개통
+PL-002,historical_validation,김포 한강,SRC-H010,SRC-H011,rail,김포도시철도(김포골드라인),김포도시철도(김포골드라인),district,district,true,true,true,2018,2019-09-28,271,fulfilled,elapsed,needs_human,동일 김포도시철도 개통; 목표연도보다 늦음
+PL-003,historical_validation,위례,SRC-E1-C05,,tram,위례선 트램,,district,,,,,2025년 9월,,,unfulfilled,elapsed,needs_human,2025-09 목표 이후 2026-02 자료에서도 시운전 중이며 목표가 2026년 말로 갱신
+PL-004,historical_validation,남양주 다산,SRC-H022,SRC-H023,rail,별내선(8호선 연장),별내선(8호선 연장),district,district,true,true,true,2022,2024-08-10,588,fulfilled,elapsed,needs_human,동일 별내선 개통; 2022 준공 예정 대비 지연
+PL-005,historical_validation,하남 미사,SRC-H028,SRC-H029,rail,하남선(5호선 연장),하남선(5호선 연장),district,district,true,true,true,2020-08-08,2020-08-08,0,fulfilled,elapsed,needs_human,동일 하남선 1단계가 안내일에 운행 개시
+PL-006,forward_monitoring,인천 계양,SRC-F003,,sbrt,계양~대장 S-BRT,,district,,,,,미정,,,unfulfilled,unknown,needs_human,S-BRT 실제 운행 개시 원문 없음; 현재 확보 원문에는 완공·개통 목표일이 없음; unfulfilled는 스냅샷 현재 미이행을 뜻하며 미래 기한의 지연 확정은 아님
+PL-007,forward_monitoring,남양주 왕숙,SRC-F009,,rail,강동하남남양주선,,district,,,,,2028,,,unfulfilled,future_or_current_period,needs_human,강동하남남양주선 실제 운행 개시 전; 2028 목표; unfulfilled는 스냅샷 현재 미이행을 뜻하며 미래 기한의 지연 확정은 아님
+PL-008,forward_monitoring,하남 교산,SRC-F015,,rail,송파하남선,,district,,,,,2028,,,unfulfilled,future_or_current_period,needs_human,송파하남선 실제 운행 개시 전; 2028 준공 목표; unfulfilled는 스냅샷 현재 미이행을 뜻하며 미래 기한의 지연 확정은 아님
+PL-009,forward_monitoring,고양 창릉,SRC-F021,,rail,고양은평선,,district,,,,,미정,,,unfulfilled,unknown,needs_human,고양은평선 실제 운행 개시 전; 현재 원문 후보에는 완공 목표일 미상; unfulfilled는 스냅샷 현재 미이행을 뜻하며 미래 기한의 지연 확정은 아님
+PL-010,forward_monitoring,부천 대장,SRC-F027,,sbrt,계양~대장 S-BRT,,district,,,,,미정,,,unfulfilled,unknown,needs_human,S-BRT 실제 운행 개시 원문 없음; 현재 확보 원문에는 완공·개통 목표일이 없음; unfulfilled는 스냅샷 현재 미이행을 뜻하며 미래 기한의 지연 확정은 아님

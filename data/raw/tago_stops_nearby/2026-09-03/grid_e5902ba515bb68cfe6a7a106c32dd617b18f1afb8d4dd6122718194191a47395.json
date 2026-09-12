@@ -1,0 +1,73 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1760833,
+            "gpslong": 127.1050833,
+            "nodeid": "GGB233000997",
+            "nodenm": "레이크빌.하우스디더레이크",
+            "nodeno": 36494
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1759167,
+            "gpslong": 127.1057833,
+            "nodeid": "GGB233000162",
+            "nodenm": "나래학교.더샵레이크",
+            "nodeno": 36493
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1726167,
+            "gpslong": 127.1054833,
+            "nodeid": "GGB233002262",
+            "nodenm": "하우스디더레이크.우미린",
+            "nodeno": 55476
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1752667,
+            "gpslong": 127.0997667,
+            "nodeid": "GGB233003063",
+            "nodenm": "ASML(B동)",
+            "nodeno": 55945
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.17235,
+            "gpslong": 127.10335,
+            "nodeid": "GGB233002260",
+            "nodenm": "우미린.하우스디더레이크",
+            "nodeno": 55474
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1802,
+            "gpslong": 127.1031333,
+            "nodeid": "GGB233000996",
+            "nodenm": "반도3차.금강1차",
+            "nodeno": 36488
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.17265,
+            "gpslong": 127.10135,
+            "nodeid": "GGB233002261",
+            "nodenm": "방교초.레이크자이더테라스",
+            "nodeno": 55475
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 7
+    }
+  }
+}

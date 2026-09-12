@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6549833,
+            "gpslong": 126.6148,
+            "nodeid": "GGB232000661",
+            "nodenm": "가오대입구",
+            "nodeno": 35589
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.655009,
+            "gpslong": 126.614801,
+            "nodeid": "ICB232000661",
+            "nodenm": "가오대입구",
+            "nodeno": 80033
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.655158,
+            "gpslong": 126.614579,
+            "nodeid": "ICB232000660",
+            "nodenm": "가오대입구",
+            "nodeno": 80034
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6551667,
+            "gpslong": 126.6145667,
+            "nodeid": "GGB232000660",
+            "nodenm": "가오대입구",
+            "nodeno": 35588
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

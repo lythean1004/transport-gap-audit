@@ -1,0 +1,41 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.4851167,
+            "gpslong": 127.1593,
+            "nodeid": "GGB227000351",
+            "nodenm": "위례숲초등학교.중흥S클래스.우미린",
+            "nodeno": 28584
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.48535,
+            "gpslong": 127.1600833,
+            "nodeid": "GGB227000347",
+            "nodenm": "위례숲초등학교.우미린.중흥S클래스",
+            "nodeno": 28580
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4843833,
+            "gpslong": 127.1569167,
+            "nodeid": "GGB227000346",
+            "nodenm": "위례숲우미린",
+            "nodeno": 28579
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 3
+    }
+  }
+}

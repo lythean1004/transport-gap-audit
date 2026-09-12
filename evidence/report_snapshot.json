@@ -1,0 +1,1025 @@
+{
+  "generated_at": "2026-09-02T18:18:23+09:00",
+  "as_of": "2026-09-02",
+  "summary": {
+    "pdf_files": 112,
+    "unique_pdf_hashes": 92,
+    "pdf_extraction_failures": 0,
+    "registry_rows": 197,
+    "active_target_rows": 180,
+    "day1_pass_rows": 117,
+    "human_verified_rows": 0,
+    "linkages": 10,
+    "gaps": 5,
+    "gate_pass": 0
+  },
+  "decision": {
+    "evaluated_at": "2026-09-02T18:18:23+09:00",
+    "pass_count": 0,
+    "required_pass_count": 4,
+    "fine_precision_count": 0,
+    "required_fine_precision_count": 3,
+    "decision": "PIVOT(A22)",
+    "reason": "83개 PDF 전수 추출은 완료했지만 AI 추출은 human_verified와 독립 2축 검증을 대체하지 않음"
+  },
+  "coverage": [
+    {
+      "cohort": "historical_validation",
+      "development": "화성 동탄2",
+      "event_type": "occupancy_planned_block",
+      "candidate_count": 3,
+      "qa_pass_count": 1,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "화성 동탄2",
+      "event_type": "promise_date",
+      "candidate_count": 7,
+      "qa_pass_count": 3,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "화성 동탄2",
+      "event_type": "basic_service",
+      "candidate_count": 1,
+      "qa_pass_count": 0,
+      "coverage_status": "candidate_with_issues"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "화성 동탄2",
+      "event_type": "actual_operation",
+      "candidate_count": 5,
+      "qa_pass_count": 5,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "화성 동탄2",
+      "event_type": "occupancy_first_actual",
+      "candidate_count": 2,
+      "qa_pass_count": 1,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "화성 동탄2",
+      "event_type": "promise_linkage",
+      "candidate_count": 1,
+      "qa_pass_count": 1,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "화성 동탄2",
+      "event_type": "occupancy_first_planned",
+      "candidate_count": 2,
+      "qa_pass_count": 1,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "김포 한강",
+      "event_type": "occupancy_planned_block",
+      "candidate_count": 5,
+      "qa_pass_count": 3,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "김포 한강",
+      "event_type": "promise_date",
+      "candidate_count": 6,
+      "qa_pass_count": 4,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "김포 한강",
+      "event_type": "basic_service",
+      "candidate_count": 0,
+      "qa_pass_count": 0,
+      "coverage_status": "missing"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "김포 한강",
+      "event_type": "actual_operation",
+      "candidate_count": 3,
+      "qa_pass_count": 2,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "김포 한강",
+      "event_type": "occupancy_first_actual",
+      "candidate_count": 3,
+      "qa_pass_count": 2,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "김포 한강",
+      "event_type": "promise_linkage",
+      "candidate_count": 1,
+      "qa_pass_count": 1,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "김포 한강",
+      "event_type": "occupancy_first_planned",
+      "candidate_count": 0,
+      "qa_pass_count": 0,
+      "coverage_status": "missing"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "위례",
+      "event_type": "occupancy_planned_block",
+      "candidate_count": 3,
+      "qa_pass_count": 1,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "위례",
+      "event_type": "promise_date",
+      "candidate_count": 8,
+      "qa_pass_count": 6,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "위례",
+      "event_type": "basic_service",
+      "candidate_count": 3,
+      "qa_pass_count": 0,
+      "coverage_status": "candidate_with_issues"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "위례",
+      "event_type": "actual_operation",
+      "candidate_count": 4,
+      "qa_pass_count": 3,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "위례",
+      "event_type": "occupancy_first_actual",
+      "candidate_count": 1,
+      "qa_pass_count": 1,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "위례",
+      "event_type": "promise_linkage",
+      "candidate_count": 1,
+      "qa_pass_count": 1,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "위례",
+      "event_type": "occupancy_first_planned",
+      "candidate_count": 2,
+      "qa_pass_count": 1,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "남양주 다산",
+      "event_type": "occupancy_planned_block",
+      "candidate_count": 3,
+      "qa_pass_count": 1,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "남양주 다산",
+      "event_type": "promise_date",
+      "candidate_count": 5,
+      "qa_pass_count": 4,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "남양주 다산",
+      "event_type": "basic_service",
+      "candidate_count": 2,
+      "qa_pass_count": 0,
+      "coverage_status": "candidate_with_issues"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "남양주 다산",
+      "event_type": "actual_operation",
+      "candidate_count": 5,
+      "qa_pass_count": 3,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "남양주 다산",
+      "event_type": "occupancy_first_actual",
+      "candidate_count": 2,
+      "qa_pass_count": 2,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "남양주 다산",
+      "event_type": "promise_linkage",
+      "candidate_count": 1,
+      "qa_pass_count": 1,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "남양주 다산",
+      "event_type": "occupancy_first_planned",
+      "candidate_count": 1,
+      "qa_pass_count": 1,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "하남 미사",
+      "event_type": "occupancy_planned_block",
+      "candidate_count": 8,
+      "qa_pass_count": 1,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "하남 미사",
+      "event_type": "promise_date",
+      "candidate_count": 7,
+      "qa_pass_count": 4,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "하남 미사",
+      "event_type": "basic_service",
+      "candidate_count": 1,
+      "qa_pass_count": 0,
+      "coverage_status": "candidate_with_issues"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "하남 미사",
+      "event_type": "actual_operation",
+      "candidate_count": 7,
+      "qa_pass_count": 3,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "하남 미사",
+      "event_type": "occupancy_first_actual",
+      "candidate_count": 2,
+      "qa_pass_count": 1,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "하남 미사",
+      "event_type": "promise_linkage",
+      "candidate_count": 1,
+      "qa_pass_count": 1,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "historical_validation",
+      "development": "하남 미사",
+      "event_type": "occupancy_first_planned",
+      "candidate_count": 0,
+      "qa_pass_count": 0,
+      "coverage_status": "missing"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "인천 계양",
+      "event_type": "occupancy_planned_block",
+      "candidate_count": 3,
+      "qa_pass_count": 3,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "인천 계양",
+      "event_type": "promise_date",
+      "candidate_count": 4,
+      "qa_pass_count": 4,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "인천 계양",
+      "event_type": "basic_service",
+      "candidate_count": 2,
+      "qa_pass_count": 2,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "인천 계양",
+      "event_type": "actual_operation",
+      "candidate_count": 1,
+      "qa_pass_count": 0,
+      "coverage_status": "candidate_with_issues"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "인천 계양",
+      "event_type": "occupancy_first_actual",
+      "candidate_count": 0,
+      "qa_pass_count": 0,
+      "coverage_status": "missing"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "인천 계양",
+      "event_type": "promise_linkage",
+      "candidate_count": 1,
+      "qa_pass_count": 1,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "인천 계양",
+      "event_type": "occupancy_first_planned",
+      "candidate_count": 0,
+      "qa_pass_count": 0,
+      "coverage_status": "missing"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "남양주 왕숙",
+      "event_type": "occupancy_planned_block",
+      "candidate_count": 9,
+      "qa_pass_count": 8,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "남양주 왕숙",
+      "event_type": "promise_date",
+      "candidate_count": 6,
+      "qa_pass_count": 5,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "남양주 왕숙",
+      "event_type": "basic_service",
+      "candidate_count": 2,
+      "qa_pass_count": 2,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "남양주 왕숙",
+      "event_type": "actual_operation",
+      "candidate_count": 2,
+      "qa_pass_count": 0,
+      "coverage_status": "candidate_with_issues"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "남양주 왕숙",
+      "event_type": "occupancy_first_actual",
+      "candidate_count": 0,
+      "qa_pass_count": 0,
+      "coverage_status": "missing"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "남양주 왕숙",
+      "event_type": "promise_linkage",
+      "candidate_count": 1,
+      "qa_pass_count": 1,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "남양주 왕숙",
+      "event_type": "occupancy_first_planned",
+      "candidate_count": 0,
+      "qa_pass_count": 0,
+      "coverage_status": "missing"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "하남 교산",
+      "event_type": "occupancy_planned_block",
+      "candidate_count": 7,
+      "qa_pass_count": 7,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "하남 교산",
+      "event_type": "promise_date",
+      "candidate_count": 8,
+      "qa_pass_count": 4,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "하남 교산",
+      "event_type": "basic_service",
+      "candidate_count": 2,
+      "qa_pass_count": 2,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "하남 교산",
+      "event_type": "actual_operation",
+      "candidate_count": 2,
+      "qa_pass_count": 0,
+      "coverage_status": "candidate_with_issues"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "하남 교산",
+      "event_type": "occupancy_first_actual",
+      "candidate_count": 0,
+      "qa_pass_count": 0,
+      "coverage_status": "missing"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "하남 교산",
+      "event_type": "promise_linkage",
+      "candidate_count": 1,
+      "qa_pass_count": 1,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "하남 교산",
+      "event_type": "occupancy_first_planned",
+      "candidate_count": 0,
+      "qa_pass_count": 0,
+      "coverage_status": "missing"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "고양 창릉",
+      "event_type": "occupancy_planned_block",
+      "candidate_count": 10,
+      "qa_pass_count": 8,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "고양 창릉",
+      "event_type": "promise_date",
+      "candidate_count": 4,
+      "qa_pass_count": 4,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "고양 창릉",
+      "event_type": "basic_service",
+      "candidate_count": 0,
+      "qa_pass_count": 0,
+      "coverage_status": "missing"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "고양 창릉",
+      "event_type": "actual_operation",
+      "candidate_count": 3,
+      "qa_pass_count": 3,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "고양 창릉",
+      "event_type": "occupancy_first_actual",
+      "candidate_count": 0,
+      "qa_pass_count": 0,
+      "coverage_status": "missing"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "고양 창릉",
+      "event_type": "promise_linkage",
+      "candidate_count": 1,
+      "qa_pass_count": 1,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "고양 창릉",
+      "event_type": "occupancy_first_planned",
+      "candidate_count": 0,
+      "qa_pass_count": 0,
+      "coverage_status": "missing"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "부천 대장",
+      "event_type": "occupancy_planned_block",
+      "candidate_count": 7,
+      "qa_pass_count": 5,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "부천 대장",
+      "event_type": "promise_date",
+      "candidate_count": 4,
+      "qa_pass_count": 4,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "부천 대장",
+      "event_type": "basic_service",
+      "candidate_count": 0,
+      "qa_pass_count": 0,
+      "coverage_status": "missing"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "부천 대장",
+      "event_type": "actual_operation",
+      "candidate_count": 2,
+      "qa_pass_count": 2,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "부천 대장",
+      "event_type": "occupancy_first_actual",
+      "candidate_count": 0,
+      "qa_pass_count": 0,
+      "coverage_status": "missing"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "부천 대장",
+      "event_type": "promise_linkage",
+      "candidate_count": 1,
+      "qa_pass_count": 1,
+      "coverage_status": "ready_for_human"
+    },
+    {
+      "cohort": "forward_monitoring",
+      "development": "부천 대장",
+      "event_type": "occupancy_first_planned",
+      "candidate_count": 0,
+      "qa_pass_count": 0,
+      "coverage_status": "missing"
+    }
+  ],
+  "promise_linkage": [
+    {
+      "linkage_id": "PL-001",
+      "cohort": "historical_validation",
+      "development": "화성 동탄2",
+      "promise_source_id": "SRC-H003",
+      "actual_source_id": "SRC-H005",
+      "mode": "rail",
+      "promise_line_name": "GTX-A 수서~동탄",
+      "actual_line_name": "GTX-A 수서~동탄",
+      "promise_scope": "district",
+      "actual_scope": "corridor",
+      "mode_match": true,
+      "line_match": true,
+      "section_match": true,
+      "promise_event_date": "2024-H1",
+      "actual_event_date": "2024-03-30",
+      "delay_days_representative": -92,
+      "linkage_status": "fulfilled",
+      "deadline_status": "elapsed",
+      "review_status": "needs_human",
+      "notes": "동일 수단·노선 기준 자동 연결 초안; 사람 확인 전 확정 금지"
+    },
+    {
+      "linkage_id": "PL-002",
+      "cohort": "historical_validation",
+      "development": "김포 한강",
+      "promise_source_id": "SRC-H010",
+      "actual_source_id": "SRC-H011",
+      "mode": "rail",
+      "promise_line_name": "김포도시철도(김포골드라인)",
+      "actual_line_name": "김포도시철도(김포골드라인)",
+      "promise_scope": "district",
+      "actual_scope": "district",
+      "mode_match": true,
+      "line_match": true,
+      "section_match": true,
+      "promise_event_date": "2018",
+      "actual_event_date": "2019-09-28",
+      "delay_days_representative": 271,
+      "linkage_status": "fulfilled",
+      "deadline_status": "elapsed",
+      "review_status": "needs_human",
+      "notes": "동일 수단·노선 기준 자동 연결 초안; 사람 확인 전 확정 금지"
+    },
+    {
+      "linkage_id": "PL-003",
+      "cohort": "historical_validation",
+      "development": "위례",
+      "promise_source_id": "SRC-E1-C05",
+      "actual_source_id": "",
+      "mode": "tram",
+      "promise_line_name": "위례선 트램",
+      "actual_line_name": "",
+      "promise_scope": "district",
+      "actual_scope": "",
+      "mode_match": false,
+      "line_match": false,
+      "section_match": false,
+      "promise_event_date": "2025년 9월",
+      "actual_event_date": "",
+      "delay_days_representative": "",
+      "linkage_status": "unfulfilled",
+      "deadline_status": "elapsed",
+      "review_status": "needs_human",
+      "notes": "동일 수단·노선 기준 자동 연결 초안; 사람 확인 전 확정 금지"
+    },
+    {
+      "linkage_id": "PL-004",
+      "cohort": "historical_validation",
+      "development": "남양주 다산",
+      "promise_source_id": "SRC-H022",
+      "actual_source_id": "SRC-H023",
+      "mode": "rail",
+      "promise_line_name": "별내선(8호선 연장)",
+      "actual_line_name": "별내선(8호선 연장)",
+      "promise_scope": "district",
+      "actual_scope": "district",
+      "mode_match": true,
+      "line_match": true,
+      "section_match": true,
+      "promise_event_date": "2022",
+      "actual_event_date": "2024-08-10",
+      "delay_days_representative": 588,
+      "linkage_status": "fulfilled",
+      "deadline_status": "elapsed",
+      "review_status": "needs_human",
+      "notes": "동일 수단·노선 기준 자동 연결 초안; 사람 확인 전 확정 금지"
+    },
+    {
+      "linkage_id": "PL-005",
+      "cohort": "historical_validation",
+      "development": "하남 미사",
+      "promise_source_id": "SRC-H028",
+      "actual_source_id": "SRC-H029",
+      "mode": "rail",
+      "promise_line_name": "하남선(5호선 연장)",
+      "actual_line_name": "하남선(5호선 연장)",
+      "promise_scope": "district",
+      "actual_scope": "district",
+      "mode_match": true,
+      "line_match": true,
+      "section_match": true,
+      "promise_event_date": "2020-08-08",
+      "actual_event_date": "2020-08-08",
+      "delay_days_representative": 0,
+      "linkage_status": "fulfilled",
+      "deadline_status": "elapsed",
+      "review_status": "needs_human",
+      "notes": "동일 수단·노선 기준 자동 연결 초안; 사람 확인 전 확정 금지"
+    },
+    {
+      "linkage_id": "PL-006",
+      "cohort": "forward_monitoring",
+      "development": "인천 계양",
+      "promise_source_id": "SRC-F003",
+      "actual_source_id": "",
+      "mode": "sbrt",
+      "promise_line_name": "계양~대장 S-BRT",
+      "actual_line_name": "",
+      "promise_scope": "district",
+      "actual_scope": "",
+      "mode_match": false,
+      "line_match": false,
+      "section_match": false,
+      "promise_event_date": "미정",
+      "actual_event_date": "",
+      "delay_days_representative": "",
+      "linkage_status": "unfulfilled",
+      "deadline_status": "unknown",
+      "review_status": "needs_human",
+      "notes": "동일 수단·노선 기준 자동 연결 초안; 사람 확인 전 확정 금지; unfulfilled는 현재 미운행 상태이며 미래 지연 확정이 아님"
+    },
+    {
+      "linkage_id": "PL-007",
+      "cohort": "forward_monitoring",
+      "development": "남양주 왕숙",
+      "promise_source_id": "SRC-F009",
+      "actual_source_id": "",
+      "mode": "rail",
+      "promise_line_name": "강동하남남양주선",
+      "actual_line_name": "",
+      "promise_scope": "district",
+      "actual_scope": "",
+      "mode_match": false,
+      "line_match": false,
+      "section_match": false,
+      "promise_event_date": "2028",
+      "actual_event_date": "",
+      "delay_days_representative": "",
+      "linkage_status": "unfulfilled",
+      "deadline_status": "future_or_current_period",
+      "review_status": "needs_human",
+      "notes": "동일 수단·노선 기준 자동 연결 초안; 사람 확인 전 확정 금지; unfulfilled는 현재 미운행 상태이며 미래 지연 확정이 아님"
+    },
+    {
+      "linkage_id": "PL-008",
+      "cohort": "forward_monitoring",
+      "development": "하남 교산",
+      "promise_source_id": "SRC-F015",
+      "actual_source_id": "",
+      "mode": "rail",
+      "promise_line_name": "송파하남선",
+      "actual_line_name": "",
+      "promise_scope": "district",
+      "actual_scope": "",
+      "mode_match": false,
+      "line_match": false,
+      "section_match": false,
+      "promise_event_date": "2028",
+      "actual_event_date": "",
+      "delay_days_representative": "",
+      "linkage_status": "unfulfilled",
+      "deadline_status": "future_or_current_period",
+      "review_status": "needs_human",
+      "notes": "동일 수단·노선 기준 자동 연결 초안; 사람 확인 전 확정 금지; unfulfilled는 현재 미운행 상태이며 미래 지연 확정이 아님"
+    },
+    {
+      "linkage_id": "PL-009",
+      "cohort": "forward_monitoring",
+      "development": "고양 창릉",
+      "promise_source_id": "SRC-F021",
+      "actual_source_id": "",
+      "mode": "rail",
+      "promise_line_name": "고양은평선",
+      "actual_line_name": "",
+      "promise_scope": "district",
+      "actual_scope": "",
+      "mode_match": false,
+      "line_match": false,
+      "section_match": false,
+      "promise_event_date": "미정",
+      "actual_event_date": "",
+      "delay_days_representative": "",
+      "linkage_status": "unfulfilled",
+      "deadline_status": "unknown",
+      "review_status": "needs_human",
+      "notes": "동일 수단·노선 기준 자동 연결 초안; 사람 확인 전 확정 금지; unfulfilled는 현재 미운행 상태이며 미래 지연 확정이 아님"
+    },
+    {
+      "linkage_id": "PL-010",
+      "cohort": "forward_monitoring",
+      "development": "부천 대장",
+      "promise_source_id": "SRC-F027",
+      "actual_source_id": "",
+      "mode": "sbrt",
+      "promise_line_name": "계양~대장 S-BRT",
+      "actual_line_name": "",
+      "promise_scope": "district",
+      "actual_scope": "",
+      "mode_match": false,
+      "line_match": false,
+      "section_match": false,
+      "promise_event_date": "미정",
+      "actual_event_date": "",
+      "delay_days_representative": "",
+      "linkage_status": "unfulfilled",
+      "deadline_status": "unknown",
+      "review_status": "needs_human",
+      "notes": "동일 수단·노선 기준 자동 연결 초안; 사람 확인 전 확정 금지; unfulfilled는 현재 미운행 상태이며 미래 지연 확정이 아님"
+    }
+  ],
+  "occupancy_operation_gap": [
+    {
+      "development": "화성 동탄2",
+      "occupancy_source_id": "SRC-H001",
+      "occupancy_event_date": "Jan-15",
+      "occupancy_lower": "2015-01-01",
+      "occupancy_upper": "2015-01-31",
+      "operation_source_id": "SRC-H005",
+      "operation_event_date": "2024-03-30",
+      "mode": "rail",
+      "line_name": "GTX-A 수서~동탄",
+      "gap_days_min": 3346,
+      "gap_days_max": 3376,
+      "gap_status": "closed",
+      "precision_note": "입주 날짜 정밀도에 따라 최소~최대 범위로 계산",
+      "review_status": "needs_human"
+    },
+    {
+      "development": "김포 한강",
+      "occupancy_source_id": "SRC-H007",
+      "occupancy_event_date": "Jun-11",
+      "occupancy_lower": "2011-06-01",
+      "occupancy_upper": "2011-06-30",
+      "operation_source_id": "SRC-H011",
+      "operation_event_date": "2019-09-28",
+      "mode": "rail",
+      "line_name": "김포도시철도(김포골드라인)",
+      "gap_days_min": 3012,
+      "gap_days_max": 3041,
+      "gap_status": "closed",
+      "precision_note": "입주 날짜 정밀도에 따라 최소~최대 범위로 계산",
+      "review_status": "needs_human"
+    },
+    {
+      "development": "위례",
+      "occupancy_source_id": "SRC-H013",
+      "occupancy_event_date": "Dec-13",
+      "occupancy_lower": "2013-12-01",
+      "occupancy_upper": "2013-12-31",
+      "operation_source_id": "",
+      "operation_event_date": "",
+      "mode": "tram",
+      "line_name": "위례선 트램",
+      "gap_days_min": 4628,
+      "gap_days_max": 4658,
+      "gap_status": "ongoing_as_of_2026-09-02",
+      "precision_note": "입주 날짜 정밀도에 따라 최소~최대 범위로 계산",
+      "review_status": "needs_human"
+    },
+    {
+      "development": "남양주 다산",
+      "occupancy_source_id": "SRC-H020",
+      "occupancy_event_date": "2018",
+      "occupancy_lower": "2018-01-01",
+      "occupancy_upper": "2018-12-31",
+      "operation_source_id": "SRC-H023",
+      "operation_event_date": "2024-08-10",
+      "mode": "rail",
+      "line_name": "별내선(8호선 연장)",
+      "gap_days_min": 2049,
+      "gap_days_max": 2413,
+      "gap_status": "closed",
+      "precision_note": "입주 날짜 정밀도에 따라 최소~최대 범위로 계산",
+      "review_status": "needs_human"
+    },
+    {
+      "development": "하남 미사",
+      "occupancy_source_id": "SRC-H025",
+      "occupancy_event_date": "Jun-14",
+      "occupancy_lower": "2014-06-01",
+      "occupancy_upper": "2014-06-30",
+      "operation_source_id": "SRC-H029",
+      "operation_event_date": "2020-08-08",
+      "mode": "rail",
+      "line_name": "하남선(5호선 연장)",
+      "gap_days_min": 2231,
+      "gap_days_max": 2260,
+      "gap_status": "closed",
+      "precision_note": "입주 날짜 정밀도에 따라 최소~최대 범위로 계산",
+      "review_status": "needs_human"
+    }
+  ],
+  "forward_monitoring": [
+    {
+      "development": "인천 계양",
+      "first_planned_block_source_id": "SRC-E2-A06",
+      "block_name": "A2",
+      "planned_occupancy": "2026년 12월",
+      "promise_source_id": "SRC-F003",
+      "mode": "sbrt",
+      "line_name": "계양~대장 S-BRT",
+      "promise_target": "미정",
+      "actual_operation_source_id": "",
+      "monitoring_status": "unfulfilled",
+      "timing_relation": "target_date_missing",
+      "next_trigger": "운영기관의 실제 운행 개시 공지 또는 시간표 시행 공지"
+    },
+    {
+      "development": "남양주 왕숙",
+      "first_planned_block_source_id": "SRC-E2-A07",
+      "block_name": "A-1",
+      "planned_occupancy": "2028년 08월",
+      "promise_source_id": "SRC-F009",
+      "mode": "rail",
+      "line_name": "강동하남남양주선",
+      "promise_target": "2028",
+      "actual_operation_source_id": "",
+      "monitoring_status": "unfulfilled",
+      "timing_relation": "overlapping_or_ambiguous_period",
+      "next_trigger": "운영기관의 실제 운행 개시 공지 또는 시간표 시행 공지"
+    },
+    {
+      "development": "하남 교산",
+      "first_planned_block_source_id": "SRC-U002",
+      "block_name": "A2",
+      "planned_occupancy": "2029년 06월",
+      "promise_source_id": "SRC-F015",
+      "mode": "rail",
+      "line_name": "송파하남선",
+      "promise_target": "2028",
+      "actual_operation_source_id": "",
+      "monitoring_status": "unfulfilled",
+      "timing_relation": "promise_before_planned_occupancy",
+      "next_trigger": "운영기관의 실제 운행 개시 공지 또는 시간표 시행 공지"
+    },
+    {
+      "development": "고양 창릉",
+      "first_planned_block_source_id": "SRC-F019",
+      "block_name": "A-4",
+      "planned_occupancy": "Jan-28",
+      "promise_source_id": "SRC-F021",
+      "mode": "rail",
+      "line_name": "고양은평선",
+      "promise_target": "미정",
+      "actual_operation_source_id": "",
+      "monitoring_status": "unfulfilled",
+      "timing_relation": "target_date_missing",
+      "next_trigger": "운영기관의 실제 운행 개시 공지 또는 시간표 시행 공지"
+    },
+    {
+      "development": "부천 대장",
+      "first_planned_block_source_id": "SRC-F025",
+      "block_name": "A5",
+      "planned_occupancy": "Nov-27",
+      "promise_source_id": "SRC-F027",
+      "mode": "sbrt",
+      "line_name": "계양~대장 S-BRT",
+      "promise_target": "미정",
+      "actual_operation_source_id": "",
+      "monitoring_status": "unfulfilled",
+      "timing_relation": "target_date_missing",
+      "next_trigger": "운영기관의 실제 운행 개시 공지 또는 시간표 시행 공지"
+    }
+  ],
+  "gates": [
+    {
+      "development": "화성 동탄2",
+      "human_verified_sources": 0,
+      "has_occupancy_promise_actual_verified": false,
+      "exact_mode_line_pair_verified": false,
+      "cross_validation_consistent": false,
+      "fine_precision_verified_pair": false,
+      "gate_result": "FAIL",
+      "candidate_linkage_status": "fulfilled",
+      "cross_validation_current": "candidate_multiple_sources",
+      "blockers": "human_verified 3종 미충족; 사람 확인 완료 약속↔이행 링크 없음"
+    },
+    {
+      "development": "김포 한강",
+      "human_verified_sources": 0,
+      "has_occupancy_promise_actual_verified": false,
+      "exact_mode_line_pair_verified": false,
+      "cross_validation_consistent": false,
+      "fine_precision_verified_pair": false,
+      "gate_result": "FAIL",
+      "candidate_linkage_status": "fulfilled",
+      "cross_validation_current": "candidate_multiple_sources",
+      "blockers": "human_verified 3종 미충족; 사람 확인 완료 약속↔이행 링크 없음"
+    },
+    {
+      "development": "위례",
+      "human_verified_sources": 0,
+      "has_occupancy_promise_actual_verified": false,
+      "exact_mode_line_pair_verified": false,
+      "cross_validation_consistent": false,
+      "fine_precision_verified_pair": false,
+      "gate_result": "FAIL",
+      "candidate_linkage_status": "unfulfilled",
+      "cross_validation_current": "weak",
+      "blockers": "human_verified 3종 미충족; 사람 확인 완료 약속↔이행 링크 없음; 독립 2축 교차검증 미충족"
+    },
+    {
+      "development": "남양주 다산",
+      "human_verified_sources": 0,
+      "has_occupancy_promise_actual_verified": false,
+      "exact_mode_line_pair_verified": false,
+      "cross_validation_consistent": false,
+      "fine_precision_verified_pair": false,
+      "gate_result": "FAIL",
+      "candidate_linkage_status": "fulfilled",
+      "cross_validation_current": "candidate_multiple_sources",
+      "blockers": "human_verified 3종 미충족; 사람 확인 완료 약속↔이행 링크 없음"
+    },
+    {
+      "development": "하남 미사",
+      "human_verified_sources": 0,
+      "has_occupancy_promise_actual_verified": false,
+      "exact_mode_line_pair_verified": false,
+      "cross_validation_consistent": false,
+      "fine_precision_verified_pair": false,
+      "gate_result": "FAIL",
+      "candidate_linkage_status": "fulfilled",
+      "cross_validation_current": "candidate_multiple_sources",
+      "blockers": "human_verified 3종 미충족; 사람 확인 완료 약속↔이행 링크 없음"
+    }
+  ]
+}

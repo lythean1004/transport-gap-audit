@@ -1,0 +1,177 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5503,
+            "gpslong": 127.1931667,
+            "nodeid": "GGB227000711",
+            "nodenm": "코스트코",
+            "nodeno": 28558
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5495333,
+            "gpslong": 127.19275,
+            "nodeid": "GGB227000710",
+            "nodenm": "코스트코",
+            "nodeno": 28557
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5515833,
+            "gpslong": 127.1933167,
+            "nodeid": "GGB227000368",
+            "nodenm": "보바스병원",
+            "nodeno": 28602
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5516,
+            "gpslong": 127.1935667,
+            "nodeid": "GGB227000367",
+            "nodenm": "보바스병원",
+            "nodeno": 28601
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5528167,
+            "gpslong": 127.1936833,
+            "nodeid": "GGB227000174",
+            "nodenm": "아이테코",
+            "nodeno": 28109
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55305,
+            "gpslong": 127.1931833,
+            "nodeid": "GGB227000171",
+            "nodenm": "아이테코",
+            "nodeno": 28107
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55245,
+            "gpslong": 127.19095,
+            "nodeid": "GGB227000071",
+            "nodenm": "하남시청소년수련관.한홀중건너편",
+            "nodeno": 28033
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5471,
+            "gpslong": 127.1951833,
+            "nodeid": "GGB227000029",
+            "nodenm": "온천마을.힐즈파크푸르지오.테크노밸리U1센터",
+            "nodeno": 28172
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5472,
+            "gpslong": 127.1912667,
+            "nodeid": "GGB227000028",
+            "nodenm": "지역현안1지구",
+            "nodeno": 28032
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54685,
+            "gpslong": 127.19475,
+            "nodeid": "GGB227000249",
+            "nodenm": "온천마을.테크노밸리U1.힐즈파크푸르지오(중)",
+            "nodeno": 28273
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54695,
+            "gpslong": 127.1954333,
+            "nodeid": "GGB227000248",
+            "nodenm": "온천마을.테크노밸리U1.힐즈파크푸르지오(중)",
+            "nodeno": 28277
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5529,
+            "gpslong": 127.1911,
+            "nodeid": "GGB227000072",
+            "nodenm": "하남시청소년수련관.한홀중",
+            "nodeno": 28034
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5468833,
+            "gpslong": 127.19115,
+            "nodeid": "GGB227000026",
+            "nodenm": "지역현안1지구",
+            "nodeno": 28031
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5467,
+            "gpslong": 127.1953333,
+            "nodeid": "GGB227000141",
+            "nodenm": "힐즈파크푸르지오.테크노밸리U1센터.온천마을",
+            "nodeno": 28173
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5497667,
+            "gpslong": 127.1985833,
+            "nodeid": "GGB227000524",
+            "nodenm": "온천마을.풍산고등학교",
+            "nodeno": 28329
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.554,
+            "gpslong": 127.1943833,
+            "nodeid": "GGB227000256",
+            "nodenm": "아이테코.이편한세상미사",
+            "nodeno": 28271
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5542167,
+            "gpslong": 127.19395,
+            "nodeid": "GGB227000257",
+            "nodenm": "아이테코.이편한세상미사",
+            "nodeno": 28268
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54975,
+            "gpslong": 127.1988333,
+            "nodeid": "GGB227000519",
+            "nodenm": "온천마을.풍산고등학교",
+            "nodeno": 28324
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5457333,
+            "gpslong": 127.1923333,
+            "nodeid": "GGB227000708",
+            "nodenm": "테크노밸리U1센터",
+            "nodeno": 28555
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5456333,
+            "gpslong": 127.1921333,
+            "nodeid": "GGB227000325",
+            "nodenm": "테크노밸리U1센터",
+            "nodeno": 28247
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 20
+    }
+  }
+}

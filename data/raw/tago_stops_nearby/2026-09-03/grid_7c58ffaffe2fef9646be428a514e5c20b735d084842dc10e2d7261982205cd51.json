@@ -1,0 +1,177 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5631333,
+            "gpslong": 127.1976667,
+            "nodeid": "GGB227000303",
+            "nodenm": "하남디지털도서관.효성해링턴.C3단지",
+            "nodeno": 28193
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5622,
+            "gpslong": 127.19665,
+            "nodeid": "GGB227000074",
+            "nodenm": "하남디지털도서관.효성해링턴.C3단지",
+            "nodeno": 28058
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5645167,
+            "gpslong": 127.1979167,
+            "nodeid": "GGB227000069",
+            "nodenm": "미사강변C3단지.호반써밋",
+            "nodeno": 28056
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.56215,
+            "gpslong": 127.19575,
+            "nodeid": "GGB277104752",
+            "nodenm": "미사강변남로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5635833,
+            "gpslong": 127.1986833,
+            "nodeid": "GGB277104748",
+            "nodenm": "미사강변남로진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5660167,
+            "gpslong": 127.1969167,
+            "nodeid": "GGB227000293",
+            "nodenm": "미사역호반써밋",
+            "nodeno": 28314
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5659,
+            "gpslong": 127.1954833,
+            "nodeid": "GGB277104750",
+            "nodenm": "차량출발(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5662,
+            "gpslong": 127.1968167,
+            "nodeid": "GGB277104747",
+            "nodenm": "차량대기(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5634,
+            "gpslong": 127.19295,
+            "nodeid": "GGB227511280",
+            "nodenm": "(종점)미사역",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5634833,
+            "gpslong": 127.1929167,
+            "nodeid": "GGB227000683",
+            "nodenm": "미사역",
+            "nodeno": 28530
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5613333,
+            "gpslong": 127.1937667,
+            "nodeid": "GGB277104751",
+            "nodenm": "기점진입전(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5637,
+            "gpslong": 127.1928333,
+            "nodeid": "GGB227000658",
+            "nodenm": "미사역",
+            "nodeno": 28464
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5633833,
+            "gpslong": 127.1925833,
+            "nodeid": "GGB227000660",
+            "nodenm": "미사역",
+            "nodeno": 28466
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5635333,
+            "gpslong": 127.1925333,
+            "nodeid": "GGB227000682",
+            "nodenm": "미사역",
+            "nodeno": 28529
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5642667,
+            "gpslong": 127.20095,
+            "nodeid": "GGB227000264",
+            "nodenm": "미사경정공원관람동",
+            "nodeno": 28191
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.56365,
+            "gpslong": 127.1924833,
+            "nodeid": "GGB227511270",
+            "nodenm": "(종점)미사역",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5623333,
+            "gpslong": 127.2012,
+            "nodeid": "GGB277104469",
+            "nodenm": "조정지하차도진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5650167,
+            "gpslong": 127.1924667,
+            "nodeid": "GGB277104749",
+            "nodenm": "기점진입전(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.56065,
+            "gpslong": 127.1926667,
+            "nodeid": "GGB227000506",
+            "nodenm": "미사강변브라운스톤",
+            "nodeno": 28319
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5676833,
+            "gpslong": 127.1959667,
+            "nodeid": "GGB227000294",
+            "nodenm": "하남종합운동장.국민체육센터",
+            "nodeno": 28313
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 20
+    }
+  }
+}

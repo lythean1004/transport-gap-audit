@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31020,
+            "gpslati": 37.4693333,
+            "gpslong": 127.1661167,
+            "nodeid": "GGB204000193",
+            "nodenm": "웃논골",
+            "nodeno": 5201
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4692,
+            "gpslong": 127.16645,
+            "nodeid": "GGB204000192",
+            "nodenm": "웃논골",
+            "nodeno": 5200
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

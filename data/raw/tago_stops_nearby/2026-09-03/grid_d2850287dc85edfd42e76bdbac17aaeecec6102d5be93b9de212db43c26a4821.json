@@ -1,0 +1,57 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1834167,
+            "gpslong": 127.1409667,
+            "nodeid": "GGB233000982",
+            "nodenm": "(임시)55단지",
+            "nodeno": 55970
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.18385,
+            "gpslong": 127.1407833,
+            "nodeid": "GGB233001206",
+            "nodenm": "(임시)55단지",
+            "nodeno": 55971
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1802667,
+            "gpslong": 127.1377333,
+            "nodeid": "GGB233000356",
+            "nodenm": "동탄9동행정복지센터",
+            "nodeno": 55818
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1799833,
+            "gpslong": 127.138,
+            "nodeid": "GGB233000355",
+            "nodenm": "동탄9동행정복지센터",
+            "nodeno": 55817
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1818667,
+            "gpslong": 127.1342167,
+            "nodeid": "GGB233000001",
+            "nodenm": "동탄숨마데시앙",
+            "nodeno": 55955
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 5
+    }
+  }
+}

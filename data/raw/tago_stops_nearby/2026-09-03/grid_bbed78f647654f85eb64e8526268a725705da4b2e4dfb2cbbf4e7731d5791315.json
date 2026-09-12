@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5547167,
+            "gpslong": 127.1815,
+            "nodeid": "GGB227000255",
+            "nodenm": "미사강변동원로얄듀크.고덕어반브릿지.리엔11단지",
+            "nodeno": 28179
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5548167,
+            "gpslong": 127.1817333,
+            "nodeid": "GGB227000292",
+            "nodenm": "미사강변동원로얄듀크.고덕어반브릿지.리엔11단지",
+            "nodeno": 28180
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5569333,
+            "gpslong": 127.1816667,
+            "nodeid": "GGB227000173",
+            "nodenm": "센트럴풍경채.동일하이빌.강동리엔9단지",
+            "nodeno": 28509
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5571167,
+            "gpslong": 127.1818667,
+            "nodeid": "GGB227000025",
+            "nodenm": "센트럴풍경채.동일하이빌.강동리엔9단지",
+            "nodeno": 28020
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.63565,
+            "gpslong": 126.6255833,
+            "nodeid": "GGB232000647",
+            "nodenm": "구래리차고지",
+            "nodeno": 35618
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6357,
+            "gpslong": 126.6255667,
+            "nodeid": "GGB277102540",
+            "nodenm": "구래리차고지(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6351167,
+            "gpslong": 126.6279833,
+            "nodeid": "GGB232000572",
+            "nodenm": "구래리",
+            "nodeno": 35524
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63565,
+            "gpslong": 126.62745,
+            "nodeid": "GGB232000611",
+            "nodenm": "구래리",
+            "nodeno": 35558
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.635732,
+            "gpslong": 126.627763,
+            "nodeid": "ICB232000572",
+            "nodenm": "구래리",
+            "nodeno": 80006
+          },
+          {
+            "citycode": 23,
+            "gpslati": "37.636000",
+            "gpslong": 126.627295,
+            "nodeid": "ICB232000611",
+            "nodenm": "구래리",
+            "nodeno": 80007
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6299833,
+            "gpslong": 126.6277333,
+            "nodeid": "GGB277102733",
+            "nodenm": "구래리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6301,
+            "gpslong": 126.6280833,
+            "nodeid": "GGB277102732",
+            "nodenm": "구래리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6349167,
+            "gpslong": 126.6298667,
+            "nodeid": "GGB232000974",
+            "nodenm": "한강센트럴블루힐정문",
+            "nodeno": 35924
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 9
+    }
+  }
+}

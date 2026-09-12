@@ -1,0 +1,113 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.4767333,
+            "gpslong": 127.1521333,
+            "nodeid": "GGB227000297",
+            "nodenm": "하남시위례동행정복지센터.위례고",
+            "nodeno": 28370
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4751,
+            "gpslong": 127.1545167,
+            "nodeid": "GGB227000301",
+            "nodenm": "위례그린파크푸르지오.롯데캐슬.남한산성입구",
+            "nodeno": 28470
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4743833,
+            "gpslong": 127.1543333,
+            "nodeid": "GGB227000302",
+            "nodenm": "위례롯데캐슬.그린파크푸르지오.남한산성입구",
+            "nodeno": 28471
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4775667,
+            "gpslong": 127.151,
+            "nodeid": "GGB227000298",
+            "nodenm": "하남시위례동행정복지센터.위례고",
+            "nodeno": 28371
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4738833,
+            "gpslong": 127.1519333,
+            "nodeid": "GGB227000662",
+            "nodenm": "위례롯데캐슬.호반써밋에비뉴",
+            "nodeno": 28473
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4736833,
+            "gpslong": 127.1509833,
+            "nodeid": "GGB227000300",
+            "nodenm": "위례롯데캐슬.호반써밋에비뉴",
+            "nodeno": 28469
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4776333,
+            "gpslong": 127.1492333,
+            "nodeid": "GGB227000672",
+            "nodenm": "위례초.위례중.효성해링턴타워",
+            "nodeno": 28497
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4729667,
+            "gpslong": 127.15455,
+            "nodeid": "GGB204000346",
+            "nodenm": "위례그린파크푸르지오",
+            "nodeno": 5291
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4739667,
+            "gpslong": 127.1499833,
+            "nodeid": "GGB227000299",
+            "nodenm": "플로리체위례.위례자이더시티",
+            "nodeno": 28468
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4722833,
+            "gpslong": 127.1542,
+            "nodeid": "GGB204000237",
+            "nodenm": "위례호반써밋에비뉴",
+            "nodeno": 5292
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4780167,
+            "gpslong": 127.1484667,
+            "nodeid": "GGB227000673",
+            "nodenm": "위례초.위례중.효성해링턴타워",
+            "nodeno": 28498
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4737667,
+            "gpslong": 127.1491333,
+            "nodeid": "GGB227000295",
+            "nodenm": "위례자이더시티.플로리체위례",
+            "nodeno": 28372
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 12
+    }
+  }
+}

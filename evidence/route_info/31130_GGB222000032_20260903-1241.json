@@ -1,0 +1,24 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "endnodenm": "미사동차고지.한강뚝방모랫길",
+          "endvehicletime": 2200,
+          "intervalsattime": 60,
+          "intervalsuntime": 60,
+          "intervaltime": 20,
+          "routeid": "GGB222000032",
+          "routeno": "1-4",
+          "routetp": "일반버스",
+          "startnodenm": "차산리",
+          "startvehicletime": "0500"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2 @@
+﻿evaluated_at,pass_count,required_pass_count,fine_precision_count,required_fine_precision_count,decision,reason
+2026-09-02T18:18:23+09:00,0,4,0,3,PIVOT(A22),83개 PDF 전수 추출은 완료했지만 AI 추출은 human_verified와 독립 2축 검증을 대체하지 않음

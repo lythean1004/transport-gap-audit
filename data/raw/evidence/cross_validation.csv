@@ -1,0 +1,6 @@
+﻿development,occupancy_first_actual,src_id,kapt_earliest_approval,kapt_code,hub_approval_date,pnu,hh_surge_month,hh_surge_pct,verdict,gap_days,note
+화성 동탄2,2015-01,SRC-H001,2015-01-23,A10028158,,,,,weak,0,K-apt 1축만 존재; BuildingHUB와 과거 MOIS 월별 시계열 부재로 consistent 판정 불가
+김포 한강,2011-06,SRC-H007,2011-06-15,A41574404,,,,,weak,0,K-apt 1축만 존재; BuildingHUB와 과거 MOIS 월별 시계열 부재로 consistent 판정 불가
+위례,2013-12,SRC-H013,2013-11-01,A13876113,,,,,weak,-30,K-apt 1축만 존재; BuildingHUB와 과거 MOIS 월별 시계열 부재로 consistent 판정 불가
+남양주 다산,2018,SRC-H020,2017-12-22,A10026600,,,,,weak,-10,K-apt 1축만 존재; BuildingHUB와 과거 MOIS 월별 시계열 부재로 consistent 판정 불가
+하남 미사,2014-06,SRC-H025,2014-06-12,A10028200,,,,,weak,0,K-apt 1축만 존재; BuildingHUB와 과거 MOIS 월별 시계열 부재로 consistent 판정 불가

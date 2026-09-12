@@ -1,0 +1,121 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31020,
+            "gpslati": 37.4737333,
+            "gpslong": 127.14095,
+            "nodeid": "GGB204000145",
+            "nodenm": "한화오벨리스크",
+            "nodeno": 5318
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4722167,
+            "gpslong": 127.14055,
+            "nodeid": "GGB204000146",
+            "nodenm": "위례센트럴자이정문",
+            "nodeno": 5319
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4717667,
+            "gpslong": 127.1408167,
+            "nodeid": "GGB204000010",
+            "nodenm": "위례보미리즌빌",
+            "nodeno": 5317
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4733167,
+            "gpslong": 127.1373667,
+            "nodeid": "GGB204000326",
+            "nodenm": "위례센트럴자이",
+            "nodeno": 5313
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.47215,
+            "gpslong": 127.1431167,
+            "nodeid": "GGB204000329",
+            "nodenm": "위례35단지아파트",
+            "nodeno": 5316
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4730833,
+            "gpslong": 127.1368333,
+            "nodeid": "GGB204000327",
+            "nodenm": "위례31단지",
+            "nodeno": 5314
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4716667,
+            "gpslong": 127.1433667,
+            "nodeid": "GGB204000328",
+            "nodenm": "위례35단지아파트",
+            "nodeno": 5315
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4710833,
+            "gpslong": 127.1416333,
+            "nodeid": "GGB204000240",
+            "nodenm": "성남시위례동행정복지센터.위례보미리즌빌",
+            "nodeno": 5069
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4709333,
+            "gpslong": 127.1394833,
+            "nodeid": "GGB204000238",
+            "nodenm": "위례자이정문",
+            "nodeno": 5309
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4708167,
+            "gpslong": 127.1422833,
+            "nodeid": "GGB204000236",
+            "nodenm": "성남시위례동행정복지센터.위례아트리버푸르지오",
+            "nodeno": 5176
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4706167,
+            "gpslong": 127.14045,
+            "nodeid": "GGB204000156",
+            "nodenm": "위례자이후문",
+            "nodeno": 5084
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4712333,
+            "gpslong": 127.1380167,
+            "nodeid": "GGB204000235",
+            "nodenm": "위례중앙중학교",
+            "nodeno": 5308
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4710333,
+            "gpslong": 127.14365,
+            "nodeid": "GGB204000093",
+            "nodenm": "래미안위례.위례고운초교.위례35단지",
+            "nodeno": 5082
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 13
+    }
+  }
+}

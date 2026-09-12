@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1723667,
+            "gpslong": 127.0879833,
+            "nodeid": "GGB233001969",
+            "nodenm": "방교동일반산업단지",
+            "nodeno": 36154
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1690667,
+            "gpslong": 127.0895167,
+            "nodeid": "GGB233002113",
+            "nodenm": "산척리",
+            "nodeno": 55089
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1710167,
+            "gpslong": 127.09,
+            "nodeid": "GGB233002114",
+            "nodenm": "산척리",
+            "nodeno": 55090
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.17265,
+            "gpslong": 127.0892167,
+            "nodeid": "GGB233001551",
+            "nodenm": "방교동일반산업단지",
+            "nodeno": 36694
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

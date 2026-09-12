@@ -1,0 +1,81 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.5997,
+            "gpslong": 127.16775,
+            "nodeid": "GGB222001961",
+            "nodenm": "다산한강반도유보라정문",
+            "nodeno": 49840
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5997667,
+            "gpslong": 127.1679833,
+            "nodeid": "GGB222001960",
+            "nodenm": "다산한강반도유보라정문",
+            "nodeno": 49839
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5994833,
+            "gpslong": 127.1616,
+            "nodeid": "GGB222001136",
+            "nodenm": "가운고등학교",
+            "nodeno": 23879
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5983167,
+            "gpslong": 127.1621333,
+            "nodeid": "GGB222001135",
+            "nodenm": "가운고등학교",
+            "nodeno": 23878
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6003,
+            "gpslong": 127.1701833,
+            "nodeid": "GGB222001963",
+            "nodenm": "다산한강반도유보라.금강펜테리움2차후문",
+            "nodeno": 49842
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.60075,
+            "gpslong": 127.1601667,
+            "nodeid": "GGB222001266",
+            "nodenm": "경남아너스빌.더힐포레",
+            "nodeno": 23898
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6001167,
+            "gpslong": 127.1702667,
+            "nodeid": "GGB222001962",
+            "nodenm": "다산한강반도유보라.금강펜테리움2차후문",
+            "nodeno": 49841
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6012833,
+            "gpslong": 127.15995,
+            "nodeid": "GGB222001265",
+            "nodenm": "경남아너스빌.더힐포레",
+            "nodeno": 49034
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 8
+    }
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5448667,
+            "gpslong": 127.20045,
+            "nodeid": "GGB227000253",
+            "nodenm": "라인.한솔솔파크아파트(중)",
+            "nodeno": 28285
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5449333,
+            "gpslong": 127.20005,
+            "nodeid": "GGB227000252",
+            "nodenm": "라인.한솔솔파크아파트(중)",
+            "nodeno": 28284
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5449833,
+            "gpslong": 127.1997167,
+            "nodeid": "GGB227000140",
+            "nodenm": "라인.한솔솔파크아파트",
+            "nodeno": 28054
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5427667,
+            "gpslong": 127.19925,
+            "nodeid": "GGB227000144",
+            "nodenm": "덕풍2동행정복지센터.청소년문화의집.농협",
+            "nodeno": 28051
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5421833,
+            "gpslong": 127.1995333,
+            "nodeid": "GGB227000023",
+            "nodenm": "덕풍초등학교",
+            "nodeno": 28052
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5427833,
+            "gpslong": 127.1988,
+            "nodeid": "GGB227000702",
+            "nodenm": "덕풍2동행정복지센터.청소년문화의집",
+            "nodeno": 28549
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54355,
+            "gpslong": 127.19835,
+            "nodeid": "GGB227000235",
+            "nodenm": "덕풍2동행정복지센터.청소년문화의집",
+            "nodeno": 28263
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5415,
+            "gpslong": 127.2000167,
+            "nodeid": "GGB227000145",
+            "nodenm": "덕풍초등학교",
+            "nodeno": 28053
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5430333,
+            "gpslong": 127.2042333,
+            "nodeid": "GGB227000247",
+            "nodenm": "하남시청역.덕풍시장(중)",
+            "nodeno": 28275
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5427667,
+            "gpslong": 127.2042833,
+            "nodeid": "GGB227000139",
+            "nodenm": "하남시청역.덕풍시장",
+            "nodeno": 28076
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5449833,
+            "gpslong": 127.1980833,
+            "nodeid": "GGB227000143",
+            "nodenm": "덕풍수리골공영주차장",
+            "nodeno": 28047
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5430333,
+            "gpslong": 127.2045167,
+            "nodeid": "GGB227000031",
+            "nodenm": "하남시청역.덕풍시장",
+            "nodeno": 28075
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5422167,
+            "gpslong": 127.1983,
+            "nodeid": "GGB227000703",
+            "nodenm": "덕풍2동행정복지센터.청소년문화의집",
+            "nodeno": 28550
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.546,
+            "gpslong": 127.1988167,
+            "nodeid": "GGB227000030",
+            "nodenm": "라인.한솔솔파크아파트",
+            "nodeno": 28050
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5455833,
+            "gpslong": 127.1979333,
+            "nodeid": "GGB227000024",
+            "nodenm": "덕풍수리골공영주차장",
+            "nodeno": 28046
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54055,
+            "gpslong": 127.20045,
+            "nodeid": "GGB227000022",
+            "nodenm": "하남우체국.덕풍시장",
+            "nodeno": 28060
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5424667,
+            "gpslong": 127.2052333,
+            "nodeid": "GGB227000246",
+            "nodenm": "하남시청역.덕풍시장(중)",
+            "nodeno": 28280
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5458667,
+            "gpslong": 127.2053,
+            "nodeid": "GGB227000571",
+            "nodenm": "역사박물관.하남교회.더샵센트럴뷰",
+            "nodeno": 28378
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5457667,
+            "gpslong": 127.2055333,
+            "nodeid": "GGB227000572",
+            "nodenm": "역사박물관.하남교회.더샵센트럴뷰",
+            "nodeno": 28379
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5473333,
+            "gpslong": 127.1985667,
+            "nodeid": "GGB227000495",
+            "nodenm": "온천마을입구",
+            "nodeno": 28317
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5397667,
+            "gpslong": 127.2018333,
+            "nodeid": "GGB227000146",
+            "nodenm": "덕풍시장.하남우체국.KT하남지사",
+            "nodeno": 28063
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5474,
+            "gpslong": 127.19835,
+            "nodeid": "GGB227000496",
+            "nodenm": "온천마을입구",
+            "nodeno": 28318
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5435833,
+            "gpslong": 127.2066,
+            "nodeid": "GGB227000573",
+            "nodenm": "하남문화예술회관.하남문화원",
+            "nodeno": 28380
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54365,
+            "gpslong": 127.2067167,
+            "nodeid": "GGB227000492",
+            "nodenm": "하남문화예술회관.하남문화원",
+            "nodeno": 28084
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 24
+    }
+  }
+}

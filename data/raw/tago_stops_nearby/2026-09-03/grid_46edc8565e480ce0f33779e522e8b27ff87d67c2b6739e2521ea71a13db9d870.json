@@ -1,0 +1,57 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1631667,
+            "gpslong": 127.087,
+            "nodeid": "GGB233002365",
+            "nodenm": "장지천",
+            "nodeno": 55242
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16415,
+            "gpslong": 127.08765,
+            "nodeid": "GGB233002115",
+            "nodenm": "DM디스플레이",
+            "nodeno": 55091
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16555,
+            "gpslong": 127.0877167,
+            "nodeid": "GGB233002116",
+            "nodenm": "DM디스플레이",
+            "nodeno": 55092
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1615333,
+            "gpslong": 127.0869667,
+            "nodeid": "GGB233002366",
+            "nodenm": "장지천",
+            "nodeno": 55243
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.15965,
+            "gpslong": 127.0866333,
+            "nodeid": "GGB223000471",
+            "nodenm": "오산장례식장후문",
+            "nodeno": 24041
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 5
+    }
+  }
+}

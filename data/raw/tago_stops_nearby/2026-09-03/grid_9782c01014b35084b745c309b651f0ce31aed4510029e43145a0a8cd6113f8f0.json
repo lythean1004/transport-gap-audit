@@ -1,0 +1,89 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31020,
+            "gpslati": 37.4627833,
+            "gpslong": 127.1578167,
+            "nodeid": "GGB204000030",
+            "nodenm": "민속마을",
+            "nodeno": 5116
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4623833,
+            "gpslong": 127.1567167,
+            "nodeid": "GGB204000027",
+            "nodenm": "민속마을.선경아파트",
+            "nodeno": 5114
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.46255,
+            "gpslong": 127.1558167,
+            "nodeid": "GGB204000012",
+            "nodenm": "민속마을.선경아파트",
+            "nodeno": 5112
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4622667,
+            "gpslong": 127.1558333,
+            "nodeid": "GGB204000177",
+            "nodenm": "민속마을닭죽촌",
+            "nodeno": 5169
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4652833,
+            "gpslong": 127.16095,
+            "nodeid": "GGB204000178",
+            "nodenm": "웃논골앞",
+            "nodeno": 5160
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4654833,
+            "gpslong": 127.1610333,
+            "nodeid": "GGB204000194",
+            "nodenm": "웃논골앞",
+            "nodeno": 5172
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4630167,
+            "gpslong": 127.1614,
+            "nodeid": "GGB204000144",
+            "nodenm": "양지근린공원",
+            "nodeno": 5157
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4603,
+            "gpslong": 127.1581833,
+            "nodeid": "GGB204000047",
+            "nodenm": "성보경영고등학교.성남문원중학교",
+            "nodeno": 5138
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.46015,
+            "gpslong": 127.158,
+            "nodeid": "GGB204000026",
+            "nodenm": "성보경영고등학교.성남문원중학교",
+            "nodeno": 5148
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 9
+    }
+  }
+}

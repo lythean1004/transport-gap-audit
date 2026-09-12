@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.631,
+            "gpslong": 127.1536,
+            "nodeid": "GGB222001930",
+            "nodenm": "반도유보라후문",
+            "nodeno": 49800
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.63055,
+            "gpslong": 127.1494667,
+            "nodeid": "GGB277104598",
+            "nodenm": "자연앤자이1407동(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6308167,
+            "gpslong": 127.1534,
+            "nodeid": "GGB222001921",
+            "nodenm": "반도유보라후문",
+            "nodeno": 49791
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6304333,
+            "gpslong": 127.14905,
+            "nodeid": "GGB222001477",
+            "nodenm": "다산자이폴라리스",
+            "nodeno": 49385
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6295833,
+            "gpslong": 127.1520333,
+            "nodeid": "GGB222001932",
+            "nodenm": "다산자이폴라리스.반도유보라",
+            "nodeno": 49802
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6296333,
+            "gpslong": 127.1523333,
+            "nodeid": "GGB222001933",
+            "nodenm": "다산자이폴라리스.반도유보라",
+            "nodeno": 49803
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5448333,
+            "gpslong": 127.1731,
+            "nodeid": "GGB227000001",
+            "nodenm": "월남교차로",
+            "nodeno": 28007
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54505,
+            "gpslong": 127.1717333,
+            "nodeid": "GGB227000518",
+            "nodenm": "초이농협",
+            "nodeno": 28323
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5449833,
+            "gpslong": 127.1715833,
+            "nodeid": "GGB227000546",
+            "nodenm": "초이농협",
+            "nodeno": 28349
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 3
+    }
+  }
+}

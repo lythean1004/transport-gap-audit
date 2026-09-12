@@ -1,0 +1,71 @@
+﻿cohort,development,event_type,candidate_count,qa_pass_count,coverage_status
+historical_validation,화성 동탄2,occupancy_planned_block,3,1,ready_for_human
+historical_validation,화성 동탄2,promise_date,7,3,ready_for_human
+historical_validation,화성 동탄2,basic_service,1,0,candidate_with_issues
+historical_validation,화성 동탄2,actual_operation,5,5,ready_for_human
+historical_validation,화성 동탄2,occupancy_first_actual,2,1,ready_for_human
+historical_validation,화성 동탄2,promise_linkage,1,1,ready_for_human
+historical_validation,화성 동탄2,occupancy_first_planned,2,1,ready_for_human
+historical_validation,김포 한강,occupancy_planned_block,5,3,ready_for_human
+historical_validation,김포 한강,promise_date,6,4,ready_for_human
+historical_validation,김포 한강,basic_service,0,0,missing
+historical_validation,김포 한강,actual_operation,3,2,ready_for_human
+historical_validation,김포 한강,occupancy_first_actual,3,2,ready_for_human
+historical_validation,김포 한강,promise_linkage,1,1,ready_for_human
+historical_validation,김포 한강,occupancy_first_planned,0,0,missing
+historical_validation,위례,occupancy_planned_block,3,1,ready_for_human
+historical_validation,위례,promise_date,8,6,ready_for_human
+historical_validation,위례,basic_service,3,0,candidate_with_issues
+historical_validation,위례,actual_operation,4,3,ready_for_human
+historical_validation,위례,occupancy_first_actual,1,1,ready_for_human
+historical_validation,위례,promise_linkage,1,1,ready_for_human
+historical_validation,위례,occupancy_first_planned,2,1,ready_for_human
+historical_validation,남양주 다산,occupancy_planned_block,3,1,ready_for_human
+historical_validation,남양주 다산,promise_date,5,4,ready_for_human
+historical_validation,남양주 다산,basic_service,2,0,candidate_with_issues
+historical_validation,남양주 다산,actual_operation,5,3,ready_for_human
+historical_validation,남양주 다산,occupancy_first_actual,2,2,ready_for_human
+historical_validation,남양주 다산,promise_linkage,1,1,ready_for_human
+historical_validation,남양주 다산,occupancy_first_planned,1,1,ready_for_human
+historical_validation,하남 미사,occupancy_planned_block,8,1,ready_for_human
+historical_validation,하남 미사,promise_date,7,4,ready_for_human
+historical_validation,하남 미사,basic_service,1,0,candidate_with_issues
+historical_validation,하남 미사,actual_operation,7,3,ready_for_human
+historical_validation,하남 미사,occupancy_first_actual,2,1,ready_for_human
+historical_validation,하남 미사,promise_linkage,1,1,ready_for_human
+historical_validation,하남 미사,occupancy_first_planned,0,0,missing
+forward_monitoring,인천 계양,occupancy_planned_block,3,3,ready_for_human
+forward_monitoring,인천 계양,promise_date,4,4,ready_for_human
+forward_monitoring,인천 계양,basic_service,2,2,ready_for_human
+forward_monitoring,인천 계양,actual_operation,1,0,candidate_with_issues
+forward_monitoring,인천 계양,occupancy_first_actual,0,0,missing
+forward_monitoring,인천 계양,promise_linkage,1,1,ready_for_human
+forward_monitoring,인천 계양,occupancy_first_planned,0,0,missing
+forward_monitoring,남양주 왕숙,occupancy_planned_block,9,8,ready_for_human
+forward_monitoring,남양주 왕숙,promise_date,6,5,ready_for_human
+forward_monitoring,남양주 왕숙,basic_service,2,2,ready_for_human
+forward_monitoring,남양주 왕숙,actual_operation,2,0,candidate_with_issues
+forward_monitoring,남양주 왕숙,occupancy_first_actual,0,0,missing
+forward_monitoring,남양주 왕숙,promise_linkage,1,1,ready_for_human
+forward_monitoring,남양주 왕숙,occupancy_first_planned,0,0,missing
+forward_monitoring,하남 교산,occupancy_planned_block,7,7,ready_for_human
+forward_monitoring,하남 교산,promise_date,8,4,ready_for_human
+forward_monitoring,하남 교산,basic_service,2,2,ready_for_human
+forward_monitoring,하남 교산,actual_operation,2,0,candidate_with_issues
+forward_monitoring,하남 교산,occupancy_first_actual,0,0,missing
+forward_monitoring,하남 교산,promise_linkage,1,1,ready_for_human
+forward_monitoring,하남 교산,occupancy_first_planned,0,0,missing
+forward_monitoring,고양 창릉,occupancy_planned_block,10,8,ready_for_human
+forward_monitoring,고양 창릉,promise_date,4,4,ready_for_human
+forward_monitoring,고양 창릉,basic_service,0,0,missing
+forward_monitoring,고양 창릉,actual_operation,3,3,ready_for_human
+forward_monitoring,고양 창릉,occupancy_first_actual,0,0,missing
+forward_monitoring,고양 창릉,promise_linkage,1,1,ready_for_human
+forward_monitoring,고양 창릉,occupancy_first_planned,0,0,missing
+forward_monitoring,부천 대장,occupancy_planned_block,7,5,ready_for_human
+forward_monitoring,부천 대장,promise_date,4,4,ready_for_human
+forward_monitoring,부천 대장,basic_service,0,0,missing
+forward_monitoring,부천 대장,actual_operation,2,2,ready_for_human
+forward_monitoring,부천 대장,occupancy_first_actual,0,0,missing
+forward_monitoring,부천 대장,promise_linkage,1,1,ready_for_human
+forward_monitoring,부천 대장,occupancy_first_planned,0,0,missing

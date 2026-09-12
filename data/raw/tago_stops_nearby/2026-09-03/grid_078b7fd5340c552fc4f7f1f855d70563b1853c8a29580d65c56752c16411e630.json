@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1868833,
+            "gpslong": 127.08675,
+            "nodeid": "GGB233002499",
+            "nodenm": "중흥S클래스.에일린의뜰",
+            "nodeno": 55410
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1871833,
+            "gpslong": 127.0869333,
+            "nodeid": "GGB233002498",
+            "nodenm": "에일린의뜰.중흥S클래스",
+            "nodeno": 55405
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.18555,
+            "gpslong": 127.0846667,
+            "nodeid": "GGB233001188",
+            "nodenm": "중흥S더테라스3차",
+            "nodeno": 55903
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1869,
+            "gpslong": 127.0914167,
+            "nodeid": "GGB233002496",
+            "nodenm": "더샵센트럴시티2차.행복주택",
+            "nodeno": 55404
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1865833,
+            "gpslong": 127.0916167,
+            "nodeid": "GGB233001006",
+            "nodenm": "행복주택.동탄경찰서(좌회전전용)",
+            "nodeno": 55890
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1865667,
+            "gpslong": 127.0918,
+            "nodeid": "GGB233002497",
+            "nodenm": "행복주택.동탄경찰서",
+            "nodeno": 55409
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1874833,
+            "gpslong": 127.0925167,
+            "nodeid": "GGB233002495",
+            "nodenm": "동탄초교",
+            "nodeno": 55403
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1894167,
+            "gpslong": 127.0904,
+            "nodeid": "GGB233001504",
+            "nodenm": "포스코2차.신미주아파트",
+            "nodeno": 36737
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1901333,
+            "gpslong": 127.0862333,
+            "nodeid": "GGB233000147",
+            "nodenm": "에일린의뜰아파트",
+            "nodeno": 36432
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1901167,
+            "gpslong": 127.0860333,
+            "nodeid": "GGB233001567",
+            "nodenm": "에일린의뜰아파트",
+            "nodeno": 55446
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

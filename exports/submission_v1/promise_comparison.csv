@@ -1,0 +1,11 @@
+﻿development,promise_source_id,operation_source_id,promise_date,promise_lower,promise_upper,operation_date,delay_min_days,delay_max_days,interpretation,review_status
+화성 동탄2,SRC-H003,SRC-H005,2024-H1,2024-01-01,2024-06-30,2024-03-30,-92,89,candidate_same_facility,needs_human
+김포 한강,SRC-H010,SRC-H011,2018,2018-01-01,2018-12-31,2019-09-28,271,635,candidate_same_facility,needs_human
+위례,SRC-E1-C05,,2025년 9월,2025-09-01,2025-09-30,,,,operation_not_established,needs_human
+남양주 다산,SRC-H022,SRC-H023,2022,2022-01-01,2022-12-31,2024-08-10,588,952,excluded_completion_vs_operation,needs_human
+하남 미사,SRC-H028,SRC-H029,2020-08-08,2020-08-08,2020-08-08,2020-08-08,0,0,candidate_same_facility,needs_human
+인천 계양,SRC-F003,,미정,,,,,,operation_not_established,needs_human
+남양주 왕숙,SRC-F009,,2028,2028-01-01,2028-12-31,,,,operation_not_established,needs_human
+하남 교산,SRC-F015,,2028,2028-01-01,2028-12-31,,,,operation_not_established,needs_human
+고양 창릉,SRC-F021,,미정,,,,,,operation_not_established,needs_human
+부천 대장,SRC-F027,,미정,,,,,,operation_not_established,needs_human

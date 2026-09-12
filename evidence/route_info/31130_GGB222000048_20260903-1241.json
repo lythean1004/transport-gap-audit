@@ -1,0 +1,24 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "endnodenm": "현대코아",
+          "endvehicletime": 2330,
+          "intervalsattime": 40,
+          "intervalsuntime": 40,
+          "intervaltime": 15,
+          "routeid": "GGB222000048",
+          "routeno": "166-1",
+          "routetp": "일반버스",
+          "startnodenm": "연대농장입구.도곡리종점",
+          "startvehicletime": "0520"
+        }
+      }
+    }
+  }
+}

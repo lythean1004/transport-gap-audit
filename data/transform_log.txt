@@ -1,0 +1,82 @@
+[schema] needs_human 상태의 태그성 reject_reason → review_issue 이전: 99건
+[dup_of] cand_id → full SRC- ID 통일: 11건 교정
+[review_status] dup_of 지정된 행을 duplicate로 이동: 11건
+[B4] OCCU 채택: 10건 — ['SRC-PDF-002-OCCU-1', 'SRC-PDF-008-OCCU-1', 'SRC-PDF-014-OCCU-1', 'SRC-PDF-033-OCCU-1', 'SRC-PDF-036-OCCU-1', 'SRC-PDF-037-OCCU-1', 'SRC-PDF-071-OCCU-1', 'SRC-PDF-082-OCCU-1', 'SRC-PDF-091-OCCU-1', 'SRC-PDF-092-OCCU-1']...
+[B4] OCCU 폐기: 7건 — ['SRC-PDF-001-OCCU-1', 'SRC-PDF-004-OCCU-1', 'SRC-PDF-005-OCCU-1', 'SRC-PDF-007-OCCU-1', 'SRC-PDF-069-OCCU-1', 'SRC-PDF-073-OCCU-1', 'SRC-PDF-079-OCCU-1']...
+[Supersede] 복구: 0건
+[B2] SRC-E1-A04: clue_url 이동, promise_verb 2017-08 교정, contradiction 표기
+[B2] SRC-E1-A10: clue_url 이동, landing_url myhome 지정, promise_verb 교정
+[B2] SRC-E1-C08: clue_url 이동, excerpt_source_path 지정
+[B2] SRC-E2-C08: landing_url 확정 + excerpt PDF 병기
+[B2] SRC-E1-A08: rejected(target_date_absent), 근거 없는 2019 삭제
+[B2] SRC-E1-C01: reject_reason 유지
+[B2] SRC-E1-C02: duplicate of SRC-E1-C01
+[B2] SRC-E1-C04: reject_reason 유지
+[B2] SRC-E2-C10: rejected(development_scope_mismatch) 유지, dup_of=SRC-E2-A06 병기
+[B2] SRC-E1-B05: duplicate of SRC-E1-C05
+[B2] SRC-E1-B10: reject_reason 유지
+[B2] SRC-E1-C10: duplicate of SRC-E1-C03
+[B2] SRC-F022: duplicate of SRC-F010
+[B2] SRC-F028: duplicate of SRC-F004
+[B3] SRC-E1-B06: → plan_confirmation, plan_confirmed_date=2014-05-12
+[B3] SRC-E1-B07: → plan_confirmation, plan_confirmed_date=2020-12-29
+[B3] SRC-E1-B09: → plan_confirmation, plan_confirmed_date=2020-05-21
+[B3] SRC-E1-B03: → plan_confirmation, plan_confirmed_date=2021-06-30
+[B3] SRC-E1-B04: → plan_confirmation, plan_confirmed_date=2022-11-30
+[B3] SRC-E2-B06: → plan_confirmation, plan_confirmed_date=2020-12-30
+[B3] SRC-E2-B07: → plan_confirmation, plan_confirmed_date=2020-12-29
+[B3] SRC-E2-B08: → plan_confirmation, plan_confirmed_date=2020-05-21
+[B3] SRC-E2-B09: → plan_confirmation, plan_confirmed_date=2020-12-30
+[B3] SRC-E2-B10: → plan_confirmation, plan_confirmed_date=2020-12-30
+[B3] SRC-F003: → plan_confirmation, plan_confirmed_date=
+[B3] SRC-F021: → plan_confirmation, plan_confirmed_date=
+[B3] SRC-F027: → plan_confirmation, plan_confirmed_date=
+[B3] SRC-H021: → plan_confirmation, plan_confirmed_date=
+[B3] SRC-H027: → plan_confirmation, plan_confirmed_date=2009
+[B3] SRC-F004: target_date_precision=absent, 사업기간 종료 ≠ 영업개시 명기
+[B3] SRC-F028: target_date_precision=absent, 사업기간 종료 ≠ 영업개시 명기
+[B3] SRC-E1-B08: → actual_operation (별내선 개통일), mode=rail
+[B3] SRC-F023: pairable=FALSE, evidence_role=baseline_only
+[B3] SRC-F024: pairable=FALSE, evidence_role=baseline_only
+[B3] SRC-F029: pairable=FALSE, evidence_role=baseline_only
+[B3] SRC-F030: pairable=FALSE, evidence_role=baseline_only
+[B3] SRC-H002: promise_date로 재등록, occupancy_linked, commitment_version=v1
+[B3] target_completion_date 확정: 13행
+[B1] SRC-H003: exact_excerpt 재정렬 완료
+[B1] SRC-E1-C05: exact_excerpt 재정렬 완료
+[B1] SRC-E1-C06: exact_excerpt 재정렬 완료
+[B1] SRC-H010: exact_excerpt 재정렬 완료
+[B1] SRC-H011: exact_excerpt 재정렬 완료
+[B1] SRC-H022: exact_excerpt 재정렬 완료
+[B1] SRC-H023: exact_excerpt 재정렬 완료
+[B1] SRC-H028: exact_excerpt 재정렬 완료
+[B1] SRC-H030: exact_excerpt 재정렬 완료
+[B1] SRC-H013: exact_excerpt 재정렬 완료
+[B1] SRC-E2-C07: exact_excerpt 재정렬 완료
+[B1] SRC-E2-C09: exact_excerpt 재정렬 완료
+[B1] SRC-E2-A06: exact_excerpt 재정렬 완료
+[B1] SRC-U001: exact_excerpt 재정렬 완료
+[B1] SRC-U002: exact_excerpt 재정렬 완료
+[B1-pending] SRC-H005: 첨부 HWPX/PDF p.1에서 '3월 30일' 포함 개통 문장으로 교체 필요 (현재 excerpt=첨부파일...
+[B1-pending] SRC-H001: 첨부 HWP(27b6ad…)를 열어 입주 개시 시점 진술 문장으로 교체 (현재 excerpt=제목)...
+[B1-pending] SRC-H025: 첨부 HWP(9deb67…)를 열어 입주 개시 시점 진술 문장으로 교체 (현재 excerpt=제목)...
+[B1-pending] SRC-H007: 본문/첨부에 '6월' 진술 없으면 H008을 날짜 근거로 승격, H007은 evidence_role=actu...
+[B1] SRC-H008: primary_date_evidence 승격 (김포한강 첫 입주 6월 근거)
+[B5] human_verified=TRUE 승격: 60행
+[Day2] SRC-E1-C05: censored=TRUE, as_of=2026-09-02, evidence=SRC-E1-C06
+[Day2] commitment_version 캐논 지정: 10행
+
+=== 최종 통계 ===
+총 행 수: 197
+활성 후보 (active): 146
+human_verified=TRUE: 60
+review_status=rejected: 23
+review_status=duplicate: 13
+
+활성 후보 이벤트 유형별:
+  occupancy_planned_block: 45
+  promise_date: 42
+  basic_service: 11
+  actual_operation: 34
+  occupancy_first_actual: 10
+  occupancy_first_planned: 4

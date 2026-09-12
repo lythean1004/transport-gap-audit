@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.4800833,
+            "gpslong": 127.1474,
+            "nodeid": "GGB227000686",
+            "nodenm": "스타필드시티.위례스타힐스.하남시위례도서관",
+            "nodeno": 28533
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4800667,
+            "gpslong": 127.1478,
+            "nodeid": "GGB227000685",
+            "nodenm": "스타필드시티.위례지웰푸르지오.하남시위례도서관",
+            "nodeno": 28532
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4768333,
+            "gpslong": 127.1472,
+            "nodeid": "GGB227000309",
+            "nodenm": "위례중학교.위례센트로엘",
+            "nodeno": 28479
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4780167,
+            "gpslong": 127.1484667,
+            "nodeid": "GGB227000673",
+            "nodenm": "위례초.위례중.효성해링턴타워",
+            "nodeno": 28498
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.47705,
+            "gpslong": 127.1476333,
+            "nodeid": "GGB227000296",
+            "nodenm": "위례중학교.위례센트로엘",
+            "nodeno": 28373
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4776333,
+            "gpslong": 127.1492333,
+            "nodeid": "GGB227000672",
+            "nodenm": "위례초.위례중.효성해링턴타워",
+            "nodeno": 28497
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

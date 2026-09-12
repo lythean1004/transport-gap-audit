@@ -1,0 +1,3 @@
+citycode,nodeid,smoke_test_at_kst,smoke_test_at_utc,http_status,resultCode,resultMsg,item_count,outcome,raw_path,key_form_used,items_with_routeid_and_arrtime,schema_version
+31130,GGB222001318,2026-09-03T12:30:42.907485+09:00,2026-09-03T03:30:42.907485+00:00,200,0,NORMAL SERVICE.,24,ok_with_items,evidence/smoke/31130_GGB222001318_20260903-1230.json,decoded_in_params(url_encoded_by_client),,v1
+31130,GGB222001318,2026-09-03T12:30:42.907485+09:00,2026-09-03T03:30:42.907485+00:00,200,0,NORMAL SERVICE.,24,ok_with_items,evidence/smoke/31130_GGB222001318_20260903-1230.json,decoded_in_params(url_encoded_by_client),24,v2

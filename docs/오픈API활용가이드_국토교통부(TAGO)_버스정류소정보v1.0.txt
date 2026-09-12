@@ -1,0 +1,179 @@
+3.서비스 목록
+순번서비스명(국문)서비스명(영문)
+1버스정류장Bus Stop
+4.서비스 명세
+4.1.OPENAPI 서비스
+4.1.1.서비스 개요
+서
+비
+스 
+정
+보
+서비스 ID IF-APR-004
+서비스명(국문)버스정류장
+서비스명(영문) Bus Stop
+서비스 설명
+버스정류장 정보는 대중교통 시스템에서 중요한 데이터로, 
+정류장의 위치, 명칭, 식별 정보(ID, ARS 번호 등)를 
+제공하여 이용자와 운영자가 효율적으로 버스를 이용하고 
+관리할 수 있도록 합니다. 주요 정보에는 
+지역정보(시·도, 시·군·구, 읍·면·동), 정류장 ID, 
+BIMS ID 등이 포함됩니다.
+서
+비
+스 
+보
+안
+서비스 인증/권한[O] 서비스 Key [ ] 인증서 (GPKI) [ ] 
+Basic (ID/PW) [ ] 없음[ ]WS-Security메시지 레벨 암호
+화[  ] 전자서명[ ] 암호화[O] 없음
+전송 레벨 암호화[  ] SSL [ O] 없음
+적
+용 
+기
+술 
+수
+준
+인터페이스 표준
+[  ] SOAP 1.2
+(RPC-Encoded, Document Literal, Document Literal 
+Wrapped)
+[ O ] REST (GET, POST, PUT, DELETE)
+[ ] RSS 1.0 [ ] RSS 2.0 [ ] Atom 1.0 [ ] 기타
+교환 데이터 표준[ O ] XML [ O ] JSON [ ] MIME [ ] MTOM
+서
+비
+스 
+UR
+L
+개발환경http://openapi.data.go.kr/openapi/service/rest/PortalOpenApi
+Service
+운영환경http://openapi.data.go.kr/openapi/service/rest/PortalOpenApi
+Service
+서
+비
+스 
+WA
+DL
+개발환경N/A
+운영환경N/A
+OPEN API 활용자 가이드
+인공지능(AI)기반 비수도권 교통카드 이용내역 합성데이터 구축 및 시스템 고도화
+서
+비
+스 
+배
+포 
+정
+보
+서비스 버전 1.0
+서비스 시작 일자 2025-02-24
+배포 일자
+2025-02-24
+서비스 이력 N/A
+메시지 교환 유형
+메시지 로깅 수준
+[O ] Request-Response [ ] Publish-Subscribe
+[ ] Fire-and-Forgot [ ] Notification
+성공 [O] Header [ ] Body
+사용 제약 사항 (비고)
+N/A
+실패 [O] Header [O} Body
+8
+OPEN API 활용자 가이드
+인공지능(AI)기반 비수도권 교통카드 이용내역 합성데이터 구축 및 시스템 고도화
+9
+4.1.2.오퍼레이션 목록
+1) [공공데이터포털목록조회] 오퍼레이션 명세- 요청 메시지 명세
+ ※ numOfRows 의 최대 입력값은 페이지 번호당 1000입니다. 최대 1000 이하로   
+   설정하십시오.
+   예)
+   pageNo=1&numOfRows=100  (O) ; 조회가능
+   pageNo=2&numOfRows=1000 (O) ; 조회가능
+   pageNo=3&numOfRows=1001 (X) ; 조회불가- 응답 메시지 명세
+오
+퍼
+레
+이
+션 
+정
+보
+오퍼레이션 번호1오퍼레이션명
+(국문)버스정류장 조회
+오퍼레이션 유형조회(목록)오퍼레이션명
+(영문) getBusStop
+오퍼레이션 설명공공데이터포털에서 제공중인 목록을 제공한다.
+Call Back URL http://apis.data.go.kr/1613000/BusStop/getBusStop
+최대 메시지 
+사이즈[ 800 bytes]
+평균 응답시간[ 500 ms]초당 최대 
+트랜잭션[ 30 tps]
+항목명(영문)항목명(국문)항목
+크기
+항목
+구분
+샘플
+데이터항목설명
+serviceKey서비스 키512 1인증키서비스 인증키
+pageNo페이지 번호4 1 1페이지 번호
+numOfRows한 페이지 결과 
+수4 1 10한 페이지 결과 수
+OPR_YMD운행일자8 1 20250801운행일자
+STTN_ID정류장아이디10 1 00000011정류장아이디
+CTPV_CD시도코드2 1 29시도코드
+SGG_CD시군구코드5 1 29140시군구코드
+dataType데이터타입4 1 JSON JSON / XML
+항목명
+(영문)
+항목명
+(국문)
+항목
+크기
+항목
+구분샘플데이터항목설명
+OPR_YMD운행일자8 1 20250801운행일자
+STTN_ID정류장아이디10 1 00000011정류장아이디
+STTN_NM정류장 명칭150 1 5.18기념문화센
+터정류장 명칭
+STTN_ARS_NO정류장 12 1 ~정류장 
+OPEN API 활용자 가이드
+인공지능(AI)기반 비수도권 교통카드 이용내역 합성데이터 구축 및 시스템 고도화
+ARS번호
+CTPV_CD
+시도코드
+ARS번호
+2
+1
+29
+시도코드
+SGG_CD
+EMD_CD
+CTPV_NM
+SGG_NM
+EMD_NM
+시군구코드
+읍면동코드
+시도명
+시군구명
+읍면동명
+5
+10
+40
+40
+40
+1
+1
+1
+1
+1
+29140
+2914011800
+광주광역시
+서구
+쌍촌동
+시군구코드
+읍면동코드
+시도명
+시군구명
+읍면동명
+※ 응답메시지 데이터 값에 ~ 은 공백일 경우 원천시스템의 입력값입니다.

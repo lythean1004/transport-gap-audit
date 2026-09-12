@@ -1,0 +1,24 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "endnodenm": "불암산역",
+          "endvehicletime": 2225,
+          "intervalsattime": 45,
+          "intervalsuntime": 45,
+          "intervaltime": 25,
+          "routeid": "GGB234000028",
+          "routeno": "10-5",
+          "routetp": "일반버스",
+          "startnodenm": "호평동차고지",
+          "startvehicletime": "0455"
+        }
+      }
+    }
+  }
+}

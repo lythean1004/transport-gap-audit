@@ -1,0 +1,57 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.19685,
+            "gpslong": 127.1110667,
+            "nodeid": "GGB233002420",
+            "nodenm": "롯데캐슬.호반베르디움",
+            "nodeno": 55297
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1972,
+            "gpslong": 127.1112,
+            "nodeid": "GGB233000134",
+            "nodenm": "호반베르디움.롯데캐슬",
+            "nodeno": 36511
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1967333,
+            "gpslong": 127.1048667,
+            "nodeid": "GGB233002419",
+            "nodenm": "한화.호반.대원",
+            "nodeno": 55296
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1971,
+            "gpslong": 127.1049,
+            "nodeid": "GGB233000139",
+            "nodenm": "한화.호반.대원",
+            "nodeno": 36445
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1981167,
+            "gpslong": 127.11465,
+            "nodeid": "GGB233001167",
+            "nodenm": "센트럴푸르지오.반도유보라",
+            "nodeno": 37484
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 5
+    }
+  }
+}

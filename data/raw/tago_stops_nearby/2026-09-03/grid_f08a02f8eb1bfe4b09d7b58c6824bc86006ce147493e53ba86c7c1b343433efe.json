@@ -1,0 +1,73 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31140,
+            "gpslati": 37.1589167,
+            "gpslong": 127.0855,
+            "nodeid": "GGB223000465",
+            "nodenm": "오산장례식장",
+            "nodeno": 24141
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1587333,
+            "gpslong": 127.08475,
+            "nodeid": "GGB223000464",
+            "nodenm": "오산장례식장",
+            "nodeno": 24138
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1586,
+            "gpslong": 127.0895833,
+            "nodeid": "GGB223000188",
+            "nodenm": "롯데인재개발원후문",
+            "nodeno": 24185
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1510667,
+            "gpslong": 127.08845,
+            "nodeid": "GGB223000334",
+            "nodenm": "부산동슈퍼",
+            "nodeno": 24309
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1541,
+            "gpslong": 127.0919667,
+            "nodeid": "GGB223000446",
+            "nodenm": "계량골",
+            "nodeno": 24472
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.15965,
+            "gpslong": 127.0866333,
+            "nodeid": "GGB223000471",
+            "nodenm": "오산장례식장후문",
+            "nodeno": 24041
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1510167,
+            "gpslong": 127.0886333,
+            "nodeid": "GGB223000335",
+            "nodenm": "부산동슈퍼",
+            "nodeno": 24308
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 7
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6518667,
+            "gpslong": 126.69005,
+            "nodeid": "GGB232000734",
+            "nodenm": "하늘빛마을",
+            "nodeno": 35655
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6519667,
+            "gpslong": 126.6903167,
+            "nodeid": "GGB232000731",
+            "nodenm": "하늘빛마을",
+            "nodeno": 35653
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6444333,
+            "gpslong": 126.6882833,
+            "nodeid": "GGB232000746",
+            "nodenm": "전원마을3단지.KCC스위첸",
+            "nodeno": 35584
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6442833,
+            "gpslong": 126.6883333,
+            "nodeid": "GGB232000745",
+            "nodenm": "전원마을3단지.KCC스위첸",
+            "nodeno": 35579
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6523333,
+            "gpslong": 126.69175,
+            "nodeid": "GGB232000762",
+            "nodenm": "하늘빛마을일성트루웰",
+            "nodeno": 35670
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 5
+    }
+  }
+}

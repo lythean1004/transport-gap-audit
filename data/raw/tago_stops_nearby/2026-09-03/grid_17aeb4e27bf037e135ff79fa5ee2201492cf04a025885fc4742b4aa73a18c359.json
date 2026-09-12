@@ -1,0 +1,121 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31120,
+            "gpslati": 37.6154333,
+            "gpslong": 127.1413,
+            "nodeid": "GGB277103215",
+            "nodenm": "구리IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6153333,
+            "gpslong": 127.14195,
+            "nodeid": "GGB277103216",
+            "nodenm": "구리IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6170333,
+            "gpslong": 127.1381333,
+            "nodeid": "GGB221000016",
+            "nodenm": "우리나라최대왕릉군인동구릉",
+            "nodeno": 22078
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6159333,
+            "gpslong": 127.13765,
+            "nodeid": "GGB221000128",
+            "nodenm": "우리나라최대왕릉군인동구릉",
+            "nodeno": 22072
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6180333,
+            "gpslong": 127.1388667,
+            "nodeid": "GGB221000015",
+            "nodenm": "인창어울림아파트정문",
+            "nodeno": 22082
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.61795,
+            "gpslong": 127.1383833,
+            "nodeid": "GGB221000129",
+            "nodenm": "시립동구어린이집",
+            "nodeno": 22080
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6178,
+            "gpslong": 127.1430333,
+            "nodeid": "GGB221000321",
+            "nodenm": "인창해모로아파트후문.농협하나로마트",
+            "nodeno": 22256
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.61895,
+            "gpslong": 127.1413,
+            "nodeid": "GGB221000033",
+            "nodenm": "인창해모로아파트",
+            "nodeno": 22112
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6191,
+            "gpslong": 127.1399167,
+            "nodeid": "GGB221000014",
+            "nodenm": "동창마을.해모로.어울림아파트",
+            "nodeno": 22092
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6192667,
+            "gpslong": 127.1397333,
+            "nodeid": "GGB221000130",
+            "nodenm": "동창마을.해모로.어울림아파트",
+            "nodeno": 22091
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6181167,
+            "gpslong": 127.1434667,
+            "nodeid": "GGB221000236",
+            "nodenm": "인창해모로아파트후문",
+            "nodeno": 22225
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6193667,
+            "gpslong": 127.1416,
+            "nodeid": "GGB221000163",
+            "nodenm": "인창해모로아파트",
+            "nodeno": 22177
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6125167,
+            "gpslong": 127.1377167,
+            "nodeid": "GGB221000151",
+            "nodenm": "동구릉역3번출구.건영.성원아파트",
+            "nodeno": 22073
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 13
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1796167,
+            "gpslong": 127.1188833,
+            "nodeid": "GGB233002373",
+            "nodenm": "호반3차.창의고",
+            "nodeno": 55444
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1797333,
+            "gpslong": 127.1197,
+            "nodeid": "GGB233002006",
+            "nodenm": "호반3차.창의고",
+            "nodeno": 55445
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1829,
+            "gpslong": 127.1204833,
+            "nodeid": "GGB233000184",
+            "nodenm": "힐스테이트동탄",
+            "nodeno": 55704
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1831333,
+            "gpslong": 127.1207167,
+            "nodeid": "GGB233002057",
+            "nodenm": "힐스테이트동탄",
+            "nodeno": 55027
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.18175,
+            "gpslong": 127.1220167,
+            "nodeid": "GGB233000209",
+            "nodenm": "창의고",
+            "nodeno": 55464
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1833833,
+            "gpslong": 127.11545,
+            "nodeid": "GGB233001785",
+            "nodenm": "의료복합",
+            "nodeno": 55506
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.18185,
+            "gpslong": 127.1225333,
+            "nodeid": "GGB233000374",
+            "nodenm": "창의고",
+            "nodeno": 55465
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1795667,
+            "gpslong": 127.11455,
+            "nodeid": "GGB233000125",
+            "nodenm": "호반베르디움3차",
+            "nodeno": 55401
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1794,
+            "gpslong": 127.1141,
+            "nodeid": "GGB233000126",
+            "nodenm": "호반베르디움3차",
+            "nodeno": 55402
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1826,
+            "gpslong": 127.1236167,
+            "nodeid": "GGB233001880",
+            "nodenm": "호반5차.르파비스",
+            "nodeno": 55513
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1822667,
+            "gpslong": 127.1237333,
+            "nodeid": "GGB233001879",
+            "nodenm": "호반5차.르파비스",
+            "nodeno": 55512
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 11
+    }
+  }
+}

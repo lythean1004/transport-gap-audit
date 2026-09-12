@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31020,
+            "gpslati": 37.4586333,
+            "gpslong": 127.1516167,
+            "nodeid": "GGB204000080",
+            "nodenm": "한국폴리텍대학.성남문화예술교육센터",
+            "nodeno": 5149
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4581667,
+            "gpslong": 127.1517667,
+            "nodeid": "GGB204000070",
+            "nodenm": "한국폴리텍대학.성남문화예술교육센터",
+            "nodeno": 5151
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4607667,
+            "gpslong": 127.1446333,
+            "nodeid": "GGB204000031",
+            "nodenm": "위례119안전센터.위례포레스트부영",
+            "nodeno": 5076
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4612,
+            "gpslong": 127.14465,
+            "nodeid": "GGB204000069",
+            "nodenm": "위례119안전센터.위례포레스트부영",
+            "nodeno": 5075
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4577333,
+            "gpslong": 127.1528833,
+            "nodeid": "GGB204000103",
+            "nodenm": "한국폴리텍대학",
+            "nodeno": 5100
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4583167,
+            "gpslong": 127.15365,
+            "nodeid": "GGB204000104",
+            "nodenm": "산성동",
+            "nodeno": 5106
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4576333,
+            "gpslong": 127.1529667,
+            "nodeid": "GGB204000082",
+            "nodenm": "한국폴리텍대학",
+            "nodeno": 5101
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.45665,
+            "gpslong": 127.15115,
+            "nodeid": "GGB204000102",
+            "nodenm": "하나로문구",
+            "nodeno": 5099
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.45825,
+            "gpslong": 127.1537333,
+            "nodeid": "GGB204000081",
+            "nodenm": "산성동",
+            "nodeno": 5104
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.45645,
+            "gpslong": 127.151,
+            "nodeid": "GGB204000083",
+            "nodenm": "하나로문구",
+            "nodeno": 5096
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6007167,
+            "gpslong": 127.17415,
+            "nodeid": "GGB222001953",
+            "nodenm": "금강펜테리움1차",
+            "nodeno": 49832
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6007,
+            "gpslong": 127.1737667,
+            "nodeid": "GGB222001952",
+            "nodenm": "금강펜테리움1차",
+            "nodeno": 49831
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6023667,
+            "gpslong": 127.1743,
+            "nodeid": "GGB222000299",
+            "nodenm": "신안인스빌2차",
+            "nodeno": 23181
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6023833,
+            "gpslong": 127.1739167,
+            "nodeid": "GGB222000304",
+            "nodenm": "신안인스빌2차",
+            "nodeno": 23179
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6001333,
+            "gpslong": 127.1729333,
+            "nodeid": "GGB222001964",
+            "nodenm": "다산한강초등학교",
+            "nodeno": 49843
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5999333,
+            "gpslong": 127.17295,
+            "nodeid": "GGB222001965",
+            "nodenm": "다산한강초등학교",
+            "nodeno": 49844
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5972167,
+            "gpslong": 127.17375,
+            "nodeid": "GGB222001954",
+            "nodenm": "금강펜테리움2차.근린공원",
+            "nodeno": 49833
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5972,
+            "gpslong": 127.1734,
+            "nodeid": "GGB222001955",
+            "nodenm": "금강펜테리움2차.반도유보라.신안인스빌",
+            "nodeno": 49834
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 8
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1807333,
+            "gpslong": 127.1245333,
+            "nodeid": "GGB233003050",
+            "nodenm": "신리입구",
+            "nodeno": 55579
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.18075,
+            "gpslong": 127.1243167,
+            "nodeid": "GGB233003045",
+            "nodenm": "신리입구",
+            "nodeno": 55576
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1822667,
+            "gpslong": 127.1237333,
+            "nodeid": "GGB233001879",
+            "nodenm": "호반5차.르파비스",
+            "nodeno": 55512
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1826,
+            "gpslong": 127.1236167,
+            "nodeid": "GGB233001880",
+            "nodenm": "호반5차.르파비스",
+            "nodeno": 55513
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.18185,
+            "gpslong": 127.1225333,
+            "nodeid": "GGB233000374",
+            "nodenm": "창의고",
+            "nodeno": 55465
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1813,
+            "gpslong": 127.1285167,
+            "nodeid": "GGB233003205",
+            "nodenm": "현민초등학교",
+            "nodeno": 55966
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.18345,
+            "gpslong": 127.1254,
+            "nodeid": "GGB233003162",
+            "nodenm": "르파비스",
+            "nodeno": 55559
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.18175,
+            "gpslong": 127.1220167,
+            "nodeid": "GGB233000209",
+            "nodenm": "창의고",
+            "nodeno": 55464
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1815333,
+            "gpslong": 127.1287167,
+            "nodeid": "GGB233003204",
+            "nodenm": "현민초등학교",
+            "nodeno": 55965
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1838667,
+            "gpslong": 127.12525,
+            "nodeid": "GGB233003161",
+            "nodenm": "호반베르디움5차",
+            "nodeno": 55558
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1831333,
+            "gpslong": 127.1207167,
+            "nodeid": "GGB233002057",
+            "nodenm": "힐스테이트동탄",
+            "nodeno": 55027
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1829,
+            "gpslong": 127.1204833,
+            "nodeid": "GGB233000184",
+            "nodenm": "힐스테이트동탄",
+            "nodeno": 55704
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1848667,
+            "gpslong": 127.1229333,
+            "nodeid": "GGB233001620",
+            "nodenm": "힐스테이트.호반5차",
+            "nodeno": 55490
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 13
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1945833,
+            "gpslong": 127.1194,
+            "nodeid": "GGB233000965",
+            "nodenm": "청목초.신안1차",
+            "nodeno": 36468
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1962333,
+            "gpslong": 127.1187667,
+            "nodeid": "GGB233002421",
+            "nodenm": "예솔초.호반2차.대원2차",
+            "nodeno": 55340
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1981333,
+            "gpslong": 127.1168167,
+            "nodeid": "GGB233001168",
+            "nodenm": "센트럴푸르지오.호반베르디움2차",
+            "nodeno": 36458
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1981167,
+            "gpslong": 127.11465,
+            "nodeid": "GGB233001167",
+            "nodenm": "센트럴푸르지오.반도유보라",
+            "nodeno": 37484
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1987333,
+            "gpslong": 127.11515,
+            "nodeid": "GGB233000150",
+            "nodenm": "반도유보라.센트럴푸르지오",
+            "nodeno": 36515
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 5
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1723333,
+            "gpslong": 127.1081667,
+            "nodeid": "GGB233001954",
+            "nodenm": "호수부영3차",
+            "nodeno": 55567
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1726167,
+            "gpslong": 127.1054833,
+            "nodeid": "GGB233002262",
+            "nodenm": "하우스디더레이크.우미린",
+            "nodeno": 55476
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1716667,
+            "gpslong": 127.1070833,
+            "nodeid": "GGB233003093",
+            "nodenm": "호수부영3차.우미린2차",
+            "nodeno": 55420
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1759167,
+            "gpslong": 127.1057833,
+            "nodeid": "GGB233000162",
+            "nodenm": "나래학교.더샵레이크",
+            "nodeno": 36493
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.17135,
+            "gpslong": 127.1064167,
+            "nodeid": "GGB233003092",
+            "nodenm": "우미린2차.호수부영3차",
+            "nodeno": 55419
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1760833,
+            "gpslong": 127.1050833,
+            "nodeid": "GGB233000997",
+            "nodenm": "레이크빌.하우스디더레이크",
+            "nodeno": 36494
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.17235,
+            "gpslong": 127.10335,
+            "nodeid": "GGB233002260",
+            "nodenm": "우미린.하우스디더레이크",
+            "nodeno": 55474
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1726,
+            "gpslong": 127.113,
+            "nodeid": "GGB233000571",
+            "nodenm": "정현초.청림중",
+            "nodeno": 55569
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1723167,
+            "gpslong": 127.1129833,
+            "nodeid": "GGB233001953",
+            "nodenm": "정현초.청림중",
+            "nodeno": 55566
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 9
+    }
+  }
+}

@@ -1,0 +1,3276 @@
+<!DOCTYPE html>
+<html lang="ko" class="ko
+		dv-pc
+		
+			sub
+		">
+<head>
+	<meta charset="utf-8">	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=10.0,user-scalable=yes">	
+	<!-- <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"> -->
+	<!-- !!!!!!global-ui!!!!!!!!!!!!!!!!!! -->
+	<link rel="stylesheet" href="/humanframe/globaltheme/assets/style/content/global-ui.css">	
+	<!-- Favicon -->
+	<link rel="apple-touch-icon" sizes="180x180" href="/humanframe/globaltheme/assets/image/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/humanframe/globaltheme/assets/image/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="194x194" href="/humanframe/globaltheme/assets/image/favicon/favicon-194x194.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="/humanframe/globaltheme/assets/image/favicon/android-chrome-192x192.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/humanframe/globaltheme/assets/image/favicon/favicon-16x16.png">
+	<link rel="mask-icon" href="/humanframe/globaltheme/assets/image/favicon/safari-pinned-tab.svg" color="#0070bd">
+	<link rel="shortcut icon" href="/humanframe/globaltheme/assets/image/favicon/favicon.ico">		
+	<link rel="manifest" href="/humanframe/globaltheme/assets/image/favicon/site.webmanifest">
+	
+	<script type="text/javascript" src="//wcs.pstatic.net/wcslog.js"></script>
+	<script type="text/javascript">
+		if(!wcs_add) var wcs_add = {};
+		wcs_add["wa"] = "af05b1b11804a8";
+		if(window.wcs) {
+		  wcs_do();
+		}
+	</script>
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/humanframe/globaltheme/assets/image/favicon/mstile-144x144.png">
+	<meta name="msapplication-config" content="/humanframe/globaltheme/assets/image/favicon/browserconfig.xml">
+	<meta name="theme-color" content="#ffffff">  		
+	<meta name="google-site-verification" content="wXM7wGKSUVwHg94zy-jdVTDwVGTL_ZQ8pOpeOzr4l4c">
+	<script src="/humanframe/globaltheme/assets/plugin/jquery/jquery-2.2.2.min.js"></script>
+	<script src="/humanframe/globaltheme/assets/script/device.js"></script>
+	
+	<!-- Global Style -->
+	<link rel="stylesheet" href="/humanframe/globaltheme/assets/style/font/font.css">	
+	<link rel="stylesheet" href="/humanframe/globaltheme/assets/style/base/base.css">		
+	<link rel="stylesheet" href="/humanframe/globaltheme/assets/style/_layout/layout-field.css">	
+	<!-- Theme Style -->
+	<link rel="stylesheet" href="/humanframe/theme/cool/assets/style/themeStyle.css">
+	<!-- <script src="/humanframe/globaltheme/assets/plugin/datetimepicker/build/jquery.datetimepicker.full.js"></script> -->
+			<link rel="stylesheet" href="/humanframe/globaltheme/assets/style/content/global-ui.css">	
+			<link rel="stylesheet" href="/humanframe/theme/cool/assets/style/content.css?ver=541.0">	
+		<script src="/humanframe/globaltheme/assets/script/global-ui-2023.js"></script>	
+	<script src="/humanframe/theme/cool/assets/script/ui.js?ver=541.0"></script>							
+	<title>
+		홈>열린시장실>의견공감
+		 |
+		인천은 소통이 가득</title>
+<!-- s:_head/head-global-script -->
+<script>
+
+var _svObjInfo = {};
+_svObjInfo.si = "cms8";
+_svObjInfo.bn = "1391";
+_svObjInfo.sr = "12664";
+
+function fn_meve(url){
+	var retUrl = document.location.href;
+	location.href = url + "?retUrl=" + encodeURIComponent(retUrl);
+}
+
+function fn_login(){
+	event.stopPropagation();	
+	commLib.fn_login();
+}
+
+function fn_artLogin(){
+	event.stopPropagation();
+	fn_meve("/art/ART030110");
+}
+
+ function fn_search(){
+	var kwd = "";
+	kwd = $('#global-search-keyword').val();
+	if(kwd == ""){
+		alert("검색어를 입력해주세요.");
+		return false;
+	}else{
+		$('#globalSearchForm').submit();
+	}
+}
+
+function srchFocus(){
+	$('#topKwd').focus();
+}
+function srchMobileFocus(){
+	$('#mobileKwd').focus();
+}
+
+//다국어페이지 이동
+function fn_go_language(lang){
+	if(lang != "" && lang != null){
+		window.open("about:blank").location.href = lang;
+	}
+}
+
+/*
+$(document).ready(function() {
+// 통합 검색 input box focus
+    $("#search").focus(function(){
+        $(this).prev().addClass('on');
+        $('.icon-key').css('opacity','1');
+    }).blur(function(){
+        if( !$('#search').val() ){
+            $(this).prev().removeClass('on');
+            $('.icon-key').css('opacity','0');
+        }
+    });
+
+});
+*/
+</script>
+<!--// e:_head/head-global-script --><!-- s:_head/head-global-end -->
+	<!-- Custom -->
+ 	<script src="/humanframe/admin/assets/javascripts/custom/human.custom.class.js"></script>
+ 	<script src="/humanframe/admin/assets/javascripts/custom/human.function.js"></script>
+
+	<!-- jQuery Validate -->
+	<script src="/humanframe/globaltheme/assets/plugin/jquery.validate/jquery.validate.min.js"></script>
+	<script src="/humanframe/globaltheme/assets/plugin/jquery.validate/localization/messages_ko.js"></script>		
+	<!-- Weblog -->
+ 	<script src="/humanframe/globaltheme/assets/js/xtractor_cookie.js"></script> 	
+ 	
+ 	<!-- 
+	<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+	<script  src="https://static.nid.naver.com/js/naveridlogin_js_sdk_2.0.0.js" ></script>
+	<script src="https://connect.facebook.net/ko_KR/sdk.js"></script>
+	<script src="https://platform.twitter.com/widgets.js"></script>
+	-->
+	
+	<!-- 콘텐츠타입메뉴일경우 콘텐츠명 -->
+<!-- 콘텐츠타입메뉴일경우 게시글 -->
+<script>
+
+
+function fn_sendSns(sns){
+	event.stopPropagation();
+
+ 	var txt = '의견공감';
+	var url = document.location.href;
+
+    var o;
+    var _url = encodeURIComponent(url);
+    var _txt = encodeURIComponent(txt);
+    var _br  = encodeURIComponent('\r\n');
+
+    switch(sns){
+        case 'facebook':
+            o = {
+	                method	:'popup',
+	                url		:'http://www.facebook.com/sharer/sharer.php?u=' + _url
+	            };
+            break;
+
+        case 'twitter':
+            o = {
+	                method	:'popup',
+	                url		:'http://twitter.com/intent/tweet?text=' + _txt + '&url=' + _url
+	            };
+            break;
+
+        case 'naverblog':
+            o = {
+	                 method	:'popup',
+	                 url	:'https://share.naver.com/web/shareView.nhn?url=' + _url + '&title=' + _txt
+                 };
+             break;
+
+        case 'kakaostory':
+
+        	 Kakao.Story.share({
+        	        url: url,
+        	        text: txt
+        	      });
+        	 return;
+    		/* o = {
+	                method	:'popup',
+	                url		:'https://story.kakao.com/share?url=' + _url
+	            }; */
+            break;
+
+        case 'instagram':
+             break;
+
+        default:
+            alert('지원하지 않는 SNS입니다.');
+            return false;
+    }
+
+    switch(o.method)
+    {
+        case 'popup':
+            window.open(o.url, 'pop', 'width=500, height=500' );
+            break;
+
+       /*  case 'web2app':
+            if(navigator.userAgent.match(/android/i))
+            {
+                // Android
+                setTimeout(function(){ location.href = 'intent://' + o.param + '#Intent;' + o.g_proto + ';end'}, 100);
+            }
+            else if(navigator.userAgent.match(/(iphone)|(ipod)|(ipad)/i))
+            {
+                // Apple
+                setTimeout(function(){ location.href = o.a_store; }, 200);
+                setTimeout(function(){ location.href = o.a_proto + o.param }, 100);
+            }
+            else
+            {
+                alert('이 기능은 모바일에서만 사용할 수 있습니다.');
+            }
+            break; */
+    }
+}
+
+
+function fn_saveBookmark(siteNm, pageNm, pageUrl){
+	event.stopPropagation();
+
+	if(confirm("해당 페이지를 스크랩 하시겠습니까?")){
+		var data = { "siteNm": encodeURIComponent(siteNm), "pageNm": encodeURIComponent(pageNm), "pageUrl": encodeURIComponent(pageUrl) };
+
+		$.ajax({
+			type 		: "post",
+			url			: '/co/COScrap/action',
+			dataType	: 'text', //전송받을 데이터의 타입
+			data		: data,
+			contentType	: 'application/x-www-form-urlencoded; charset=UTF-8',
+			success		: function(data) {
+				if(data.indexOf('nologin') != -1){
+					if(confirm("회원만 이용가능합니다.\n가입된 회원아이디로 로그인 해주세요.")){
+						var retUrl = document.location.href;
+						location.href = "/login?retUrl=" + encodeURIComponent(retUrl);
+					}
+				}else if(data=="true"){
+					if(confirm("스크랩이 완료되었습니다.\n마이페이지 > 스크랩 메뉴로 이동하시겠습니까?")){
+						location.href = "/IC060501";
+					}
+				}else{
+					alert("저장이 실패하였습니다.");
+				}
+			},
+			error		: function(data, status, err) {
+				console.log('error forward : ' + data);
+			}
+		});
+	}
+}
+
+function fn_copyUrl(){
+	event.stopPropagation();
+
+	var _temp = $("<input>");
+	$("body").append(_temp);
+	_temp.val(document.location.href).select();
+	document.execCommand("copy");
+	_temp.remove();
+
+	alert(document.location.href + "\n 주소가 복사되었습니다.");
+	$('.btn-linkurl').focus();
+}
+</script>
+
+<script >
+	/**
+	 *	파일뷰어
+	 * @param {object} options
+	 *					- srvcId
+	 *					- fileNo
+	 *					- upperNo : upperNo or mediaNo
+	 *					- fileTy
+	 *					- fileExt
+	 *					- fileNm
+	 */
+	function fn_fileViewer( options ){
+		if( typeof options == "undefined" || options == null || options == "" ){
+			alert(" 오류가 발생했습니다.");
+			console.error("param error!!");
+
+			return false;
+		}
+
+		var fileNm = options.streFileNm;
+
+		if(fileNm != null && fileNm != ""){
+			fileNm = fileNm.split(".")[0];
+		}
+
+		var flpth = options.flpth;
+
+		if(flpth != null && flpth != ""){
+			flpth = flpth.split(fileNm)[0];
+		}
+		
+		// 미리보기 취약점 보완
+		flpth = flpth.replaceAll("../", "");
+
+		var formData 	= new FormData();
+		//var docId 		= options.srvcId + "_" + options.upperNo + "_" + options.fileNo + "_" + commLib.fn_generateUUID();
+		var docId 		= flpth + fileNm;
+		docId			= docId.replaceAll("//", "");
+		docId			= docId.replace("/", "");
+		docId			= docId.replace(/\//g, "_");
+		docId			= docId.replace(/(\s|\(|\)|\&|\n|\r|\.|\,|<|>|\!|@|#|\$|%|\^|\&|\*|-|=|\+|\/|\?|;|:|\'|\[|\]|\{|\})/g, "");
+
+		if( docId.length > 50 ){
+			docId = docId.substr(docId.length - 50);
+		}
+		/* var fileUrl 	= location.origin + "/comm/getFile?" +	"srvcId=" 	+ options.srvcId	+
+																"&upperNo="	+ options.upperNo 	+
+																"&fileTy="	+ options.fileTy 	+
+																"&fileNo="	+ options.fileNo; */
+		var fileUrl = '/data/deployments/humanframe.war' + options.flpth + "/" + options.streFileNm;  // /없을경우 붙여넣어주기
+		fileUrl		= fileUrl.replace(/(\/{2,}|\\{1,})/g,"/");
+
+		formData.append("mode"		, "url");
+		formData.append("nocache"	, "1");
+		formData.append("doc_id"	, docId);
+		formData.append("file_url"	, fileUrl);
+		formData.append("file_ext"	, options.fileExt);
+		formData.append("file_name"	, options.fileNm || "");
+
+		$.ajax({
+			  type			: "POST",
+			  url			: location.origin + "/fileviewer/api/upload",
+			  data			: formData,
+			  dataType		: 'json',
+			  cache			: false,
+			  contentType	: false,
+			  processData	: false,
+			  async			: true,
+			  beforeSend	: function(){
+				  $.LoadingOverlay("show", overlayPluginOpt);
+			  },
+			  success		: function (data) {
+				if ( data && data.error && data.error == -1 ){
+					setTimeout(window.open(data.url, "_blank"),'500');
+				} else {
+				  if ( data && data.message ) {
+					alert(data.message);
+				  }
+				}
+			  },
+			  error			: function (error) {
+				  alert("에러가 발생했습니다.\n관리자에게 문의하세요 (" + error.statusText + ")");
+			  },
+			  complete		: function (){
+				  $.LoadingOverlay("hide");
+			  }
+		});
+	}
+
+	/* function fn_fileViewer( options ){
+		 if( typeof options == "undefined" || options == null || options == "" ){
+		 alert(" 오류가 발생했습니다.");
+		 console.error("param error!!");
+
+		 return false;
+		 }
+
+		 var formData = new FormData();
+		 var docId = options.srvcId + "_" + options.upperNo + "_" + options.fileNo + "_" + commLib.fn_generateUUID();
+		 var fileUrl = location.origin + "/comm/getFile?" +	"srvcId=" + options.srvcId	+
+		 "&upperNo="	+ options.upperNo +
+		 "&fileTy="	+ options.fileTy +
+		 "&fileNo="	+ options.fileNo +
+		 "&flpth=" + options.flpth +
+		 "&streFileNm=" + options.streFileNm +
+		 "&fileExtsn=" + options.fileExtsn;
+
+		 var fileUrl2 = "flpth=" + options.flpth + "&streFileNm=" + options.streFileNm;
+
+		 var apiKey = "RPAC16BRZ90IKJC";
+		 var cc = "incheon";
+		 fileUrl = encodeURIComponent(fileUrl);
+		 //파일경로에서 추출 가능한 경우는 file_name 파라미터를 보내지 않아도 됩니다.
+		 var fileName = encodeURIComponent(options.fileNm);
+		 //window.open("http://viewer1.withsoft.kr/v1/cnview?key=" + apiKey + "&cc=" + cc + "&file_url=" + fileUrl + "&file_name=" + fileName , "viewstory", "width=700;height=600");
+
+		 window.open("http://viewer1.withsoft.kr/v1/cnview?key=" + apiKey + "&cc=" + cc + "&file_url=" + fileUrl + "&file_name=" + fileName , "viewstory", "width=700;height=600");
+	} */
+
+	/**
+	 *	파일뷰어 for url
+	 * @param {object} options
+	 *					- fileNm
+	 *					- url
+	 *					- fileExt
+	 */
+	function fn_fileViewerUrl( fileNm, url, fileExt ){
+		if( (typeof url == "undefined" || url == null || url == "") &&
+				(typeof fileNm == "undefined" || fileNm == null || fileNm == "") ){
+			alert(" 오류가 발생했습니다.");
+			console.error("param error!!");
+
+			return false;
+		}
+
+		var fileNmStr	= fileNm || "";
+		
+		var formData 	= new FormData();
+		var docId 		= commLib.fn_generateUUID();
+		var fileUrl 	= location.origin + url;
+		var ext			= fileExt || fileNmStr.substr(fileNmStr.lastIndexOf(".") + 1);
+
+		formData.append("mode"		, "url");
+		formData.append("nocache"	, "1");
+		formData.append("doc_id"	, docId);
+		formData.append("file_url"	, fileUrl);
+		formData.append("file_ext"	, ext);
+		formData.append("file_name"	, fileNm || "");
+
+		$.ajax({
+			  type			: "POST",
+			  url			: location.origin + ":9191/api/upload",
+			  data			: formData,
+			  dataType		: 'json',
+			  cache			: false,
+			  contentType	: false,
+			  processData	: false,
+			  async			: true,
+			  beforeSend	: function(){
+				  $.LoadingOverlay("show");
+			  },
+			  success		: function (data) {
+				if ( data && data.error && data.error == -1 ){
+					setTimeout(window.open(data.url, "_blank"),'500');
+				} else {
+				  if ( data && data.message ) {
+					alert(data.message);
+				  }
+				}
+			  },
+			  error			: function (error) {
+				  alert("에러가 발생했습니다.\n관리자에게 문의하세요 (" + error.statusText + ")");
+			  },
+			  complete		: function (){
+				  $.LoadingOverlay("hide");
+			  }
+		});
+	}
+
+/* 	 function fn_fileViewer( options ){
+			if( typeof options == "undefined" || options == null || options == "" ){
+				alert(" 오류가 발생했습니다.");
+				console.error("param error!!");
+
+				return false;
+			}
+
+		     var $form = $('<form></form>');
+		     $form.attr('action', '/comm/fileView');
+		     $form.attr('method', 'post');
+		     $form.attr('target', '_blank');
+		     $form.appendTo('body');
+
+		     $form.append($("<input type='hidden' name='srvcId' value='" + options.srvcId + "' />"));
+			 $form.append($("<input type='hidden' name='upperNo' value='" + options.upperNo + "' />"));
+			 $form.append($("<input type='hidden' name='fileTy' value='" + options.fileTy + "' />"));
+			 $form.append($("<input type='hidden' name='fileNo' value='" + options.fileNo + "' />"));
+
+		     $form.submit();
+		} */
+
+</script>
+<!--  로딩바 -->
+	<!-- <script src="/humanframe/globaltheme/assets/plugin/loadingoverlay/loadingoverlay.js"></script> -->
+	<script src="/humanframe/globaltheme/assets/plugin/loadingoverlay/loadingoverlay.min.js"></script>
+	
+	<!--[if lt IE 9]>
+	<script src="/humanframe/globaltheme/assets/plugin/html5shiv.min.js">
+	<script src="/humanframe/globaltheme/assets/plugin/respond.min.js">
+	<![endif]-->	
+	
+	<!-- 검색시 SNS 표출 -->
+	<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "인천광역시청",
+		"url": "https://www.incheon.go.kr",
+		"sameAs":[
+			"https://www.instagram.com/incheon_gov",
+			"https://www.facebook.com/incheon.gov",
+			"https://www.youtube.com/channel/UC960xfXepXPsJ8HHePGvAKw",
+			"https://x.com/incheon_gov",
+			"https://story.kakao.com/ch/incheoncity"
+		]
+	}
+	</script>
+	
+<!--// e:_head/head-global-end --></head>
+<body>
+	<div class="skip-nav">
+		<a href="#gnb">주메뉴 바로가기</a>
+		<a href="#content2024">본문 바로가기</a>
+	</div>
+
+	<div id="wrapper" class="cool vote wrapper  ">
+
+		<!-- header -->
+<header id="header" class="header">
+
+	<script>
+var _svObjInfo = {};
+_svObjInfo.si = "cms8";
+_svObjInfo.bn = "1391";
+_svObjInfo.sr = "12664";
+
+function fn_meve(url){
+	var retUrl = document.location.href;
+	location.href = url + "?retUrl=" + encodeURIComponent(retUrl);
+}
+
+function fn_login(){
+	event.stopPropagation();
+	commLib.fn_login();
+}
+
+function fn_artLogin(){
+	event.stopPropagation();
+	fn_meve("/art/ART030110");
+}
+
+ function fn_search(){
+	var kwd = "";
+	kwd = $('#global-search-keyword').val();
+	if(kwd == ""){
+		alert("검색어를 입력해주세요.");
+		return false;
+	}else{
+		$('#globalSearchForm').submit();
+	}
+}
+
+function srchFocus(){
+	$('#topKwd').focus();
+}
+function srchMobileFocus(){
+	$('#mobileKwd').focus();
+}
+
+//다국어페이지 이동
+function fn_go_language(lang){
+	if(lang != "" && lang != null){
+		window.open("about:blank").location.href = lang;
+	}
+}
+
+
+
+$(document).ready(function() {
+	
+	// 통합 검색 input box focus
+    /* $("#search").focus(function(){
+        $(this).prev().addClass('on');
+        $('.icon-key').css('opacity','1');
+    }).blur(function(){
+        if( !$('#search').val() ){
+            $(this).prev().removeClass('on');
+            $('.icon-key').css('opacity','0');
+        }
+    }); */
+    
+    // 다국어 사이트 접속
+	$("#selectLanguage").on("change", function(){
+		fn_go_language(this.value);
+	});
+    
+	$(function() {
+		  $('a[href="#none"]').attr({
+		    tabindex: -1,
+		    'aria-hidden': true
+		  });
+		});
+});
+</script>
+
+<!-- header-global-wrap -->
+<!-- START : 20241120 -->
+<div class="top-guide">
+	<div class="inner">
+		<p>이 누리집은 대한민국 공식 전자정부 누리집입니다.</p>
+	</div>
+</div>
+<!--// END : 20241120 -->
+<div id="header-global-wrap" class="header-global-wrap">
+	<div class="header-global">
+		<!-- header-global-util-2023 -->
+		<div class="header-global-util-2023">
+			<ul>
+				<!-- <li class="weatherInfo"><a href="http://www.kma.go.kr/aboutkma/intro/metropolitan/index.jsp?pointCode=2820051000"target="_blank"title="기상청 인천지역 날씨 새창 이동"><span>날씨정보</span></a></li>-->
+				<li><a href="/res" target="_blank" title="온라인통합예약 새창 이동">온라인통합예약</a></li>
+				<li><a href="https://data.incheon.go.kr/" target="_blank" title="인천데이터포털 새창 이동"><span>인천데이터포털</span></a></li>
+				<li><a href="/open" target="_blank" title="정보공개포털 새창 이동"><span>정보공개포털</span></a></li>
+				<li><a href="/IC110001" title="OpenAPI 이동"><span>OpenAPI</span></a></li>
+			</ul>
+		</div>
+		<!-- //header-global-util-2023 -->
+
+		<!-- header-global-util-2023 -->
+		<div class="header-theme-util-2023">
+			<ul>
+				<li class="login"><a href="#" onclick="fn_login();">로그인</a></li>
+						<li><a href="/unityMberLoginCnter" class="btn-basic btn-go-register"><span>회원가입</span></a></li>
+					<!-- <li><a href="/unityMberLoginCnter" class="btn-basic btn-go-register"><span>회원가입</span></a></li> -->
+				<li>
+					<div class="header-language-group">
+<!-- 						<label for="selectLanguage" class="hidden">선택언어 사이트로 이동-새창</label> -->
+						<!-- <select class="select-language" id="selectLanguage" title="다국어 선택" onchange="javascript: fn_go_language(this.value);"> -->
+						<!-- <select class="select-language" id="selectLanguage" title="다국어 선택"> -->
+						<select class="select-language" title="언어 선택">
+							<option value="" class="df">Language</option>
+	                        <!-- <option value="/" class="kr">한국어</option> -->
+	                        <option value="/en" class="en">English</option>
+	                        <option value="/jp" class="jp">にほんご</option>
+	                        <option value="/cn" class="ch">简体中文</option>
+	                        <option value="/humanframe/theme/world/html/index_intro.html" class="go">WorldWide</option>
+						</select>
+						<button type="button" title="선택언어 사이트로 이동-새창" class="btn-go-language" id="selectLanguage" name="다국어 사이트로 이동">
+							<span>GO</span>
+						</button>
+					</div>
+				</li>
+			</ul>
+		</div>
+		<!-- //header-global-util-2023 -->
+	</div>
+</div>
+<!-- //header-global-wrap -->
+<script >
+$(document).ready(function(){
+	$("#btn_m_login").on("click", function(){
+		event.stopPropagation();
+		event.preventDefault();
+		fn_login();
+	});
+	
+	// 웹 접근성 메인/서브 구분 (메인페이지 id값 삽입처리)
+	var menuUriGubun = "COOL010501";
+		
+	if(menuUriGubun == "index"){
+		$("#wrapper").find("main").attr("id", "content2024");
+	}else {
+		$("#wrapper").find("main").removeAttr("id");
+	}
+});
+
+//mypage
+function wMypage(){
+	$.ajax({
+		url : "/ir/C/getArtSeedAll.json",
+		success: function(result) {
+			if(result.retunSe == "N"){
+				alert(result.msgNm);
+				if(result.retunUrl != ''){
+					location.href = result.retunUrl;
+				}
+			}else{
+				window.open('http://incheon.moonhwain.net/?goUrl=/rsvc/mypage.html&q='+result.encrypInfo.replace(/(^\s*)|(\s*$)/gi, "")+'&enckind=aes','mypage', 'status=no, resizeable=no, scrollbars=yes, width=1100,	height=1280');
+			}
+		},
+		error: function(request,status,error){
+			console.log("code:"+request.status+"\n"+"message:"+request.responseText+"\n"+"error:"+error);
+		}
+	});
+}
+</script>
+<style>
+	.header-theme-site span{ display:none; }
+	.header-theme-site.data span { font-size: 13px; position: absolute;left: 0; bottom: 9px; display:block; }
+	@media only screen and (max-width:1024px){
+		.header-theme-site.data span { display:none; }
+	}
+</style>
+	<!-- header-theme-wrap -->
+	<div class="header-theme-wrap">
+		<!-- header-theme-inner -->
+		<div class="header-theme">
+			<div class="header-theme-title-wrap">
+				<h1 class="header-theme-title">
+					<a href="/index" title="인천대표포털로 이동" class="header-theme-incheon">
+						<img src="/humanframe/globaltheme/assets/image/layout/logo-incheon.png" alt="인천광역시">
+						</a>
+				</h1>
+				
+				<a class="header-theme-site cool" href="/cool">
+						<strong>인천은 소통이 가득</strong>
+							<span class="sub_tit">인천광역시 통합 데이터 제공 창구</span>
+					</a>
+				</div>
+
+			<!-- header-search-wrap -->
+			<!-- header-search-wrap -->
+<div class="header-search-wrap">
+<form action="/cool/search" id="coolSearchForm">
+	<fieldset id="topkwd-wrap">
+			<legend class="hidden">통합검색</legend>
+			<label for="topKwd" class="hidden">통합검색어 입력</label>
+			<input type="search" autocomplete="off" name="kwd" id="topKwd" class="search-keyword" value="" placeholder="무엇을 도와드릴까요?"  onkeydown="javascript:if(event.keyCode==13){srchKwd('coolSearchForm'); return false;}">
+			<!-- <a href="javascript:VKI_show('topKwd')" title="가상키보드 입력" class="keyboardInputInitiator"><span>키보드</span></a> -->
+			<a href="javascript:srchKwd('coolSearchForm');" class="btn-search"><span>검색</span></a>
+		</fieldset>
+		
+		<!-- 인천데이터포털 사이트만 적용 -->
+		</form>
+
+
+
+	<!-- 자동완성 -->
+	<div class="auto-search" id="topKeywordLst" style="display:none;">
+		<div class="konan-autocomplete-header" style="display: none;"></div>
+		<div class="column-left" >
+			<ul class="auto-lst ui-menu ui-widget ui-widget-content" id="ui-id-1" tabindex="0" >
+			</ul>
+		</div>
+		<div class="column-right">
+			<ul class="auto-url" style="margin-top: 3px; min-height: 40px;">
+			</ul>
+		</div>
+		<div class="column-bottom">
+			<a href="javascript:void(0);"  id="first_opt_top" >첫단어보기</a>
+			<a href="javascript:void(0);" id="last_opt_top">끝단어보기</a>
+		</div>
+	</div>
+	<!-- //자동완성 -->
+
+	<!-- 가상키보드 -->
+	<label for="eng_text"></label>
+	<input type="text" id="eng_text" readonly="" title="가상키보드입력" style="display:none">
+	<div id="keyboardWrap">
+	</div>
+	<!-- //가상키보드 -->
+
+</div>
+
+
+
+<script>
+function srchKwd( formid){
+	var kwd = "";
+	kwd = $('#topKwd').val();
+	if(kwd == ""){
+		alert("검색어를 입력해주세요.");
+		return false;
+	}else{
+		$('#'+formid).submit();
+	}
+}
+</script>
+
+
+<script>
+$(function(){
+	
+	var siteNo = "49";
+	
+	if(siteNo == "25"){
+		// DATA 인기검색어 호출
+		// 검색솔루션 관리자 > 사전관리 > 로그사전 > 인기검색어 > 자동목록 리스트표출
+		// 편집목록에 수동인기검색어 있을시 자동목록이 아닌 편집목록 데이터가 표출되므로 편집목록데이터 일괄삭제 후 호출할 것
+		$.ajax({
+			type : "GET",
+			url: "/srch/searchPopApi",
+			data : {
+				"domainNo" : "1",
+			},
+			dataType : 'json',
+			contentType: 'application/x-www-form-urlencoded; charset=UTF-8',
+			success : function (data){
+				
+				var result = data.popApiList;
+				//var result = [ ["test1","-"],["test2","-"],["test3","-"],["test4","-"],["test5","-"] ];
+				
+				for (var i=0; i<result.length; i++) {    
+			        for (var j=0; j<result[i].length; j++) {
+			        	// 상위 3개만 표출
+			        	if(i<5 && j==0){
+			        		//console.log(result[i][j]);
+			        		$(".p_search ul li a:eq("+ i +")").text(result[i][j]);
+			        		$(".p_search ul li a:eq("+ i +")").attr("href", "javascript:fn_popularSearch(\""+result[i][j]+"\");");
+			        		
+			        		// 마지막 데이터이후 li 영역 삭제처리 (빈값일 경우 대비)
+			        		if(result.length-1 == i){
+			        			$(".p_search ul li:gt("+ i*2 +")").remove();
+			        		}
+			        		
+			        	}
+		            }
+				}
+				
+			},
+			error: function (request, status, error) {
+				console.log("Ajax 통신(searchPopApi)에 실패하였습니다. 다시 시도해 주세요.");
+			}
+		});
+	}
+	
+})
+
+function fn_popularSearch(param){
+	
+	//공통메시지 지우기
+	$(".header-search-label").text("");
+	
+	//검색 값 넣기
+	$("#topKwd").val(param);
+	
+	//키워드로 검색
+	srchKwd('dataSearchForm');
+	
+}
+
+</script>
+<!-- //header-search-wrap -->
+
+			</div>
+		<!-- header-gnb-wrap -->
+		<div class="header-gnb-wrap">
+			<div class="gnb-mobile-member">
+				<a href="#" id="btn_m_login" class="btn btn-basic btn-login"><span>로그인</span></a>
+						<a href="/unityMberLoginCnter" class="btn btn-basic btn-regist"><span>회원가입</span></a>
+					</div>
+			<!-- gnb-wrap -->
+			<div class="gnb-wrap">
+				<!-- gnb -->
+				<nav class="gnb" id="gnb">
+					<ul class="depth1">
+						<li>
+
+							<a href="/cool/COOL010601" target="_self" >
+										<span>열린시장실</span></a>
+								<div class="depth2-wrap">
+									<ul class="depth2">
+								<li>
+
+							<a href="/cool/COOL010601" >
+										<span>온라인 열린 시장실 소개</span>
+									</a>
+								</li>
+								<li>
+
+							<a href="/cool/COOL010501" >
+										<span>의견공감</span>
+									</a>
+								</li>
+								<li>
+
+							<a href="/cool/COOL010401" >
+										<span>의견내기 참여</span>
+									</a>
+								</li>
+								<li>
+
+							<a href="/cool/COOL010701" >
+										<span>공지사항</span>
+									</a>
+								</li>
+										</ul>
+
+										</div>
+										</li>
+								<li>
+
+							<a href="/cool/" target="_self" >
+										<span>소통민원</span></a>
+								<div class="depth2-wrap">
+									<ul class="depth2">
+								<li>
+
+							<a href="https://www.incheon.go.kr/IC030201" target="_blank" class="link-http" title="새창">
+										<span>민원상담</span></a>
+								</li>
+										</ul>
+
+										</div>
+										</li>
+								<li>
+
+							<a href="http://www.incheon.go.kr/cool/COOL070002 " target="_self" >
+										<span>시민참여</span></a>
+								<div class="depth2-wrap">
+									<ul class="depth2">
+								<li>
+
+							<a href="/cool/COOL070002" >
+										<span>설문조사</span>
+									</a>
+								</li>
+								<li>
+
+							<a href="/cool/COOL070003" >
+										<span>이벤트</span>
+									</a>
+								</li>
+								<li>
+
+							<a href="/cool/COOL070004" >
+										<span>공모전</span>
+									</a>
+								</li>
+										</ul>
+
+										</div>
+										</li>
+								<li>
+
+							<a href="/cool/COOL030101" target="_self" >
+										<span>시민제안</span></a>
+								<div class="depth2-wrap">
+									<ul class="depth2">
+								<li>
+
+							<a href="/cool/COOL030101" >
+										<span>제안제도 소개</span>
+									</a>
+								</li>
+								<li>
+
+							<a href="/cool/COOL030201" >
+										<span>제안신청</span>
+									</a>
+								</li>
+								<li>
+
+							<a href="/cool/COOL030301" >
+										<span>나의제안</span>
+									</a>
+								</li>
+								<li>
+
+							<a href="/cool/COOL030501" >
+										<span>우수제안</span>
+									</a>
+								</li>
+								<li>
+
+							<a href="/cool/COOL030601" class="link-http" title="새창">
+										<span>국민생각함</span>
+									</a>
+								</li>
+										</ul>
+
+										</div>
+										</li>
+								<li>
+
+							<a href="/cool/COOL050101" target="_self" >
+										<span style="font-size:17px;">공론화&middot;갈등관리위원회</span></a>
+								<div class="depth2-wrap">
+									<ul class="depth2">
+								<li>
+
+							<a href="/cool/COOL050101" >
+										<span>위원회소개</span>
+									</a>
+								</li>
+								<li>
+
+							<a href="/cool/COOL050201" >
+										<span>위원회별 운영 현황</span>
+									</a>
+								</li>
+								<li>
+
+							<a href="/cool/COOL050501" >
+										<span>갈등진단 현황</span>
+									</a>
+								</li>
+								<li>
+
+							<a href="/cool/COOL050301" >
+										<span>자료집</span>
+									</a>
+								</li>
+										</ul>
+
+										</div>
+										</li>
+								<li>
+
+							<a href="/cool/COOL060101" target="_self" >
+										<span>소통현장</span></a>
+								<div class="depth2-wrap">
+									<ul class="depth2">
+								<li>
+
+							<a href="/cool/COOL060101" >
+										<span>소통알림</span>
+									</a>
+								</li>
+								<li>
+
+							<a href="/cool/COOL060201" >
+										<span>소통참여</span>
+									</a>
+								</li>
+								<li>
+
+							<a href="/cool/COOL060301" >
+										<span>현장소통</span>
+									</a>
+								</li>
+								<li>
+
+							<a href="/cool/COOL060401" >
+										<span>국민참여 사전공시</span>
+									</a>
+								</li>
+											</ul>
+										</div>
+										</li>
+								</ul>
+				</nav>
+				<!-- gnb -->
+			</div>
+			<!-- //gnb-wrap -->
+			<nav class="gnb-mobile-menu">
+				<button type="button" class="btn-view-menuall"><span>전체메뉴열기</span></button>
+				<button type="button" class="btn-view-search"><span>검색열기</span></button>
+			</nav>
+			<!-- //gnb-wrap -->
+			<nav class="gnb-mobile-language">
+				<!--  <a href="/IC040121" target="_blank" title="새창" class="btn-go go-site-korean"><span>사이트맵 바로가기</span></a>-->
+				<!--  <a href="/" target="_blank" title="새창" class="btn-go go-site-korean"><span>한국어</span></a> -->
+				<ul class="foreign-language">
+					<li><a href="/en" target="_blank" title="새창" class="btn-go go-site-english"><span>English</span></a></li>
+					<li><a href="/jp" target="_blank" title="새창" class="btn-go go-site-japanese"><span>Japanese</span></a></li>
+					<li><a href="/cn" target="_blank" title="새창" class="btn-go go-site-chinese"><span>Chinese</span></a></li>
+					<li><a href="/humanframe/theme/world/html/index_intro.html" target="_blank" title="새창" class="btn-go go-site-google"><span>WorldWide</span></a></li>
+				</ul>
+			</nav>
+		</div>
+		<!-- //header-gnb-wrap -->
+	</div>
+	<!--// header-theme-wrap -->
+</header>
+<!-- //header --><!-- container -->
+		<div id="container" class="container">
+			<script type="text/javascript">
+function f_ClipUrl_new(pBaseUri, pUpperMenuNo){
+	
+	var pmenuUri = [];
+	var pmenuList = [
+		
+		       {
+		    	   "id" : "115"
+		    	   , "parent" :
+		    	   "#"
+		    	   , "menuUri"  : 
+		    		""
+		    		   
+		    	   , "text" : "Home"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "3214"
+		    	   , "parent" :
+		    	   "115"
+		    	   , "menuUri"  : 
+		    		"COOL010601"
+		    		   
+		    	   , "text" : "열린시장실"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "5457"
+		    	   , "parent" :
+		    	   "3214"
+		    	   , "menuUri"  : 
+		    		"COOL010601"
+		    		   
+		    	   , "text" : "온라인 열린 시장실 소개"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "5442"
+		    	   , "parent" :
+		    	   "3214"
+		    	   , "menuUri"  : 
+		    		"COOL010501"
+		    		   
+		    	   , "text" : "의견공감"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "5441"
+		    	   , "parent" :
+		    	   "3214"
+		    	   , "menuUri"  : 
+		    		"COOL010401"
+		    		   
+		    	   , "text" : "의견내기 참여"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "6231"
+		    	   , "parent" :
+		    	   "3214"
+		    	   , "menuUri"  : 
+		    		"COOL010701"
+		    		   
+		    	   , "text" : "공지사항"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "4923"
+		    	   , "parent" :
+		    	   "115"
+		    	   , "menuUri"  : 
+		    		"COOL020001"
+		    		   
+		    	   , "text" : "소통민원"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "4924"
+		    	   , "parent" :
+		    	   "4923"
+		    	   , "menuUri"  : 
+		    		"https://www.incheon.go.kr/IC030201"
+		    		   
+		    	   , "text" : "민원상담"
+		    	   , "linkTrgt" : "_blank"
+		       }
+		       ,
+		       {
+		    	   "id" : "4283"
+		    	   , "parent" :
+		    	   "115"
+		    	   , "menuUri"  : 
+		    		"http://www.incheon.go.kr/cool/COOL070002 "
+		    		   
+		    	   , "text" : "시민참여"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "4284"
+		    	   , "parent" :
+		    	   "4283"
+		    	   , "menuUri"  : 
+		    		"COOL070002"
+		    		   
+		    	   , "text" : "설문조사"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "4285"
+		    	   , "parent" :
+		    	   "4283"
+		    	   , "menuUri"  : 
+		    		"COOL070003"
+		    		   
+		    	   , "text" : "이벤트"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "4286"
+		    	   , "parent" :
+		    	   "4283"
+		    	   , "menuUri"  : 
+		    		"COOL070004"
+		    		   
+		    	   , "text" : "공모전"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "3218"
+		    	   , "parent" :
+		    	   "115"
+		    	   , "menuUri"  : 
+		    		"COOL030101"
+		    		   
+		    	   , "text" : "시민제안"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "3219"
+		    	   , "parent" :
+		    	   "3218"
+		    	   , "menuUri"  : 
+		    		"COOL030101"
+		    		   
+		    	   , "text" : "제안제도 소개"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "3220"
+		    	   , "parent" :
+		    	   "3218"
+		    	   , "menuUri"  : 
+		    		"COOL030201"
+		    		   
+		    	   , "text" : "제안신청"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "3221"
+		    	   , "parent" :
+		    	   "3218"
+		    	   , "menuUri"  : 
+		    		"COOL030301"
+		    		   
+		    	   , "text" : "나의제안"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "3223"
+		    	   , "parent" :
+		    	   "3218"
+		    	   , "menuUri"  : 
+		    		"COOL030501"
+		    		   
+		    	   , "text" : "우수제안"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "3224"
+		    	   , "parent" :
+		    	   "3218"
+		    	   , "menuUri"  : 
+		    		"COOL030601"
+		    		   
+		    	   , "text" : "국민생각함"
+		    	   , "linkTrgt" : "_blank"
+		       }
+		       ,
+		       {
+		    	   "id" : "3236"
+		    	   , "parent" :
+		    	   "115"
+		    	   , "menuUri"  : 
+		    		"COOL050101"
+		    		   
+		    	   , "text" : "공론화&middot;갈등관리위원회"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "3237"
+		    	   , "parent" :
+		    	   "3236"
+		    	   , "menuUri"  : 
+		    		"COOL050101"
+		    		   
+		    	   , "text" : "위원회소개"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "3238"
+		    	   , "parent" :
+		    	   "3236"
+		    	   , "menuUri"  : 
+		    		"COOL050201"
+		    		   
+		    	   , "text" : "위원회별 운영 현황"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "4342"
+		    	   , "parent" :
+		    	   "3236"
+		    	   , "menuUri"  : 
+		    		"COOL050501"
+		    		   
+		    	   , "text" : "갈등진단 현황"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "3239"
+		    	   , "parent" :
+		    	   "3236"
+		    	   , "menuUri"  : 
+		    		"COOL050301"
+		    		   
+		    	   , "text" : "자료집"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "3240"
+		    	   , "parent" :
+		    	   "115"
+		    	   , "menuUri"  : 
+		    		"COOL060101"
+		    		   
+		    	   , "text" : "소통현장"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "3241"
+		    	   , "parent" :
+		    	   "3240"
+		    	   , "menuUri"  : 
+		    		"COOL060101"
+		    		   
+		    	   , "text" : "소통알림"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "3242"
+		    	   , "parent" :
+		    	   "3240"
+		    	   , "menuUri"  : 
+		    		"COOL060201"
+		    		   
+		    	   , "text" : "소통참여"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "3243"
+		    	   , "parent" :
+		    	   "3240"
+		    	   , "menuUri"  : 
+		    		"COOL060301"
+		    		   
+		    	   , "text" : "현장소통"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       ,
+		       {
+		    	   "id" : "3790"
+		    	   , "parent" :
+		    	   "3240"
+		    	   , "menuUri"  : 
+		    		"COOL060401"
+		    		   
+		    	   , "text" : "국민참여 사전공시"
+		    	   , "linkTrgt" : "_self"
+		       }
+		       
+   ];
+	
+// 	console.log(pmenuList);
+ 	var vTarget = '';
+ 	var vClass = 'class="item"';
+	for(var kk=0; kk<pmenuList.length; kk++) {
+		if(pmenuList[kk].parent == pUpperMenuNo) {
+			
+			vTarget = 'target="' + pmenuList[kk].linkTrgt + '"';
+			
+			if( pmenuList[kk].menuUri.startsWith("http") || pmenuList[kk].menuUri.startsWith("https") ){
+				pmenuUri += '<li><a href="' + pmenuList[kk].menuUri + '"' + vTarget + vClass + '>' + pmenuList[kk].text + '</a></li>';
+			}else{
+				pmenuUri += '<li><a href="' + pBaseUri + '/' + pmenuList[kk].menuUri + '"' + vTarget + vClass + '>' + pmenuList[kk].text + '</a></li>';	
+			}
+			//pmenuUri += '<li><a href="' + pBaseUri + '/' + pmenuList[kk].menuUri + '"' + vTarget + vClass + '>' + pmenuList[kk].text + '</a></li>';
+		}
+	}
+	
+// 	console.log(pmenuUri);
+	$("#lowerMenuPopupList").html(pmenuUri);
+	
+}
+
+$(function(){
+	$("[id*=menuPopup]").click(function () {
+		$('.mobile-nav-pop-wrap .item').removeClass('active');
+	    $('#mobileMnPopup').show();
+	    document.getElementsByTagName('body')[0].style.overflow = 'hidden';
+	    $(this).addClass('active');
+	});
+	$('#popupClose').click(function () {
+	    $('.mobile-nav-pop-wrap .item').removeClass('active');
+	    $('#mobileMnPopup').hide();
+	    document.getElementsByTagName('body')[0].style.overflow = 'scroll';
+	});
+});
+
+function fn_mobileMoveHome(){
+	$(".btn-view-menuall").click();
+}
+
+/* const user = navigator.userAgent;
+if ( user.indexOf("iPhone") > -1 || user.indexOf("Android") > -1 ) {
+	console.log("mobile버젼");
+    console.log(user);    
+}else{
+    console.log("pc버젼");
+    console.log(user);
+} */
+
+</script>
+
+<div id="content-location" class="content-location">
+	<div class="content-location-inner">
+	    <ul>
+			<li class="home">
+					<span>
+								<a href="/cool/">
+											Home</a>
+									</span>
+						</li>
+			<li >
+					<span>
+								<a href="/cool/COOL010601">
+											열린시장실</a>
+									</span>
+						</li>
+			<li class="last">
+					<span>
+								<a href="/cool/COOL010501">
+											의견공감</a>
+									</span>
+						</li>
+			</ul>
+	</div>
+</div>
+
+
+
+<div class="mobile-nav-pop-wrap">
+	<a href="javascript:void(0);" onclick="fn_mobileMoveHome();" class="title">메뉴<br>이동</a>
+    <ul class="inner">
+		<li class="home">
+				<span>
+							<a href="/cool">Home</a>
+										</span>
+					</li>
+		<li >
+				<span>
+							<a href="javascript:void(0);" onclick="f_ClipUrl_new('/cool', '115');" target="_top" class="item depth" id="menuPopup2">열린시장실</a>
+										</span>
+					</li>
+		<li class="last">
+				<span>
+							<a href="javascript:void(0);" onclick="f_ClipUrl_new('/cool', '3214');" target="_top" class="item depth" id="menuPopup3">의견공감</a>
+								</span>
+					</li>
+		</ul>
+</div>
+
+<!-- 모바일메뉴 팝업 동적생성영역  -->
+<div id="mobileMnPopup" class="layer-popup-wrap">
+	<div class="popup-inner-wrap">
+		<button id="popupClose" role="button" title="Close" class="btn-close"></button>
+		<div class="popup-scroll-wrap">
+			<ul class="menu-list" id="lowerMenuPopupList">
+				<!-- 
+				<li><a href="javascript:void(0);" target="_top" class="item">메뉴1</a></li>
+				<li><a href="javascript:void(0);" target="_top" class="item">메뉴2</a></li> 
+				-->
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="content-wrap">
+				<div id="snb" class="snb">
+     <div class="snb-wrap">
+     	<div class="snb-title-wrap">
+	           		<h2 class="snb-title">열린시장실</h2>
+	           		</div>
+	     	<div class="snb-nav-wrap">
+		              <nav class="snb-nav">
+		                  <ul class="depth2">
+								<li >
+		
+									<a href="/cool/COOL010601" >
+										<span>온라인 열린 시장실 소개</span>
+									
+									</a>
+		
+									</li>
+										<li class="active">
+		
+									<a href="/cool/COOL010501" title="선택됨">
+										<span>의견공감</span>
+									
+									</a>
+		
+									</li>
+										<li >
+		
+									<a href="/cool/COOL010401" >
+										<span>의견내기 참여</span>
+									
+									</a>
+		
+									</li>
+										<li >
+		
+									<a href="/cool/COOL010701" >
+										<span>공지사항</span>
+									
+									</a>
+		
+									</li>
+										</ul>
+		              </nav>
+		          </div>
+			</div>
+</div><!-- content -->
+				<main class="content">
+
+					<!-- content-head-->
+				<div class="content-head">
+                    <!-- content-title -->
+					<div class="content-title-wrap ">
+							<h3 class="content-title" id="content2024">
+								의견공감</h3>
+					</div>
+					<!-- //content-title -->
+
+					<!-- content-share -->
+					<div class="content-share-wrap">
+						<div class="btn-group">
+							<button type="button" class="btn-share"><span>공유레이어열기</span></button>
+							<div class="content-share-layer">
+								<div class="sns-list-wrap">
+									<ul class="sns-list">
+										<li><a href="#" class="btn-sns myscrap" onclick="fn_saveBookmark('패밀리_인천은 소통이 가득', '패밀리_인천은 소통이 가득>Home>열린시장실>의견공감', '/cool/COOL010501');"><span>스크랩</span></a></li>
+										<li><a href="#"  title="페이스북 새창" class="btn-sns facebook" onclick="fn_sendSns('facebook');"><span>페이스북</span></a></li>
+<!-- 										<li><a href="#"  title="트위터 새창" class="btn-sns twitter" onclick="fn_sendSns('twitter');"><span>트위터</span></a></li> -->
+										<li><a href="#"  title="X 새창" class="btn-sns twitter" onclick="fn_sendSns('twitter');"><span>X</span></a></li>
+										<li><a href="#" title="네이버블로그 새창" class="btn-sns naverblog" onclick="fn_sendSns('naverblog');"><span>네이버블로그</span></a></li>
+										<li><a href="#"  title="카카오스토리" class="btn-sns kakaostory" onclick="fn_sendSns('kakaostory');" tabindex="-1"><span>카카오스토리</span></a></li>
+										<!-- <li><a target="_blank" title="새창" class="btn-sns instagram" onclick="fn_sendSns('instagram');"><span>인스타그램</span></a></li> -->
+										<li><a href="#" class="btn-linkurl" onclick="fn_copyUrl();"><span>주소복사</span></a></li>
+									</ul>
+									<button type="button" class="close-btn-share-layer"><span>공유레이어닫기</span></button>
+								</div>
+							</div>
+							<button type="button" class="btn-print"><span>인쇄</span></button>
+						</div>
+					</div>
+					<!-- //content-share -->
+				</div>
+				<!-- //content-head-->
+<!-- //content-sub-menu-->
+		
+		<!-- //content-sub-menu--><!-- content-body -->
+					<div class="content-body">
+						<style type="text/css">
+/* org-guide */
+.org-guide-wrap {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 26px;
+  border: 1px solid #ddd;
+  padding: 2rem;
+}
+
+@media screen and (max-width: 912px) {
+  .org-guide-wrap {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    gap: 10px;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+}
+
+.org-guide-wrap .i {
+  -webkit-box-flex: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -ms-flex-preferred-size: 64px;
+  flex-basis: 64px;
+}
+
+.org-guide-wrap .i img {
+  width: auto;
+}
+
+.org-guide-wrap .org-guide {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.org-guide-wrap .org-guide .org-guide01 {
+  font-size: 1.25rem;
+  color: #333;
+  font-weight: 500;
+}
+
+@media only screen and (max-width: 22.5em) {
+  .org-guide-wrap .org-guide .org-guide01 br {
+    display: none;
+  }
+}
+
+.org-guide-wrap .org-guide .org-guide01 .org-guide-primary {
+  color: #9d020a;
+  font-weight: 600;
+  font-size: 2rem;
+}
+
+.org-guide-wrap .org-guide .org-guide02 {
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.org-guide-wrap+#deptDiv {
+  margin-top: 20px;
+}
+
+.org-guide-wrap+.board-sort-search {
+  margin-top: 40px;
+}
+</style>
+<script  src="/humanframe/global/assets/youtubePlayer/youtubePlayer.js"></script>
+
+<script >
+
+	$(document).ready(function(){
+
+		var id = '';
+
+		if(id != null && id != '') {
+			$("#youtube1").youtubePlayer({
+				width     : 900,
+		        height     : 500,
+		        videoId : id
+		    });
+		}
+		
+		/* function noEvent() { // 새로 고침 방지
+            if (event.keyCode == 116) {
+                //alert("새로고침을 할 수 없습니다.");
+                event.keyCode = 2;
+                return false;
+            } else if (event.ctrlKey
+                    && (event.keyCode == 78 || event.keyCode == 82)) {
+                return false;
+            }
+        }
+    	document.onkeydown = noEvent; */
+
+	});
+
+	function fn_modify(petitSn, crud) {
+
+		var loginAt = $("input[name='loginAt']").val();
+
+		if(loginAt != 'true'){
+			if(confirm("본인이 작성한 글에 한해 수정/삭제가 가능합니다. 로그인 화면으로 이동하시겠습니까?")) {
+				commLib.fn_login();
+			}
+		}
+		else {
+
+			var registUsrId = '837920906';
+			var loginId = '';
+
+			if(registUsrId == '' || loginId == ''|| registUsrId != loginId) {
+				alert("본인이 작성한 글에 한해 수정/삭제가 가능합니다.");
+				return;
+			}
+
+			if(registUsrId != '' && loginId != ''&& registUsrId == loginId) {
+
+				var apprvlCo = '911';
+				var oppsCo = '0';
+
+				if(apprvlCo != 0 || oppsCo != 0) {
+					alert("의견 공감/비공감 이력이 있어 의견 수정/삭제 하실 수 없습니다.");
+					return;
+				}
+				else {
+
+					//var src= '/cool/COOL010501/';
+					var src= '/cool/COOL010401/';
+
+					if(crud == 'UPDATE') {
+						//src += 'form?petitSn=' + petitSn;
+						src += 'opinionForm?petitSn=' + petitSn;
+						location.href = src;
+					}
+					else {
+						if(confirm("해당 의견을 삭제하시겠습니까?")) {
+							//src += 'action?petitSn=' + petitSn + "&crud=" + crud;
+							src += 'action?petitSn=' + petitSn + "&crud=" + crud;
+							location.href = src;
+						}
+					}
+				}
+			}
+		}
+	}
+
+	function fn_vote(isApprvlYn){
+
+		var loginCheck = $("input[name='loginCheck']").val();
+		var mberTy = $("input[name='mberTy']").val();
+
+		if(loginCheck != 'true' || mberTy != 'I'){
+			if(confirm("일반회원 및 본인인증 회원에 한하여 참여 가능합니다.\n로그인 화면으로 이동하시겠습니까?")) {
+				commLib.fn_login();
+			}
+		}
+		else {
+			var registUsrId = '837920906';
+			var loginId = '';
+
+			if(registUsrId != '' && loginId != '' && registUsrId == loginId) {
+				alert("본인이 작성한 의견에 대해서는 공감/비공감 할 수 없습니다.");
+				return;
+			}
+
+			var alertMsg = '';
+
+			if(isApprvlYn == 'APPRVL') {
+				alertMsg = "해당 의견에 공감하시겠습니까?";
+			}
+			else if(isApprvlYn == 'OPPS') {
+				alertMsg = "해당 의견에 비공감하시겠습니까?";
+			}
+
+			var petitSj = '계양신도시(계양테크노밸리) 입주 시점 대중교통 공백 해소를 위한 광역 직행버스 3개 노선 즉시 신설 요청';
+
+			if(confirm(alertMsg)) {
+
+				$.ajax({
+					type : "post",
+					url : '/cool/COOL010501/voteAction',
+					dataType: 'text', //전송받을 데이터의 타입
+					data: {
+							petitSn : "2048913"
+							, petitSj : petitSj
+							, petitApprvlCo : "911"
+							, petitFormatnStdr : "3000"
+							, petitVoteAnswerCode : isApprvlYn
+					},
+					contentType: 'application/x-www-form-urlencoded; charset=UTF-8',
+					success: function(data) {
+						if(data.indexOf('nologin') != -1){
+							if(confirm("일반회원 및 본인인증 회원에 한하여 참여 가능합니다.\n로그인 화면으로 이동하시겠습니까?")){
+								commLib.fn_login();
+							}
+						}else if(data.indexOf('noGnrl') != -1) {
+							alert("일반회원에 한하여 투표에 참여하실 수 있습니다.");
+						}else if(data.indexOf('yvotehis') != -1) {
+							alert("의견에 참여하신 이력이 있습니다. 의견은 한번만 참여가 가능합니다.");
+						}else if(data=="true"){
+							alert("의견 참여가 완료되었습니다.");
+							location.reload();
+						}else{
+							alert("잠시 후 다시 시도해 주시기 바랍니다.");
+						}
+					},
+					error: function(data, status, err) {
+						console.log('error forward : ' + data);
+					}
+				});
+			}
+		}
+	}
+
+
+</script>
+
+<script> var menuTitle = "의견내기"; </script>
+
+<div class="cool-sub petitioning"><!-- //의견내기: petitioning -->
+    <div class="board-wrap">
+        <div class="board-body">
+            <div class="board-view board-item-group-wrap">
+                <div class="board-view-title-wrap">
+                    <span class="state now">부서답변</span>
+                    <h4 class="board-view-title">계양신도시(계양테크노밸리) 입주 시점 대중교통 공백 해소를 위한 광역 직행버스 3개 노선 즉시 신설 요청</h4>
+                </div>
+                <div class="board-item-group items2">
+                    <dl class="item-data">
+                        <dt><span>분야</span></dt>
+                        <dd><span>교통건설환경</span></dd>
+                    </dl>
+                    <dl class="item-data">
+                        <dt><span>의견번호</span></dt>
+                        <dd><span>2048913</span></dd>
+                    </dl>
+                </div>
+                <div class="board-item-group items2">
+                    <dl class="item-data">
+                        <dt><span>의견인</span></dt>
+                        <dd><span>
+							황○○</span></dd>
+                    </dl>
+                    <dl class="item-data">
+                        <dt><span>의견기간</span></dt>
+                        <dd><span>2026-06-09 ~ 2026-07-09</span></dd>
+                    </dl>
+                </div>
+                <div class="board-item-group items2">
+                    <dl class="item-data">
+                        <dt><span>청원 진행상황</span></dt>
+                        <dd><span></span></dd>
+                    </dl>
+                </div>
+                <div class="board-item-group items2">
+                	<dl>
+                		
+                	</dl>
+                    <div class="item-like">
+                        <ul style="float:right;">
+                            <li class="good"><span class="total">911</span></li>
+                            <li class="bad"><span class="total">0</span></li>
+                        </ul>
+                    </div>
+                    </div>
+                <div class="board-view-contents">
+                <pre>1. 민원 제기 배경 및 현황
+저는 계양구에서 30년 이상 거주해온 황규상이라 합니다. 현재 계양신도시 A2블록 입주예정자협의회 회장직을 맡고 있으며, 약 1,300여 세대 입주예정자 및 추후 계양신도시와 테크노벨리에 입주, 출근, 상주하는 모든분들을를대표하여 이 민원을 신청합니다.
+계양신도시(계양테크노밸리)는 2026년 12월 A2&middot;A3블록을 시작으로 최초 입주가 예정되어 있습니다. 그러나 현시점에서 입주민의 광역 이동을 책임질 대중교통 인프라는 단 하나도 준비되어 있지 않습니다.
+현재 확인된 교통 인프라 지연 현황
+- S-BRT -&gt; 사실상 폐기
+- 벌말로 확장 -&gt; 지장물 발견으로 준공 2031년으로 지연
+- 대장홍대선 계양역 연장 -&gt; 인천시&middot;계양구 합의 완료, 국토부 승인 절차 진행 중 &mdash; 착공 일정 미정
+
+결론
+입주 첫날부터 최소 3~5년간 온전한 대중교통 없이 고립
+
+수도권 3기 신도시 5곳(왕숙&middot;교산&middot;창릉&middot;대장&middot;계양) 가운데 계양신도시만이 유일하게 철도 계획이 없는 상태로 입주가 시작됩니다. 정부가 천명한 &#39;선(先)교통 후(後)개발&#39; 원칙이 계양신도시에서만 지켜지지 않고 있습니다.
+
+2. 계양역 단일 집중의 위험성
+현재 계양역(공항철도&middot;인천 1호선 환승)은 2024년 6월 검단 연장선 개통 이후 이미 위험 수준의 혼잡 상태입니다. 국토교통부가 안전요원 34명을 긴급 배치하고 열차를 추가 투입하는 응급 처방을 쓰고 있는 것이 현실입니다.
+이 상태에서 2026년 12월부터 계양신도시 입주민 수천 명의 출퇴근 수요가 계양역 한 곳으로 집중된다면, 승강장 안전사고 및 교통 마비는 예고된 재앙입니다. 모든 신도시 수요를 계양역 하나로 집중시키는 현행 구조를 반드시 분산시켜야 합니다.
+
+3. 요청 사항 &mdash; 광역 직행버스 3개 노선 즉시 신설
+- 인천시가 검단신도시 입주 초기 교통 공백기에 수요응답형(I-MOD) 버스 및 계양역 직통 MODU 버스를 성공적으로 도입&middot;운영한 선례가 있습니다. 운영 비용은 개발 주체인 iH와 LH가 원인자 부담 원칙으로 공동 부담하였습니다. 계양신도시 역시 동일한 방식의 적용이 가능합니다.
+이에 아래 3개 노선의 2026년 12월 입주 시점 동시 개통을 강력히 요청합니다.
+
+* 노선 1 &mdash; 계양신도시 &rarr; 김포공항역 직행 (광역 분산축)
+필요 이유 김포공항역은 서울 지하철 5호선(광화문&middot;여의도), 9호선 급행(강남&middot;신논현), 공항철도(서울역), 김포골드라인 등 4개 철도망이 교차하는 수도권 서부 최대 환승허브입니다. 현재 기존 버스로 41~67분 소요되는 구간을 무정차 직행으로 20분대에 연결할 수 있습니다.
+핵심 효과 강남&middot;여의도&middot;마곡 방면 출퇴근 수요를 김포공항으로 분기시켜 계양역 과부하를 선제적으로 차단합니다. S-BRT 미개통 상황에서 서울 접근성을 보장하는 유일한 대안입니다.
+운영 제안 45인승 광역버스, 출퇴근 집중 배차, 중간 무정차 운행
+
+* 노선 2 &mdash; 계양신도시 &rarr; 부천 대장지구 직행 (산업 연계축)
+필요 이유 국토부가 S-BRT로 두 지역을 하나의 교통 권역으로 묶은 이유는 계양&middot;대장 양측 테크노밸리의 첨단 산업 클러스터 연계를 위해서입니다. S-BRT가 2029년 이후로 밀린 지금, 두 지역을 잇는 대체 연결 수단이 전무합니다.
+핵심 효과 테크노밸리 입주 기업의 인력 수급 보장, 부천 배후 인구의 계양 접근성 확보, 입주 초기 생활 인프라 공유(대형마트&middot;병원 등) 효과 제공
+운영 제안 45인승 광역버스, 부천 소풍터미널 등 거점 경유, 직통 운행
+
+* 노선 3 &mdash; 계양신도시 &rarr; 계양역 단거리 직행 (라스트 마일축)
+필요 이유 공항철도&middot;인천 1호선 환승을 위한 계양역 접근 수요는 불가피합니다. 그러나 기존 시내버스의 다수 정류장 경유 방식으로는 피크 타임 수송이 불가능합니다.
+핵심 효과 거점 아파트 단지 &rarr; 계양역 환승센터 무정차 직행으로 라스트 마일 시간 최소화. 소수 차량(4~5대)으로 높은 회전율 구현 가능. 노선 1과 배차를 연동하여 계양역 혼잡을 분산 제어합니다.
+운영 제안 중형 버스 4~5대, 노선 1 배차 시간과 연동 설계, 출퇴근 집중 운행
+
+4. 재원 조달 방안
+검단신도시 수요응답형 버스 운영비 약 10억 원을 인천도시공사(iH)와 LH가 원인자 부담 원칙으로 전액 공동 부담한 선례가 있습니다. 계양신도시도 동일하게 iH + LH 공동 부담 방식을 적용하면 시 예산 추가 편성 없이 운영 가능합니다. 대도시권광역교통위원회를 통한 광역교통개선대책 분담금 활용도 병행 검토를 요청합니다.
+
+5. 기존 원도심 노선 보호 요청
+최근 66번 버스 노선 단축 개편으로 계양구 원도심(계산동&middot;임학동&middot;작전동) 주민 및 한림병원 이용 환자들의 이동권이 심각하게 침해된 사례가 있었습니다. 신도시 직행 노선 신설은 기존 원도심 노선을 빼앗는 방식이 아닌, 개발 사업비 내 별도 재원으로 추진되어야 합니다. 원도심과 신도시 주민이 함께 상생하는 노선 정책을 요청합니다.
+
+6. 최종 요청 사항 요약
+- 2026년 12월 입주 시점에 맞춰 계양신도시 &harr; 김포공항&middot;부천 대장&middot;계양역 3개 직행 노선 동시 개통 이행
+- LH&middot;iH 원인자 부담 원칙에 따른 운영비 공동 부담 의무화 및 대광위 광역교통개선대책 분담금 활용 검토
+- 기존 계양구 원도심 노선 보호 &mdash; 신도시 노선 신설 시 원도심 노선 축소 금지
+- 인천시 교통국&middot;대광위 합동 TF 구성, 입주 6개월 전까지 노선 확정 및 발주 완료
+
+계양신도시는 수도권 3기 신도시 중 최초 입주 거점입니다. 이 도시의 첫인상이 &#39;교통 대란&#39;이 된다면, 그 피해는 입주민 개개인을 넘어 인천시 전체의 신도시 정책 신뢰도로 귀결될 것입니다. 부디 입주민의 간절한 요청을 검토하여 주시기 바랍니다.</pre>
+                </div>
+
+                <div class="board-btn-wrap ac like">
+                	</div>
+            </div>
+            <!-- //board-view -->
+
+			<input type="hidden" name="loginAt" value="false"/>
+			<input type="hidden" name="mberTy" value=""/>
+			<input type="hidden" name="loginCheck" value="false"/>
+        	<div class="board-btn-wrap btn-group btns3 ar">
+            	<a href="/cool/COOL010501?curPage=&amp;srchKey=&amp;srchWord=&amp;srchPetitClCode=&amp;srchPetitSttusCode=&amp;srchOrderSe=" class="btn btn-basic fl"><span>목록</span></a>
+            	</div>
+
+			<!-- 답변이 있을 때만 노출되도록. 나중엔 답변 등록일자로 바꿔야할 것 같음 -->
+			<!-- board-view-->
+	            <div class="board-view view-answer">
+	                <div class="board-view-title-wrap">
+	                    <!-- <span class="is-secret"><em>비밀글</em></span> -->
+	                    <h4 class="board-view-title">시민소통담당관 관리자가 등록한 부서답변입니다.</h4>
+	                    <span class="written-date">2026-07-21</span>
+	                </div>
+	                <div class="board-view-contents">
+	                    <p><p>[버스정책과, 도시개발과 검토의견]</p><p><br></p><p>1. 의견 요지: 계양신도시 광역버스 노선 신설 등</p><p><br></p><p>2. 답변 내용</p><p>&nbsp;가. 안녕하십니까? 귀하께서 「온라인 열린 시장실」을 통해 신청하신 의견(청원번호2048913)에 대하여 관련 부서 검토 결과를 다음과 같이 알려드립니다.</p><p><br></p><p>&nbsp;나. 귀하의 의견 내용 중‘계양신도시(계양테크노밸리) 광역버스 노선 신설’요청에 관하여 관련부서(버스정책과) 검토 의견은 다음과 같습니다.</p><p><br></p><p>&nbsp; 1) 귀하께서 말씀하신 계양신도시 광역버스 신설과 관련하여, 인천시는 계양신도시의 입주와 광역교통 수요 증가를 고려하여 2026.5월 대도시권광역교통위원회에 강남권을 연결하는 광역급행(M)버스 신규 노선을 신청하였습니다.</p><p><br></p><p>&nbsp; 2) 현재 신청 노선은 한국교통연구원에서 노선 수요 및 타당성 등을 검토하고 있으며, 검토결과를 바탕으로 대도시권광역교통위원회 광역버스 노선위원회 심의를 거쳐 신규 노선 신설 여부가 결정될 예정입니다.</p><p><br></p><p>&nbsp; 3) 다만, 현재는 관계기관의 검토 및 심의가 진행중인 단계로 자세한 추진 일정을 확정하여 안내드리기 어려운 점 양해하여 주시기 바랍니다.</p><p><br></p><p>&nbsp; 4) 그 외 타 구간을 목적지로 운행하는 노선은 향후 교통 수요 및 광역교통 여건 등을 종합적으로 검토하여 노선 확충방안을 마련할 예정이며, 앞으로도 계양신도시의 지속적인 입주와 교통수요 변화를 모니터링하여 시민들의 광역교통 이용불편이 최소화될 수 있도록 지속적으로 노력해나가겠습니다.</p><p><br></p><p>&nbsp;다. 다음으로, 귀하의 의견 내용 중 ‘사업시행자(LH, IH) 부담을 통한 수요응답형 교통수단(DRT) 운행 및 인천시·대광위 합동 TF 구성 요청’에 관하여 관련부서(도시개발과)에서 검토 의견은 다음과 같습니다.</p><p><br></p><p>&nbsp; 1) 수요응답형 교통수단(DRT) 운영은 추가적인 사업비 부담 및 DRT 운영 효율성 등에 대해 관련부서 및 사업시행자(LH, iH)와 구체적인 논의가 필요한 사항으로, 향후 종합적인 여건을 고려하여 검토해 나가겠습니다.</p><p><br></p><p>&nbsp; 2) 또한, 계양테크노밸리 최초 입주에 대비한 기반시설 적기 조성 및 대중교통 운영 계획 등을 점검하고자 관계기관과 사업시행자가 참여하는 「계양테크노밸리 공공 주택지구 입주대비 TF」를 금년 6월 구성하였으며 7월부터 본격적으로 운영할 계획입니다. 향후 TF 운영 과정에서 대광위 합동 운영 필요성에 대해서도 함께 검토·협의하도록 하겠습니다.</p><p><br></p><p>&nbsp;라. 답변 내용에 대해 추가 설명이 필요한 경우 인천광역시 교통국 버스정책과(☎032-440-3987), 도시계획국 도시개발과(☎032-440-3323)로 문의하여 주시면 친절히 안내해 드리겠습니다.&nbsp; 끝.</p></p>
+	                    
+	                    </div>
+	            </div>
+	            <!-- //board-view -->
+			<!-- 추가답변이 있을 때만 노출되도록 -->
+			</div>
+        <!-- //board-body -->
+    </div>
+    <!--// board-wrap -->
+
+    <!-- footer-commend -->
+    <div class="footer-commend"></div>
+    <!-- //footer-commend -->
+
+	<script>
+	function fn_openLoginPopup( urlParam ){
+		event.preventDefault();
+		var retUrl = document.location.href;
+
+		window.open('/comm/sns/' + urlParam + "?retUrl=" + encodeURIComponent(retUrl), 'window팝업','width=500, height=500');
+	}
+
+	function fn_openLogin( urlParam ){
+		event.preventDefault();
+
+		switch( urlParam ){
+			case "kakaoLogin":
+				Kakao.Auth.login({
+				      success	: function(authObj) {
+				    	 Kakao.Auth.setAccessToken(authObj.access_token);
+				    	 Kakao.Auth.getStatusInfo(function(statusInfoObj){
+			    		 	if(statusInfoObj.status == "connected"){
+			    		 		var userInfo = statusInfoObj.user;
+
+			    		 		$("#mberSn").val(userInfo.id);
+								$("#fmnmNm").val(userInfo.kakao_account.profile.nickname);
+								$("#mberTy").val("K");
+								$("#snsLoginFrm").submit();
+			    		 	}
+			    		 });
+				      },
+				      fail	: function(err) {
+				         alert("카카오 로그인에 실패했습니다. 관리자에게 문의해 주세요. [" + err.error + "]");
+				      }
+				});
+
+				break;
+			case "facebookLogin":
+				FB.login(function(response) {
+
+					if (response.authResponse) {
+
+						FB.api('/me', function(response) {
+		    		 		$("#mberSn").val(response.id);
+							$("#fmnmNm").val(response.name);
+							$("#mberTy").val("F");
+							$("#snsLoginFrm").submit();
+						});
+					} else {
+						console.error(response);
+						//alert("페이스북 로그인에 실패했습니다. 관리자에게 문의해 주세요.");
+					}
+				});
+
+				break;
+			case "twitterLogin":
+				break;
+		}
+	}
+</script>
+<div class="content-comment">
+	<h5 class="h5 title">인천광역시 아이디나 소셜 계정을 이용하여 로그인하고 댓글을 남겨주세요.</h5>
+	<!-- 상단 -->
+	<div class="comment-write bbs-comments-post">
+		<div class="sns-select">
+			<div class="label">계정선택</div>
+			<a href="javascript:fn_meve('/login');" class="incheon" title="새창" id="I" ><span>인천시 로그인</span></a>
+			<!-- <em class="naver" id="naverIdLogin"><span>네이버</span></em>
+			<a href="#" onclick="fn_openLogin('kakaoLogin');" title="새창" class="kakao" id="kakaoIdLogin"><span>카카오</span></a>
+			<a href="#" onclick="fn_openLogin('facebookLogin');" title="새창"  class="facebook" id="F"><span>페이스북</span></a> -->
+			<!-- <a href="#" onclick="fn_openLogin('twitterLogin');" title="새창" class="twitter" id="T" style="display: none;"><span>트위터</span></a> -->
+
+			<form id="snsLoginFrm" name="snsLoginFrm" action="/comm/sns/setSession" method="post">
+				<input type="hidden" id="mberSn" 	name="mberSn">
+				<input type="hidden" id="mberTy" 	name="mberTy">
+				<input type="hidden" id="fmnmNm" 	name="fmnmNm">
+				<input type="hidden" id="isPopup" 	name="isPopup" value="false">
+			</form>
+		</div>
+
+		<form id="cmFrm" name="cmFrm" method="post" action="/ps/Ajax/cmAction.json">
+			<input type="hidden" name="crud" value="CREATE" />
+
+			<input type="hidden" name="dataNo" value="2048913" />
+			<input type="hidden" name="progNo" value="5442" />
+			<input type="hidden" name="mapngAtDetail" value="petit" />
+			<input type="hidden" name="psVoteSe" value=""/>
+			<input type="hidden" name="orderSe" value="newFast"/>
+
+			<input type="hidden" name="mapngAt" value="ic" />
+			<input type="hidden" name="siteNo" value="49"/>
+			<input type="hidden" name="menuNo" value="5442"/>
+
+			<input type="hidden" name="siteNm" 		value="패밀리_인천은 소통이 가득"/>
+			<input type="hidden" name="menuNmPath"	value=">Home>열린시장실>의견공감"/>
+			<input type="hidden" name="cmUrl" 		value="www.incheon.go.kr/cool/COOL010501/view"/>
+			<input type="hidden" name="curPage" 	value="1"/>
+			<input type="hidden" name="cntPerPage" 	value="5"/>
+			<input type="hidden" name="totalPage" 	value=""/>
+			<input type="hidden" name="startNum" 	value="0"/>
+			<input type="hidden" name="endNum" 		value="5"/>
+			<input type="hidden" name="loginAt" 	value="false"/>
+			<input type="hidden" name="mberTy" 		value=""/>
+
+
+			<div class="comment-enter">
+				<div class="textarea">
+							<label>
+								일반회원 로그인 후 작성 가능합니다.<span>사업광고, 비속어, 정치적 내용, 개인정보 유출 등은 별도의 통보없이 삭제될 수 있습니다.</span>
+							</label>
+						</div>
+					</div>
+			<div class="btn-area comment-btn">
+				<span id="cntChar">0</span>/250
+				<button href="#btn" type="button" class="btn btn-basic btn-write-comment" id="sendCmBtn"><span>보내기</span></button>
+			</div>
+		</form>
+	</div>
+	<!--// 상단 -->
+
+	<!-- 하단 -->
+	<div class="comment-box bbs-comments-wrap">
+		<div class="comment-list-top-wrap">
+			<p>전체 댓글 수 <span class="menu-comments-cnt"></span></p>
+			<div class="right-wrap">
+				<div class="progress">
+					<ul class="co-clk"> <!--//버튼활성화 : ul.co-clk > li에 class="active" 추가 -->
+						<li class="active"><button type="button" id="newFast">최신순</button></li>
+						<li><button type="button" id="likeHigh">좋아요순</button></li>
+						<li><button type="button" id="sosoHigh">싫어요순</button></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="comment-list-wrap comments">
+			<!-- comment-article -->
+			<div class="comment-veiw comments">
+				<div class="comment-article comment-item comment tmplat" style="display: none!important;" >
+					<div class="comment-user-wrap profile-img">
+						<span class="user-profile-wrap">
+							<img src="/humanframe/globaltheme/assets/image/layout/content-comment-user-profile.jpg" alt="" class="user-profile profile">
+						</span>
+						<div class="sns-select login-After">
+							<div class="">
+							</div>
+						</div>
+					</div>
+					<div class="comment-txt-wrap">
+						<div class="comment-by">
+							<div class="item id"><span></span></div>
+							<div class="item date"><span></span></div>
+						</div>
+						<div class="comment-user-text-wrap">
+							<div class="comment-user-text user-text">
+								<p>
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="comment-btn-wrap btn-sympathy">
+						<a href="#btn" class="btn like"><span>좋아요</span><em></em></a>
+						<a href="#btn" class="btn hate"><span>싫어요</span><em></em></a>
+					</div>
+				</div>
+			</div>
+			<!--// comment-article -->
+		</div>
+		<div class="paginate bbs-comments-paging"></div>
+	</div>
+	<!--// 하단 -->
+</div>
+
+<script>
+$(function() {
+
+	getCmList('');
+	setSns($(".bbs-comments-post input[name='mberTy']").val());
+
+	$(document).on('click','.comment-btn #sendCmBtn', function (e) {
+		var loginAt = $(".bbs-comments-post input[name='loginAt']").val();
+
+		if(loginAt != 'true'){
+			alert("로그인 후 사용해주세요.");
+			return;
+		}
+
+		var cn = $(".bbs-comments-post form[name='cmFrm']").find("textarea[name='cn']").val();
+
+		if( cn == null || cn == ''){
+			alert("댓글을 작성해주시기 바랍니다");
+			return false;
+		}
+
+		wf_btn="sendCmBtn";
+		if(wf_flag == "off"){
+			submitWebFilter("cmFrm");
+		}else{
+			wf_flag = 'off';
+			$.ajax({
+				url		: "/ps/Ajax/cmAction.json",
+				type	: "post",
+				data	: $("form[name='cmFrm']").serialize(),
+				success	: function(data){
+					if(data.process==1) {
+						getCmList('new');
+						$('#cntChar').html("0");
+					} else {
+						alert(data.msg);
+					}
+				},
+				error	: function(xhr, status, err){
+					alert("[error] " + ":" + err + "(" + status + ")" + xhr);
+				}
+			});
+		}
+
+		return false;
+	});
+
+	$(document).on('keyup', '.comment-enter .textarea', function (e) {
+		var content = $(this).val();
+
+	    $('#cntChar').html(content.length);
+
+	    if (content.length > 250){
+	        alert("최대 250자까지 입력 가능합니다.");
+
+	        $(this).val(content.substring(0, 250));
+	        $('#cntChar').html("250");
+	    }
+	});
+
+	$(document).on('click', '.btn-delete-comment', function (e) {
+		var loginAt = $(".bbs-comments-post input[name='loginAt']").val();
+
+		if(loginAt != 'true'){
+			alert("로그인 후 사용해주세요.");
+			return;
+		}
+
+		e.preventDefault();
+
+		if(confirm('삭제하시겠습니까?')){
+			var cmNo = $(this).data('comments-no');
+
+			$(".bbs-comments-post input[name='curPage']").val(1);
+
+			$.ajax({
+				url		: '/ps/Ajax/cmAction.json',
+				type	: 'post',
+				data	: 'crud=DELETE&loginAt=true&cmNo='+cmNo,
+				success	: function(data){
+					if(data.process==1){
+						getCmList('new');
+					} else {
+						alert(data.msg);
+					}
+				}
+			})
+		}
+	});
+
+
+	$(document).on('click','.comment .btn-sympathy .like', function (e) {
+		e.preventDefault();
+
+		var loginAt = $(".bbs-comments-post input[name='loginAt']").val();
+
+		if(loginAt != 'true'){
+			alert("로그인 후 사용해주세요.");
+			return;
+		}
+
+		if(confirm('좋아요를 하시겠습니까?')){
+			var cmNo = $(this).data('comments-no');
+
+			$.ajax({
+				url		: '/ps/Ajax/updateCmRecOrOpp.json',
+				type	: 'post',
+				data	: 'recomendCo=1&cmNo='+cmNo,
+				success	: function(data){
+					if(data.process==1){
+						getCmList('new');
+					} else {
+						alert(data.msg);
+					}
+				}
+			})
+		}
+	});
+
+	$(document).on('click','.comment .btn-sympathy .hate', function (e) {
+		var loginAt = $(".bbs-comments-post input[name='loginAt']").val();
+
+		if(loginAt != 'true'){
+			alert("로그인 후 사용해주세요.");
+			return;
+		}
+
+		e.preventDefault();
+
+		if(confirm('싫어요를 하시겠습니까?')){
+			var cmNo = $(this).data('comments-no');
+
+			$.ajax({
+				url		: '/ps/Ajax/updateCmRecOrOpp.json',
+				type	: 'post',
+				data	: 'oppsCo=1&cmNo='+cmNo,
+				success	: function(data){
+					if(data.process==1){
+						getCmList('new');
+					} else {
+						alert(data.msg);
+					}
+				}
+			});
+		}
+	});
+
+	$(document).on('click','.co-clk > li > button', function (e) {
+
+		var orderSe = $(this).attr('id');
+
+		$(".bbs-comments-post input[name='orderSe']").val(orderSe);
+
+		getCmList('new');
+	});
+
+	/* var naverLogin = new naver.LoginWithNaverId({
+													clientId	: "pPbZQJSGxBthp8DAJiHN",
+													callbackUrl	: "https://www.incheon.go.kr/comm/sns/naverCallback",
+													isPopup		: true,
+													loginButton	: {
+																	color	: "green",
+																	type	: 1,
+																	height	: 30
+																	}
+												});
+	naverLogin.init();
+	
+	$("#naverIdLogin_loginButton").attr("title", "새창");
+	$("#naverIdLogin_loginButton > img").attr("alt", "네이버");
+
+    FB.init({
+		      appId            	: '684544705283786',
+		      autoLogAppEvents 	: true,
+		      xfbml            	: true,
+		      version          	: 'v6.0'
+	}); */
+
+});
+
+function setSns(mberTy){
+	$(".sns-select a[id='"+mberTy+"']").addClass("active");
+}
+
+
+function getCmList(mode){
+	
+	$(".bbs-comments-post input[name='crud']").val("READ");
+
+	if(mode == "new"){
+		resetCmList();
+	}
+
+	$.ajax({
+		url 	: '/ps/Ajax/getIcCmList.json',
+		type	: "post",
+		data	: $(".bbs-comments-post form[name='cmFrm']").serialize(),
+		success	: function(data){
+			resetCmFrm();
+
+			$(".bbs-comments-post input[name='crud']").val("CREATE");
+			$(".bbs-comments-wrap button.btn").prop("disabled",false);
+
+			if(data.list.totalCount>0){
+				$(".bbs-comments-wrap span.menu-comments-cnt").text("("+data.list.totalCount+")");
+				$(".bbs-comments-post input[name='curPage']").val(data.list.curPage+1);
+			} else {
+				$(".bbs-comments-wrap span.menu-comments-cnt").text("(0)");
+				$(".bbs-comments-post input[name='curPage']").val(1);
+			}
+
+			if(data.paging != null && data.paging != ''){
+				$(".bbs-comments-paging").html(data.paging);
+				$(".bbs-comments-post input[name='curPage']").val(data.list.paramMap.curPage);
+			}
+
+			for(var oname in data.list.listObject){
+				var cloning = $(".bbs-comments-wrap .comments .tmplat").clone();
+
+				cloning.removeClass("tmplat");
+				cloning.find(".date").text(data.list.listObject[oname].creatDttm); //date
+
+				if(data.list.listObject[oname].hideAt=='N'){
+					var wrterNm = "";
+					
+					if(data.list.listObject[oname].hasOwnProperty('wrter')){
+						if(data.list.listObject[oname].wrter.length>1){
+							wrterNm = data.list.listObject[oname].wrter.substring(0,1);
+	
+							for(var l=0; l<data.list.listObject[oname].wrter.length-1; l++){
+								wrterNm += "○";
+							}
+						}
+					}else {	// 이름이 없는 사람
+						wrterNm = "○○○";
+					}
+					
+					cloning.find(".comment-by .id").text(wrterNm); //author
+					cloning.find(".user-text").text(data.list.listObject[oname].cn);
+				} else {
+					cloning.find(".comment-by .id").text("*blind*").addClass("text-muted"); //author
+					cloning.find(".user-text").text("관리자에 의해 블라인드 처리된 댓글입니다.").addClass("text-muted");
+				}
+
+				cloning.find(".btn-sympathy .like em").text(data.list.listObject[oname].recomendCo); //author
+				cloning.find(".btn-sympathy .hate em").text(data.list.listObject[oname].oppsCo); //author
+
+				if(data.list.listObject[oname].profileImage != null && data.list.listObject[oname].profileImage != ''){
+					cloning.find(".user-profile").attr("src", data.list.listObject[oname].profileImage );
+				} else {
+					cloning.find(".user-profile").remove();
+				}
+
+				if('' == data.list.listObject[oname].crtrUniqueId){
+					cloning.find(".user-text").after(
+							'<button type="button" class="btn-delete-comment del" data-comments-no="'+data.list.listObject[oname].cmNo+'">' +
+								'<span>삭제</span>' +
+							'</button>');
+				}
+
+				if(data.list.listObject[oname].mberTy == 'I'){
+					cloning.find(".profile-img .sns-select div").attr('class', 'sns-account incheon');
+				}
+
+				if(data.list.listObject[oname].mberTy == 'N'){
+					cloning.find(".profile-img .sns-select div").attr('class', 'sns-account naver');
+				}
+
+				if(data.list.listObject[oname].mberTy == 'K'){
+					cloning.find(".profile-img .sns-select div").attr('class', 'sns-account kakao');
+				}
+
+				if(data.list.listObject[oname].mberTy == 'T'){
+					cloning.find(".profile-img .sns-select div").attr('class', 'sns-account twitter');
+				}
+
+				if(data.list.listObject[oname].mberTy == 'F'){
+					cloning.find(".profile-img .sns-select div").attr('class', 'sns-account facebook');
+				}
+
+				setSns($(".bbs-comments-post input[name='mberTy']").val());
+
+				cloning.find(".btn-sympathy .like").data('comments-no', data.list.listObject[oname].cmNo);
+				cloning.find(".btn-sympathy .hate").data('comments-no', data.list.listObject[oname].cmNo);
+
+				/*
+				if(!data.list.listObject[oname].isMine) {
+					cloning.find(".btn-sympathy .like").data('comments-no', data.list.listObject[oname].cmNo);
+					cloning.find(".btn-sympathy .hate").data('comments-no', data.list.listObject[oname].cmNo);
+				} else {
+					cloning.find(".btn-sympathy").remove();
+				}
+				 */
+
+				//cloning.find(".comment-by").data('comments-no', data.list.listObject[oname].cmNo);
+				cloning.appendTo(".bbs-comments-wrap .comments");
+				cloning.removeAttr('style');
+				cloning.css('display', 'block');
+			}
+		}
+	});
+}
+
+function resetCmList(){
+	//$(".bbs-comments-post input[name='curPage']").val(1);
+	$(".bbs-comments-wrap .more").prop("disabled",true);
+	$(".bbs-comments-wrap .more").hide();
+	$(".bbs-comments-wrap .comments .comment").not(".tmplat").remove();
+}
+
+function resetCmFrm(){
+	$(".bbs-comments-post form[name='cmFrm']").find("input[type='text']").val("");
+	$(".bbs-comments-post form[name='cmFrm']").find("input[type='password']").val("");
+	$(".bbs-comments-post form[name='cmFrm']").find("input[type='email']").val("");
+	$(".bbs-comments-post form[name='cmFrm']").find("textarea").val("");
+}
+
+
+function ajaxCmPaging(curPage){
+	$(".bbs-comments-post input[name='curPage']").val(curPage);
+	getCmList("new");
+}
+
+
+</script>
+<script src='/webfilter/js/webfilter.js' defer='defer'></script><script>document.domain='incheon.go.kr';</script><iframe id='webfilterTargetFrame' name='webfilterTargetFrame' width='0' height='0' title='웹필터프로그램' tabindex='-1'></iframe><script>window.submitWebFilter = (window.submitWebfilter == undefined) ? function() {} : window.submitWebfilter;</script></div>
+<!-- //cool-sub petitioning -->
+
+<!-- 문의 관련 안내 -->
+<div class="org-guide-wrap">
+	<div class="org-guide">
+	  <p class="org-guide01">
+	  		※ 각 부서의 업무 문의 및 민원상담은 <br>
+			<strong class="org-guide-primary">032-120</strong>으로  <br>
+			연락하여 주시기 바랍니다.
+	  </p>
+	</div>
+</div>
+</div>
+					<!-- //content-body -->
+
+					<!-- content-foot-->
+				<div class="content-foot">
+				<!-- content-license -->
+						<!-- //content-license -->
+
+						<!-- content-manager -->
+						<!-- 설문조사,이벤트,공모전 하단 노출 예외처리 -->
+		<div class="content-manager" id="mnuChargerContainer">
+			<dl>
+				<dt>
+							자료관리담당자
+						</dt>
+						<dd>
+							<ul>
+								<li>
+									<span class="item">담당부서</span>
+									<span class="item-data">시민소통담당관</span>
+								</li>
+								<li>
+										<span class="item">문의처</span>
+										<span class="item-data">032-440-2418, 2188</span>
+									</li>
+								<li>
+										<span class="item">최종업데이트</span>
+										<span class="item-data">2026-03-20</span>
+									</li>								
+								</ul>
+						</dd>
+					</dl>
+		</div>
+		
+		<!-- content-manager -->
+					<div class="content-qrcode-satisfaction">
+							<!-- content-satisfaction -->
+								<div class="content-satisfaction" id="stsfdgContainer">
+	<div class="question">
+		<p>이 페이지에서 제공하는 정보에 대하여 만족하십니까?</p>
+	</div>
+	<div class="radio-group">
+		<form id="stsfdgForm" name="stsfdgForm" method="post">
+			<input type="hidden" name="crud" value="">
+			<input type="hidden" name="siteNo" value="49" title="사이트번호">
+			<input type="hidden" name="menuNo" value="5442" title="메뉴번호">
+
+			<div class="form-radio">
+				<input type="radio" name="score" id="c1" value="1">
+				<label for="c1"><span>매우불만족</span></label>
+			</div>
+			<div class="form-radio">
+				<input type="radio" name="score" id="c2" value="2">
+				<label for="c2"><span>불만족</span></label>
+			</div>
+			<div class="form-radio">
+				<input type="radio" name="score" id="c3" value="3">
+				<label for="c3"><span>보통</span></label>
+			</div>
+			<div class="form-radio">
+				<input type="radio" name="score" id="c4" value="4">
+				<label for="c4"><span>만족</span></label>
+			</div>
+			<div class="form-radio">
+				<input type="radio" name="score" id="c5" value="5">
+				<label for="c5"><span>매우만족</span></label>
+			</div>
+			<button type="submit" title="평점주기" class="btn-vote">
+				<span>평점주기</span>
+			</button>
+		</form>
+	</div>
+</div>
+		<script>
+		$(function(){
+			
+					$(document).on('click', 'form[name="stsfdgForm"]', function(e){
+						e.preventDefault();
+						if(confirm("만족도 평가를 위해 로그인하시겠습니까?")){
+							fn_meve('/login');
+						}
+					});
+				
+		})
+		</script><!-- //content-satisfaction -->
+						</div>
+					<!-- content-comment -->
+					<!-- //content-comment -->
+				</div>
+				<!-- //content-foot-->
+</main>
+				<!-- //content --></div>
+			<!-- //content-wrap -->
+		</div>
+		<!-- //container -->
+
+		<!-- footer -->
+<footer id="footer" class="footer">
+	<div class="footer-related-site-wrap">
+	    <div class="footer-related-site" style="display:none;">
+	        <div class="related-site-group">
+	            <label for="relatedSel1" class="hidden"><span>패밀리사이트 분류</span></label>
+	            <select name="relatedSel1" id="relatedSel1" class="sel_link">
+	                <option value="">인천광역시 누리집</option>
+	                <option value="">--- 관련 누리집 ---</option>
+					<option value="/goodmorning">굿모닝인천</option>
+					<option value="/gosi">시험정보</option>
+					<option value="/res">온라인통합예약</option>
+					<option value="/moo">웹진 MOO</option>
+					<option value="/mayor_9">인천광역시장실</option>
+					<!-- <option value="https://data.incheon.go.kr/">인천데이터포털</option> -->
+					<option value="/citybrand">인천도시브랜드</option>
+					<!-- <option value="/forty">인천 독립 40년</option> -->
+					<option value="/wifi">인천와이파이</option>
+					<option value="/cool">인천은 소통이 가득</option>
+					<option value="/park">인천의 공원</option>
+					<option value="https://incheon.go.kr/jobs">일자리플랫폼</option>
+				<!-- 	<option value="/newdeal">인천형 뉴딜</option> -->
+					<option value="/119safe">인천국민안전체험관</option>
+					<!-- <option value="/youth">인천청년포털</option> -->
+					<option value="/recycle">자원순환 선도도시 인천</option>
+					<option value="/legal">자치법규정보</option>
+					<option value="/open">정보공개포털</option>
+					<option value="/budget">주민참여예산</option>
+					<option value="/campmarket">캠프마켓</option>
+					<option value="/incheon_rf">인천독서대전</option>
+					<option value="/icbenefit">맞춤형수혜서비스</option>
+					<option value="/housing">인천주거포털</option>
+					<option value="/1in">인천1인가구포털</option>
+					<option value="/ifei">인천귀어학교</option>
+					<option value="/welcomecenter">재외동포웰컴센터</option>
+					
+	                <option value="">--- 개별 누리집 ---</option>
+	                <option value="/contract">계약정보공개시스템</option>
+					<!-- <option value="http://library.incheon.go.kr">공공도서관협의회</option> -->
+					<option value="http://traffic.incheon.go.kr">교통행정 통합민원</option>
+					<option value="http://imap.incheon.go.kr/archive/main.do">도시경관 변천기록 아카이브</option>
+					<option value="http://parking.incheon.go.kr">미추홀 주차정보안내시스템</option>
+					<option value="http://klis.incheon.go.kr/sis/main.do">부동산정보조회시스템</option>
+					<option value="http://insehub.or.kr">사회적경제</option>
+					<option value="https://smart.incheon.go.kr">스마트인천</option>
+					<option value="http://no-driving.incheon.go.kr">승용차요일제</option>
+					<option value="http://edu.cyber.incheon.kr/">시민사이버교육센터</option>
+					<option value="https://imore.bccard.com/imore">아이모아카드</option>
+					<option value="http://www.aci.or.kr/">아트센터 인천</option>
+					<option value="http://www.icforum.or.kr/pc/main/main.php">인차이나포럼</option>
+<!-- 					<option value="http://onsight.incheon.go.kr">인천디지털시정</option> -->
+					<option value="http://iq.ifac.or.kr">인천문화포털IQ</option>
+					<option value="http://bus.incheon.go.kr/bis/main.view">인천버스정보</option>
+					<option value="http://ebookcontents.incheon.go.kr">인천통합전자도서관</option>
+					<option value="http://itour.incheon.go.kr">인천투어</option>
+					<option value="http://eais.incheon.go.kr">인터넷건축행정(세움터)</option>
+					<option value="http://tv.incheon.go.kr">인터넷방송</option>
+					<option value="http://enews.incheon.go.kr">인터넷신문</option>
+					<option value="https://ebook.incheon.go.kr/">전자책(e-book)</option>
+					<option value="http://etax.incheon.go.kr">전자고지납부시스템</option>
+					<option value="http://bizok.incheon.go.kr">중소기업 맞춤형 원스톱 지원</option>
+					<option value="http://imap.incheon.go.kr">지도포털</option>
+					<option value="http://renewal.incheon.go.kr">추정분담금정보시스템</option>
+					<option value="https://air.incheon.go.kr">환경정보공개시스템</option>					
+					<option value="http://parkingsms.incheon.go.kr">주정차단속알림서비스</option>					
+					<option value="http://jangbokmoa.incheon.go.kr">인천광역시 장애인복지 플랫폼</option>
+					<option value="https://intoll.incheon.go.kr">영종용유북도면 지역주민 카드등록시스템</option>					
+					<option value="https://onmaeul.incheon.go.kr">인천온마을</option>					
+	            </select>
+	            <button type="button" class="btn-go" title="선택 사이트로 이동-새창열림"><span>GO</span></button>
+	        </div>
+	        <div class="related-site-group">
+	            <label for="relatedSel2" class="hidden"><span>직속기관/사업소 등 분류선택</span></label>
+	            <select name="relatedSel2" id="relatedSel2" class="sel_link">
+	                <option value="">직속기관/사업소 등</option>
+					<option value="http://www.ifez.go.kr">경제자유구역청</option>
+					<option value="/gm">남촌농축산물도매시장관리사무소</option>
+					<option value="/agro">농업기술센터</option>
+					<option value="/iurail">도시철도건설본부</option>
+					<option value="/art">문화예술회관</option>
+					<option value="https://www.incheonlib.go.kr">인천도서관</option>
+					<option value="/ecopia">보건환경연구원</option>
+					<option value="/sm">삼산농산물도매시장관리사무소</option>
+					<option value="/water">상수도사업본부</option>
+					<option value="/wiw">서부여성회관</option>
+					<option value="/119">소방본부</option>
+					<option value="/ifa">소방학교</option>
+					<option value="/susan">수산기술지원센터</option>
+					<option value="/fish">수산자원연구소</option>
+					<option value="/cwc">아동복지관</option>
+					<option value="/wwc">여성복지관</option>
+					<option value="/wp">여성의광장</option>
+					<option value="http://hrd.incheon.go.kr">인재개발원</option>
+					<option value="/museum">인천광역시립박물관</option>
+					<option value="/police">인천자치경찰위원회</option>
+					<option value="/jonggeon">종합건설본부</option>
+					<option value="/IC040019">중앙협력본부</option>
+	            </select>
+
+	            <button type="button" class="btn-go" title="선택 사이트로 이동-새창열림"><span>GO</span></button>
+	        </div>
+	        <div class="related-site-group">
+	            <label for="relatedSel3" class="hidden"><span>자치군‧구 및 의회 누리집</span></label>
+	            <select name="relatedSel3" id="relatedSel3" class="sel_link">
+	                <option value="">자치군‧구 및 의회</option>
+					<option value="http://www.ganghwa.go.kr">강화군</option>
+					<option value="http://www.ongjin.go.kr">옹진군</option>
+					<option value="http://www.jemulpo.go.kr">제물포구</option>
+					<option value="http://www.yeongjong.go.kr">영종구</option>
+	                <!-- <option value="http://www.icjg.go.kr">중구</option> -->
+					<!-- <option value="http://www.icdonggu.go.kr">동구</option> -->
+					<option value="http://namgu.incheon.kr">미추홀구</option>
+					<option value="http://www.yeonsu.go.kr">연수구</option>
+					<option value="http://www.namdong.go.kr">남동구</option>
+					<option value="http://www.icbp.go.kr">부평구</option>
+					<option value="http://www.gyeyang.go.kr">계양구</option>
+					<!-- <option value="http://www.seo.incheon.kr">서구</option> -->
+					<option value="http://www.seohae.go.kr">서해구</option>
+					<option value="http://www.geomdan.go.kr">검단구</option>
+					<option value="http://council.ganghwa.go.kr">강화군의회</option>
+	                <option value="http://council.ongjin.go.kr">옹진군의회</option>
+	                <option value="http://www.icjg.go.kr/council/index">중구의회</option>
+	                <option value="http://council.icdonggu.go.kr">동구의회</option>
+	                <option value="http://www.michuhol.go.kr/council/index.asp">미추홀구의회</option>
+	                <option value="http://council.yeonsu.go.kr">연수구의회</option>
+	                <option value="http://council.namdong.go.kr">남동구의회</option>
+	                <option value="http://council.icbp.go.kr">부평구의회</option>
+	                <option value="http://council.gyeyang.go.kr">계양구의회</option>
+	                <option value="http://seo.incheon.kr/open_content/council">서구의회</option>
+	            </select>
+	            <button type="button" class="btn-go" title="선택 사이트로 이동-새창열림"><span>GO</span></button>
+	        </div>
+	    </div>
+    	
+    	
+    	<div class="new_relate_site">
+        <dl>
+          <dt><a href="#;" title="펼쳐보기">인천광역시 누리집</a></dt>
+          <dd>
+            <strong class="tit">인천광역시 누리집</strong>            
+            <div>
+				<!-- <strong>관련누리집</strong> -->
+				<ul>
+				  <li><a title="새창" target="_blank" href="/goodmorning">굿모닝인천</a></li>
+				  <li><a title="새창" target="_blank" href="/gosi">시험정보</a></li>
+				  <li><a title="새창" target="_blank" href="/res">온라인통합예약시스템</a></li>
+				  <li><a title="새창" target="_blank" href="/moo">웹진 MOO</a></li>
+				  <li><a title="새창" target="_blank" href="/mayor_9">인천광역시장실</a></li>
+				  <li><a title="새창" target="_blank" href="/cool">인천은 소통이 가득</a></li>				  
+				  <li><a title="새창" target="_blank" href="https://incheon.go.kr/jobs/">일자리플랫폼</a></li>
+				  <li><a title="새창" target="_blank" href="/legal">자치법규정보</a></li>
+				  <li><a title="새창" target="_blank" href="/open">정보공개포털</a></li>
+				  <li><a title="새창" target="_blank" href="/recycle">자원순환 선도도시 인천</a></li>				  
+				  <!-- <li><a title="새창" target="_blank" href="https://data.incheon.go.kr/">인천데이터포털</a></li> -->
+				  <li><a title="새창" target="_blank" href="/wifi">인천와이파이</a></li>
+				  <li><a title="새창" target="_blank" href="/budget">주민참여예산</a></li>
+				  <li><a title="새창" target="_blank" href="/119safe">인천국민안전체험관</a></li>
+				  <!-- <li><a title="새창" target="_blank" href="/youth">인천청년포털</a></li> -->
+				  <li><a title="새창" target="_blank" href="/campmarket">캠프마켓</a></li>
+				  <li><a title="새창" target="_blank" href="https://ebook.incheon.go.kr/">e-book</a></li>
+				  <li><a title="새창" target="_blank" href="/citybrand">인천도시브랜드</a></li>
+				  <li><a title="새창" target="_blank" href="/welcomecenter">재외동포웰컴센터</a></li>
+				  <li><a title="새창" target="_blank" href="/icbenefit">맞춤형수혜서비스</a></li>
+				  <li><a title="새창" target="_blank" href="/housing">인천주거포털</a></li>
+				  <li><a title="새창" target="_blank" href="/1in">인천1인가구포털</a></li>
+				  <li><a title="새창" target="_blank" href="/ifei">인천귀어학교</a></li>
+				  <li><a title="새창" target="_blank" href="/infohub">재외동포정보허브</a></li>
+				  <li><a title="새창" target="_blank" href="/incheon_rf">인천독서대전</a></li>
+				  <li><a title="새창" target="_blank" href="/intv"><span>인천 인터넷방송</span></a></li>
+				  <li><a title="새창" target="_blank" href="/disability"><span>장애인복지포털</span></a></li>
+				  <li><a title="새창" target="_blank" href="/animalwelfare"><span>반려동물복지플랫폼</span></a></li>
+				  <li><a title="새창" target="_blank" href="/contract"><span>계약정보공개시스템</span></a></li>
+				  <li><a title="새창" target="_blank" href="/watercontract"><span>상수도 계약정보공개시스템</span></a></li>
+				  <li><a title="새창" target="_blank" href="/its"><span>트렌드 스토리지</span></a></li>
+				  <li><a title="새창" target="_blank" href="https://www.incheon.go.kr/051201"><span>기타(개별 누리집)</span></a></li>
+				</ul>
+            </div>            
+          </dd>
+
+          <dt><a href="#;" title="펼쳐보기">직속기관/사업소 등</a></dt>
+          <dd>
+            <strong class="tit">직속기관/사업소 등</strong>
+            <div>
+              <ul>
+                <li><a  title="새창" target="_blank" href="/hrd">인재개발원</a></li>
+				<li><a  title="새창" target="_blank" href="/ecopia">보건환경연구원</a></li>
+				<li><a  title="새창" target="_blank" href="/agro">농업기술센터</a></li>
+				<li><a  title="새창" target="_blank" href="/119">소방본부</a></li>
+                <li><a  title="새창" target="_blank" href="/ifa">소방학교</a></li>
+				<li><a  title="새창" target="_blank" href="http://www.ifez.go.kr">경제자유구역청</a></li>
+				<li><a  title="새창" target="_blank" href="/water">상수도사업본부</a></li>
+				<li><a  title="새창" target="_blank" href="/iurail">도시철도건설본부</a></li>
+				<li><a  title="새창" target="_blank" href="/jonggeon">종합건설본부</a></li>
+				<li><a  title="새창" target="_blank" href="/art">문화예술회관</a></li>
+				<li><a  title="새창" target="_blank" href="https://www.incheonlib.go.kr">인천도서관</a></li>
+				<li><a  title="새창" target="_blank" href="/museum">시립박물관</a></li>
+				<li><a  title="새창" target="_blank" href="/wwc">여성복지관</a></li>
+                <li><a  title="새창" target="_blank" href="/wp">여성의광장</a></li>
+				<li><a  title="새창" target="_blank" href="/wiw">서부여성회관</a></li>
+				<li><a  title="새창" target="_blank" href="/cwc">아동복지관</a></li>
+				<li><a  title="새창" target="_blank" href="/park">공원사업소(인천의 공원)</a></li>
+                <li><a  title="새창" target="_blank" href="/gm">남촌농축산물도매시장관리사무소</a></li>
+                <li><a  title="새창" target="_blank" href="/sm">삼산농산물도매시장관리사무소</a></li>
+                <li><a  title="새창" target="_blank" href="/fish">수산자원연구소</a></li>
+                <li><a  title="새창" target="_blank" href="/susan">수산기술지원센터</a></li>
+                <li><a  title="새창" target="_blank" href="/IC040019">중앙협력본부</a></li>
+                <li><a  title="새창" target="_blank" href="/police">인천자치경찰위원회</a></li>
+              </ul>
+            </div>
+          </dd>
+          
+          <dt><a href="#;" title="펼쳐보기">자치군‧구</a></dt>
+          <dd>
+            <strong class="tit">자치군‧구</strong>
+            <div>
+              <ul>
+                <li><a  title="새창" target="_blank" href="http://www.ganghwa.go.kr">강화군</a></li>
+                <li><a  title="새창" target="_blank" href="http://www.ongjin.go.kr">옹진군</a></li>
+                <li><a  title="새창" target="_blank" href="http://www.jemulpo.go.kr">제물포구</a></li>
+                <li><a  title="새창" target="_blank" href="http://www.yeongjong.go.kr">영종구</a></li>
+                <!-- <li><a  title="새창" target="_blank" href="http://www.icjg.go.kr">중구</a></li> -->
+                <!-- <li><a  title="새창" target="_blank" href="http://www.icdonggu.go.kr">동구</a></li> -->
+                <li><a  title="새창" target="_blank" href="http://namgu.incheon.kr">미추홀구</a></li>
+                <li><a  title="새창" target="_blank" href="http://www.yeonsu.go.kr">연수구</a></li>
+                <li><a  title="새창" target="_blank" href="http://www.namdong.go.kr">남동구</a></li>
+                <li><a  title="새창" target="_blank" href="http://www.icbp.go.kr">부평구</a></li>
+                <li><a  title="새창" target="_blank" href="http://www.gyeyang.go.kr">계양구</a></li>
+                <!-- <li><a  title="새창" target="_blank" href="http://www.seo.incheon.kr">서구</a></li> -->
+                <li><a  title="새창" target="_blank" href="http://www.seohae.go.kr">서해구</a></li>
+                <li><a  title="새창" target="_blank" href="http://www.geomdan.go.kr">검단구</a></li>
+              </ul>
+            </div>
+          </dd>
+          
+          <dt><a href="#;" title="펼쳐보기">의회</a></dt>
+          <dd>
+            <strong class="tit">의회</strong>
+            <div>
+              <ul>
+                <li><a  title="새창" target="_blank" href="https://www.icouncil.go.kr">인천광역시의회</a></li>
+                <li><a  title="새창" target="_blank" href="http://council.ganghwa.go.kr">강화군의회</a></li>
+                <li><a  title="새창" target="_blank" href="http://council.ongjin.go.kr">옹진군의회</a></li>
+                <li><a  title="새창" target="_blank" href="https://council.jemulpo.go.kr/council/kr/main.do">제물포구의회</a></li>
+                <li><a  title="새창" target="_blank" href="https://www.yeongjong.go.kr/council/main.do">영종구의회</a></li>
+                <li><a  title="새창" target="_blank" href="http://www.michuhol.go.kr/council/index.asp">미추홀구의회</a></li>
+                <li><a  title="새창" target="_blank" href="http://council.yeonsu.go.kr">연수구의회</a></li>
+                <li><a  title="새창" target="_blank" href="http://council.namdong.go.kr">남동구의회</a></li>
+                <li><a  title="새창" target="_blank" href="http://council.icbp.go.kr">부평구의회</a></li>
+                <li><a  title="새창" target="_blank" href="http://council.gyeyang.go.kr">계양구의회</a></li>
+                <li><a  title="새창" target="_blank" href="https://www.seohae.go.kr/open_content/council/">서해구의회</a></li>
+                <li><a  title="새창" target="_blank" href="https://council.geomdan.go.kr/">검단구의회</a></li>
+              </ul>
+            </div>
+          </dd>
+          
+		  <dt><a href="#;" title="펼쳐보기">공사공단/출자출연</a></dt>
+          <dd>
+            <strong class="tit">공사공단/출자출연</strong>
+            <div>
+              <ul>
+                <li><a  title="새창" target="_blank" href="https://www.ictr.or.kr">인천교통공사</a></li>
+                <li><a  title="새창" target="_blank" href="https://www.ih.co.kr">인천도시공사</a></li>
+                <li><a  title="새창" target="_blank" href="https://www.ito.or.kr">인천관광공사</a></li>
+                <li><a  title="새창" target="_blank" href="https://www.insiseol.or.kr">인천시설공단</a></li>
+                <li><a  title="새창" target="_blank" href="https://www.eco-i.or.kr">인천환경공단</a></li>
+                <li><a  title="새창" target="_blank" href="https://www.igc.or.kr">인천글로벌캠퍼스</a></li>
+                <li><a  title="새창" target="_blank" href="https://ifac.or.kr">인천문화재단</a></li>
+                <li><a  title="새창" target="_blank" href="https://incheon.pass.or.kr">인천광역시사회서비스원</a></li>
+                <li><a  title="새창" target="_blank" href="https://www.ismartcity.co.kr">인천스마트시티</a></li>
+                <li><a  title="새창" target="_blank" href="https://www.icsinbo.or.kr">인천신용보증재단</a></li>
+				<li><a  title="새창" target="_blank" href="https://www.ifwf.or.kr">인천여성가족재단</a></li>
+				<li><a  title="새창" target="_blank" href="https://www.ii.re.kr">인천연구원</a></li>
+				<li><a  title="새창" target="_blank" href="https://www.icmc.or.kr">인천광역시의료원</a></li>
+				<li><a  title="새창" target="_blank" href="https://itle.or.kr">(재)인천인재평생교육진흥원</a></li>
+				<li><a  title="새창" target="_blank" href="https://www.e-inteco.co.kr">인천종합에너지주식회사</a></li>
+				<li><a  title="새창" target="_blank" href="https://itp.or.kr">인천테크노파크</a></li>
+              </ul>
+            </div>
+          </dd>
+		  <dt><a href="#;" title="펼쳐보기">정부/지자체</a></dt>
+          <dd>
+            <strong class="tit">정부/지자체</strong>
+            <div>
+              <ul>
+                <li><a  title="새창" target="_blank" href="https://www.gov.kr/portal/orgInfo">중앙행정기관</a></li>
+                <li><a  title="새창" target="_blank" href="https://www.gaok.or.kr">대한민국시도지사협의회</a></li>
+                <li><a  title="새창" target="_blank" href="https://www.seoul.go.kr">서울특별시</a></li>
+                <li><a  title="새창" target="_blank" href="https://www.busan.go.kr">부산광역시</a></li>
+                <li><a  title="새창" target="_blank" href="https://www.daegu.go.kr">대구광역시</a></li>
+                <!-- <li><a  title="새창" target="_blank" href="https://www.gwangju.go.kr">광주광역시</a></li> -->
+                <li><a  title="새창" target="_blank" href="https://www.daejeon.go.kr">대전광역시</a></li>
+                <li><a  title="새창" target="_blank" href="https://www.ulsan.go.kr">울산광역시</a></li>
+                <li><a  title="새창" target="_blank" href="https://www.sejong.go.kr">세종특별자치시</a></li>
+                <li><a  title="새창" target="_blank" href="https://www.gg.go.kr">경기도</a></li>
+				<li><a  title="새창" target="_blank" href="https://state.gwd.go.kr/portal">강원특별자치도</a></li>
+				<li><a  title="새창" target="_blank" href="https://www.chungbuk.go.kr">충청북도</a></li>
+				<li><a  title="새창" target="_blank" href="http://www.chungnam.go.kr">충청남도</a></li>
+				<li><a  title="새창" target="_blank" href="https://www.jeonbuk.go.kr">전북특별자치도</a></li>
+				<li><a  title="새창" target="_blank" href="https://www.jeonnam-gwangju.go.kr">전남광주통합특별시</a></li>
+				<!-- <li><a  title="새창" target="_blank" href="https://www.jeonnam.go.kr">전라남도</a></li> -->
+				<li><a  title="새창" target="_blank" href="https://www.gb.go.kr">경상북도</a></li>
+				<li><a  title="새창" target="_blank" href="https://www.gyeongnam.go.kr">경상남도</a></li>
+				<li><a  title="새창" target="_blank" href="https://www.jeju.go.kr">제주특별자치도</a></li>
+              </ul>
+            </div>
+          </dd>
+          <!--<dt class="new_site"><a href="https://www.gov.kr/portal/orgInfo?Mcode=11180" target="_blank" title="새창">정부/지자체</a></dt>
+          <dd class="hidden">
+            하위 메뉴 없음
+          </dd>-->
+        </dl>
+      </div>
+    </div>
+    
+    
+    <script>
+      $(function(){
+       $(".new_relate_site > dl dt a").click(function(){
+        target = $(this);
+        relateE( target );
+       });
+
+       function relateE( target ){
+        if( !target.closest("dt").hasClass("active") ){
+          $(".new_relate_site > dl dd").slideUp(200);
+          $(".new_relate_site > dl dt").removeClass("active");
+          target.closest("dt").addClass("active").next().slideDown(200);
+          
+          $(".new_relate_site > dl dt a").attr("title", "펼쳐보기");
+     	  target.attr("title", "접기");
+        }else{
+          $(".new_relate_site > dl dt").removeClass("active");
+          $(".new_relate_site > dl dd").slideUp(200);
+          
+          $(".new_relate_site > dl dt a").attr("title", "펼쳐보기");
+        }
+       }
+      });
+    </script>
+				<!--<li><a  title="새창" target="_blank" href="http://www.seo.incheon.kr">충청남도</a></li>--><div class="footer-wrap">
+		<div class="footer-inner">
+			<div class="footer-logo"><a href="/"><span>인천광역시</span></a></div>
+			<nav class="footer-nav">
+				<ul>
+					<li>
+						<a href="/IC050201" target="_blank" title="새창"><span>사이트 이용 안내</span></a>
+					</li>
+					<li>
+						<a href="/IC050301" target="_blank" title="새창"><span>이용약관</span></a>
+					</li>
+					<li>
+						<a href="/IC050401" target="_blank" title="새창"><span><strong>개인정보처리방침</strong></span></a>
+					</li>
+					<li>
+						<a href="/IC050601" target="_blank" title="새창"><span>저작권보호정책</span></a>
+					</li>
+					<li>
+						<a href="/IC050701" target="_blank" title="새창"><span>이메일수집거부</span></a>
+					</li>
+				</ul>
+			</nav>
+			<nav class="footer-mark">
+				<ul>
+					<li class="mark-callcenter"><a href="/IC030601" target="_blank" title="새창"><span>120 궁금할 땐 언제나~ 미추홀콜센터</span></a></li>
+				</ul>
+			</nav>
+		</div>
+		<address class="footer-address">
+			<p class="address">21554 인천광역시 남동구 정각로 29(구월동) TEL:(032)120 (유료)</p>
+			<p class="copyright"> © Incheon Metropolitan City. All rights reserved.</p>
+		</address>
+	</div>
+</footer>
+<!-- //footer --></div>
+	<!-- //wrapper -->
+	
+	<script src="/humanframe/global/assets/script/common.js"></script>
+<script>
+comm_lib.prototype.fn_imgFileCheck = function(obj) {
+	event.stopPropagation();
+
+	if(obj.value != ""){
+		/* 첨부파일 확장자 체크*/
+		var atchLmttArr = new Array();
+		atchLmttArr.push("jpg");
+		atchLmttArr.push("png");
+		atchLmttArr.push("gif");
+		atchLmttArr.push("bmp");
+
+		var file 		= obj.value;
+		var fileExt 	= file.substring(file.lastIndexOf('.') + 1, file.length).toLowerCase();
+		var isFileExt	= false;
+
+		for ( var i = 0; i < atchLmttArr.length; i++ ) {
+			if (atchLmttArr[i] == fileExt) {
+				isFileExt = true;
+
+				break;
+			}
+		}
+
+		if ( !isFileExt ) {
+			alert("허가되지 않은 파일형식입니다.\n확장자가 " + atchLmttArr + "인 파일만 첨부가능합니다.");
+			obj.value = "";
+
+			return false;
+		}
+		/* 첨부파일 확장자 체크*/
+
+		/* 첨부파일 사이즈 체크*/
+		var uploadFileSize = 0;
+		var limitSize = 10;
+
+		if( $.browser.msie ){
+			var objFSO 		= new ActiveXObject("Scripting.FileSystemObject");
+			var sPath 		= obj.value;
+			var objFile 	= objFSO.getFile(sPath);
+			uploadFileSize 	= objFile.size/1024;
+		}else {
+			uploadFileSize = (obj.files[0].size/1024);
+		}
+
+		//메가바이트(MB)단위 변환
+		uploadFileSize = (Math.round((uploadFileSize/1024)*100)/100);
+
+		if( limitSize != 0 && uploadFileSize > limitSize ){
+			alert("파일 제한 사이즈를 초과하였습니다.\n첨부파일 사이즈 : " + uploadFileSize + "MB\n첨부파일 허용 사이즈 : " + limitSize + "MB");
+			obj.value = "";
+
+			return false;
+		}
+		/* 첨부파일 사이즈 체크*/
+
+		$(obj).parents(".row").find("[name^=imgFileDc]").show();
+	} else {
+		/* $(obj).parents(".row").find("[name^=imgFileDc]").hide(); */
+	}
+}
+
+comm_lib.prototype.fn_imgFileCheckFront = function(obj) {
+	event.stopPropagation();
+
+	if(obj.value != ""){
+		/* 첨부파일 확장자 체크*/
+		var atchLmttArr = new Array();
+		atchLmttArr.push("jpg");
+		atchLmttArr.push("png");
+		atchLmttArr.push("gif");
+		atchLmttArr.push("bmp");
+
+		var file 		= obj.value;
+		var fileExt 	= file.substring(file.lastIndexOf('.') + 1, file.length).toLowerCase();
+		var isFileExt	= false;
+
+		for ( var i = 0; i < atchLmttArr.length; i++ ) {
+			if (atchLmttArr[i] == fileExt) {
+				isFileExt = true;
+
+				break;
+			}
+		}
+
+		if ( !isFileExt ) {
+			alert("허가되지 않은 파일형식입니다.\n확장자가 " + atchLmttArr + "인 파일만 첨부가능합니다.");
+			obj.value = "";
+
+			return false;
+		}
+		/* 첨부파일 확장자 체크*/
+
+		/* 첨부파일 사이즈 체크*/
+		var uploadFileSize = 0;
+		var limitSize = 10;
+
+		if( $.browser.msie ){
+			var objFSO 		= new ActiveXObject("Scripting.FileSystemObject");
+			var sPath 		= obj.value;
+			var objFile 	= objFSO.getFile(sPath);
+			uploadFileSize 	= objFile.size/1024;
+		}else {
+			uploadFileSize = (obj.files[0].size/1024);
+		}
+
+		//메가바이트(MB)단위 변환
+		uploadFileSize = (Math.round((uploadFileSize/1024)*100)/100);
+
+		if( limitSize != 0 && uploadFileSize > limitSize ){
+			$(obj).siblings("input[type=text]").val("");
+			alert("파일 제한 사이즈를 초과하였습니다.\n첨부파일 사이즈 : " + uploadFileSize + "MB\n첨부파일 허용 사이즈 : " + limitSize + "MB");
+			obj.value = "";
+			return false;
+		}
+		/* 첨부파일 사이즈 체크*/
+
+		$(obj).siblings("input[type=text]").val($(obj).val());
+
+		$(obj).parents(".row").find("[name^=imgFileDc]").show();
+	} else {
+		/* $(obj).parents(".row").find("[name^=imgFileDc]").hide(); */
+	}
+}
+
+//$.browser.msie 에러 해결 (버전문제)
+//The $.browser method has been removed as of jQuery 1.9.
+jQuery.browser = {};
+(function () {
+    jQuery.browser.msie = false;
+    jQuery.browser.version = 0;
+    if (navigator.userAgent.match(/MSIE ([0-9]+)\./)) {
+        jQuery.browser.msie = true;
+        jQuery.browser.version = RegExp.$1;
+    }
+})();
+
+comm_lib.prototype.fn_attachFileCheck = function(obj) {
+	event.stopPropagation();
+
+	if( obj.value != "" ){
+		/* 첨부파일 확장자 체크*/
+		var atchLmttArr = new Array();
+		atchLmttArr.push("exe");
+		atchLmttArr.push("bat");
+		atchLmttArr.push("sh");
+		atchLmttArr.push("js");
+		atchLmttArr.push("jsp");
+		atchLmttArr.push("class");
+		atchLmttArr.push("jar");
+		atchLmttArr.push("php");
+		atchLmttArr.push("py");
+		//atchLmttArr.push("hwpx");
+
+		var file 		= obj.value;
+		var fileExt 	= file.substring(file.lastIndexOf('.') + 1, file.length).toLowerCase();
+		var isFileExt	= false;
+		
+		for ( var i = 0; i < atchLmttArr.length; i++ ) {
+			if (atchLmttArr[i] == fileExt) {
+				isFileExt = true;
+
+				break;
+			}
+		}
+
+		if ( isFileExt ) {
+			alert("해당 파일은 업로드 할 수없습니다.( " + fileExt + " )");
+			obj.value = "";
+
+			return false;
+		}
+		/* 첨부파일 확장자 체크*/
+
+		/* 첨부파일 사이즈 체크*/
+		var uploadFileSize 	= 0;
+		var limitSize 		= 10;
+		
+		if( $.browser.msie ){
+			var objFSO 		= new ActiveXObject("Scripting.FileSystemObject");
+			var sPath 		= obj.value;
+			var objFile 	= objFSO.getFile(sPath);
+
+			uploadFileSize 	= objFile.size/1024;
+		}else {
+			uploadFileSize 	= (obj.files[0].size/1024);
+		}
+
+		//메가바이트(MB)단위 변환
+		uploadFileSize = (Math.round((uploadFileSize/1024)*100)/100);
+
+		if( limitSize != 0 && uploadFileSize > limitSize ){
+			alert("파일 제한 사이즈를 초과하였습니다.\n첨부파일 사이즈 : " + uploadFileSize + "MB\n첨부파일 허용 사이즈 : " + limitSize + "MB");
+			obj.value = "";
+
+			return false;
+		}
+		/* 첨부파일 사이즈 체크*/
+		$(obj).parents(".row").find("[name^=imgFileDc]").show();
+		$(obj).attr('title', file.split('\\')[2]);
+	} else {
+		/* $(obj).parents(".row").find("[name^=imgFileDc]").hide(); */
+	}
+}
+
+comm_lib.prototype.fn_attachFileCheckTemp = function(obj) {
+	event.stopPropagation();
+
+	if( obj.value != "" ){
+		/* 첨부파일 확장자 체크*/
+		var atchLmttArr = new Array();
+		atchLmttArr.push("exe");
+		atchLmttArr.push("bat");
+		atchLmttArr.push("sh");
+		atchLmttArr.push("js");
+		atchLmttArr.push("jsp");
+		atchLmttArr.push("class");
+		atchLmttArr.push("jar");
+		atchLmttArr.push("php");
+		atchLmttArr.push("py");
+		
+		var file 		= obj.value;
+		var fileExt 	= file.substring(file.lastIndexOf('.') + 1, file.length).toLowerCase();
+		var isFileExt	= false;
+
+		for ( var i = 0; i < atchLmttArr.length; i++ ) {
+			if (atchLmttArr[i] == fileExt) {
+				isFileExt = true;
+
+				break;
+			}
+		}
+
+		if ( isFileExt ) {
+			alert("해당 파일은 업로드 할 수없습니다.( " + fileExt + " )");
+			obj.value = "";
+
+			return false;
+		}
+		/* 첨부파일 확장자 체크*/
+
+		/* 첨부파일 사이즈 체크*/
+		var uploadFileSize 	= 0;
+		var limitSize 		= 10;
+
+		if( $.browser.msie ){
+			var objFSO 		= new ActiveXObject("Scripting.FileSystemObject");
+			var sPath 		= obj.value;
+			var objFile 	= objFSO.getFile(sPath);
+
+			uploadFileSize 	= objFile.size/1024;
+		}else {
+			uploadFileSize 	= (obj.files[0].size/1024);
+		}
+
+		//메가바이트(MB)단위 변환
+		uploadFileSize = (Math.round((uploadFileSize/1024)*100)/100);
+
+		if( limitSize != 0 && uploadFileSize > limitSize ){
+			alert("파일 제한 사이즈를 초과하였습니다.\n첨부파일 사이즈 : " + uploadFileSize + "MB\n첨부파일 허용 사이즈 : " + limitSize + "MB");
+			obj.value = "";
+
+			return false;
+		}
+		/* 첨부파일 사이즈 체크*/
+		$(obj).parents(".row").find("[name^=imgFileDc]").show();
+	} else {
+		/* $(obj).parents(".row").find("[name^=imgFileDc]").hide(); */
+	}
+}
+
+comm_lib.prototype.fn_attachFileCheckFront = function(obj) {
+	event.stopPropagation();
+
+	if( obj.value != "" ){
+		/* 첨부파일 확장자 체크*/
+		var atchLmttArr = new Array();
+		atchLmttArr.push("exe");
+		atchLmttArr.push("bat");
+		atchLmttArr.push("sh");
+		atchLmttArr.push("js");
+		atchLmttArr.push("jsp");
+		atchLmttArr.push("class");
+		atchLmttArr.push("jar");
+		atchLmttArr.push("php");
+		atchLmttArr.push("py");
+
+		var file 		= obj.value;
+		var fileExt 	= file.substring(file.lastIndexOf('.') + 1, file.length).toLowerCase();
+		var isFileExt	= false;
+
+		for ( var i = 0; i < atchLmttArr.length; i++ ) {
+			if (atchLmttArr[i] == fileExt) {
+				isFileExt = true;
+
+				break;
+			}
+		}
+
+		if ( isFileExt ) {
+			alert("해당 파일은 업로드 할 수없습니다.( " + fileExt + " )");
+			obj.value = "";
+
+			return false;
+		}
+		/* 첨부파일 확장자 체크*/
+
+		/* 첨부파일 사이즈 체크*/
+		var uploadFileSize 	= 0;
+		var limitSize 		= 10;
+		
+		//msie typeerror로 인한 대체코드삽입
+		jQuery.browser = {};
+		(function () {
+		    jQuery.browser.msie = false;
+		    jQuery.browser.version = 0;
+		    if (navigator.userAgent.match(/MSIE ([0-9]+)\./)) {
+		        jQuery.browser.msie = true;
+		        jQuery.browser.version = RegExp.$1;
+		    }
+		})();
+
+		if( $.browser.msie ){
+			var objFSO 		= new ActiveXObject("Scripting.FileSystemObject");
+			var sPath 		= obj.value;
+			var objFile 	= objFSO.getFile(sPath);
+
+			uploadFileSize 	= objFile.size/1024;
+		}else {
+			uploadFileSize 	= (obj.files[0].size/1024);
+		}
+
+		//메가바이트(MB)단위 변환
+		uploadFileSize = (Math.round((uploadFileSize/1024)*100)/100);
+
+		if( limitSize != 0 && uploadFileSize > limitSize ){
+			alert("파일 제한 사이즈를 초과하였습니다.\n첨부파일 사이즈 : " + uploadFileSize + "MB\n첨부파일 허용 사이즈 : " + limitSize + "MB");
+			obj.value = "";
+			$(obj).siblings("input[type=text]").val("");
+
+			return false;
+		}
+
+		$(obj).siblings("input[type=text]").val($(obj).val());
+		/* 첨부파일 사이즈 체크*/
+		$(obj).parents(".row").find("[name^=imgFileDc]").show();
+	} else {
+		/* $(obj).parents(".row").find("[name^=imgFileDc]").hide(); */
+	}
+}
+</script>
+<!-- <script src="/humanframe/global/assets/script/9patch.js"></script> --><!-- Google Analytics -->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-45697558-37', 'auto');
+	  ga('send', 'pageview');
+	</script>
+</body>
+</html>

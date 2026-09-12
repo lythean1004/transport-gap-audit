@@ -1,0 +1,73 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2051,
+            "gpslong": 127.0836,
+            "nodeid": "GGB277104957",
+            "nodenm": "동탄원천로진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2051833,
+            "gpslong": 127.0838833,
+            "nodeid": "GGB277104956",
+            "nodenm": "삼성1로진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2085,
+            "gpslong": 127.07895,
+            "nodeid": "GGB233001736",
+            "nodenm": "대우푸르지오.예당고등학교",
+            "nodeno": 37854
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.20895,
+            "gpslong": 127.0793,
+            "nodeid": "GGB233001719",
+            "nodenm": "대우푸르지오.예당고등학교",
+            "nodeno": 37846
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2091833,
+            "gpslong": 127.0818167,
+            "nodeid": "GGB233002440",
+            "nodenm": "예당고사거리",
+            "nodeno": 55312
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2071,
+            "gpslong": 127.0765667,
+            "nodeid": "GGB233001735",
+            "nodenm": "동탄보건지소.우체국",
+            "nodeno": 37853
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2071,
+            "gpslong": 127.07605,
+            "nodeid": "GGB233001720",
+            "nodenm": "동탄보건지소.우체국",
+            "nodeno": 37847
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 7
+    }
+  }
+}

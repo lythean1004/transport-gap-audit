@@ -1,0 +1,57 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6518667,
+            "gpslong": 126.69005,
+            "nodeid": "GGB232000734",
+            "nodenm": "하늘빛마을",
+            "nodeno": 35655
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6536833,
+            "gpslong": 126.6851333,
+            "nodeid": "GGB232000727",
+            "nodenm": "운양역",
+            "nodeno": 35650
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6519667,
+            "gpslong": 126.6903167,
+            "nodeid": "GGB232000731",
+            "nodenm": "하늘빛마을",
+            "nodeno": 35653
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.653714,
+            "gpslong": "126.685220",
+            "nodeid": "ICB232000727",
+            "nodenm": "운양역",
+            "nodeno": 80348
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65395,
+            "gpslong": 126.6847833,
+            "nodeid": "GGB232000010",
+            "nodenm": "운양역2번출구",
+            "nodeno": 35088
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 5
+    }
+  }
+}

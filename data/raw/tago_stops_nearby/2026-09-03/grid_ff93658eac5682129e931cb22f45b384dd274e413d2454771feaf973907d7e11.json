@@ -1,0 +1,105 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6596833,
+            "gpslong": 126.6755667,
+            "nodeid": "GGB232000997",
+            "nodenm": "제촌마을회관",
+            "nodeno": 35950
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6597,
+            "gpslong": 126.6756333,
+            "nodeid": "GGB232000996",
+            "nodenm": "제촌마을회관",
+            "nodeno": 35949
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6545167,
+            "gpslong": 126.67415,
+            "nodeid": "GGB232001295",
+            "nodenm": "모담초중학교.성창아파트",
+            "nodeno": 62312
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6567833,
+            "gpslong": 126.67765,
+            "nodeid": "GGB232000999",
+            "nodenm": "롯데캐슬",
+            "nodeno": 35952
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65685,
+            "gpslong": 126.6777333,
+            "nodeid": "GGB232000998",
+            "nodenm": "롯데캐슬",
+            "nodeno": 35951
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6608,
+            "gpslong": 126.6732167,
+            "nodeid": "GGB232000995",
+            "nodenm": "대촌리",
+            "nodeno": 35948
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6608667,
+            "gpslong": 126.67325,
+            "nodeid": "GGB232000994",
+            "nodenm": "대촌리",
+            "nodeno": 35947
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6561833,
+            "gpslong": 126.6687,
+            "nodeid": "GGB232000733",
+            "nodenm": "김포패션아울렛",
+            "nodeno": 35654
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6558833,
+            "gpslong": 126.6684167,
+            "nodeid": "GGB232000740",
+            "nodenm": "김포패션아울렛",
+            "nodeno": 35658
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65315,
+            "gpslong": 126.6717333,
+            "nodeid": "GGB232000420",
+            "nodenm": "장기본동행정복지센터.성창.에일린의뜰",
+            "nodeno": 35206
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.653123,
+            "gpslong": 126.671726,
+            "nodeid": "ICB232000420",
+            "nodenm": "장기본동행정복지센터.성창.에일린의뜰",
+            "nodeno": 35206
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 11
+    }
+  }
+}

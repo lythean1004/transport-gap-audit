@@ -1,0 +1,145 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.209,
+            "gpslong": 127.1085,
+            "nodeid": "GGB233002430",
+            "nodenm": "퍼스트파크.이지더원",
+            "nodeno": 55306
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2086833,
+            "gpslong": 127.1083,
+            "nodeid": "GGB233001493",
+            "nodenm": "퍼스트파크.이지더원",
+            "nodeno": 37549
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2100333,
+            "gpslong": 127.1078667,
+            "nodeid": "GGB233001280",
+            "nodenm": "퍼스트파크.선납숲공원",
+            "nodeno": 55664
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2101667,
+            "gpslong": 127.1077333,
+            "nodeid": "GGB233001165",
+            "nodenm": "선납숲공원.퍼스트파크",
+            "nodeno": 55756
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2100667,
+            "gpslong": 127.11185,
+            "nodeid": "GGB233002179",
+            "nodenm": "동탄파크이지더원.자이후문",
+            "nodeno": 55609
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2101667,
+            "gpslong": 127.1120333,
+            "nodeid": "GGB233002181",
+            "nodenm": "동탄파크자이.이지더원후문",
+            "nodeno": 55610
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2071,
+            "gpslong": 127.1108667,
+            "nodeid": "GGB233002429",
+            "nodenm": "이주택지.상록.경남아파트",
+            "nodeno": 55305
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2068667,
+            "gpslong": 127.1105333,
+            "nodeid": "GGB233001492",
+            "nodenm": "상록.경남아파트.이주택지",
+            "nodeno": 37550
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2113,
+            "gpslong": 127.1116167,
+            "nodeid": "GGB233000243",
+            "nodenm": "동탄파크자이정문",
+            "nodeno": 55607
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2112833,
+            "gpslong": 127.1118333,
+            "nodeid": "GGB233000242",
+            "nodenm": "동탄파크자이정문",
+            "nodeno": 55608
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2091833,
+            "gpslong": 127.1049,
+            "nodeid": "GGB233001166",
+            "nodenm": "동탄2파출소.농협",
+            "nodeno": 36470
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.21235,
+            "gpslong": 127.1116167,
+            "nodeid": "GGB233002176",
+            "nodenm": "다원초.파크자이",
+            "nodeno": 55774
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2123667,
+            "gpslong": 127.1118333,
+            "nodeid": "GGB233002178",
+            "nodenm": "다원초.파크자이",
+            "nodeno": 55775
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2095,
+            "gpslong": 127.1043833,
+            "nodeid": "GGB233002431",
+            "nodenm": "동탄2파출소.농협",
+            "nodeno": 55307
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.20775,
+            "gpslong": 127.11415,
+            "nodeid": "GGB233000569",
+            "nodenm": "한백고등학교",
+            "nodeno": 55620
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2077833,
+            "gpslong": 127.1143333,
+            "nodeid": "GGB233001609",
+            "nodenm": "한백고등학교",
+            "nodeno": 37674
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 16
+    }
+  }
+}

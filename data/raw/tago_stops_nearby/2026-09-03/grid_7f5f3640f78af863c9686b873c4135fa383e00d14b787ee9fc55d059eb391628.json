@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6007167,
+            "gpslong": 127.17415,
+            "nodeid": "GGB222001953",
+            "nodenm": "금강펜테리움1차",
+            "nodeno": 49832
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6023667,
+            "gpslong": 127.1743,
+            "nodeid": "GGB222000299",
+            "nodenm": "신안인스빌2차",
+            "nodeno": 23181
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

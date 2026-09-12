@@ -1,0 +1,89 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1933667,
+            "gpslong": 127.0991,
+            "nodeid": "GGB233000305",
+            "nodenm": "그란비아스타",
+            "nodeno": 36384
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1907333,
+            "gpslong": 127.0984667,
+            "nodeid": "GGB233000998",
+            "nodenm": "헤리엇.리베라CC",
+            "nodeno": 36502
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1907167,
+            "gpslong": 127.0990833,
+            "nodeid": "GGB233000999",
+            "nodenm": "리베라CC.헤리엇",
+            "nodeno": 36501
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1929667,
+            "gpslong": 127.0929833,
+            "nodeid": "GGB233001649",
+            "nodenm": "신미주아파트",
+            "nodeno": 37965
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1953833,
+            "gpslong": 127.0990833,
+            "nodeid": "GGB233000978",
+            "nodenm": "한화.린스트라우스",
+            "nodeno": 36466
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1944333,
+            "gpslong": 127.1004833,
+            "nodeid": "GGB233002438",
+            "nodenm": "한화꿈에그린",
+            "nodeno": 55310
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1928667,
+            "gpslong": 127.09255,
+            "nodeid": "GGB233001648",
+            "nodenm": "신미주아파트",
+            "nodeno": 36993
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1948167,
+            "gpslong": 127.1003333,
+            "nodeid": "GGB233002437",
+            "nodenm": "한화꿈에그린",
+            "nodeno": 55309
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.19625,
+            "gpslong": 127.0985167,
+            "nodeid": "GGB233001637",
+            "nodenm": "린스트라우스.한화",
+            "nodeno": 37658
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 9
+    }
+  }
+}

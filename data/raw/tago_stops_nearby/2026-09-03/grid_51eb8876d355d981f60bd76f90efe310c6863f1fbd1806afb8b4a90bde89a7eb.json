@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2169,
+            "gpslong": 127.1148,
+            "nodeid": "GGB233002173",
+            "nodenm": "LH1단지.한양수자인",
+            "nodeno": 55606
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2167667,
+            "gpslong": 127.11425,
+            "nodeid": "GGB233002169",
+            "nodenm": "LH1단지.한양수자인",
+            "nodeno": 55605
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

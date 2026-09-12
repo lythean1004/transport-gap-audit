@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1802,
+            "gpslong": 127.1031333,
+            "nodeid": "GGB233000996",
+            "nodenm": "반도3차.금강1차",
+            "nodeno": 36488
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1778833,
+            "gpslong": 127.0957833,
+            "nodeid": "GGB277103444",
+            "nodenm": "동탄JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1774333,
+            "gpslong": 127.0962,
+            "nodeid": "GGB277103445",
+            "nodenm": "동탄JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1824167,
+            "gpslong": 127.1026833,
+            "nodeid": "GGB233000161",
+            "nodenm": "반도3차.금강1차",
+            "nodeno": 36487
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31020,
+            "gpslati": 37.4631667,
+            "gpslong": 127.1629167,
+            "nodeid": "GGB204000013",
+            "nodenm": "양지근린공원",
+            "nodeno": 5126
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4630167,
+            "gpslong": 127.1614,
+            "nodeid": "GGB204000144",
+            "nodenm": "양지근린공원",
+            "nodeno": 5157
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4652833,
+            "gpslong": 127.16095,
+            "nodeid": "GGB204000178",
+            "nodenm": "웃논골앞",
+            "nodeno": 5160
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4654833,
+            "gpslong": 127.1610333,
+            "nodeid": "GGB204000194",
+            "nodenm": "웃논골앞",
+            "nodeno": 5172
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4612833,
+            "gpslong": 127.1670333,
+            "nodeid": "GGB204000135",
+            "nodenm": "을지대학교.생활관",
+            "nodeno": 5135
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4604667,
+            "gpslong": 127.1660333,
+            "nodeid": "GGB204000134",
+            "nodenm": "을지대학교",
+            "nodeno": 5129
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4627833,
+            "gpslong": 127.1578167,
+            "nodeid": "GGB204000030",
+            "nodenm": "민속마을",
+            "nodeno": 5116
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4603,
+            "gpslong": 127.1665167,
+            "nodeid": "GGB205000047",
+            "nodenm": "을지대학교",
+            "nodeno": 6212
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 8
+    }
+  }
+}

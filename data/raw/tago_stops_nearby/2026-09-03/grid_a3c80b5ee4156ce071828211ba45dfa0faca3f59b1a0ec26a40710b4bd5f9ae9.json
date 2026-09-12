@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2167,
+            "gpslong": 127.10605,
+            "nodeid": "GGB233000182",
+            "nodenm": "동원4차.현대트랜시스",
+            "nodeno": 55754
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2168667,
+            "gpslong": 127.1055333,
+            "nodeid": "GGB233000183",
+            "nodenm": "현대트랜시스.동원4차",
+            "nodeno": 55755
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2162,
+            "gpslong": 127.1111,
+            "nodeid": "GGB233002059",
+            "nodenm": "늘봄초교.중흥더테라스",
+            "nodeno": 55036
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2163667,
+            "gpslong": 127.1111833,
+            "nodeid": "GGB233002060",
+            "nodenm": "늘봄초교.파크푸르지오",
+            "nodeno": 55030
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.21615,
+            "gpslong": 127.1038333,
+            "nodeid": "GGB233002017",
+            "nodenm": "현대트랜시스",
+            "nodeno": 55585
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2163,
+            "gpslong": 127.1036667,
+            "nodeid": "GGB233000698",
+            "nodenm": "현대트랜시스(중)",
+            "nodeno": 55853
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2172833,
+            "gpslong": 127.1038167,
+            "nodeid": "GGB233000709",
+            "nodenm": "현대트랜시스(중)",
+            "nodeno": 55854
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2175667,
+            "gpslong": 127.1036333,
+            "nodeid": "GGB233002165",
+            "nodenm": "현대트랜시스",
+            "nodeno": 55602
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.21675,
+            "gpslong": 127.1127167,
+            "nodeid": "GGB233002187",
+            "nodenm": "파크푸르지오.한양수자인",
+            "nodeno": 55612
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.21665,
+            "gpslong": 127.1128333,
+            "nodeid": "GGB233002182",
+            "nodenm": "한양수자인.파크푸르지오",
+            "nodeno": 55611
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

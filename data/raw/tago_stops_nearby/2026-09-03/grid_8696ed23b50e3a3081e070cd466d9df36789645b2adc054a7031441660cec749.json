@@ -1,0 +1,73 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1835833,
+            "gpslong": 127.0781333,
+            "nodeid": "GGB233000155",
+            "nodenm": "금곡2리",
+            "nodeno": 36410
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1836167,
+            "gpslong": 127.0780333,
+            "nodeid": "GGB233000956",
+            "nodenm": "금곡2리",
+            "nodeno": 36412
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1809333,
+            "gpslong": 127.07815,
+            "nodeid": "GGB233000983",
+            "nodenm": "산수유",
+            "nodeno": 36411
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1809,
+            "gpslong": 127.0780667,
+            "nodeid": "GGB233000984",
+            "nodenm": "산수유",
+            "nodeno": 36413
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.18555,
+            "gpslong": 127.0846667,
+            "nodeid": "GGB233001188",
+            "nodenm": "중흥S더테라스3차",
+            "nodeno": 55903
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1856167,
+            "gpslong": 127.0787,
+            "nodeid": "GGB233001223",
+            "nodenm": "동탄차고지",
+            "nodeno": 36671
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.18575,
+            "gpslong": 127.0788167,
+            "nodeid": "GGB233001222",
+            "nodenm": "동탄차고지",
+            "nodeno": 36670
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 7
+    }
+  }
+}

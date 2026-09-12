@@ -1,0 +1,193 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5551667,
+            "gpslong": 127.1961333,
+            "nodeid": "GGB227000191",
+            "nodenm": "제일풍경채.미사강변신안인스빌",
+            "nodeno": 28215
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5550667,
+            "gpslong": 127.1970667,
+            "nodeid": "GGB227000192",
+            "nodenm": "제일풍경채.미사강변신안인스빌",
+            "nodeno": 28039
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.554,
+            "gpslong": 127.1943833,
+            "nodeid": "GGB227000256",
+            "nodenm": "아이테코.이편한세상미사",
+            "nodeno": 28271
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5542167,
+            "gpslong": 127.19395,
+            "nodeid": "GGB227000257",
+            "nodenm": "아이테코.이편한세상미사",
+            "nodeno": 28268
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5546667,
+            "gpslong": 127.1989,
+            "nodeid": "GGB227000212",
+            "nodenm": "풍경채1단지.덕풍중학교",
+            "nodeno": 28222
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5528167,
+            "gpslong": 127.1936833,
+            "nodeid": "GGB227000174",
+            "nodenm": "아이테코",
+            "nodeno": 28109
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5549,
+            "gpslong": 127.1990667,
+            "nodeid": "GGB227000211",
+            "nodenm": "풍경채1단지.덕풍중학교",
+            "nodeno": 28221
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5525333,
+            "gpslong": 127.1990333,
+            "nodeid": "GGB227000523",
+            "nodenm": "꽃뫼마을1단지.덕풍중학교",
+            "nodeno": 28328
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55305,
+            "gpslong": 127.1931833,
+            "nodeid": "GGB227000171",
+            "nodenm": "아이테코",
+            "nodeno": 28107
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55245,
+            "gpslong": 127.19925,
+            "nodeid": "GGB227000520",
+            "nodenm": "꽃뫼마을1단지.덕풍중학교",
+            "nodeno": 28325
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5516,
+            "gpslong": 127.1935667,
+            "nodeid": "GGB227000367",
+            "nodenm": "보바스병원",
+            "nodeno": 28601
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5515833,
+            "gpslong": 127.1933167,
+            "nodeid": "GGB227000368",
+            "nodenm": "보바스병원",
+            "nodeno": 28602
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5578167,
+            "gpslong": 127.1961167,
+            "nodeid": "GGB227000274",
+            "nodenm": "미사강변골든센트로.미사레스티아",
+            "nodeno": 28304
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5551333,
+            "gpslong": 127.2011,
+            "nodeid": "GGB227000577",
+            "nodenm": "풍산초등학교",
+            "nodeno": 28384
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.555,
+            "gpslong": 127.2012667,
+            "nodeid": "GGB227000513",
+            "nodenm": "풍산초등학교",
+            "nodeno": 28320
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5529,
+            "gpslong": 127.1911,
+            "nodeid": "GGB227000072",
+            "nodenm": "하남시청소년수련관.한홀중",
+            "nodeno": 28034
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5503,
+            "gpslong": 127.1931667,
+            "nodeid": "GGB227000711",
+            "nodenm": "코스트코",
+            "nodeno": 28558
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5528,
+            "gpslong": 127.2016167,
+            "nodeid": "GGB227000210",
+            "nodenm": "하남풍산역.꽃뫼마을1단지",
+            "nodeno": 28223
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55655,
+            "gpslong": 127.1918667,
+            "nodeid": "GGB227000170",
+            "nodenm": "아란티움.26단지.e편한세상",
+            "nodeno": 28105
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55245,
+            "gpslong": 127.19095,
+            "nodeid": "GGB227000071",
+            "nodenm": "하남시청소년수련관.한홀중건너편",
+            "nodeno": 28033
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5567333,
+            "gpslong": 127.1920167,
+            "nodeid": "GGB227000162",
+            "nodenm": "아란티움.26단지.e편한세상",
+            "nodeno": 28074
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5497667,
+            "gpslong": 127.1985833,
+            "nodeid": "GGB227000524",
+            "nodenm": "온천마을.풍산고등학교",
+            "nodeno": 28329
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 22
+    }
+  }
+}

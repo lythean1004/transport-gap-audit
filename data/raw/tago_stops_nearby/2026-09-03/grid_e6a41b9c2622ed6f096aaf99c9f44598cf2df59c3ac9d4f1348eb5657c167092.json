@@ -1,0 +1,23 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "citycode": 31130,
+          "gpslati": 37.6166,
+          "gpslong": 127.1688167,
+          "nodeid": "GGB222000661",
+          "nodenm": "샘골",
+          "nodeno": 23153
+        }
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 1
+    }
+  }
+}

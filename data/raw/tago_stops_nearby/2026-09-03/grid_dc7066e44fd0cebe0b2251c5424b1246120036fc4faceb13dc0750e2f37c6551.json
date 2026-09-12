@@ -1,0 +1,23 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "citycode": 31230,
+          "gpslati": 37.6551,
+          "gpslong": 126.6890833,
+          "nodeid": "GGB232000771",
+          "nodenm": "하늘빛초등학교",
+          "nodeno": 35678
+        }
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 1
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.59505,
+            "gpslong": 127.1673333,
+            "nodeid": "GGB222001263",
+            "nodenm": "가운배수펌프장",
+            "nodeno": 23900
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5944833,
+            "gpslong": 127.172,
+            "nodeid": "GGB222001570",
+            "nodenm": "수석토성입구",
+            "nodeno": 49466
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5952333,
+            "gpslong": 127.1674167,
+            "nodeid": "GGB222001264",
+            "nodenm": "가운배수펌프장",
+            "nodeno": 23902
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5890167,
+            "gpslong": 127.1704833,
+            "nodeid": "GGB222000301",
+            "nodenm": "수석동",
+            "nodeno": 23167
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.59465,
+            "gpslong": 127.1719333,
+            "nodeid": "GGB222001569",
+            "nodenm": "수석토성입구",
+            "nodeno": 49465
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5888833,
+            "gpslong": 127.17005,
+            "nodeid": "GGB222000302",
+            "nodenm": "수석동.풍속마을",
+            "nodeno": 23166
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5933167,
+            "gpslong": 127.1637,
+            "nodeid": "GGB277104783",
+            "nodenm": "토평교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5935,
+            "gpslong": 127.1636667,
+            "nodeid": "GGB277104784",
+            "nodenm": "토평교(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 8
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.56645,
+            "gpslong": 127.1811833,
+            "nodeid": "GGB227000199",
+            "nodenm": "미사강변루나리움.17단지",
+            "nodeno": 28017
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5645833,
+            "gpslong": 127.18015,
+            "nodeid": "GGB227000006",
+            "nodenm": "미사강변17단지.강일리버7단지",
+            "nodeno": 28467
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5667167,
+            "gpslong": 127.18085,
+            "nodeid": "GGB227000196",
+            "nodenm": "미사강변루나리움.17단지",
+            "nodeno": 28018
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5673667,
+            "gpslong": 127.1848833,
+            "nodeid": "GGB227000484",
+            "nodenm": "미사2동행정복지센터.하남시미사보건센터",
+            "nodeno": 28484
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5638,
+            "gpslong": 127.1860167,
+            "nodeid": "GGB227000230",
+            "nodenm": "미사강변푸르지오.하우스디더레이크",
+            "nodeno": 28287
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5676167,
+            "gpslong": 127.1851833,
+            "nodeid": "GGB227000485",
+            "nodenm": "미사2동행정복지센터.하남시미사보건센터",
+            "nodeno": 28485
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5620167,
+            "gpslong": 127.1815333,
+            "nodeid": "GGB227000220",
+            "nodenm": "윤슬중학교.강솔초등학교",
+            "nodeno": 28508
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5627833,
+            "gpslong": 127.1862167,
+            "nodeid": "GGB227000232",
+            "nodenm": "미사강변푸르지오.하우스디더레이크",
+            "nodeno": 28289
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5668833,
+            "gpslong": 127.1871667,
+            "nodeid": "GGB227000233",
+            "nodenm": "하남시미사도서관.미사2동행정복지센터",
+            "nodeno": 28302
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5681167,
+            "gpslong": 127.1793333,
+            "nodeid": "GGB227000340",
+            "nodenm": "미사강변루나리움.강일리버5단지",
+            "nodeno": 28573
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5666667,
+            "gpslong": 127.1877167,
+            "nodeid": "GGB227000231",
+            "nodenm": "하남시미사도서관.미사2동행정복지센터",
+            "nodeno": 28290
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 11
+    }
+  }
+}

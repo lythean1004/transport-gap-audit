@@ -1,0 +1,153 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31020,
+            "gpslati": 37.46995,
+            "gpslong": 127.1367167,
+            "nodeid": "GGB204000322",
+            "nodenm": "위례자이",
+            "nodeno": 5297
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.47115,
+            "gpslong": 127.1340833,
+            "nodeid": "GGB204000336",
+            "nodenm": "위례중앙초등학교.성남위례36단지",
+            "nodeno": 5326
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.47135,
+            "gpslong": 127.1342,
+            "nodeid": "GGB204000335",
+            "nodenm": "위례중앙초등학교.성남위례36단지",
+            "nodeno": 5325
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4703333,
+            "gpslong": 127.13715,
+            "nodeid": "GGB204000323",
+            "nodenm": "위례자이",
+            "nodeno": 5307
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4712333,
+            "gpslong": 127.1380167,
+            "nodeid": "GGB204000235",
+            "nodenm": "위례중앙중학교",
+            "nodeno": 5308
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4682,
+            "gpslong": 127.1325,
+            "nodeid": "GGB277104240",
+            "nodenm": "복정삼거리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4730833,
+            "gpslong": 127.1368333,
+            "nodeid": "GGB204000327",
+            "nodenm": "위례31단지",
+            "nodeno": 5314
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4673833,
+            "gpslong": 127.1375667,
+            "nodeid": "GGB204000316",
+            "nodenm": "위례서일로마을서측",
+            "nodeno": 5302
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4709333,
+            "gpslong": 127.1394833,
+            "nodeid": "GGB204000238",
+            "nodenm": "위례자이정문",
+            "nodeno": 5309
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4733167,
+            "gpslong": 127.1373667,
+            "nodeid": "GGB204000326",
+            "nodenm": "위례센트럴자이",
+            "nodeno": 5313
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.46725,
+            "gpslong": 127.1376667,
+            "nodeid": "GGB204000309",
+            "nodenm": "위례서일로마을서측",
+            "nodeno": 5282
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.46665,
+            "gpslong": 127.1361667,
+            "nodeid": "GGB204000317",
+            "nodenm": "위례서일로마을입구",
+            "nodeno": 5303
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4666333,
+            "gpslong": 127.1367,
+            "nodeid": "GGB204000308",
+            "nodenm": "위례서일로마을입구",
+            "nodeno": 5281
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4706167,
+            "gpslong": 127.14045,
+            "nodeid": "GGB204000156",
+            "nodenm": "위례자이후문",
+            "nodeno": 5084
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4673333,
+            "gpslong": 127.1390167,
+            "nodeid": "GGB204000315",
+            "nodenm": "위례서일로마을동측",
+            "nodeno": 5301
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4672,
+            "gpslong": 127.1391167,
+            "nodeid": "GGB204000310",
+            "nodenm": "위례서일로마을동측",
+            "nodeno": 5283
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4658667,
+            "gpslong": 127.1352667,
+            "nodeid": "GGB204000147",
+            "nodenm": "복정고등학교.복정지구",
+            "nodeno": 5158
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 17
+    }
+  }
+}

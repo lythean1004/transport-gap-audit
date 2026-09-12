@@ -1,0 +1,137 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 23,
+            "gpslati": 37.653833,
+            "gpslong": 126.682407,
+            "nodeid": "ICB232000726",
+            "nodenm": "운양역",
+            "nodeno": 80351
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6538167,
+            "gpslong": 126.6826667,
+            "nodeid": "GGB232000726",
+            "nodenm": "운양역",
+            "nodeno": 35649
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6552167,
+            "gpslong": 126.68025,
+            "nodeid": "GGB232000076",
+            "nodenm": "반도유보라정문(마을)",
+            "nodeno": 35361
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65395,
+            "gpslong": 126.6847833,
+            "nodeid": "GGB232000010",
+            "nodenm": "운양역2번출구",
+            "nodeno": 35088
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6555333,
+            "gpslong": 126.6806333,
+            "nodeid": "GGB232000772",
+            "nodenm": "롯데캐슬정문",
+            "nodeno": 35679
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6516667,
+            "gpslong": 126.6788333,
+            "nodeid": "GGB232000758",
+            "nodenm": "반도유보라2차.김포대학교",
+            "nodeno": 35389
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6543833,
+            "gpslong": 126.6786167,
+            "nodeid": "GGB232000768",
+            "nodenm": "청수초등학교",
+            "nodeno": 35675
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6536833,
+            "gpslong": 126.6851333,
+            "nodeid": "GGB232000727",
+            "nodenm": "운양역",
+            "nodeno": 35650
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.653714,
+            "gpslong": "126.685220",
+            "nodeid": "ICB232000727",
+            "nodenm": "운양역",
+            "nodeno": 80348
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6559,
+            "gpslong": 126.6830167,
+            "nodeid": "GGB232000079",
+            "nodenm": "제이엘마켓탑",
+            "nodeno": 35360
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65605,
+            "gpslong": 126.6828333,
+            "nodeid": "GGB232000863",
+            "nodenm": "제이엘마켓탑",
+            "nodeno": 35810
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6562833,
+            "gpslong": 126.6809667,
+            "nodeid": "GGB232000774",
+            "nodenm": "대림e편한세상정문",
+            "nodeno": 35681
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6514,
+            "gpslong": 126.6779,
+            "nodeid": "GGB232000759",
+            "nodenm": "반도유보라2차.김포대학교",
+            "nodeno": 35669
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6537833,
+            "gpslong": 126.67735,
+            "nodeid": "GGB232000773",
+            "nodenm": "김포제일고등학교",
+            "nodeno": 35680
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6497833,
+            "gpslong": 126.67795,
+            "nodeid": "GGB232001170",
+            "nodenm": "모담폭포",
+            "nodeno": 35994
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 15
+    }
+  }
+}

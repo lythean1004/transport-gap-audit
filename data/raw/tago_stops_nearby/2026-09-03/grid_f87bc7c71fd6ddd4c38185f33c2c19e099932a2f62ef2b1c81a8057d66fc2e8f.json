@@ -1,0 +1,193 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6545167,
+            "gpslong": 126.67415,
+            "nodeid": "GGB232001295",
+            "nodenm": "모담초중학교.성창아파트",
+            "nodeno": 62312
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65315,
+            "gpslong": 126.6717333,
+            "nodeid": "GGB232000420",
+            "nodenm": "장기본동행정복지센터.성창.에일린의뜰",
+            "nodeno": 35206
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.653123,
+            "gpslong": 126.671726,
+            "nodeid": "ICB232000420",
+            "nodenm": "장기본동행정복지센터.성창.에일린의뜰",
+            "nodeno": 35206
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6527667,
+            "gpslong": 126.6715333,
+            "nodeid": "GGB232000368",
+            "nodenm": "장기본동행정복지센터",
+            "nodeno": 35204
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.652753,
+            "gpslong": 126.671502,
+            "nodeid": "ICB232000368",
+            "nodenm": "장기본동행정복지센터",
+            "nodeno": 35204
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6518333,
+            "gpslong": 126.6757667,
+            "nodeid": "GGB232000786",
+            "nodenm": "삼성래미안",
+            "nodeno": 35697
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6518167,
+            "gpslong": 126.6717167,
+            "nodeid": "GGB232000457",
+            "nodenm": "장기본동행정복지센터(마을)",
+            "nodeno": 35207
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6518833,
+            "gpslong": 126.67595,
+            "nodeid": "GGB232000785",
+            "nodenm": "삼성래미안",
+            "nodeno": 35696
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65095,
+            "gpslong": 126.6741,
+            "nodeid": "GGB232000732",
+            "nodenm": "한강로사거리",
+            "nodeno": 35295
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.650916,
+            "gpslong": 126.674084,
+            "nodeid": "ICB232000732",
+            "nodenm": "한강로사거리",
+            "nodeno": 35295
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.650678,
+            "gpslong": 126.673737,
+            "nodeid": "ICB232000730",
+            "nodenm": "한강로사거리",
+            "nodeno": 35291
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6506667,
+            "gpslong": 126.6737167,
+            "nodeid": "GGB232000730",
+            "nodenm": "한강로사거리",
+            "nodeno": 35291
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6537833,
+            "gpslong": 126.67735,
+            "nodeid": "GGB232000773",
+            "nodenm": "김포제일고등학교",
+            "nodeno": 35680
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6509333,
+            "gpslong": 126.6709167,
+            "nodeid": "GGB232000317",
+            "nodenm": "청송1단지.중흥S클래스",
+            "nodeno": 35202
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.651077,
+            "gpslong": 126.670725,
+            "nodeid": "ICB232000316",
+            "nodenm": "청송1단지.중흥S클래스",
+            "nodeno": 80090
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6510333,
+            "gpslong": 126.6707,
+            "nodeid": "GGB232000316",
+            "nodenm": "청송1단지.중흥S클래스",
+            "nodeno": 35203
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.650687,
+            "gpslong": 126.670802,
+            "nodeid": "ICB232000317",
+            "nodenm": "청송1단지.중흥S클래스",
+            "nodeno": 80102
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6514,
+            "gpslong": 126.6779,
+            "nodeid": "GGB232000759",
+            "nodenm": "반도유보라2차.김포대학교",
+            "nodeno": 35669
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65225,
+            "gpslong": 126.6691167,
+            "nodeid": "GGB232000866",
+            "nodenm": "중흥S클래스.호반더퍼스트",
+            "nodeno": 35813
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65215,
+            "gpslong": 126.66895,
+            "nodeid": "GGB232000872",
+            "nodenm": "중흥S클래스.호반더퍼스트",
+            "nodeno": 35819
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6543833,
+            "gpslong": 126.6786167,
+            "nodeid": "GGB232000768",
+            "nodenm": "청수초등학교",
+            "nodeno": 35675
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6516667,
+            "gpslong": 126.6788333,
+            "nodeid": "GGB232000758",
+            "nodenm": "반도유보라2차.김포대학교",
+            "nodeno": 35389
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 22
+    }
+  }
+}

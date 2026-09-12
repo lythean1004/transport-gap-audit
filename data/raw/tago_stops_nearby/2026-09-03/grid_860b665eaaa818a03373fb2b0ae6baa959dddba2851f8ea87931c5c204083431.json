@@ -1,0 +1,41 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1893667,
+            "gpslong": 127.1273167,
+            "nodeid": "GGB233003158",
+            "nodenm": "금강4차.목동중",
+            "nodeno": 55555
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1888833,
+            "gpslong": 127.1271167,
+            "nodeid": "GGB233003157",
+            "nodenm": "목동중.금강4차",
+            "nodeno": 55554
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1902,
+            "gpslong": 127.1266,
+            "nodeid": "GGB233003155",
+            "nodenm": "e편한세상동탄",
+            "nodeno": 55552
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 3
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "citycode": 31240,
+          "gpslati": 37.2085833,
+          "gpslong": 127.1248667,
+          "nodeid": "GGB277104710",
+          "nodenm": "중리IC(미정차)",
+          "nodeno": 0
+        }
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 1
+    }
+  }
+}

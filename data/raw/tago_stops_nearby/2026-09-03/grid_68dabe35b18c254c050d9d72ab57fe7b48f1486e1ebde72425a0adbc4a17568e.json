@@ -1,0 +1,113 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2088333,
+            "gpslong": 127.1181833,
+            "nodeid": "GGB233001172",
+            "nodenm": "반도유보라후문",
+            "nodeno": 36785
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2087833,
+            "gpslong": 127.1183167,
+            "nodeid": "GGB233001306",
+            "nodenm": "반도유보라후문",
+            "nodeno": 36482
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2083,
+            "gpslong": 127.1172,
+            "nodeid": "GGB233001162",
+            "nodenm": "반도유보라정문",
+            "nodeno": 36448
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2083667,
+            "gpslong": 127.1168,
+            "nodeid": "GGB233001169",
+            "nodenm": "반도유보라정문",
+            "nodeno": 36450
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2095833,
+            "gpslong": 127.1189667,
+            "nodeid": "GGB233001993",
+            "nodenm": "동탄행복마을푸르지오아파트",
+            "nodeno": 55584
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2072333,
+            "gpslong": 127.1147667,
+            "nodeid": "GGB233000149",
+            "nodenm": "한백초중교",
+            "nodeno": 36514
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2077833,
+            "gpslong": 127.1143333,
+            "nodeid": "GGB233001609",
+            "nodenm": "한백고등학교",
+            "nodeno": 37674
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.20705,
+            "gpslong": 127.1146667,
+            "nodeid": "GGB233000135",
+            "nodenm": "한백초중교",
+            "nodeno": 36513
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.20775,
+            "gpslong": 127.11415,
+            "nodeid": "GGB233000569",
+            "nodenm": "한백고등학교",
+            "nodeno": 55620
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2053667,
+            "gpslong": 127.1158667,
+            "nodeid": "GGB233000981",
+            "nodenm": "포레너스아파트",
+            "nodeno": 36434
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2051667,
+            "gpslong": 127.1161833,
+            "nodeid": "GGB233001506",
+            "nodenm": "포레너스아파트",
+            "nodeno": 37582
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2042667,
+            "gpslong": 127.1192,
+            "nodeid": "GGB233002500",
+            "nodenm": "LH4단지후문",
+            "nodeno": 55406
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 12
+    }
+  }
+}

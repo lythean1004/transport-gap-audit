@@ -1,0 +1,8 @@
+{
+  "report_generated_at": "2026-09-03T21:52:19.315864+09:00",
+  "input_source": "evidence/stop_registry.csv",
+  "input_row_count": 1,
+  "gate_code_version": "v2.3",
+  "gate_module_sha256": "7c40ef0b537378564fa88b1e49b20dc6852fe9eee7f75e7fdb5673b88ca5f287",
+  "registry_content_hash": "4187940aa8aaa0d249954535cfada4c888ab009a16283b4257c71897bbc53b6c"
+}

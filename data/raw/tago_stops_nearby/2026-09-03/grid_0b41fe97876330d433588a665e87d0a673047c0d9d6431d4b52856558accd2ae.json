@@ -1,0 +1,73 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31020,
+            "gpslati": 37.46255,
+            "gpslong": 127.1558167,
+            "nodeid": "GGB204000012",
+            "nodenm": "민속마을.선경아파트",
+            "nodeno": 5112
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4622667,
+            "gpslong": 127.1558333,
+            "nodeid": "GGB204000177",
+            "nodenm": "민속마을닭죽촌",
+            "nodeno": 5169
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4672333,
+            "gpslong": 127.1493333,
+            "nodeid": "GGB204000195",
+            "nodenm": "위례한빛고.이편한세상테라스위례",
+            "nodeno": 5288
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4623833,
+            "gpslong": 127.1567167,
+            "nodeid": "GGB204000027",
+            "nodenm": "민속마을.선경아파트",
+            "nodeno": 5114
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4666833,
+            "gpslong": 127.1485833,
+            "nodeid": "GGB204000089",
+            "nodenm": "위례래미안이편한세상.위례한빛중학교",
+            "nodeno": 5296
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4648833,
+            "gpslong": 127.14735,
+            "nodeid": "GGB204000196",
+            "nodenm": "위례한빛초.래미안이편한세상.힐스테이트.한빛마을",
+            "nodeno": 5286
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4627833,
+            "gpslong": 127.1578167,
+            "nodeid": "GGB204000030",
+            "nodenm": "민속마을",
+            "nodeno": 5116
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 7
+    }
+  }
+}

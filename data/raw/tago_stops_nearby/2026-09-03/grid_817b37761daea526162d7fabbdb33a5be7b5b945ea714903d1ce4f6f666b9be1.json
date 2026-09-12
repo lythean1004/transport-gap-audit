@@ -1,0 +1,57 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.5890167,
+            "gpslong": 127.1704833,
+            "nodeid": "GGB222000301",
+            "nodenm": "수석동",
+            "nodeno": 23167
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5888833,
+            "gpslong": 127.17005,
+            "nodeid": "GGB222000302",
+            "nodenm": "수석동.풍속마을",
+            "nodeno": 23166
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5944833,
+            "gpslong": 127.172,
+            "nodeid": "GGB222001570",
+            "nodenm": "수석토성입구",
+            "nodeno": 49466
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.59465,
+            "gpslong": 127.1719333,
+            "nodeid": "GGB222001569",
+            "nodenm": "수석토성입구",
+            "nodeno": 49465
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5946,
+            "gpslong": 127.1753333,
+            "nodeid": "GGB277102838",
+            "nodenm": "수석IC(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 5
+    }
+  }
+}

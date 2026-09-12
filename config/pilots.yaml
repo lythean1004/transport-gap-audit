@@ -1,0 +1,219 @@
+meta:
+  coord_crs: 'EPSG:4326'
+
+pilots:
+  - development_id: DEV-DONGTAN2
+    name_ko: 화성 동탄2
+    match_hints:
+      sigungu:
+        - 화성시
+      legal_dong:
+        - 오산동
+        - 여울동
+        - 청계동
+        - 영천동
+        - 목동
+        - 산척동
+        - 송동
+        - 장지동
+        - 신동
+        - 반송동
+        - 석우동
+      legal_dong_out:
+        - 봉담읍
+        - 향남읍
+        - 남양읍
+        - 새솔동
+        - 반정동
+        - 기산동
+        - 병점동
+        - 장안면
+        - 기안동
+        - 안녕동
+        - 능동
+        - 우정읍
+        - 반월동
+        - 송산동
+        - 매송면
+    approval_window:
+      start: '2014-01-01'
+      end: '2027-12-31'
+    window_source: '국토교통부공고 제2025-69호(2025-01-24, 화성동탄지구 택지개발사업 2-2단계 준공); 화성시 고시
+      제2025-179호(2025-03-10, A58블록 공동주택 신축공사 4차 변경승인); source_registry SRC-H001(최초
+      입주 2015-01-23).
+
+      '
+    anchor_lat: 37.170547
+    anchor_lon: 127.110456
+    anchor_label: 화성시동탄호수공원어울림센터(동탄대로8길 36, 산척동 127-1)
+    anchor_source: plugshare_station_683883
+    anchor_confidence: high
+    coverage_warning: 8개 법정동에 걸침. 앵커 1점으로 지구 대표 불가.
+    citycode: '31240'
+  - development_id: DEV-GIMPO-HANGANG
+    name_ko: 김포 한강
+    match_hints:
+      sigungu:
+        - 김포시
+      legal_dong:
+        - 장기동
+        - 운양동
+        - 구래동
+        - 마산동
+      legal_dong_out:
+        - 통진읍
+        - 양촌읍
+        - 대곶면
+        - 월곶면
+        - 고촌읍
+        - 풍무동
+        - 걸포동
+        - 사우동
+        - 감정동
+    approval_window:
+      start: '2010-06-01'
+      end: '2020-12-31'
+    window_source: '김포시청 김포한강지구 사업개요(gimpo.go.kr/portal/contents.do?key=1551); source_registry
+      SRC-H007(우남퍼스트빌 1202세대 2011-06-17 최초 입주); 김포한강2 공공주택지구(2022-11 신규지정)는 별도 development_id로
+      분리.
+
+      '
+    anchor_lat: 37.637056
+    anchor_lon: 126.67558
+    anchor_label: 김포시 장기동 2065-5
+    anchor_source: share.gg.go.kr_map_param
+    anchor_confidence: medium
+    coverage_warning: 지구면적 10.87km2. 500m원 1개 커버율 약 7%.
+    citycode: '31230'
+  - development_id: DEV-WIRYE
+    name_ko: 위례
+    match_hints:
+      sigungu:
+        - 송파구
+        - 성남시 수정구
+        - 하남시
+      legal_dong:
+        - 장지동
+        - 거여동
+        - 창곡동
+        - 복정동
+        - 학암동
+      legal_dong_out:
+        - 잠실동
+        - 문정동
+        - 가락동
+        - 방이동
+        - 오금동
+        - 삼전동
+        - 신천동
+        - 태평동
+        - 신흥동
+        - 단대동
+        - 미사동
+        - 풍산동
+        - 선동
+        - 망월동
+        - 감이동
+        - 감일동
+        - 마천동
+        - 신장동
+    approval_window:
+      start: '2013-06-01'
+      end: '2020-12-31'
+    window_source: '나무위키 위례신도시 문서(namu.wiki/w/위례신도시, 3개 지자체 법정동 명시); 하남일보 제1906호(2015-11-10,
+      3개 지자체 위례동 명명); source_registry SRC-H013(2013-12 최초 입주).
+
+      '
+    anchor_lat: 37.471809
+    anchor_lon: 127.141177
+    anchor_label: 위례 보미리즌빌(위례광장로 82, 창곡동)
+    anchor_source: plugshare_station_685212
+    anchor_confidence: high
+    coverage_warning: 3개 시군구(송파구/성남 수정구/하남시) 걸침. 앵커는 성남 구간 1점뿐. 송파·학암동 미포함.
+    citycode_multi:
+      - sigungu: 성남시 수정구
+        citycode: '31020'
+      - sigungu: 하남시
+        citycode: '31180'
+      - sigungu: 송파구
+        citycode: null
+  - development_id: DEV-NAMYANGJU-DASAN
+    name_ko: 남양주 다산
+    match_hints:
+      sigungu:
+        - 남양주시
+      legal_dong:
+        - 다산동
+        - 지금동
+        - 도농동
+        - 가운동
+        - 수석동
+        - 일패동
+        - 이패동
+        - 배양리
+      legal_dong_out:
+        - 별내동
+        - 호평동
+        - 평내동
+        - 금곡동
+        - 화도읍
+        - 진접읍
+        - 와부읍
+        - 오남읍
+    approval_window:
+      start: '2017-06-01'
+      end: '2027-12-31'
+    window_source: '중부일보(2017-09-13, 다산신도시 7개 읍·동 다산동 통합); 남양주뉴스(2017-10-12, 7개 법정리·동
+      명시); 경기북도일보(2017-11-28, 조성중 다산신도시 지구); source_registry SRC-H020(2018-02-12 문서화,
+      contradiction: 실제 첫 입주 2017-12-29 진건 B8 한양수자인 640가구).
+
+      '
+    anchor_lat: 37.623182
+    anchor_lon: 127.152117
+    anchor_label: 남양주시립박물관(다산중앙로123번길 7-26, 다산동)
+    anchor_source: nyj.go.kr_facility_page
+    anchor_confidence: high
+    anchor_alt:
+      lat: 37.608576
+      lon: 127.170868
+      label: 다산동 6206 도시관리사업소
+      source: plugshare_station_680660
+    coverage_warning: 지구면적 4.75km2. 두 앵커 간 약 1.7km.
+    citycode: '31130'
+  - development_id: DEV-HANAM-MISA
+    name_ko: 하남 미사
+    match_hints:
+      sigungu:
+        - 하남시
+      legal_dong:
+        - 미사동
+        - 망월동
+        - 선동
+        - 풍산동
+        - 덕풍동
+      legal_dong_out:
+        - 신장동
+        - 창우동
+        - 천현동
+        - 배알미동
+        - 광암동
+        - 감북동
+        - 감이동
+        - 감일동
+        - 교산동
+        - 춘궁동
+    approval_window:
+      start: '2014-01-01'
+      end: '2021-12-31'
+    window_source: '하남시 하남 미사강변도시 A6블럭 문서(hanam.go.kr atchmnflNo=24828); 한국민족문화대백과사전(2014-06-05
+      미사강변도시 택지개발로 풍산동 분동); 중토뉴스(2017-11-30, 미사 1-1단계 946필지 지적공부 확정); source_registry
+      SRC-H025(A15 파밀리에 976가구 2014-06-30 최초 입주).
+
+      '
+    anchor_lat: 37.560319
+    anchor_lon: 127.188802
+    anchor_label: 미사1동 행정복지센터(미사강변남로 59, 망월동 1071)
+    anchor_source: plugshare_station_701475
+    anchor_confidence: high
+    coverage_warning: 지구면적 5.68km2. 앵커는 남서측. 북측 한강방향 미포함.
+    citycode: '31180'

@@ -1,0 +1,24 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "endnodenm": "현대코아",
+          "endvehicletime": 2230,
+          "intervalsattime": 30,
+          "intervalsuntime": 30,
+          "intervaltime": 12,
+          "routeid": "GGB222000028",
+          "routeno": 165,
+          "routetp": "일반버스",
+          "startnodenm": "호평동차고지",
+          "startvehicletime": "0430"
+        }
+      }
+    }
+  }
+}

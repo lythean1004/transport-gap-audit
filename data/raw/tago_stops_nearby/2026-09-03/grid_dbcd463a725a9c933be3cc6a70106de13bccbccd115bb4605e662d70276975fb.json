@@ -1,0 +1,121 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5703,
+            "gpslong": 127.1894833,
+            "nodeid": "GGB227000276",
+            "nodenm": "미사강변파크뷰.13단지",
+            "nodeno": 28305
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.572,
+            "gpslong": 127.1879167,
+            "nodeid": "GGB227000369",
+            "nodenm": "구산문화마을.구산성지",
+            "nodeno": 28603
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5723167,
+            "gpslong": 127.1873667,
+            "nodeid": "GGB227000681",
+            "nodenm": "구산문화마을.구산성지",
+            "nodeno": 28528
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5697,
+            "gpslong": 127.1900833,
+            "nodeid": "GGB227000277",
+            "nodenm": "미사강변파밀리에.14단지",
+            "nodeno": 28306
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5725333,
+            "gpslong": 127.1856,
+            "nodeid": "GGB227000659",
+            "nodenm": "센트리버.스타힐스.더샵리버포레",
+            "nodeno": 28465
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5728833,
+            "gpslong": 127.1925,
+            "nodeid": "GGB227000371",
+            "nodenm": "미사강변트래지안정문",
+            "nodeno": 28605
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5731167,
+            "gpslong": 127.1923833,
+            "nodeid": "GGB227000195",
+            "nodenm": "미사강변한신더휴.트래지안",
+            "nodeno": 28504
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5725167,
+            "gpslong": 127.1936333,
+            "nodeid": "GGB227000271",
+            "nodenm": "미사강변트래지안.미사초등학교",
+            "nodeno": 28212
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5683,
+            "gpslong": 127.1927833,
+            "nodeid": "GGB227000197",
+            "nodenm": "파밀리에.미사가람마을.종합운동장",
+            "nodeno": 28213
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5721333,
+            "gpslong": 127.1833667,
+            "nodeid": "GGB227000285",
+            "nodenm": "센트리버.스타힐스.더샵리버포레",
+            "nodeno": 28312
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5668833,
+            "gpslong": 127.1871667,
+            "nodeid": "GGB227000233",
+            "nodenm": "하남시미사도서관.미사2동행정복지센터",
+            "nodeno": 28302
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5676167,
+            "gpslong": 127.1851833,
+            "nodeid": "GGB227000485",
+            "nodenm": "미사2동행정복지센터.하남시미사보건센터",
+            "nodeno": 28485
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5701167,
+            "gpslong": 127.1831667,
+            "nodeid": "GGB227000656",
+            "nodenm": "미사강변스타힐스.금빛마을",
+            "nodeno": 28462
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 13
+    }
+  }
+}

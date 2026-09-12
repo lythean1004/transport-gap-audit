@@ -1,0 +1,73 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6126333,
+            "gpslong": 127.1803,
+            "nodeid": "GGB222000347",
+            "nodenm": "명우리마을",
+            "nodeno": 23216
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6113333,
+            "gpslong": 127.1806833,
+            "nodeid": "GGB222000366",
+            "nodenm": "명우리마을",
+            "nodeno": 23218
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6125,
+            "gpslong": 127.1763667,
+            "nodeid": "GGB222000367",
+            "nodenm": "에이치엘비제약.현충탑",
+            "nodeno": 23192
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6125333,
+            "gpslong": 127.1759333,
+            "nodeid": "GGB222000346",
+            "nodenm": "에이치엘비제약.현충탑",
+            "nodeno": 23187
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6164167,
+            "gpslong": 127.1802167,
+            "nodeid": "GGB222000338",
+            "nodenm": "양정동사거리.양정주민센터입구",
+            "nodeno": 23213
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6167167,
+            "gpslong": 127.1801167,
+            "nodeid": "GGB222000957",
+            "nodenm": "양정동사거리.양정주민센터입구",
+            "nodeno": 49173
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6173167,
+            "gpslong": 127.1809167,
+            "nodeid": "GGB277104345",
+            "nodenm": "양정동사거리(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 7
+    }
+  }
+}

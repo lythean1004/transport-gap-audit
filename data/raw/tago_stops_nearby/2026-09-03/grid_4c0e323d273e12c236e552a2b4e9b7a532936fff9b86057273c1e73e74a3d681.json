@@ -1,0 +1,73 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2030667,
+            "gpslong": 127.1290833,
+            "nodeid": "GGB233000972",
+            "nodenm": "일진정공",
+            "nodeno": 36499
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2029667,
+            "gpslong": 127.1295333,
+            "nodeid": "GGB233000971",
+            "nodenm": "일진정공",
+            "nodeno": 36500
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2021833,
+            "gpslong": 127.1256667,
+            "nodeid": "GGB233002426",
+            "nodenm": "치동천힐링마을",
+            "nodeno": 55302
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2041333,
+            "gpslong": 127.1246833,
+            "nodeid": "GGB233000360",
+            "nodenm": "단독주택",
+            "nodeno": 55822
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2042833,
+            "gpslong": 127.1245833,
+            "nodeid": "GGB233000352",
+            "nodenm": "단독주택",
+            "nodeno": 55814
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2032333,
+            "gpslong": 127.1340167,
+            "nodeid": "GGB233000970",
+            "nodenm": "상록골프장.신나는교회",
+            "nodeno": 36503
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2031333,
+            "gpslong": 127.1341,
+            "nodeid": "GGB233000969",
+            "nodenm": "신나는교회.상록골프장",
+            "nodeno": 36504
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 7
+    }
+  }
+}

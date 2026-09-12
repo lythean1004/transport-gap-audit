@@ -1,0 +1,30 @@
+{
+  "operation": "getRouteInfoIem",
+  "url": "https://apis.data.go.kr/1613000/BusRouteInfoInqireService/getRouteInfoIem",
+  "http_status": 200,
+  "classification": "ok_with_items",
+  "response": {
+    "response": {
+      "header": {
+        "resultCode": "00",
+        "resultMsg": "NORMAL SERVICE."
+      },
+      "body": {
+        "items": {
+          "item": {
+            "endnodenm": "궁평항",
+            "endvehicletime": 2300,
+            "intervalsattime": 50,
+            "intervalsuntime": 50,
+            "intervaltime": 30,
+            "routeid": "GGB200000008",
+            "routeno": 400,
+            "routetp": "일반버스",
+            "startnodenm": "수원시동부차고지",
+            "startvehicletime": "0430"
+          }
+        }
+      }
+    }
+  }
+}

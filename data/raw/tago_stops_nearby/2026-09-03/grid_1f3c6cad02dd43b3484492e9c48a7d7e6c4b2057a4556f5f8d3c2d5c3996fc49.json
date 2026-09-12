@@ -1,0 +1,57 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31020,
+            "gpslati": 37.4607667,
+            "gpslong": 127.1446333,
+            "nodeid": "GGB204000031",
+            "nodenm": "위례119안전센터.위례포레스트부영",
+            "nodeno": 5076
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4612,
+            "gpslong": 127.14465,
+            "nodeid": "GGB204000069",
+            "nodenm": "위례119안전센터.위례포레스트부영",
+            "nodeno": 5075
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4599,
+            "gpslong": 127.1405333,
+            "nodeid": "GGB204000173",
+            "nodenm": "남위례역수자인센트럴.엘리프남위례역에듀포레",
+            "nodeno": 5124
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4600333,
+            "gpslong": 127.1403667,
+            "nodeid": "GGB204000172",
+            "nodenm": "위례해솔초등학교.위례해솔유치원",
+            "nodeno": 5119
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4626667,
+            "gpslong": 127.1412,
+            "nodeid": "GGB204000032",
+            "nodenm": "남위례역.복정지구",
+            "nodeno": 5065
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 5
+    }
+  }
+}

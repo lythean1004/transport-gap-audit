@@ -1,0 +1,81 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1738833,
+            "gpslong": 127.12575,
+            "nodeid": "GGB233000332",
+            "nodenm": "디루체",
+            "nodeno": 55803
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1741,
+            "gpslong": 127.12135,
+            "nodeid": "GGB233000328",
+            "nodenm": "쎈트럴써밋",
+            "nodeno": 55800
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1738167,
+            "gpslong": 127.1212667,
+            "nodeid": "GGB233000327",
+            "nodenm": "쎈트럴써밋",
+            "nodeno": 55799
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1742,
+            "gpslong": 127.1260833,
+            "nodeid": "GGB233000333",
+            "nodenm": "디루체",
+            "nodeno": 55804
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1734167,
+            "gpslong": 127.12005,
+            "nodeid": "GGB233001608",
+            "nodenm": "서희스타힐스.단독주택",
+            "nodeno": 37654
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.17075,
+            "gpslong": 127.1238667,
+            "nodeid": "GGB277104772",
+            "nodenm": "신리IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1733167,
+            "gpslong": 127.1195333,
+            "nodeid": "GGB233001572",
+            "nodenm": "서희스타힐스.단독주택",
+            "nodeno": 55488
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1703167,
+            "gpslong": 127.1232667,
+            "nodeid": "GGB277104773",
+            "nodenm": "신리IC(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 8
+    }
+  }
+}

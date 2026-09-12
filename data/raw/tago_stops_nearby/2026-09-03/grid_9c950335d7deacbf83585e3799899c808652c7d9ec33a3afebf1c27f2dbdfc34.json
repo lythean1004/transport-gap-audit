@@ -1,0 +1,81 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31190,
+            "gpslati": 37.2218333,
+            "gpslong": 127.0973333,
+            "nodeid": "GGB228001795",
+            "nodenm": "고매사거리.고매농협",
+            "nodeno": 47788
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2225,
+            "gpslong": 127.0985667,
+            "nodeid": "GGB228001113",
+            "nodenm": "고매사거리.고매농협",
+            "nodeno": 29119
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2229167,
+            "gpslong": 127.0988667,
+            "nodeid": "GGB228001114",
+            "nodenm": "고매파출소",
+            "nodeno": 29108
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2226333,
+            "gpslong": 127.09415,
+            "nodeid": "GGB228000655",
+            "nodenm": "만평마을",
+            "nodeno": 29231
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2227167,
+            "gpslong": 127.09415,
+            "nodeid": "GGB228001649",
+            "nodenm": "만평마을",
+            "nodeno": 29247
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2217333,
+            "gpslong": 127.10135,
+            "nodeid": "GGB277102516",
+            "nodenm": "기흥IC진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.22495,
+            "gpslong": 127.10155,
+            "nodeid": "GGB228001115",
+            "nodenm": "유상냉장",
+            "nodeno": 29135
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2248833,
+            "gpslong": 127.1017167,
+            "nodeid": "GGB228001112",
+            "nodenm": "유상냉장",
+            "nodeno": 29874
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 8
+    }
+  }
+}

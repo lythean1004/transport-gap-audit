@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.17695,
+            "gpslong": 127.0857167,
+            "nodeid": "GGB233003234",
+            "nodenm": "동탄2수질복원센터",
+            "nodeno": 36681
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1779667,
+            "gpslong": 127.0797833,
+            "nodeid": "GGB233000156",
+            "nodenm": "대영가든",
+            "nodeno": 36421
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

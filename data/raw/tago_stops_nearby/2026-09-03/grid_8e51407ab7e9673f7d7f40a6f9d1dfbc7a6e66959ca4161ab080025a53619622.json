@@ -1,0 +1,41 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5771333,
+            "gpslong": 127.18675,
+            "nodeid": "GGB227000223",
+            "nodenm": "미사강변중학교.미사강변리버나인",
+            "nodeno": 28262
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5769833,
+            "gpslong": 127.1832333,
+            "nodeid": "GGB227000204",
+            "nodenm": "미사강변2차푸르지오.미사강변고등학교",
+            "nodeno": 28227
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.57675,
+            "gpslong": 127.1879833,
+            "nodeid": "GGB227000222",
+            "nodenm": "미사강변중학교.미사강변리버나인",
+            "nodeno": 28261
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 3
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31020,
+            "gpslati": 37.4612,
+            "gpslong": 127.14465,
+            "nodeid": "GGB204000069",
+            "nodenm": "위례119안전센터.위례포레스트부영",
+            "nodeno": 5075
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4607667,
+            "gpslong": 127.1446333,
+            "nodeid": "GGB204000031",
+            "nodenm": "위례119안전센터.위례포레스트부영",
+            "nodeno": 5076
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4640667,
+            "gpslong": 127.1444167,
+            "nodeid": "GGB204000094",
+            "nodenm": "힐스테이트위례정문",
+            "nodeno": 5285
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4646667,
+            "gpslong": 127.1468167,
+            "nodeid": "GGB204000201",
+            "nodenm": "힐스테이트위례후문.위례한빛초등학교",
+            "nodeno": 5298
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4645667,
+            "gpslong": 127.1436,
+            "nodeid": "GGB204000234",
+            "nodenm": "힐스테이트위례정문",
+            "nodeno": 5299
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4648833,
+            "gpslong": 127.14735,
+            "nodeid": "GGB204000196",
+            "nodenm": "위례한빛초.래미안이편한세상.힐스테이트.한빛마을",
+            "nodeno": 5286
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4626667,
+            "gpslong": 127.1412,
+            "nodeid": "GGB204000032",
+            "nodenm": "남위례역.복정지구",
+            "nodeno": 5065
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4641667,
+            "gpslong": 127.1417667,
+            "nodeid": "GGB204000330",
+            "nodenm": "남위례역.창곡교차로",
+            "nodeno": 5320
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4642,
+            "gpslong": 127.1413833,
+            "nodeid": "GGB204000331",
+            "nodenm": "남위례역.창곡교차로",
+            "nodeno": 5321
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4630833,
+            "gpslong": 127.14045,
+            "nodeid": "GGB277100036",
+            "nodenm": "창곡교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4599,
+            "gpslong": 127.1405333,
+            "nodeid": "GGB204000173",
+            "nodenm": "남위례역수자인센트럴.엘리프남위례역에듀포레",
+            "nodeno": 5124
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4600333,
+            "gpslong": 127.1403667,
+            "nodeid": "GGB204000172",
+            "nodenm": "위례해솔초등학교.위례해솔유치원",
+            "nodeno": 5119
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 12
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6037667,
+            "gpslong": 127.1594333,
+            "nodeid": "GGB222001138",
+            "nodenm": "가운휴먼시아1.2단지.더힐포레",
+            "nodeno": 23881
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6052,
+            "gpslong": 127.1587333,
+            "nodeid": "GGB222000944",
+            "nodenm": "가운지구입구",
+            "nodeno": 23113
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6057,
+            "gpslong": 127.1584,
+            "nodeid": "GGB222000945",
+            "nodenm": "가운지구입구",
+            "nodeno": 49163
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6073833,
+            "gpslong": 127.1606333,
+            "nodeid": "GGB222001885",
+            "nodenm": "도농역시외.공항버스승강장",
+            "nodeno": 49680
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6023833,
+            "gpslong": 127.1592833,
+            "nodeid": "GGB222001137",
+            "nodenm": "가운휴먼시아1.2단지.더힐포레",
+            "nodeno": 23880
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6078333,
+            "gpslong": 127.16085,
+            "nodeid": "GGB222001884",
+            "nodenm": "도농역시외.공항버스승강장",
+            "nodeno": 49545
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.60785,
+            "gpslong": 127.1612333,
+            "nodeid": "GGB222001320",
+            "nodenm": "도농역.동화중고교.다산플루리움(중)",
+            "nodeno": 23925
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6031333,
+            "gpslong": 127.1574667,
+            "nodeid": "GGB222001396",
+            "nodenm": "휴먼시아2단지.더힐포레",
+            "nodeno": 23988
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6029833,
+            "gpslong": 127.1575667,
+            "nodeid": "GGB222001090",
+            "nodenm": "휴먼시아2단지.더힐포레",
+            "nodeno": 49946
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6012833,
+            "gpslong": 127.15995,
+            "nodeid": "GGB222001265",
+            "nodenm": "경남아너스빌.더힐포레",
+            "nodeno": 49034
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6083833,
+            "gpslong": 127.1620333,
+            "nodeid": "GGB222001321",
+            "nodenm": "도농역.동화중고교.다산플루리움(중)",
+            "nodeno": 23929
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6054333,
+            "gpslong": 127.1561833,
+            "nodeid": "GGB222001319",
+            "nodenm": "가운휴먼시아.다산효성해링턴타워.새마을금고다산본점(중)",
+            "nodeno": 23931
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.60075,
+            "gpslong": 127.1601667,
+            "nodeid": "GGB222001266",
+            "nodenm": "경남아너스빌.더힐포레",
+            "nodeno": 23898
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6051167,
+            "gpslong": 127.15575,
+            "nodeid": "GGB222001318",
+            "nodenm": "가운휴먼시아.다산효성해링턴타워.새마을금고다산본점(중)",
+            "nodeno": 23927
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 14
+    }
+  }
+}

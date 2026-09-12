@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6455167,
+            "gpslong": 126.6125667,
+            "nodeid": "GGB232000500",
+            "nodenm": "유현2리",
+            "nodeno": 35454
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6452833,
+            "gpslong": 126.61245,
+            "nodeid": "GGB232000501",
+            "nodenm": "유현2리",
+            "nodeno": 35453
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6464333,
+            "gpslong": 126.6189167,
+            "nodeid": "GGB232000236",
+            "nodenm": "구래3리",
+            "nodeno": 35094
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6460167,
+            "gpslong": 126.6187333,
+            "nodeid": "GGB232000179",
+            "nodenm": "구래3리",
+            "nodeno": 35095
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6456333,
+            "gpslong": 126.6199667,
+            "nodeid": "GGB232000944",
+            "nodenm": "LH한가람마을2단지",
+            "nodeno": 35894
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6432,
+            "gpslong": 126.6167,
+            "nodeid": "GGB232000206",
+            "nodenm": "구지",
+            "nodeno": 35310
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

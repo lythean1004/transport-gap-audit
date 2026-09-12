@@ -1,0 +1,177 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6516667,
+            "gpslong": 126.6788333,
+            "nodeid": "GGB232000758",
+            "nodenm": "반도유보라2차.김포대학교",
+            "nodeno": 35389
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6514,
+            "gpslong": 126.6779,
+            "nodeid": "GGB232000759",
+            "nodenm": "반도유보라2차.김포대학교",
+            "nodeno": 35669
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6537833,
+            "gpslong": 126.67735,
+            "nodeid": "GGB232000773",
+            "nodenm": "김포제일고등학교",
+            "nodeno": 35680
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6518833,
+            "gpslong": 126.67595,
+            "nodeid": "GGB232000785",
+            "nodenm": "삼성래미안",
+            "nodeno": 35696
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6543833,
+            "gpslong": 126.6786167,
+            "nodeid": "GGB232000768",
+            "nodenm": "청수초등학교",
+            "nodeno": 35675
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6518333,
+            "gpslong": 126.6757667,
+            "nodeid": "GGB232000786",
+            "nodenm": "삼성래미안",
+            "nodeno": 35697
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6497833,
+            "gpslong": 126.67795,
+            "nodeid": "GGB232001170",
+            "nodenm": "모담폭포",
+            "nodeno": 35994
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6552167,
+            "gpslong": 126.68025,
+            "nodeid": "GGB232000076",
+            "nodenm": "반도유보라정문(마을)",
+            "nodeno": 35361
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.653833,
+            "gpslong": 126.682407,
+            "nodeid": "ICB232000726",
+            "nodenm": "운양역",
+            "nodeno": 80351
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6555333,
+            "gpslong": 126.6806333,
+            "nodeid": "GGB232000772",
+            "nodenm": "롯데캐슬정문",
+            "nodeno": 35679
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65095,
+            "gpslong": 126.6741,
+            "nodeid": "GGB232000732",
+            "nodenm": "한강로사거리",
+            "nodeno": 35295
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.650916,
+            "gpslong": 126.674084,
+            "nodeid": "ICB232000732",
+            "nodenm": "한강로사거리",
+            "nodeno": 35295
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6538167,
+            "gpslong": 126.6826667,
+            "nodeid": "GGB232000726",
+            "nodenm": "운양역",
+            "nodeno": 35649
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6545167,
+            "gpslong": 126.67415,
+            "nodeid": "GGB232001295",
+            "nodenm": "모담초중학교.성창아파트",
+            "nodeno": 62312
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.650678,
+            "gpslong": 126.673737,
+            "nodeid": "ICB232000730",
+            "nodenm": "한강로사거리",
+            "nodeno": 35291
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6506667,
+            "gpslong": 126.6737167,
+            "nodeid": "GGB232000730",
+            "nodenm": "한강로사거리",
+            "nodeno": 35291
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6567833,
+            "gpslong": 126.67765,
+            "nodeid": "GGB232000999",
+            "nodenm": "롯데캐슬",
+            "nodeno": 35952
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65685,
+            "gpslong": 126.6777333,
+            "nodeid": "GGB232000998",
+            "nodenm": "롯데캐슬",
+            "nodeno": 35951
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6562833,
+            "gpslong": 126.6809667,
+            "nodeid": "GGB232000774",
+            "nodenm": "대림e편한세상정문",
+            "nodeno": 35681
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6481,
+            "gpslong": 126.67845,
+            "nodeid": "GGB232000756",
+            "nodenm": "한강신도시푸르지오",
+            "nodeno": 35668
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 20
+    }
+  }
+}

@@ -1,0 +1,11 @@
+﻿linkage_id,cohort,development,promise_source_id,actual_source_id,mode,promise_line_name,actual_line_name,promise_scope,actual_scope,mode_match,line_match,section_match,promise_event_date,actual_event_date,delay_days_representative,linkage_status,deadline_status,review_status,notes
+PL-001,historical_validation,화성 동탄2,SRC-H003,SRC-H005,rail,GTX-A 수서~동탄,GTX-A 수서~동탄,district,corridor,True,True,True,2024-H1,2024-03-30,-92,fulfilled,elapsed,needs_human,동일 수단·노선 기준 자동 연결 초안; 사람 확인 전 확정 금지
+PL-002,historical_validation,김포 한강,SRC-H010,SRC-H011,rail,김포도시철도(김포골드라인),김포도시철도(김포골드라인),district,district,True,True,True,2018,2019-09-28,271,fulfilled,elapsed,needs_human,동일 수단·노선 기준 자동 연결 초안; 사람 확인 전 확정 금지
+PL-003,historical_validation,위례,SRC-E1-C05,,tram,위례선 트램,,district,,False,False,False,2025년 9월,,,unfulfilled,elapsed,needs_human,동일 수단·노선 기준 자동 연결 초안; 사람 확인 전 확정 금지
+PL-004,historical_validation,남양주 다산,SRC-H022,SRC-H023,rail,별내선(8호선 연장),별내선(8호선 연장),district,district,True,True,True,2022,2024-08-10,588,fulfilled,elapsed,needs_human,동일 수단·노선 기준 자동 연결 초안; 사람 확인 전 확정 금지
+PL-005,historical_validation,하남 미사,SRC-H028,SRC-H029,rail,하남선(5호선 연장),하남선(5호선 연장),district,district,True,True,True,2020-08-08,2020-08-08,0,fulfilled,elapsed,needs_human,동일 수단·노선 기준 자동 연결 초안; 사람 확인 전 확정 금지
+PL-006,forward_monitoring,인천 계양,SRC-F003,,sbrt,계양~대장 S-BRT,,district,,False,False,False,미정,,,unfulfilled,unknown,needs_human,동일 수단·노선 기준 자동 연결 초안; 사람 확인 전 확정 금지; unfulfilled는 현재 미운행 상태이며 미래 지연 확정이 아님
+PL-007,forward_monitoring,남양주 왕숙,SRC-F009,,rail,강동하남남양주선,,district,,False,False,False,2028,,,unfulfilled,future_or_current_period,needs_human,동일 수단·노선 기준 자동 연결 초안; 사람 확인 전 확정 금지; unfulfilled는 현재 미운행 상태이며 미래 지연 확정이 아님
+PL-008,forward_monitoring,하남 교산,SRC-F015,,rail,송파하남선,,district,,False,False,False,2028,,,unfulfilled,future_or_current_period,needs_human,동일 수단·노선 기준 자동 연결 초안; 사람 확인 전 확정 금지; unfulfilled는 현재 미운행 상태이며 미래 지연 확정이 아님
+PL-009,forward_monitoring,고양 창릉,SRC-F021,,rail,고양은평선,,district,,False,False,False,미정,,,unfulfilled,unknown,needs_human,동일 수단·노선 기준 자동 연결 초안; 사람 확인 전 확정 금지; unfulfilled는 현재 미운행 상태이며 미래 지연 확정이 아님
+PL-010,forward_monitoring,부천 대장,SRC-F027,,sbrt,계양~대장 S-BRT,,district,,False,False,False,미정,,,unfulfilled,unknown,needs_human,동일 수단·노선 기준 자동 연결 초안; 사람 확인 전 확정 금지; unfulfilled는 현재 미운행 상태이며 미래 지연 확정이 아님

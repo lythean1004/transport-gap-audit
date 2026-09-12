@@ -1,0 +1,30 @@
+{
+  "operation": "getRouteAcctoThrghSttnList",
+  "url": "https://apis.data.go.kr/1613000/BusRouteInfoInqireService/getRouteAcctoThrghSttnList",
+  "http_status": 200,
+  "classification": "ok_with_items",
+  "response": {
+    "response": {
+      "header": {
+        "resultCode": "00",
+        "resultMsg": "NORMAL SERVICE."
+      },
+      "body": {
+        "items": {
+          "item": {
+            "gpslati": 37.2869667,
+            "gpslong": 127.0785,
+            "nodeid": "GGB203000360",
+            "nodenm": "수원시동부차고지",
+            "nodeno": 4346,
+            "nodeord": 1,
+            "routeid": "GGB200000008"
+          }
+        },
+        "numOfRows": 1,
+        "pageNo": 1,
+        "totalCount": 246
+      }
+    }
+  }
+}

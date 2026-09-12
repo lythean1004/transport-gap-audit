@@ -1,0 +1,129 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.5966833,
+            "gpslong": 127.1702667,
+            "nodeid": "GGB222001959",
+            "nodenm": "신안인스빌.금강펜테리움2차",
+            "nodeno": 49838
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5968667,
+            "gpslong": 127.1702833,
+            "nodeid": "GGB222001958",
+            "nodenm": "금강펜테리움2차.신안인스빌",
+            "nodeno": 49837
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5952333,
+            "gpslong": 127.1674167,
+            "nodeid": "GGB222001264",
+            "nodenm": "가운배수펌프장",
+            "nodeno": 23902
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.59505,
+            "gpslong": 127.1673333,
+            "nodeid": "GGB222001263",
+            "nodenm": "가운배수펌프장",
+            "nodeno": 23900
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5967333,
+            "gpslong": 127.1722667,
+            "nodeid": "GGB222001956",
+            "nodenm": "한강DIMC테라타워",
+            "nodeno": 49835
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5997,
+            "gpslong": 127.16775,
+            "nodeid": "GGB222001961",
+            "nodenm": "다산한강반도유보라정문",
+            "nodeno": 49840
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5997667,
+            "gpslong": 127.1679833,
+            "nodeid": "GGB222001960",
+            "nodenm": "다산한강반도유보라정문",
+            "nodeno": 49839
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.59465,
+            "gpslong": 127.1719333,
+            "nodeid": "GGB222001569",
+            "nodenm": "수석토성입구",
+            "nodeno": 49465
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5965167,
+            "gpslong": 127.17275,
+            "nodeid": "GGB222001957",
+            "nodenm": "한강DIMC테라타워",
+            "nodeno": 49836
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5944833,
+            "gpslong": 127.172,
+            "nodeid": "GGB222001570",
+            "nodenm": "수석토성입구",
+            "nodeno": 49466
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6001167,
+            "gpslong": 127.1702667,
+            "nodeid": "GGB222001962",
+            "nodenm": "다산한강반도유보라.금강펜테리움2차후문",
+            "nodeno": 49841
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6003,
+            "gpslong": 127.1701833,
+            "nodeid": "GGB222001963",
+            "nodenm": "다산한강반도유보라.금강펜테리움2차후문",
+            "nodeno": 49842
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5972,
+            "gpslong": 127.1734,
+            "nodeid": "GGB222001955",
+            "nodenm": "금강펜테리움2차.반도유보라.신안인스빌",
+            "nodeno": 49834
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5972167,
+            "gpslong": 127.17375,
+            "nodeid": "GGB222001954",
+            "nodenm": "금강펜테리움2차.근린공원",
+            "nodeno": 49833
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 14
+    }
+  }
+}

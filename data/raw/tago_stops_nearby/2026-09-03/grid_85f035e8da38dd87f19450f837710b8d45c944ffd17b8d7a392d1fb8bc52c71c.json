@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1660333,
+            "gpslong": 127.1139,
+            "nodeid": "GGB233001741",
+            "nodenm": "센트리체.자연앤자이",
+            "nodeno": 55502
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1658833,
+            "gpslong": 127.1091167,
+            "nodeid": "GGB233001753",
+            "nodenm": "센트럴시티.아이파크",
+            "nodeno": 55504
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1655167,
+            "gpslong": 127.1093167,
+            "nodeid": "GGB233001754",
+            "nodenm": "아이파크.센트럴시티",
+            "nodeno": 55505
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1657333,
+            "gpslong": 127.1142,
+            "nodeid": "GGB233001748",
+            "nodenm": "자연앤자이.센트리체",
+            "nodeno": 55503
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1659,
+            "gpslong": 127.115,
+            "nodeid": "GGB277103993",
+            "nodenm": "A74블럭(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1668167,
+            "gpslong": 127.1070167,
+            "nodeid": "GGB233003128",
+            "nodenm": "동탄호수공원.센트럴시티",
+            "nodeno": 55524
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1683167,
+            "gpslong": 127.1069167,
+            "nodeid": "GGB277103992",
+            "nodenm": "호수공원미래체험관(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1671667,
+            "gpslong": 127.1064333,
+            "nodeid": "GGB233003136",
+            "nodenm": "동탄호수공원",
+            "nodeno": 55532
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1655333,
+            "gpslong": 127.1069,
+            "nodeid": "GGB277103991",
+            "nodenm": "호수공원아이파크(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1674,
+            "gpslong": 127.1170333,
+            "nodeid": "GGB233001699",
+            "nodenm": "호수부영6차.호수공원행복주택",
+            "nodeno": 55500
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

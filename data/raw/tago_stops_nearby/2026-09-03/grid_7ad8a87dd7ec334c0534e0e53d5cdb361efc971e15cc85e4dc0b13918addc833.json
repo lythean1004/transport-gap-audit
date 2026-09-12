@@ -1,0 +1,217 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6376167,
+            "gpslong": 126.63155,
+            "nodeid": "GGB277102614",
+            "nodenm": "솔터마을입구(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6401,
+            "gpslong": 126.6328833,
+            "nodeid": "GGB232000208",
+            "nodenm": "한강힐스테이트",
+            "nodeno": 35522
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6384833,
+            "gpslong": 126.6344,
+            "nodeid": "GGB232000742",
+            "nodenm": "힐스테이트.경남아너스빌",
+            "nodeno": 35660
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64035,
+            "gpslong": 126.6330833,
+            "nodeid": "GGB232000207",
+            "nodenm": "한강힐스테이트",
+            "nodeno": 35512
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6406667,
+            "gpslong": 126.63015,
+            "nodeid": "GGB232000707",
+            "nodenm": "화성파크드림.솔터마을입구",
+            "nodeno": 35642
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.640687,
+            "gpslong": 126.630078,
+            "nodeid": "ICB232000707",
+            "nodenm": "솔터마을입구",
+            "nodeno": 80327
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6370333,
+            "gpslong": 126.6288167,
+            "nodeid": "GGB232000718",
+            "nodenm": "한강센트럴블루힐.모아엘가2차",
+            "nodeno": 35763
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6373167,
+            "gpslong": 126.6286167,
+            "nodeid": "GGB232000767",
+            "nodenm": "모아엘가2차.한강센트럴블루힐",
+            "nodeno": 35764
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.637003,
+            "gpslong": 126.628428,
+            "nodeid": "ICB232000718",
+            "nodenm": "한강센트럴블루힐.모아엘가2차",
+            "nodeno": 80375
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6411833,
+            "gpslong": 126.6302333,
+            "nodeid": "GGB232000706",
+            "nodenm": "솔터마을입구.화성파크드림",
+            "nodeno": 35643
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.641281,
+            "gpslong": 126.630248,
+            "nodeid": "ICB232000706",
+            "nodenm": "솔터마을입구",
+            "nodeno": 80336
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6415,
+            "gpslong": 126.6334833,
+            "nodeid": "GGB232001083",
+            "nodenm": "솔터초등학교",
+            "nodeno": 35339
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64145,
+            "gpslong": 126.6337833,
+            "nodeid": "GGB232000878",
+            "nodenm": "솔터초등학교",
+            "nodeno": 35825
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6350333,
+            "gpslong": 126.63075,
+            "nodeid": "GGB232000973",
+            "nodenm": "한강센트럴블루힐정문",
+            "nodeno": 35923
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6352167,
+            "gpslong": 126.6337,
+            "nodeid": "GGB232000972",
+            "nodenm": "한강센트럴블루힐후문",
+            "nodeno": 35922
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6353167,
+            "gpslong": 126.6339833,
+            "nodeid": "GGB232000971",
+            "nodenm": "한강센트럴블루힐후문",
+            "nodeno": 35921
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6349167,
+            "gpslong": 126.6298667,
+            "nodeid": "GGB232000974",
+            "nodenm": "한강센트럴블루힐정문",
+            "nodeno": 35924
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6385667,
+            "gpslong": 126.6267167,
+            "nodeid": "GGB232000975",
+            "nodenm": "나래중학교",
+            "nodeno": 35925
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.635732,
+            "gpslong": 126.627763,
+            "nodeid": "ICB232000572",
+            "nodenm": "구래리",
+            "nodeno": 80006
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6392,
+            "gpslong": 126.6266167,
+            "nodeid": "GGB232000976",
+            "nodenm": "나래중학교",
+            "nodeno": 35926
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6426333,
+            "gpslong": 126.6327,
+            "nodeid": "GGB232000879",
+            "nodenm": "솔터마을2.3단지정문",
+            "nodeno": 35826
+          },
+          {
+            "citycode": 23,
+            "gpslati": "37.636000",
+            "gpslong": 126.627295,
+            "nodeid": "ICB232000611",
+            "nodenm": "구래리",
+            "nodeno": 80007
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.641,
+            "gpslong": 126.63635,
+            "nodeid": "GGB232000496",
+            "nodenm": "솔터고교",
+            "nodeno": 35397
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63565,
+            "gpslong": 126.62745,
+            "nodeid": "GGB232000611",
+            "nodenm": "구래리",
+            "nodeno": 35558
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6351167,
+            "gpslong": 126.6279833,
+            "nodeid": "GGB232000572",
+            "nodenm": "구래리",
+            "nodeno": 35524
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 25
+    }
+  }
+}

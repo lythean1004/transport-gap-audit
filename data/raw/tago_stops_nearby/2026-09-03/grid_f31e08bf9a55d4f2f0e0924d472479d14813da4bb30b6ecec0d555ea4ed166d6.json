@@ -1,0 +1,57 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 23,
+            "gpslati": 37.629305,
+            "gpslong": 126.658972,
+            "nodeid": "ICB168001329",
+            "nodenm": "안풍산업삼거리",
+            "nodeno": 89329
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.629209,
+            "gpslong": "126.659120",
+            "nodeid": "ICB168001312",
+            "nodenm": "안풍산업삼거리",
+            "nodeno": 89312
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.628639,
+            "gpslong": 126.663592,
+            "nodeid": "ICB168001328",
+            "nodenm": "두밀경노당",
+            "nodeno": 89328
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.628506,
+            "gpslong": 126.663581,
+            "nodeid": "ICB168001331",
+            "nodenm": "두밀경노당",
+            "nodeno": 89331
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.628995,
+            "gpslong": 126.657004,
+            "nodeid": "ICB168001330",
+            "nodenm": "황곡상회",
+            "nodeno": 89330
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 5
+    }
+  }
+}

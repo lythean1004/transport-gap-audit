@@ -1,0 +1,81 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1874833,
+            "gpslong": 127.0925167,
+            "nodeid": "GGB233002495",
+            "nodenm": "동탄초교",
+            "nodeno": 55403
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1881333,
+            "gpslong": 127.0929833,
+            "nodeid": "GGB233002494",
+            "nodenm": "동탄초교",
+            "nodeno": 37003
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1865667,
+            "gpslong": 127.0918,
+            "nodeid": "GGB233002497",
+            "nodenm": "행복주택.동탄경찰서",
+            "nodeno": 55409
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1865833,
+            "gpslong": 127.0916167,
+            "nodeid": "GGB233001006",
+            "nodenm": "행복주택.동탄경찰서(좌회전전용)",
+            "nodeno": 55890
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1869,
+            "gpslong": 127.0914167,
+            "nodeid": "GGB233002496",
+            "nodenm": "더샵센트럴시티2차.행복주택",
+            "nodeno": 55404
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1870333,
+            "gpslong": 127.0998333,
+            "nodeid": "GGB233000994",
+            "nodenm": "공공청사부지",
+            "nodeno": 36480
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1830333,
+            "gpslong": 127.0929,
+            "nodeid": "GGB233002364",
+            "nodenm": "방아다리마을",
+            "nodeno": 36704
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1876,
+            "gpslong": 127.1002333,
+            "nodeid": "GGB233000995",
+            "nodenm": "의료시설부지",
+            "nodeno": 36477
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 8
+    }
+  }
+}

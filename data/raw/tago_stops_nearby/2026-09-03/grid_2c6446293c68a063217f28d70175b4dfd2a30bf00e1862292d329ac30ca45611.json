@@ -1,0 +1,145 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31020,
+            "gpslati": 37.4603,
+            "gpslong": 127.1581833,
+            "nodeid": "GGB204000047",
+            "nodenm": "성보경영고등학교.성남문원중학교",
+            "nodeno": 5138
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.46015,
+            "gpslong": 127.158,
+            "nodeid": "GGB204000026",
+            "nodenm": "성보경영고등학교.성남문원중학교",
+            "nodeno": 5148
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.45895,
+            "gpslong": 127.1585333,
+            "nodeid": "GGB204000176",
+            "nodenm": "논골",
+            "nodeno": 5173
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4587333,
+            "gpslong": 127.1584167,
+            "nodeid": "GGB204000025",
+            "nodenm": "논골",
+            "nodeno": 5118
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4630167,
+            "gpslong": 127.1614,
+            "nodeid": "GGB204000144",
+            "nodenm": "양지근린공원",
+            "nodeno": 5157
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4627833,
+            "gpslong": 127.1578167,
+            "nodeid": "GGB204000030",
+            "nodenm": "민속마을",
+            "nodeno": 5116
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4631667,
+            "gpslong": 127.1629167,
+            "nodeid": "GGB204000013",
+            "nodenm": "양지근린공원",
+            "nodeno": 5126
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4623833,
+            "gpslong": 127.1567167,
+            "nodeid": "GGB204000027",
+            "nodenm": "민속마을.선경아파트",
+            "nodeno": 5114
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4569333,
+            "gpslong": 127.1596,
+            "nodeid": "GGB204000049",
+            "nodenm": "상원여중",
+            "nodeno": 5147
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4586333,
+            "gpslong": 127.1644,
+            "nodeid": "GGB204000133",
+            "nodenm": "은행시장.남한산성시장.은행유스센터",
+            "nodeno": 5134
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4622667,
+            "gpslong": 127.1558333,
+            "nodeid": "GGB204000177",
+            "nodenm": "민속마을닭죽촌",
+            "nodeno": 5169
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4564667,
+            "gpslong": 127.1598333,
+            "nodeid": "GGB204000024",
+            "nodenm": "상원여중",
+            "nodeno": 5122
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.45775,
+            "gpslong": 127.1643167,
+            "nodeid": "GGB205000048",
+            "nodenm": "은행시장.남한산성시장.은행유스센터",
+            "nodeno": 6214
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.46255,
+            "gpslong": 127.1558167,
+            "nodeid": "GGB204000012",
+            "nodenm": "민속마을.선경아파트",
+            "nodeno": 5112
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4568667,
+            "gpslong": 127.1635,
+            "nodeid": "GGB205000202",
+            "nodenm": "성남동부새마을금고본점",
+            "nodeno": 6179
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4604667,
+            "gpslong": 127.1660333,
+            "nodeid": "GGB204000134",
+            "nodenm": "을지대학교",
+            "nodeno": 5129
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 16
+    }
+  }
+}

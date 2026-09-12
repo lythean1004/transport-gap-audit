@@ -1,0 +1,145 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6350333,
+            "gpslong": 126.63075,
+            "nodeid": "GGB232000973",
+            "nodenm": "한강센트럴블루힐정문",
+            "nodeno": 35923
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6352167,
+            "gpslong": 126.6337,
+            "nodeid": "GGB232000972",
+            "nodenm": "한강센트럴블루힐후문",
+            "nodeno": 35922
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6349167,
+            "gpslong": 126.6298667,
+            "nodeid": "GGB232000974",
+            "nodenm": "한강센트럴블루힐정문",
+            "nodeno": 35924
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6353167,
+            "gpslong": 126.6339833,
+            "nodeid": "GGB232000971",
+            "nodenm": "한강센트럴블루힐후문",
+            "nodeno": 35921
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6376167,
+            "gpslong": 126.63155,
+            "nodeid": "GGB277102614",
+            "nodenm": "솔터마을입구(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6370333,
+            "gpslong": 126.6288167,
+            "nodeid": "GGB232000718",
+            "nodenm": "한강센트럴블루힐.모아엘가2차",
+            "nodeno": 35763
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.637003,
+            "gpslong": 126.628428,
+            "nodeid": "ICB232000718",
+            "nodenm": "한강센트럴블루힐.모아엘가2차",
+            "nodeno": 80375
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6373167,
+            "gpslong": 126.6286167,
+            "nodeid": "GGB232000767",
+            "nodenm": "모아엘가2차.한강센트럴블루힐",
+            "nodeno": 35764
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6351167,
+            "gpslong": 126.6279833,
+            "nodeid": "GGB232000572",
+            "nodenm": "구래리",
+            "nodeno": 35524
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.635732,
+            "gpslong": 126.627763,
+            "nodeid": "ICB232000572",
+            "nodenm": "구래리",
+            "nodeno": 80006
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6384833,
+            "gpslong": 126.6344,
+            "nodeid": "GGB232000742",
+            "nodenm": "힐스테이트.경남아너스빌",
+            "nodeno": 35660
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63565,
+            "gpslong": 126.62745,
+            "nodeid": "GGB232000611",
+            "nodenm": "구래리",
+            "nodeno": 35558
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6342,
+            "gpslong": 126.6357333,
+            "nodeid": "GGB232001292",
+            "nodenm": "구래1리입구",
+            "nodeno": 62311
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6340167,
+            "gpslong": 126.6356833,
+            "nodeid": "GGB232000298",
+            "nodenm": "구래1리입구",
+            "nodeno": 35674
+          },
+          {
+            "citycode": 23,
+            "gpslati": "37.636000",
+            "gpslong": 126.627295,
+            "nodeid": "ICB232000611",
+            "nodenm": "구래리",
+            "nodeno": 80007
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6401,
+            "gpslong": 126.6328833,
+            "nodeid": "GGB232000208",
+            "nodenm": "한강힐스테이트",
+            "nodeno": 35522
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 16
+    }
+  }
+}

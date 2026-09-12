@@ -1,0 +1,57 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31020,
+            "gpslati": 37.4682,
+            "gpslong": 127.1325,
+            "nodeid": "GGB277104240",
+            "nodenm": "복정삼거리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.47115,
+            "gpslong": 127.1340833,
+            "nodeid": "GGB204000336",
+            "nodenm": "위례중앙초등학교.성남위례36단지",
+            "nodeno": 5326
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.47135,
+            "gpslong": 127.1342,
+            "nodeid": "GGB204000335",
+            "nodenm": "위례중앙초등학교.성남위례36단지",
+            "nodeno": 5325
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4705833,
+            "gpslong": 127.1269667,
+            "nodeid": "GGB277104325",
+            "nodenm": "복정역교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.46865,
+            "gpslong": 127.1263333,
+            "nodeid": "GGB277102797",
+            "nodenm": "복정역출발(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 5
+    }
+  }
+}

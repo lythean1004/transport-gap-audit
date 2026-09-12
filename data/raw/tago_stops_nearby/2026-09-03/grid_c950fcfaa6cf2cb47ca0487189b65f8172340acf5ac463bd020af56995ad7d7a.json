@@ -1,0 +1,201 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6194,
+            "gpslong": 127.1579167,
+            "nodeid": "GGB222001948",
+            "nodenm": "새봄초.자연앤이편한3차",
+            "nodeno": 49827
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6194167,
+            "gpslong": 127.1581833,
+            "nodeid": "GGB222001947",
+            "nodenm": "새봄초.자연앤이편한3차",
+            "nodeno": 49826
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62045,
+            "gpslong": 127.15715,
+            "nodeid": "GGB222000917",
+            "nodenm": "자연앤e편한세상3차정문",
+            "nodeno": 49782
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6203667,
+            "gpslong": 127.1595833,
+            "nodeid": "GGB222001276",
+            "nodenm": "새봄초정문.F2단독택지",
+            "nodeno": 49186
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6160833,
+            "gpslong": 127.1567167,
+            "nodeid": "GGB222001923",
+            "nodenm": "다산e편한세상더퍼스트",
+            "nodeno": 49793
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6205833,
+            "gpslong": 127.1596,
+            "nodeid": "GGB222001949",
+            "nodenm": "새봄초정문.F2단독택지",
+            "nodeno": 49828
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6159333,
+            "gpslong": 127.1568,
+            "nodeid": "GGB222001928",
+            "nodenm": "다산e편한세상더퍼스트",
+            "nodeno": 49798
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6189833,
+            "gpslong": 127.1548333,
+            "nodeid": "GGB222000831",
+            "nodenm": "자연앤e편한세상3차",
+            "nodeno": 49041
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6156167,
+            "gpslong": 127.1581667,
+            "nodeid": "GGB222001946",
+            "nodenm": "미금중학교.동원베네스트아파트",
+            "nodeno": 23110
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6156,
+            "gpslong": 127.1579333,
+            "nodeid": "GGB222001945",
+            "nodenm": "미금중학교.동원베네스트아파트",
+            "nodeno": 23111
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6197,
+            "gpslong": 127.1548167,
+            "nodeid": "GGB222001013",
+            "nodenm": "자연앤e편한세상3차",
+            "nodeno": 49095
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6214,
+            "gpslong": 127.1581167,
+            "nodeid": "GGB222000525",
+            "nodenm": "힐스테이트정문.e편한세상.다산유치원",
+            "nodeno": 23222
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62065,
+            "gpslong": 127.1555,
+            "nodeid": "GGB222000918",
+            "nodenm": "e편한세상다산정문",
+            "nodeno": 49783
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.61945,
+            "gpslong": 127.1544333,
+            "nodeid": "GGB222001423",
+            "nodenm": "e편한세상자이",
+            "nodeno": 49366
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6163667,
+            "gpslong": 127.1548833,
+            "nodeid": "GGB222001026",
+            "nodenm": "다산e편한세상더퍼스트.현대프리미엄아울렛",
+            "nodeno": 49086
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6216167,
+            "gpslong": 127.1577333,
+            "nodeid": "GGB222000161",
+            "nodenm": "e편한세상.힐스테이트정문.다산유치원",
+            "nodeno": 49183
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6163,
+            "gpslong": 127.1544833,
+            "nodeid": "GGB222001024",
+            "nodenm": "현대프리미엄아울렛.다산e편한세상더퍼스트",
+            "nodeno": 49125
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6149333,
+            "gpslong": 127.1556667,
+            "nodeid": "GGB222001926",
+            "nodenm": "행정복지센터.남양주시복지재단",
+            "nodeno": 49796
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62045,
+            "gpslong": 127.1538167,
+            "nodeid": "GGB222000956",
+            "nodenm": "유승한내들.e편한세상자이",
+            "nodeno": 49784
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.61745,
+            "gpslong": 127.1633833,
+            "nodeid": "GGB222000211",
+            "nodenm": "다산별빛초등학교",
+            "nodeno": 49882
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6141,
+            "gpslong": 127.15685,
+            "nodeid": "GGB222000849",
+            "nodenm": "다산1동주민센터앞.플루리움2단지후문",
+            "nodeno": 23101
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6174333,
+            "gpslong": 127.1635667,
+            "nodeid": "GGB222000210",
+            "nodenm": "다산별빛초등학교",
+            "nodeno": 49881
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6158167,
+            "gpslong": 127.1627833,
+            "nodeid": "GGB222000670",
+            "nodenm": "부영사랑으로.다산푸르지오",
+            "nodeno": 49898
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 23
+    }
+  }
+}

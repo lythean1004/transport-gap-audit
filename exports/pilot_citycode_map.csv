@@ -1,0 +1,8 @@
+﻿development_id,sigungu,candidate_cityname,candidate_citycode,match_flag,citycode_confirmed_by,code_source,resolution_note
+DEV-DONGTAN2,화성시,화성시,31240,OK,getCtyCodeList:2026-09-03,gg_gits+kostat,exact_match
+DEV-GIMPO-HANGANG,김포시,김포시,31230,OK,getCtyCodeList:2026-09-03,kostat,exact_match
+DEV-WIRYE,송파구,,,NO_MATCH,escalate_to_seoul_api,,TAGO 서울 지원 미확인(공식 BIS는 bus.go.kr 별도). 서울 열린데이터광장 정류소 위치정보로 별도 처리 필요.
+DEV-WIRYE,성남시 수정구,성남시,31020,OK_CITY_LEVEL,getCtyCodeList:2026-09-03,gg_gits,성남시 수정구는 구 단위 코드 없음. 성남시 전체 코드로 조회되므로 좌표반경(getCrdntPrxmtSttnList)으로 구 경계 보정 필요.
+DEV-WIRYE,하남시,하남시,31180,OK,getCtyCodeList:2026-09-03,kostat,exact_match
+DEV-NAMYANGJU-DASAN,남양주시,남양주시,31130,OK,getCtyCodeList:2026-09-03,gg_gits,exact_match
+DEV-HANAM-MISA,하남시,하남시,31180,OK,getCtyCodeList:2026-09-03,kostat,exact_match

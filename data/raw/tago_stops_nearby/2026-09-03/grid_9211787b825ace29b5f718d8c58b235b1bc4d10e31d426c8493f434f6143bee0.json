@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.211,
+            "gpslong": 127.0926333,
+            "nodeid": "GGB233002264",
+            "nodenm": "동탄첨단산업지구",
+            "nodeno": 55613
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2109833,
+            "gpslong": 127.0929167,
+            "nodeid": "GGB233002269",
+            "nodenm": "동탄첨단산업지구",
+            "nodeno": 55614
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2152333,
+            "gpslong": 127.0942333,
+            "nodeid": "GGB233000141",
+            "nodenm": "영천1동",
+            "nodeno": 36454
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2151833,
+            "gpslong": 127.0945167,
+            "nodeid": "GGB233000144",
+            "nodenm": "영천1동",
+            "nodeno": 36455
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2159333,
+            "gpslong": 127.0927667,
+            "nodeid": "GGB233000185",
+            "nodenm": "영내사거리",
+            "nodeno": 55486
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2161167,
+            "gpslong": 127.0936667,
+            "nodeid": "GGB233000186",
+            "nodenm": "영내사거리",
+            "nodeno": 55487
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2095,
+            "gpslong": 127.0916167,
+            "nodeid": "GGB233002443",
+            "nodenm": "한미약품.푸르지오",
+            "nodeno": 55315
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.21655,
+            "gpslong": 127.0915667,
+            "nodeid": "GGB277101908",
+            "nodenm": "기흥동탄TG(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2091833,
+            "gpslong": 127.0918333,
+            "nodeid": "GGB233002442",
+            "nodenm": "푸르지오.한미약품",
+            "nodeno": 55314
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2169833,
+            "gpslong": 127.0917,
+            "nodeid": "GGB277101884",
+            "nodenm": "기흥동탄TG(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

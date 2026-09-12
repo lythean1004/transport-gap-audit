@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1971,
+            "gpslong": 127.1049,
+            "nodeid": "GGB233000139",
+            "nodenm": "한화.호반.대원",
+            "nodeno": 36445
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2039333,
+            "gpslong": 127.1048833,
+            "nodeid": "GGB233000131",
+            "nodenm": "계룡.영천초",
+            "nodeno": 36812
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1967333,
+            "gpslong": 127.1048667,
+            "nodeid": "GGB233002419",
+            "nodenm": "한화.호반.대원",
+            "nodeno": 55296
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2042833,
+            "gpslong": 127.1049333,
+            "nodeid": "GGB233000961",
+            "nodenm": "영천초.계룡",
+            "nodeno": 36453
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2032333,
+            "gpslong": 127.1087667,
+            "nodeid": "GGB233002434",
+            "nodenm": "시범예미지.영천유치원",
+            "nodeno": 55292
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2035167,
+            "gpslong": 127.1087833,
+            "nodeid": "GGB233002435",
+            "nodenm": "영천유치원.시범예미지",
+            "nodeno": 55293
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

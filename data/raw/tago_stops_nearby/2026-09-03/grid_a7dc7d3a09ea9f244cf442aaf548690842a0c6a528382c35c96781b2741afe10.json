@@ -1,0 +1,137 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.54975,
+            "gpslong": 127.21025,
+            "nodeid": "GGB227000205",
+            "nodenm": "동원베네스트아파트입구",
+            "nodeno": 28218
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5513667,
+            "gpslong": 127.2093,
+            "nodeid": "GGB227000615",
+            "nodenm": "풍산센트레빌",
+            "nodeno": 28422
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5499833,
+            "gpslong": 127.2093167,
+            "nodeid": "GGB227000206",
+            "nodenm": "새뜰마을3단지",
+            "nodeno": 28225
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5516167,
+            "gpslong": 127.2091,
+            "nodeid": "GGB227000517",
+            "nodenm": "풍산센트레빌",
+            "nodeno": 28214
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5478333,
+            "gpslong": 127.2116,
+            "nodeid": "GGB227000311",
+            "nodenm": "신평마을앞",
+            "nodeno": 28481
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54985,
+            "gpslong": 127.20795,
+            "nodeid": "GGB227000229",
+            "nodenm": "새뜰마을3단지정문",
+            "nodeno": 28253
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5532167,
+            "gpslong": 127.2090833,
+            "nodeid": "GGB227000525",
+            "nodenm": "나룰도서관",
+            "nodeno": 28267
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55335,
+            "gpslong": 127.2092667,
+            "nodeid": "GGB227000621",
+            "nodenm": "나룰도서관",
+            "nodeno": 28428
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5489833,
+            "gpslong": 127.2077167,
+            "nodeid": "GGB227000228",
+            "nodenm": "새뜰마을3단지정문",
+            "nodeno": 28252
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5472833,
+            "gpslong": 127.20975,
+            "nodeid": "GGB227000226",
+            "nodenm": "나룰초등학교.풍산아이파크1단지",
+            "nodeno": 28251
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54695,
+            "gpslong": 127.2111667,
+            "nodeid": "GGB227000310",
+            "nodenm": "신평마을앞",
+            "nodeno": 28480
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5515,
+            "gpslong": 127.2068833,
+            "nodeid": "GGB227000207",
+            "nodenm": "나룰.풍산근린3호공원",
+            "nodeno": 28219
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5470167,
+            "gpslong": 127.2098667,
+            "nodeid": "GGB227000227",
+            "nodenm": "나룰초등학교.풍산아이파크1단지",
+            "nodeno": 28248
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5512667,
+            "gpslong": 127.2065667,
+            "nodeid": "GGB227000208",
+            "nodenm": "나룰.풍산근린3호공원",
+            "nodeno": 28224
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5463,
+            "gpslong": 127.21135,
+            "nodeid": "GGB227000664",
+            "nodenm": "호반써밋에듀파크",
+            "nodeno": 28489
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 15
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.15595,
+            "gpslong": 127.10855,
+            "nodeid": "GGB233001319",
+            "nodenm": "한국제지",
+            "nodeno": 37509
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1556833,
+            "gpslong": 127.10855,
+            "nodeid": "GGB233001322",
+            "nodenm": "한국제지",
+            "nodeno": 36944
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1574167,
+            "gpslong": 127.1090833,
+            "nodeid": "GGB233003164",
+            "nodenm": "롯데캐슬.제일풍경채",
+            "nodeno": 55561
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1565333,
+            "gpslong": 127.1111667,
+            "nodeid": "GGB233000818",
+            "nodenm": "호반6차.제일풍경채",
+            "nodeno": 55684
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.15635,
+            "gpslong": 127.1115667,
+            "nodeid": "GGB233000973",
+            "nodenm": "호반6차.제일풍경채",
+            "nodeno": 55685
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1579167,
+            "gpslong": 127.1089,
+            "nodeid": "GGB233003130",
+            "nodenm": "롯데캐슬.제일풍경채",
+            "nodeno": 55526
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1572333,
+            "gpslong": 127.1125167,
+            "nodeid": "GGB233003129",
+            "nodenm": "호반6차",
+            "nodeno": 55525
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1570667,
+            "gpslong": 127.1126833,
+            "nodeid": "GGB233003165",
+            "nodenm": "호반6차",
+            "nodeno": 55562
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1574833,
+            "gpslong": 127.1051167,
+            "nodeid": "GGB233000089",
+            "nodenm": "장지지하차도",
+            "nodeno": 36117
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1590667,
+            "gpslong": 127.1059167,
+            "nodeid": "GGB233003163",
+            "nodenm": "호수자이파밀리에",
+            "nodeno": 55560
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1592167,
+            "gpslong": 127.1060333,
+            "nodeid": "GGB233003131",
+            "nodenm": "호수자이파밀리에",
+            "nodeno": 55527
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1591667,
+            "gpslong": 127.1131333,
+            "nodeid": "GGB233002290",
+            "nodenm": "제일풍경체.서연초",
+            "nodeno": 37091
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1574833,
+            "gpslong": 127.10425,
+            "nodeid": "GGB233000088",
+            "nodenm": "장지지하차도",
+            "nodeno": 36116
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1593167,
+            "gpslong": 127.1132,
+            "nodeid": "GGB233002287",
+            "nodenm": "서연초.제일풍경채",
+            "nodeno": 37082
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 14
+    }
+  }
+}

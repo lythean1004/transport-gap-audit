@@ -1,0 +1,129 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2175167,
+            "gpslong": 127.0948167,
+            "nodeid": "GGB233000143",
+            "nodenm": "동탄자동차검사소",
+            "nodeno": 36456
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2175833,
+            "gpslong": 127.0946,
+            "nodeid": "GGB233000142",
+            "nodenm": "동탄자동차검사소",
+            "nodeno": 36457
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2166167,
+            "gpslong": 127.0969833,
+            "nodeid": "GGB277101636",
+            "nodenm": "기흥동탄IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.21625,
+            "gpslong": 127.0972833,
+            "nodeid": "GGB277102247",
+            "nodenm": "기흥동탄IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2218333,
+            "gpslong": 127.0973333,
+            "nodeid": "GGB228001795",
+            "nodenm": "고매사거리.고매농협",
+            "nodeno": 47788
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2161167,
+            "gpslong": 127.0936667,
+            "nodeid": "GGB233000186",
+            "nodenm": "영내사거리",
+            "nodeno": 55487
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2225,
+            "gpslong": 127.0985667,
+            "nodeid": "GGB228001113",
+            "nodenm": "고매사거리.고매농협",
+            "nodeno": 29119
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2151833,
+            "gpslong": 127.0945167,
+            "nodeid": "GGB233000144",
+            "nodenm": "영천1동",
+            "nodeno": 36455
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2152333,
+            "gpslong": 127.0942333,
+            "nodeid": "GGB233000141",
+            "nodenm": "영천1동",
+            "nodeno": 36454
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2226333,
+            "gpslong": 127.09415,
+            "nodeid": "GGB228000655",
+            "nodenm": "만평마을",
+            "nodeno": 29231
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2159333,
+            "gpslong": 127.0927667,
+            "nodeid": "GGB233000185",
+            "nodenm": "영내사거리",
+            "nodeno": 55486
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2227167,
+            "gpslong": 127.09415,
+            "nodeid": "GGB228001649",
+            "nodenm": "만평마을",
+            "nodeno": 29247
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2169833,
+            "gpslong": 127.0917,
+            "nodeid": "GGB277101884",
+            "nodenm": "기흥동탄TG(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2229167,
+            "gpslong": 127.0988667,
+            "nodeid": "GGB228001114",
+            "nodenm": "고매파출소",
+            "nodeno": 29108
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 14
+    }
+  }
+}

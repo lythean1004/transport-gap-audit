@@ -1,0 +1,145 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.55245,
+            "gpslong": 127.19095,
+            "nodeid": "GGB227000071",
+            "nodenm": "하남시청소년수련관.한홀중건너편",
+            "nodeno": 28033
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5529,
+            "gpslong": 127.1911,
+            "nodeid": "GGB227000072",
+            "nodenm": "하남시청소년수련관.한홀중",
+            "nodeno": 28034
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55065,
+            "gpslong": 127.1877667,
+            "nodeid": "GGB227000356",
+            "nodenm": "황산사거리.미사3동공공복합청사",
+            "nodeno": 28590
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5515833,
+            "gpslong": 127.1933167,
+            "nodeid": "GGB227000368",
+            "nodenm": "보바스병원",
+            "nodeno": 28602
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5495833,
+            "gpslong": 127.1876167,
+            "nodeid": "GGB227000221",
+            "nodenm": "황산사거리",
+            "nodeno": 28259
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5503,
+            "gpslong": 127.1931667,
+            "nodeid": "GGB227000711",
+            "nodenm": "코스트코",
+            "nodeno": 28558
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5516,
+            "gpslong": 127.1935667,
+            "nodeid": "GGB227000367",
+            "nodenm": "보바스병원",
+            "nodeno": 28601
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5495333,
+            "gpslong": 127.19275,
+            "nodeid": "GGB227000710",
+            "nodenm": "코스트코",
+            "nodeno": 28557
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55305,
+            "gpslong": 127.1931833,
+            "nodeid": "GGB227000171",
+            "nodenm": "아이테코",
+            "nodeno": 28107
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5491833,
+            "gpslong": 127.18745,
+            "nodeid": "GGB227000360",
+            "nodenm": "황산사거리",
+            "nodeno": 28594
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5528167,
+            "gpslong": 127.1936833,
+            "nodeid": "GGB227000174",
+            "nodenm": "아이테코",
+            "nodeno": 28109
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5542167,
+            "gpslong": 127.19395,
+            "nodeid": "GGB227000257",
+            "nodenm": "아이테코.이편한세상미사",
+            "nodeno": 28268
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5529667,
+            "gpslong": 127.1851167,
+            "nodeid": "GGB227000678",
+            "nodenm": "미사우체국.더샵센트럴포레.동원로얄듀크",
+            "nodeno": 28525
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.554,
+            "gpslong": 127.1943833,
+            "nodeid": "GGB227000256",
+            "nodenm": "아이테코.이편한세상미사",
+            "nodeno": 28271
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5472,
+            "gpslong": 127.1912667,
+            "nodeid": "GGB227000028",
+            "nodenm": "지역현안1지구",
+            "nodeno": 28032
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5528667,
+            "gpslong": 127.1847833,
+            "nodeid": "GGB227000679",
+            "nodenm": "미사우체국.더샵센트럴포레.동원로얄듀크",
+            "nodeno": 28526
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 16
+    }
+  }
+}

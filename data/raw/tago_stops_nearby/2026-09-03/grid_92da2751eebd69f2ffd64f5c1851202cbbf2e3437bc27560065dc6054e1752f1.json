@@ -1,0 +1,81 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1944667,
+            "gpslong": 127.0845167,
+            "nodeid": "GGB233002382",
+            "nodenm": "동탄2신도시홍보관",
+            "nodeno": 37660
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1942,
+            "gpslong": 127.0845,
+            "nodeid": "GGB233002383",
+            "nodenm": "동탄2신도시홍보관",
+            "nodeno": 37659
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1935833,
+            "gpslong": 127.08085,
+            "nodeid": "GGB233001962",
+            "nodenm": "사랑의교회",
+            "nodeno": 55130
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1916,
+            "gpslong": 127.0877833,
+            "nodeid": "GGB233000224",
+            "nodenm": "이산고등학교",
+            "nodeno": 55761
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1949333,
+            "gpslong": 127.08025,
+            "nodeid": "GGB233001484",
+            "nodenm": "노작마을",
+            "nodeno": 37555
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1915,
+            "gpslong": 127.0878333,
+            "nodeid": "GGB233000225",
+            "nodenm": "이산고등학교",
+            "nodeno": 55762
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1946333,
+            "gpslong": 127.0802667,
+            "nodeid": "GGB233001485",
+            "nodenm": "월드반도.노작마을",
+            "nodeno": 37554
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1941667,
+            "gpslong": 127.0908,
+            "nodeid": "GGB233001641",
+            "nodenm": "반도5차",
+            "nodeno": 55485
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 8
+    }
+  }
+}

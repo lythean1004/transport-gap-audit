@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.20955,
+            "gpslong": 127.08725,
+            "nodeid": "GGB233002493",
+            "nodenm": "경기남부직업능력개발원",
+            "nodeno": 55937
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2092,
+            "gpslong": 127.0869667,
+            "nodeid": "GGB233003207",
+            "nodenm": "경기남부직업능력개발원",
+            "nodeno": 55967
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2095,
+            "gpslong": 127.0916167,
+            "nodeid": "GGB233002443",
+            "nodenm": "한미약품.푸르지오",
+            "nodeno": 55315
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2091833,
+            "gpslong": 127.0918333,
+            "nodeid": "GGB233002442",
+            "nodenm": "푸르지오.한미약품",
+            "nodeno": 55314
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.208,
+            "gpslong": 127.09255,
+            "nodeid": "GGB233001635",
+            "nodenm": "치동초등학교",
+            "nodeno": 55496
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2079333,
+            "gpslong": 127.0930333,
+            "nodeid": "GGB233001636",
+            "nodenm": "치동초등학교",
+            "nodeno": 37672
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.211,
+            "gpslong": 127.0926333,
+            "nodeid": "GGB233002264",
+            "nodenm": "동탄첨단산업지구",
+            "nodeno": 55613
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2109833,
+            "gpslong": 127.0929167,
+            "nodeid": "GGB233002269",
+            "nodenm": "동탄첨단산업지구",
+            "nodeno": 55614
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2048667,
+            "gpslong": 127.09085,
+            "nodeid": "GGB233003120",
+            "nodenm": "반도유보라6차",
+            "nodeno": 55516
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2045833,
+            "gpslong": 127.091,
+            "nodeid": "GGB233003121",
+            "nodenm": "반도유보라6차",
+            "nodeno": 55517
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

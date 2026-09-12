@@ -1,0 +1,153 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6051167,
+            "gpslong": 127.15575,
+            "nodeid": "GGB222001318",
+            "nodenm": "가운휴먼시아.다산효성해링턴타워.새마을금고다산본점(중)",
+            "nodeno": 23927
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6054333,
+            "gpslong": 127.1561833,
+            "nodeid": "GGB222001319",
+            "nodenm": "가운휴먼시아.다산효성해링턴타워.새마을금고다산본점(중)",
+            "nodeno": 23931
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.60625,
+            "gpslong": 127.1524667,
+            "nodeid": "GGB222000989",
+            "nodenm": "다산해모로.다산센트레빌.롯데아파트",
+            "nodeno": 23087
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6068167,
+            "gpslong": 127.1523333,
+            "nodeid": "GGB222000990",
+            "nodenm": "롯데아파트.다산센트레빌.다산해모로",
+            "nodeno": 23088
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6083333,
+            "gpslong": 127.15205,
+            "nodeid": "GGB222000887",
+            "nodenm": "다산리버팰리체아파트",
+            "nodeno": 23085
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6084,
+            "gpslong": 127.15215,
+            "nodeid": "GGB222000888",
+            "nodenm": "다산리버팰리체아파트",
+            "nodeno": 23086
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6057,
+            "gpslong": 127.1584,
+            "nodeid": "GGB222000945",
+            "nodenm": "가운지구입구",
+            "nodeno": 49163
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6088167,
+            "gpslong": 127.1569167,
+            "nodeid": "GGB222001638",
+            "nodenm": "이마트다산점.부영프라자",
+            "nodeno": 49518
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6052,
+            "gpslong": 127.1587333,
+            "nodeid": "GGB222000944",
+            "nodenm": "가운지구입구",
+            "nodeno": 23113
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.609,
+            "gpslong": 127.15705,
+            "nodeid": "GGB222001639",
+            "nodenm": "플루리움1단지.이마트다산점",
+            "nodeno": 49519
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6031333,
+            "gpslong": 127.1574667,
+            "nodeid": "GGB222001396",
+            "nodenm": "휴먼시아2단지.더힐포레",
+            "nodeno": 23988
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6029833,
+            "gpslong": 127.1575667,
+            "nodeid": "GGB222001090",
+            "nodenm": "휴먼시아2단지.더힐포레",
+            "nodeno": 49946
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6096333,
+            "gpslong": 127.1519667,
+            "nodeid": "GGB222000889",
+            "nodenm": "빙그레",
+            "nodeno": 23084
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6096333,
+            "gpslong": 127.15185,
+            "nodeid": "GGB222000886",
+            "nodenm": "빙그레앞",
+            "nodeno": 23083
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6018833,
+            "gpslong": 127.15345,
+            "nodeid": "GGB277103213",
+            "nodenm": "남양주IC진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6043,
+            "gpslong": 127.1494,
+            "nodeid": "GGB277104247",
+            "nodenm": "왕숙교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6040167,
+            "gpslong": 127.1495167,
+            "nodeid": "GGB277104248",
+            "nodenm": "왕숙교(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 17
+    }
+  }
+}

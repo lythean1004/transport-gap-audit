@@ -1,0 +1,153 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6525,
+            "gpslong": 126.66565,
+            "nodeid": "GGB232000867",
+            "nodenm": "푸른솔초교",
+            "nodeno": 35814
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6523,
+            "gpslong": 126.66565,
+            "nodeid": "GGB232000871",
+            "nodenm": "푸른솔초교",
+            "nodeno": 35818
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65215,
+            "gpslong": 126.66895,
+            "nodeid": "GGB232000872",
+            "nodenm": "중흥S클래스.호반더퍼스트",
+            "nodeno": 35819
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65225,
+            "gpslong": 126.6691167,
+            "nodeid": "GGB232000866",
+            "nodenm": "중흥S클래스.호반더퍼스트",
+            "nodeno": 35813
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6507833,
+            "gpslong": 126.6637833,
+            "nodeid": "GGB232000868",
+            "nodenm": "성우오스타.모아미래도엘가",
+            "nodeno": 35815
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6558833,
+            "gpslong": 126.6684167,
+            "nodeid": "GGB232000740",
+            "nodenm": "김포패션아울렛",
+            "nodeno": 35658
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.651077,
+            "gpslong": 126.670725,
+            "nodeid": "ICB232000316",
+            "nodenm": "청송1단지.중흥S클래스",
+            "nodeno": 80090
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6510333,
+            "gpslong": 126.6707,
+            "nodeid": "GGB232000316",
+            "nodenm": "청송1단지.중흥S클래스",
+            "nodeno": 35203
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.652753,
+            "gpslong": 126.671502,
+            "nodeid": "ICB232000368",
+            "nodenm": "장기본동행정복지센터",
+            "nodeno": 35204
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6527667,
+            "gpslong": 126.6715333,
+            "nodeid": "GGB232000368",
+            "nodenm": "장기본동행정복지센터",
+            "nodeno": 35204
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6509333,
+            "gpslong": 126.6709167,
+            "nodeid": "GGB232000317",
+            "nodenm": "청송1단지.중흥S클래스",
+            "nodeno": 35202
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6504167,
+            "gpslong": 126.6637167,
+            "nodeid": "GGB232000870",
+            "nodenm": "성우오스타.모아미래도엘가",
+            "nodeno": 35817
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.650687,
+            "gpslong": 126.670802,
+            "nodeid": "ICB232000317",
+            "nodenm": "청송1단지.중흥S클래스",
+            "nodeno": 80102
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6561833,
+            "gpslong": 126.6687,
+            "nodeid": "GGB232000733",
+            "nodenm": "김포패션아울렛",
+            "nodeno": 35654
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.653123,
+            "gpslong": 126.671726,
+            "nodeid": "ICB232000420",
+            "nodenm": "장기본동행정복지센터.성창.에일린의뜰",
+            "nodeno": 35206
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65315,
+            "gpslong": 126.6717333,
+            "nodeid": "GGB232000420",
+            "nodenm": "장기본동행정복지센터.성창.에일린의뜰",
+            "nodeno": 35206
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6518167,
+            "gpslong": 126.6717167,
+            "nodeid": "GGB232000457",
+            "nodenm": "장기본동행정복지센터(마을)",
+            "nodeno": 35207
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 17
+    }
+  }
+}

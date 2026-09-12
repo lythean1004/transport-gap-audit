@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1971,
+            "gpslong": 127.1049,
+            "nodeid": "GGB233000139",
+            "nodenm": "한화.호반.대원",
+            "nodeno": 36445
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1967333,
+            "gpslong": 127.1048667,
+            "nodeid": "GGB233002419",
+            "nodenm": "한화.호반.대원",
+            "nodeno": 55296
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1999333,
+            "gpslong": 127.0991,
+            "nodeid": "GGB233000979",
+            "nodenm": "포스코더샵.롯데캐슬",
+            "nodeno": 36465
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1997,
+            "gpslong": 127.0984667,
+            "nodeid": "GGB233000137",
+            "nodenm": "롯데캐슬.포스코더샵",
+            "nodeno": 36436
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.19625,
+            "gpslong": 127.0985167,
+            "nodeid": "GGB233001637",
+            "nodenm": "린스트라우스.한화",
+            "nodeno": 37658
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1948167,
+            "gpslong": 127.1003333,
+            "nodeid": "GGB233002437",
+            "nodenm": "한화꿈에그린",
+            "nodeno": 55309
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

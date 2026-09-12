@@ -1,0 +1,137 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31140,
+            "gpslati": 37.1586667,
+            "gpslong": 127.0938667,
+            "nodeid": "GGB223000189",
+            "nodenm": "롯데오산물류",
+            "nodeno": 24192
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1588833,
+            "gpslong": 127.0933167,
+            "nodeid": "GGB223000209",
+            "nodenm": "롯데오산물류",
+            "nodeno": 24197
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1585667,
+            "gpslong": 127.0925333,
+            "nodeid": "GGB277104702",
+            "nodenm": "경기동로진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1569667,
+            "gpslong": 127.0924,
+            "nodeid": "GGB223000252",
+            "nodenm": "롯데인재개발원",
+            "nodeno": 24235
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1590667,
+            "gpslong": 127.0966167,
+            "nodeid": "GGB233000249",
+            "nodenm": "진우물류센터",
+            "nodeno": 36368
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1568667,
+            "gpslong": 127.0921167,
+            "nodeid": "GGB223000031",
+            "nodenm": "롯데인재개발원",
+            "nodeno": 24131
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1609667,
+            "gpslong": 127.09365,
+            "nodeid": "GGB233001254",
+            "nodenm": "엘크루아파트",
+            "nodeno": 37038
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16115,
+            "gpslong": 127.09365,
+            "nodeid": "GGB233001111",
+            "nodenm": "엘크루아파트",
+            "nodeno": 37037
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16095,
+            "gpslong": 127.0970167,
+            "nodeid": "GGB233001118",
+            "nodenm": "호수하우스디",
+            "nodeno": 37039
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1588167,
+            "gpslong": 127.0900333,
+            "nodeid": "GGB223000210",
+            "nodenm": "롯데인재개발원후문",
+            "nodeno": 24196
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1611167,
+            "gpslong": 127.0970667,
+            "nodeid": "GGB233001237",
+            "nodenm": "호수하우스디",
+            "nodeno": 37044
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1586,
+            "gpslong": 127.0895833,
+            "nodeid": "GGB223000188",
+            "nodenm": "롯데인재개발원후문",
+            "nodeno": 24185
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1541167,
+            "gpslong": 127.0921833,
+            "nodeid": "GGB223000447",
+            "nodenm": "계량골",
+            "nodeno": 24473
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1541,
+            "gpslong": 127.0919667,
+            "nodeid": "GGB223000446",
+            "nodenm": "계량골",
+            "nodeno": 24472
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1590833,
+            "gpslong": 127.09995,
+            "nodeid": "GGB233000166",
+            "nodenm": "꽃가마약수터",
+            "nodeno": 36810
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 15
+    }
+  }
+}

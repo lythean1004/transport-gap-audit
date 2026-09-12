@@ -1,0 +1,185 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6413,
+            "gpslong": 126.6769833,
+            "nodeid": "GGB232000837",
+            "nodenm": "캐널시티",
+            "nodeno": 35784
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6398333,
+            "gpslong": 126.6770167,
+            "nodeid": "GGB232000761",
+            "nodenm": "롯데마트.래미안한강아파트",
+            "nodeno": 35688
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6412,
+            "gpslong": 126.6765167,
+            "nodeid": "GGB232000838",
+            "nodenm": "캐널시티",
+            "nodeno": 35785
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6396667,
+            "gpslong": 126.6767333,
+            "nodeid": "GGB232000760",
+            "nodenm": "래미안한강아파트",
+            "nodeno": 35687
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6397333,
+            "gpslong": 126.6756,
+            "nodeid": "GGB232000721",
+            "nodenm": "삼성래미안(마을)",
+            "nodeno": 35940
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6411333,
+            "gpslong": 126.6797667,
+            "nodeid": "GGB232000803",
+            "nodenm": "라베니체.쌍용예가",
+            "nodeno": 35712
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6421667,
+            "gpslong": 126.67955,
+            "nodeid": "GGB232000798",
+            "nodenm": "라베니체.쌍용예가",
+            "nodeno": 35707
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6394667,
+            "gpslong": 126.6803333,
+            "nodeid": "GGB232000820",
+            "nodenm": "김포경찰서후문",
+            "nodeno": 35732
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6414167,
+            "gpslong": 126.6741833,
+            "nodeid": "GGB232000593",
+            "nodenm": "중앙공원",
+            "nodeno": 35533
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6389833,
+            "gpslong": 126.6803167,
+            "nodeid": "GGB232000819",
+            "nodenm": "김포경찰서후문",
+            "nodeno": 35731
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6411333,
+            "gpslong": 126.674,
+            "nodeid": "GGB232000579",
+            "nodenm": "중앙공원",
+            "nodeno": 35528
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6433333,
+            "gpslong": 126.6784,
+            "nodeid": "GGB232000683",
+            "nodenm": "수정마을.휴먼시아",
+            "nodeno": 35623
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6433333,
+            "gpslong": 126.6787667,
+            "nodeid": "GGB232000684",
+            "nodenm": "수정마을.쌍용예가",
+            "nodeno": 35622
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63765,
+            "gpslong": 126.6783,
+            "nodeid": "GGB232000921",
+            "nodenm": "자이타워",
+            "nodeno": 35871
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64375,
+            "gpslong": 126.6764,
+            "nodeid": "GGB232000799",
+            "nodenm": "운양중학교",
+            "nodeno": 35708
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6371167,
+            "gpslong": 126.678,
+            "nodeid": "GGB232000922",
+            "nodenm": "자이타워",
+            "nodeno": 35872
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6440667,
+            "gpslong": 126.6763667,
+            "nodeid": "GGB232000797",
+            "nodenm": "운양중학교",
+            "nodeno": 35706
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6430167,
+            "gpslong": 126.6817,
+            "nodeid": "GGB232000366",
+            "nodenm": "장기사거리.수정마을",
+            "nodeno": 35211
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.643041,
+            "gpslong": 126.681729,
+            "nodeid": "ICB232000366",
+            "nodenm": "장기사거리.수정마을",
+            "nodeno": 35211
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6389,
+            "gpslong": 126.6724667,
+            "nodeid": "GGB232000681",
+            "nodenm": "가현초등학교.장기동행정복지센터",
+            "nodeno": 35628
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6386167,
+            "gpslong": 126.6725167,
+            "nodeid": "GGB232000682",
+            "nodenm": "가현초등학교.장기동행정복지센터",
+            "nodeno": 35629
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 21
+    }
+  }
+}

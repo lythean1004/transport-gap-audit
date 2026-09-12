@@ -1,0 +1,77 @@
+﻿development,promise_src_id,promise_cand_id,promise_event_date,promise_date_precision,actual_src_id,actual_cand_id,actual_event_date,actual_date_precision,mode,promise_line_name,actual_line_name,promise_scope,actual_scope,candidate_pairable,fine_precision,delay_days_representative,reason,review_status
+화성 동탄2,SRC-H003,H003,2024-H1,half_year,SRC-H005,H005,2024-03-30,day,rail,GTX-A 수서~동탄,GTX-A 수서~동탄,district,corridor,true,false,-92,,draft_needs_human
+화성 동탄2,SRC-H003,H003,2024-H1,half_year,SRC-H006,H006,2016-12-09,day,rail,GTX-A 수서~동탄,SRT 수서~부산·목포,district,corridor,false,false,-2760,line_mismatch_or_blank,not_pairable
+화성 동탄2,SRC-H003,H003,2024-H1,half_year,SRC-E1-C01,C01,2023-02-01,day,rail,GTX-A 수서~동탄,,district,corridor,false,false,-515,mode_mismatch_or_blank;line_mismatch_or_blank;inactive_source,not_pairable
+화성 동탄2,SRC-H003,H003,2024-H1,half_year,SRC-E1-C02,C02,2023-02-01,day,rail,GTX-A 수서~동탄,,district,corridor,false,false,-515,mode_mismatch_or_blank;line_mismatch_or_blank;inactive_source,not_pairable
+화성 동탄2,SRC-H004,H004,미정,unknown,SRC-H005,H005,2024-03-30,day,express_bus,동탄 광역버스,GTX-A 수서~동탄,district,corridor,false,false,,mode_mismatch_or_blank;line_mismatch_or_blank;promise_target_unknown,not_pairable
+화성 동탄2,SRC-H004,H004,미정,unknown,SRC-H006,H006,2016-12-09,day,express_bus,동탄 광역버스,SRT 수서~부산·목포,district,corridor,false,false,,mode_mismatch_or_blank;line_mismatch_or_blank;promise_target_unknown,not_pairable
+화성 동탄2,SRC-H004,H004,미정,unknown,SRC-E1-C01,C01,2023-02-01,day,express_bus,동탄 광역버스,,district,corridor,false,false,,line_mismatch_or_blank;promise_target_unknown;inactive_source,not_pairable
+화성 동탄2,SRC-H004,H004,미정,unknown,SRC-E1-C02,C02,2023-02-01,day,express_bus,동탄 광역버스,,district,corridor,false,false,,line_mismatch_or_blank;promise_target_unknown;inactive_source,not_pairable
+화성 동탄2,SRC-E1-B01,B01,2023년 상반기,half_year,SRC-H005,H005,2024-03-30,day,express_bus,동탄 서울방면 광역버스,GTX-A 수서~동탄,district,corridor,false,false,274,mode_mismatch_or_blank;line_mismatch_or_blank,not_pairable
+화성 동탄2,SRC-E1-B01,B01,2023년 상반기,half_year,SRC-H006,H006,2016-12-09,day,express_bus,동탄 서울방면 광역버스,SRT 수서~부산·목포,district,corridor,false,false,-2394,mode_mismatch_or_blank;line_mismatch_or_blank,not_pairable
+화성 동탄2,SRC-E1-B01,B01,2023년 상반기,half_year,SRC-E1-C01,C01,2023-02-01,day,express_bus,동탄 서울방면 광역버스,,district,corridor,false,false,-149,line_mismatch_or_blank;inactive_source,not_pairable
+화성 동탄2,SRC-E1-B01,B01,2023년 상반기,half_year,SRC-E1-C02,C02,2023-02-01,day,express_bus,동탄 서울방면 광역버스,,district,corridor,false,false,-149,line_mismatch_or_blank;inactive_source,not_pairable
+화성 동탄2,SRC-E1-B02,B02,2022년 6월,month,SRC-H005,H005,2024-03-30,day,,동탄 광역교통 개선대책,GTX-A 수서~동탄,district,corridor,false,true,639,mode_mismatch_or_blank;line_mismatch_or_blank,not_pairable
+화성 동탄2,SRC-E1-B02,B02,2022년 6월,month,SRC-H006,H006,2016-12-09,day,,동탄 광역교통 개선대책,SRT 수서~부산·목포,district,corridor,false,true,-2029,mode_mismatch_or_blank;line_mismatch_or_blank,not_pairable
+화성 동탄2,SRC-E1-B02,B02,2022년 6월,month,SRC-E1-C01,C01,2023-02-01,day,,동탄 광역교통 개선대책,,district,corridor,false,true,216,mode_mismatch_or_blank;line_mismatch_or_blank;inactive_source,not_pairable
+화성 동탄2,SRC-E1-B02,B02,2022년 6월,month,SRC-E1-C02,C02,2023-02-01,day,,동탄 광역교통 개선대책,,district,corridor,false,true,216,mode_mismatch_or_blank;line_mismatch_or_blank;inactive_source,not_pairable
+김포 한강,SRC-H009,H009,2018,year,SRC-H011,H011,2019-09-28,day,rail,김포도시철도(김포골드라인),김포도시철도(김포골드라인),adjacent_corridor,district,false,false,271,adjacent_corridor,not_pairable
+김포 한강,SRC-H009,H009,2018,year,SRC-H012,H012,2019-09-28,day,rail,김포도시철도(김포골드라인),김포도시철도(김포골드라인),adjacent_corridor,district,false,false,271,adjacent_corridor,not_pairable
+김포 한강,SRC-H009,H009,2018,year,SRC-E1-C03,C03,2024-01-02,day,rail,김포도시철도(김포골드라인),,adjacent_corridor,corridor,false,false,1828,mode_mismatch_or_blank;line_mismatch_or_blank;adjacent_corridor,not_pairable
+김포 한강,SRC-H009,H009,2018,year,SRC-E1-C04,C04,2023-02-01,day,rail,김포도시철도(김포골드라인),,adjacent_corridor,corridor,false,false,1493,mode_mismatch_or_blank;line_mismatch_or_blank;adjacent_corridor;inactive_source,not_pairable
+김포 한강,SRC-H010,H010,2018,year,SRC-H011,H011,2019-09-28,day,rail,김포도시철도(김포골드라인),김포도시철도(김포골드라인),district,district,true,false,271,,draft_needs_human
+김포 한강,SRC-H010,H010,2018,year,SRC-H012,H012,2019-09-28,day,rail,김포도시철도(김포골드라인),김포도시철도(김포골드라인),district,district,true,false,271,,draft_needs_human
+김포 한강,SRC-H010,H010,2018,year,SRC-E1-C03,C03,2024-01-02,day,rail,김포도시철도(김포골드라인),,district,corridor,false,false,1828,mode_mismatch_or_blank;line_mismatch_or_blank,not_pairable
+김포 한강,SRC-H010,H010,2018,year,SRC-E1-C04,C04,2023-02-01,day,rail,김포도시철도(김포골드라인),,district,corridor,false,false,1493,mode_mismatch_or_blank;line_mismatch_or_blank;inactive_source,not_pairable
+김포 한강,SRC-E1-B03,B03,2021년 6월,month,SRC-H011,H011,2019-09-28,day,express_bus,김포한강 광역교통 개선대책,김포도시철도(김포골드라인),district,district,false,true,-641,mode_mismatch_or_blank;line_mismatch_or_blank,not_pairable
+김포 한강,SRC-E1-B03,B03,2021년 6월,month,SRC-H012,H012,2019-09-28,day,express_bus,김포한강 광역교통 개선대책,김포도시철도(김포골드라인),district,district,false,true,-641,mode_mismatch_or_blank;line_mismatch_or_blank,not_pairable
+김포 한강,SRC-E1-B03,B03,2021년 6월,month,SRC-E1-C03,C03,2024-01-02,day,express_bus,김포한강 광역교통 개선대책,,district,corridor,false,true,916,line_mismatch_or_blank,not_pairable
+김포 한강,SRC-E1-B03,B03,2021년 6월,month,SRC-E1-C04,C04,2023-02-01,day,express_bus,김포한강 광역교통 개선대책,,district,corridor,false,true,581,line_mismatch_or_blank;inactive_source,not_pairable
+김포 한강,SRC-E1-B04,B04,2022년 11월,month,SRC-H011,H011,2019-09-28,day,rail,김포한강2 철도 연계대책,김포도시철도(김포골드라인),district,district,false,true,-1159,line_mismatch_or_blank,not_pairable
+김포 한강,SRC-E1-B04,B04,2022년 11월,month,SRC-H012,H012,2019-09-28,day,rail,김포한강2 철도 연계대책,김포도시철도(김포골드라인),district,district,false,true,-1159,line_mismatch_or_blank,not_pairable
+김포 한강,SRC-E1-B04,B04,2022년 11월,month,SRC-E1-C03,C03,2024-01-02,day,rail,김포한강2 철도 연계대책,,district,corridor,false,true,398,mode_mismatch_or_blank;line_mismatch_or_blank,not_pairable
+김포 한강,SRC-E1-B04,B04,2022년 11월,month,SRC-E1-C04,C04,2023-02-01,day,rail,김포한강2 철도 연계대책,,district,corridor,false,true,63,mode_mismatch_or_blank;line_mismatch_or_blank;inactive_source,not_pairable
+위례,SRC-H015,H015,2026-H2,half_year,SRC-H017,H017,2021-12-18,day,tram,위례선 트램,수도권 전철 8호선 남위례역,district,district,false,false,-1839,mode_mismatch_or_blank;line_mismatch_or_blank,not_pairable
+위례,SRC-H015,H015,2026-H2,half_year,SRC-H018,H018,2023-08-30,day,tram,위례선 트램,위례 똑버스,district,district_sector,false,false,-1219,mode_mismatch_or_blank;line_mismatch_or_blank,not_pairable
+위례,SRC-H015,H015,2026-H2,half_year,SRC-E1-C05,C05,2025년 9월,month,tram,위례선 트램,,district,corridor,false,false,-457,line_mismatch_or_blank,not_pairable
+위례,SRC-H015,H015,2026-H2,half_year,SRC-E1-C06,C06,2026년,year,tram,위례선 트램,,district,district,false,false,0,line_mismatch_or_blank,not_pairable
+위례,SRC-H016,H016,2026-12,month,SRC-H017,H017,2021-12-18,day,tram,위례선 트램,수도권 전철 8호선 남위례역,district,district,false,true,-1839,mode_mismatch_or_blank;line_mismatch_or_blank,not_pairable
+위례,SRC-H016,H016,2026-12,month,SRC-H018,H018,2023-08-30,day,tram,위례선 트램,위례 똑버스,district,district_sector,false,true,-1219,mode_mismatch_or_blank;line_mismatch_or_blank,not_pairable
+위례,SRC-H016,H016,2026-12,month,SRC-E1-C05,C05,2025년 9월,month,tram,위례선 트램,,district,corridor,false,true,-457,line_mismatch_or_blank,not_pairable
+위례,SRC-H016,H016,2026-12,month,SRC-E1-C06,C06,2026년,year,tram,위례선 트램,,district,district,false,false,0,line_mismatch_or_blank,not_pairable
+위례,SRC-E1-B05,B05,2014-05-15,day,SRC-H017,H017,2021-12-18,day,,,수도권 전철 8호선 남위례역,district,district,false,true,2774,mode_mismatch_or_blank;line_mismatch_or_blank;inactive_source,not_pairable
+위례,SRC-E1-B05,B05,2014-05-15,day,SRC-H018,H018,2023-08-30,day,,,위례 똑버스,district,district_sector,false,true,3394,mode_mismatch_or_blank;line_mismatch_or_blank;inactive_source,not_pairable
+위례,SRC-E1-B05,B05,2014-05-15,day,SRC-E1-C05,C05,2025년 9월,month,,,,district,corridor,false,true,4156,mode_mismatch_or_blank;line_mismatch_or_blank;inactive_source,not_pairable
+위례,SRC-E1-B05,B05,2014-05-15,day,SRC-E1-C06,C06,2026년,year,,,,district,district,false,false,4613,mode_mismatch_or_blank;line_mismatch_or_blank;inactive_source,not_pairable
+남양주 다산,SRC-H021,H021,미정,unknown,SRC-H023,H023,2024-08-10,day,rail,별내선(8호선 연장),별내선(8호선 연장),district,district,false,false,,promise_target_unknown,not_pairable
+남양주 다산,SRC-H021,H021,미정,unknown,SRC-H024,H024,2024-08-10,day,rail,별내선(8호선 연장),별내선(8호선 연장),district,district,false,false,,promise_target_unknown,not_pairable
+남양주 다산,SRC-H021,H021,미정,unknown,SRC-E1-C07,C07,2024.07.13.,day,rail,별내선(8호선 연장),다산역 연계버스 5개 노선,district,corridor,false,false,,mode_mismatch_or_blank;line_mismatch_or_blank;promise_target_unknown,not_pairable
+남양주 다산,SRC-H021,H021,미정,unknown,SRC-E1-C08,C08,2023-01-01,day,rail,별내선(8호선 연장),,district,corridor,false,false,,mode_mismatch_or_blank;line_mismatch_or_blank;promise_target_unknown;inactive_source,not_pairable
+남양주 다산,SRC-H022,H022,2022,year,SRC-H023,H023,2024-08-10,day,rail,별내선(8호선 연장),별내선(8호선 연장),district,district,true,false,588,,draft_needs_human
+남양주 다산,SRC-H022,H022,2022,year,SRC-H024,H024,2024-08-10,day,rail,별내선(8호선 연장),별내선(8호선 연장),district,district,true,false,588,,draft_needs_human
+남양주 다산,SRC-H022,H022,2022,year,SRC-E1-C07,C07,2024.07.13.,day,rail,별내선(8호선 연장),다산역 연계버스 5개 노선,district,corridor,false,false,560,mode_mismatch_or_blank;line_mismatch_or_blank,not_pairable
+남양주 다산,SRC-H022,H022,2022,year,SRC-E1-C08,C08,2023-01-01,day,rail,별내선(8호선 연장),,district,corridor,false,false,1,mode_mismatch_or_blank;line_mismatch_or_blank;inactive_source,not_pairable
+남양주 다산,SRC-E1-B07,B07,2020-12-29,day,SRC-H023,H023,2024-08-10,day,rail,,별내선(8호선 연장),district,district,false,true,1320,line_mismatch_or_blank,not_pairable
+남양주 다산,SRC-E1-B07,B07,2020-12-29,day,SRC-H024,H024,2024-08-10,day,rail,,별내선(8호선 연장),district,district,false,true,1320,line_mismatch_or_blank,not_pairable
+남양주 다산,SRC-E1-B07,B07,2020-12-29,day,SRC-E1-C07,C07,2024.07.13.,day,rail,,다산역 연계버스 5개 노선,district,corridor,false,true,1292,mode_mismatch_or_blank;line_mismatch_or_blank,not_pairable
+남양주 다산,SRC-E1-B07,B07,2020-12-29,day,SRC-E1-C08,C08,2023-01-01,day,rail,,,district,corridor,false,true,733,mode_mismatch_or_blank;line_mismatch_or_blank;inactive_source,not_pairable
+남양주 다산,SRC-E1-B08,B08,2024-08,month,SRC-H023,H023,2024-08-10,day,rail,,별내선(8호선 연장),district,district,false,true,-21,line_mismatch_or_blank;inactive_source,not_pairable
+남양주 다산,SRC-E1-B08,B08,2024-08,month,SRC-H024,H024,2024-08-10,day,rail,,별내선(8호선 연장),district,district,false,true,-21,line_mismatch_or_blank;inactive_source,not_pairable
+남양주 다산,SRC-E1-B08,B08,2024-08,month,SRC-E1-C07,C07,2024.07.13.,day,rail,,다산역 연계버스 5개 노선,district,corridor,false,true,-49,mode_mismatch_or_blank;line_mismatch_or_blank;inactive_source,not_pairable
+남양주 다산,SRC-E1-B08,B08,2024-08,month,SRC-E1-C08,C08,2023-01-01,day,rail,,,district,corridor,false,true,-608,mode_mismatch_or_blank;line_mismatch_or_blank;inactive_source,not_pairable
+하남 미사,SRC-H027,H027,2009,unknown,SRC-H029,H029,2020-08-08,day,rail,하남선(5호선 연장),하남선(5호선 연장),district,district,false,false,,promise_target_unknown,not_pairable
+하남 미사,SRC-H027,H027,2009,unknown,SRC-H030,H030,2021-03-27,day,rail,하남선(5호선 연장),하남선(5호선 연장),district,district,false,false,,promise_target_unknown,not_pairable
+하남 미사,SRC-H027,H027,2009,unknown,SRC-E1-C09,C09,2023-09-18,day,rail,하남선(5호선 연장),미사순환 마을버스,district,corridor,false,false,,mode_mismatch_or_blank;line_mismatch_or_blank;promise_target_unknown,not_pairable
+하남 미사,SRC-H027,H027,2009,unknown,SRC-E1-C10,C10,2024-01-02,day,rail,하남선(5호선 연장),8849번 공항버스,district,corridor,false,false,,mode_mismatch_or_blank;line_mismatch_or_blank;promise_target_unknown,not_pairable
+하남 미사,SRC-H028,H028,2020-08-08,day,SRC-H029,H029,2020-08-08,day,rail,하남선(5호선 연장),하남선(5호선 연장),district,district,true,true,0,,draft_needs_human
+하남 미사,SRC-H028,H028,2020-08-08,day,SRC-H030,H030,2021-03-27,day,rail,하남선(5호선 연장),하남선(5호선 연장),district,district,true,true,231,,draft_needs_human
+하남 미사,SRC-H028,H028,2020-08-08,day,SRC-E1-C09,C09,2023-09-18,day,rail,하남선(5호선 연장),미사순환 마을버스,district,corridor,false,true,1136,mode_mismatch_or_blank;line_mismatch_or_blank,not_pairable
+하남 미사,SRC-H028,H028,2020-08-08,day,SRC-E1-C10,C10,2024-01-02,day,rail,하남선(5호선 연장),8849번 공항버스,district,corridor,false,true,1242,mode_mismatch_or_blank;line_mismatch_or_blank,not_pairable
+하남 미사,SRC-E1-B09,B09,2020-05-21,day,SRC-H029,H029,2020-08-08,day,rail,,하남선(5호선 연장),district,district,false,true,79,line_mismatch_or_blank,not_pairable
+하남 미사,SRC-E1-B09,B09,2020-05-21,day,SRC-H030,H030,2021-03-27,day,rail,,하남선(5호선 연장),district,district,false,true,310,line_mismatch_or_blank,not_pairable
+하남 미사,SRC-E1-B09,B09,2020-05-21,day,SRC-E1-C09,C09,2023-09-18,day,rail,,미사순환 마을버스,district,corridor,false,true,1215,mode_mismatch_or_blank;line_mismatch_or_blank,not_pairable
+하남 미사,SRC-E1-B09,B09,2020-05-21,day,SRC-E1-C10,C10,2024-01-02,day,rail,,8849번 공항버스,district,corridor,false,true,1321,mode_mismatch_or_blank;line_mismatch_or_blank,not_pairable
+하남 미사,SRC-E1-B10,B10,2014-03-19,day,SRC-H029,H029,2020-08-08,day,,,하남선(5호선 연장),district,district,false,true,2334,mode_mismatch_or_blank;line_mismatch_or_blank,not_pairable
+하남 미사,SRC-E1-B10,B10,2014-03-19,day,SRC-H030,H030,2021-03-27,day,,,하남선(5호선 연장),district,district,false,true,2565,mode_mismatch_or_blank;line_mismatch_or_blank,not_pairable
+하남 미사,SRC-E1-B10,B10,2014-03-19,day,SRC-E1-C09,C09,2023-09-18,day,,,미사순환 마을버스,district,corridor,false,true,3470,mode_mismatch_or_blank;line_mismatch_or_blank,not_pairable
+하남 미사,SRC-E1-B10,B10,2014-03-19,day,SRC-E1-C10,C10,2024-01-02,day,,,8849번 공항버스,district,corridor,false,true,3576,mode_mismatch_or_blank;line_mismatch_or_blank,not_pairable

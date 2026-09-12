@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31020,
+            "gpslati": 37.4654833,
+            "gpslong": 127.1610333,
+            "nodeid": "GGB204000194",
+            "nodenm": "웃논골앞",
+            "nodeno": 5172
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4652833,
+            "gpslong": 127.16095,
+            "nodeid": "GGB204000178",
+            "nodenm": "웃논골앞",
+            "nodeno": 5160
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4630167,
+            "gpslong": 127.1614,
+            "nodeid": "GGB204000144",
+            "nodenm": "양지근린공원",
+            "nodeno": 5157
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4631667,
+            "gpslong": 127.1629167,
+            "nodeid": "GGB204000013",
+            "nodenm": "양지근린공원",
+            "nodeno": 5126
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

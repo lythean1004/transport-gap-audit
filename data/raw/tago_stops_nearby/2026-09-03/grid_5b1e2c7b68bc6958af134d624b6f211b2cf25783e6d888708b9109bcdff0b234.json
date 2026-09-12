@@ -1,0 +1,113 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6201,
+            "gpslong": 127.1639333,
+            "nodeid": "GGB222001967",
+            "nodenm": "다산센트럴파크.F1단독택지",
+            "nodeno": 49846
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6198833,
+            "gpslong": 127.1639,
+            "nodeid": "GGB222001966",
+            "nodenm": "다산센트럴파크.F1단독택지",
+            "nodeno": 49845
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6198833,
+            "gpslong": 127.1658667,
+            "nodeid": "GGB222001951",
+            "nodenm": "다산지금경기행복주택.다산지금데시앙",
+            "nodeno": 49830
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6190333,
+            "gpslong": 127.16415,
+            "nodeid": "GGB222000846",
+            "nodenm": "다산지금경기행복주택",
+            "nodeno": 49391
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6196667,
+            "gpslong": 127.1658333,
+            "nodeid": "GGB222001950",
+            "nodenm": "다산지금경기행복주택.다산지금데시앙",
+            "nodeno": 49829
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6187,
+            "gpslong": 127.1638167,
+            "nodeid": "GGB222000836",
+            "nodenm": "다산지금경기행복주택",
+            "nodeno": 49390
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6205833,
+            "gpslong": 127.1596,
+            "nodeid": "GGB222001949",
+            "nodenm": "새봄초정문.F2단독택지",
+            "nodeno": 49828
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6203667,
+            "gpslong": 127.1595833,
+            "nodeid": "GGB222001276",
+            "nodenm": "새봄초정문.F2단독택지",
+            "nodeno": 49186
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6214,
+            "gpslong": 127.1581167,
+            "nodeid": "GGB222000525",
+            "nodenm": "힐스테이트정문.e편한세상.다산유치원",
+            "nodeno": 23222
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.61745,
+            "gpslong": 127.1633833,
+            "nodeid": "GGB222000211",
+            "nodenm": "다산별빛초등학교",
+            "nodeno": 49882
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6174333,
+            "gpslong": 127.1635667,
+            "nodeid": "GGB222000210",
+            "nodenm": "다산별빛초등학교",
+            "nodeno": 49881
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6193667,
+            "gpslong": 127.16815,
+            "nodeid": "GGB222001630",
+            "nodenm": "다산신도시입구",
+            "nodeno": 49514
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 12
+    }
+  }
+}

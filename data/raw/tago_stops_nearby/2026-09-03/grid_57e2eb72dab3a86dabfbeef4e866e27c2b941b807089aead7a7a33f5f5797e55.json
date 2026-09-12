@@ -1,0 +1,41 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31020,
+            "gpslati": 37.4548167,
+            "gpslong": 127.1496167,
+            "nodeid": "GGB204000101",
+            "nodenm": "산성역.포레스티아동문",
+            "nodeno": 5091
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4547333,
+            "gpslong": 127.15,
+            "nodeid": "GGB204000084",
+            "nodenm": "산성역.포레스티아동문",
+            "nodeno": 5092
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.45645,
+            "gpslong": 127.151,
+            "nodeid": "GGB204000083",
+            "nodenm": "하나로문구",
+            "nodeno": 5096
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 3
+    }
+  }
+}

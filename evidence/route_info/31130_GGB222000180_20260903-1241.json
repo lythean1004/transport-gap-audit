@@ -1,0 +1,24 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "endnodenm": "반도유보라정문.다산포레스트2단지",
+          "endvehicletime": 2230,
+          "intervalsattime": 50,
+          "intervalsuntime": 50,
+          "intervaltime": 30,
+          "routeid": "GGB222000180",
+          "routeno": "땡큐12",
+          "routetp": "일반버스",
+          "startnodenm": "수택고등학교정문",
+          "startvehicletime": "0530"
+        }
+      }
+    }
+  }
+}

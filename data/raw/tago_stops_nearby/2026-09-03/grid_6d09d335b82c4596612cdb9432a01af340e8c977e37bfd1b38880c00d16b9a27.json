@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6086833,
+            "gpslong": 127.1834,
+            "nodeid": "GGB222000365",
+            "nodenm": "왕자궁마을",
+            "nodeno": 23236
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6089333,
+            "gpslong": 127.1833167,
+            "nodeid": "GGB222000348",
+            "nodenm": "왕자궁마을",
+            "nodeno": 23237
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6055667,
+            "gpslong": 127.17435,
+            "nodeid": "GGB222000298",
+            "nodenm": "남양주체육문화센터.에일린의뜰",
+            "nodeno": 23183
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6113333,
+            "gpslong": 127.1806833,
+            "nodeid": "GGB222000366",
+            "nodenm": "명우리마을",
+            "nodeno": 23218
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

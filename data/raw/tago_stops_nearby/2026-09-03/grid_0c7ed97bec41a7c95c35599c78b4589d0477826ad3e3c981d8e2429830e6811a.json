@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.4976333,
+            "gpslong": 127.1617333,
+            "nodeid": "GGB227000238",
+            "nodenm": "감일교차로",
+            "nodeno": 28190
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4975833,
+            "gpslong": 127.1623667,
+            "nodeid": "GGB227000188",
+            "nodenm": "감일교차로",
+            "nodeno": 28189
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

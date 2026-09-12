@@ -1,0 +1,121 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31020,
+            "gpslati": 37.46055,
+            "gpslong": 127.1372667,
+            "nodeid": "GGB204000168",
+            "nodenm": "복정고.남위례역아테라",
+            "nodeno": 5087
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4616833,
+            "gpslong": 127.1393,
+            "nodeid": "GGB204000170",
+            "nodenm": "남위례역.위례해솔초등학교",
+            "nodeno": 5111
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4603667,
+            "gpslong": 127.13725,
+            "nodeid": "GGB204000169",
+            "nodenm": "복정고.남위례역아테라",
+            "nodeno": 5095
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.46155,
+            "gpslong": 127.1394667,
+            "nodeid": "GGB204000171",
+            "nodenm": "남위례역.위례해솔초등학교",
+            "nodeno": 5117
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4631,
+            "gpslong": 127.1394333,
+            "nodeid": "GGB204000180",
+            "nodenm": "남위례역",
+            "nodeno": 5166
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4630833,
+            "gpslong": 127.14045,
+            "nodeid": "GGB277100036",
+            "nodenm": "창곡교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.46405,
+            "gpslong": 127.13945,
+            "nodeid": "GGB204000068",
+            "nodenm": "남위례역.성남여성인력개발센터",
+            "nodeno": 5163
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4600333,
+            "gpslong": 127.1403667,
+            "nodeid": "GGB204000172",
+            "nodenm": "위례해솔초등학교.위례해솔유치원",
+            "nodeno": 5119
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4599,
+            "gpslong": 127.1405333,
+            "nodeid": "GGB204000173",
+            "nodenm": "남위례역수자인센트럴.엘리프남위례역에듀포레",
+            "nodeno": 5124
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4626667,
+            "gpslong": 127.1412,
+            "nodeid": "GGB204000032",
+            "nodenm": "남위례역.복정지구",
+            "nodeno": 5065
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4651,
+            "gpslong": 127.1360167,
+            "nodeid": "GGB204000148",
+            "nodenm": "복정고등학교.복정지구",
+            "nodeno": 5159
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4642,
+            "gpslong": 127.1413833,
+            "nodeid": "GGB204000331",
+            "nodenm": "남위례역.창곡교차로",
+            "nodeno": 5321
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4641667,
+            "gpslong": 127.1417667,
+            "nodeid": "GGB204000330",
+            "nodenm": "남위례역.창곡교차로",
+            "nodeno": 5320
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 13
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1831333,
+            "gpslong": 127.1207167,
+            "nodeid": "GGB233002057",
+            "nodenm": "힐스테이트동탄",
+            "nodeno": 55027
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1829,
+            "gpslong": 127.1204833,
+            "nodeid": "GGB233000184",
+            "nodenm": "힐스테이트동탄",
+            "nodeno": 55704
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1848667,
+            "gpslong": 127.1229333,
+            "nodeid": "GGB233001620",
+            "nodenm": "힐스테이트.호반5차",
+            "nodeno": 55490
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1833833,
+            "gpslong": 127.11545,
+            "nodeid": "GGB233001785",
+            "nodenm": "의료복합",
+            "nodeno": 55506
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.18645,
+            "gpslong": 127.12385,
+            "nodeid": "GGB233001614",
+            "nodenm": "한신더휴",
+            "nodeno": 55489
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 5
+    }
+  }
+}

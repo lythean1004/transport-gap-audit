@@ -1,0 +1,41 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31140,
+            "gpslati": 37.1383333,
+            "gpslong": 127.0930667,
+            "nodeid": "GGB223000154",
+            "nodenm": "오산롯데캐슬스카이파크아파트",
+            "nodeno": 24333
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1401,
+            "gpslong": 127.09305,
+            "nodeid": "GGB223000155",
+            "nodenm": "오산롯데캐슬스카이파크아파트.주출입구",
+            "nodeno": 24337
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1401,
+            "gpslong": 127.09285,
+            "nodeid": "GGB223000159",
+            "nodenm": "오산롯데캐슬스카이파크아파트.주출입구",
+            "nodeno": 24372
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 3
+    }
+  }
+}

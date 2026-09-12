@@ -1,0 +1,137 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6134667,
+            "gpslong": 127.1708333,
+            "nodeid": "GGB222001422",
+            "nodenm": "경기주택도시공사.보아주택",
+            "nodeno": 49360
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6120833,
+            "gpslong": 127.171,
+            "nodeid": "GGB222000727",
+            "nodenm": "남양주남부경찰서.남양주제2청사.보건소.교육지원청",
+            "nodeno": 23812
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6123167,
+            "gpslong": 127.1707,
+            "nodeid": "GGB222000726",
+            "nodenm": "남양주남부경찰서.남양주제2청사.보건소.교육지원청",
+            "nodeno": 23808
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6125333,
+            "gpslong": 127.1759333,
+            "nodeid": "GGB222000346",
+            "nodenm": "에이치엘비제약.현충탑",
+            "nodeno": 23187
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.61435,
+            "gpslong": 127.1703167,
+            "nodeid": "GGB222000418",
+            "nodenm": "의정부지방법원남양주지원.보아주택",
+            "nodeno": 23170
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6125,
+            "gpslong": 127.1763667,
+            "nodeid": "GGB222000367",
+            "nodenm": "에이치엘비제약.현충탑",
+            "nodeno": 23192
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6103833,
+            "gpslong": 127.17275,
+            "nodeid": "GGB222001316",
+            "nodenm": "남양주제2청사.남양주남부경찰서.남양주보건소",
+            "nodeno": 23928
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6103333,
+            "gpslong": 127.1724667,
+            "nodeid": "GGB222001317",
+            "nodenm": "남양주제2청사.남양주남부경찰서.남양주보건소",
+            "nodeno": 23926
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6142833,
+            "gpslong": 127.16995,
+            "nodeid": "GGB222001631",
+            "nodenm": "의정부지방법원남양주지원",
+            "nodeno": 49515
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6135167,
+            "gpslong": 127.1695833,
+            "nodeid": "GGB222001286",
+            "nodenm": "법원.검찰청",
+            "nodeno": 49859
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6136333,
+            "gpslong": 127.1695333,
+            "nodeid": "GGB222000611",
+            "nodenm": "법원.검찰청",
+            "nodeno": 49858
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6116667,
+            "gpslong": 127.1698333,
+            "nodeid": "GGB222000660",
+            "nodenm": "남양주제2청사.보건소.교육지원청.남부경찰서",
+            "nodeno": 23158
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6110667,
+            "gpslong": 127.169,
+            "nodeid": "GGB222000368",
+            "nodenm": "구리남양주교육지원청",
+            "nodeno": 49853
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6094333,
+            "gpslong": 127.1701833,
+            "nodeid": "GGB222001416",
+            "nodenm": "남양주도로관리사업소",
+            "nodeno": 49855
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6093833,
+            "gpslong": 127.17005,
+            "nodeid": "GGB222000308",
+            "nodenm": "남양주도로관리사업소",
+            "nodeno": 49854
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 15
+    }
+  }
+}

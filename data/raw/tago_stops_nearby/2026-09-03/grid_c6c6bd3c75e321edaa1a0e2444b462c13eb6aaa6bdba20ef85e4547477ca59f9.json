@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1732333,
+            "gpslong": 127.1332333,
+            "nodeid": "GGB233000354",
+            "nodenm": "호반써밋동탄",
+            "nodeno": 55816
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1730167,
+            "gpslong": 127.13365,
+            "nodeid": "GGB233000353",
+            "nodenm": "호반써밋동탄",
+            "nodeno": 55815
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.17945,
+            "gpslong": 127.1328333,
+            "nodeid": "GGB233001333",
+            "nodenm": "C10",
+            "nodeno": 55915
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.17975,
+            "gpslong": 127.1330333,
+            "nodeid": "GGB233001317",
+            "nodenm": "C10",
+            "nodeno": 55914
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

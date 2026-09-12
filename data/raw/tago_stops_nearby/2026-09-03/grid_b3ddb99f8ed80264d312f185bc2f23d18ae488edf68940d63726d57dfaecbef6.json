@@ -1,0 +1,81 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31120,
+            "gpslati": 37.5935833,
+            "gpslong": 127.16055,
+            "nodeid": "GGB221000249",
+            "nodenm": "적환장",
+            "nodeno": 22237
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5932667,
+            "gpslong": 127.1597,
+            "nodeid": "GGB221000048",
+            "nodenm": "환경관리사업소.구리시곤충생태관",
+            "nodeno": 22167
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5933167,
+            "gpslong": 127.1637,
+            "nodeid": "GGB277104783",
+            "nodenm": "토평교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5935,
+            "gpslong": 127.1636667,
+            "nodeid": "GGB277104784",
+            "nodenm": "토평교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5908,
+            "gpslong": 127.15805,
+            "nodeid": "GGB221000257",
+            "nodenm": "구리영업소",
+            "nodeno": 22242
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.59335,
+            "gpslong": 127.1571667,
+            "nodeid": "GGB221000179",
+            "nodenm": "구리수택차고지맞은편",
+            "nodeno": 22340
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5935667,
+            "gpslong": 127.15655,
+            "nodeid": "GGB221000047",
+            "nodenm": "구리수택차고지",
+            "nodeno": 22165
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5936667,
+            "gpslong": 127.1563667,
+            "nodeid": "GGB221000046",
+            "nodenm": "구리수택차고지",
+            "nodeno": 22164
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 8
+    }
+  }
+}

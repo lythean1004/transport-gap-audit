@@ -1,0 +1,121 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31190,
+            "gpslati": 37.2217333,
+            "gpslong": 127.10135,
+            "nodeid": "GGB277102516",
+            "nodenm": "기흥IC진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2175667,
+            "gpslong": 127.1036333,
+            "nodeid": "GGB233002165",
+            "nodenm": "현대트랜시스",
+            "nodeno": 55602
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2172833,
+            "gpslong": 127.1038167,
+            "nodeid": "GGB233000709",
+            "nodenm": "현대트랜시스(중)",
+            "nodeno": 55854
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2215333,
+            "gpslong": 127.1035,
+            "nodeid": "GGB228001669",
+            "nodenm": "기흥IC",
+            "nodeno": 47645
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.22175,
+            "gpslong": 127.1034333,
+            "nodeid": "GGB228001670",
+            "nodenm": "기흥IC",
+            "nodeno": 47644
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2225,
+            "gpslong": 127.0985667,
+            "nodeid": "GGB228001113",
+            "nodenm": "고매사거리.고매농협",
+            "nodeno": 29119
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2218333,
+            "gpslong": 127.0973333,
+            "nodeid": "GGB228001795",
+            "nodenm": "고매사거리.고매농협",
+            "nodeno": 47788
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2163,
+            "gpslong": 127.1036667,
+            "nodeid": "GGB233000698",
+            "nodenm": "현대트랜시스(중)",
+            "nodeno": 55853
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2166167,
+            "gpslong": 127.0969833,
+            "nodeid": "GGB277101636",
+            "nodenm": "기흥동탄IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2229167,
+            "gpslong": 127.0988667,
+            "nodeid": "GGB228001114",
+            "nodenm": "고매파출소",
+            "nodeno": 29108
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.21625,
+            "gpslong": 127.0972833,
+            "nodeid": "GGB277102247",
+            "nodenm": "기흥동탄IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.21615,
+            "gpslong": 127.1038333,
+            "nodeid": "GGB233002017",
+            "nodenm": "현대트랜시스",
+            "nodeno": 55585
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.22315,
+            "gpslong": 127.1031167,
+            "nodeid": "GGB228001276",
+            "nodenm": "hy중앙연구소",
+            "nodeno": 56843
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 13
+    }
+  }
+}

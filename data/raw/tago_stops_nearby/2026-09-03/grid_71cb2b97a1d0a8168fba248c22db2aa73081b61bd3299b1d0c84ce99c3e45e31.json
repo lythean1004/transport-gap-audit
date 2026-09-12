@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5345167,
+            "gpslong": 127.1874667,
+            "nodeid": "GGB227000562",
+            "nodenm": "굴다리",
+            "nodeno": 28365
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5345667,
+            "gpslong": 127.18745,
+            "nodeid": "GGB227000561",
+            "nodenm": "굴다리",
+            "nodeno": 28364
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5329,
+            "gpslong": 127.1841,
+            "nodeid": "GGB227000560",
+            "nodenm": "상화울관음사",
+            "nodeno": 28363
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5328833,
+            "gpslong": 127.1840333,
+            "nodeid": "GGB227000559",
+            "nodenm": "상화울관음사",
+            "nodeno": 28362
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

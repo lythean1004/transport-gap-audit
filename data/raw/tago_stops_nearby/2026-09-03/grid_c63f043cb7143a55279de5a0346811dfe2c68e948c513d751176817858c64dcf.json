@@ -1,0 +1,169 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6389333,
+            "gpslong": 126.6439333,
+            "nodeid": "GGB232000918",
+            "nodenm": "반도유보라3차",
+            "nodeno": 35868
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6373333,
+            "gpslong": 126.6424,
+            "nodeid": "GGB232000889",
+            "nodenm": "상록데시앙",
+            "nodeno": 35837
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6373,
+            "gpslong": 126.6421,
+            "nodeid": "GGB232000890",
+            "nodenm": "상록데시앙",
+            "nodeno": 35838
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6387833,
+            "gpslong": 126.6442667,
+            "nodeid": "GGB232000919",
+            "nodenm": "반도유보라3차",
+            "nodeno": 35869
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6398667,
+            "gpslong": 126.6436333,
+            "nodeid": "GGB232000006",
+            "nodenm": "마산119안전센터",
+            "nodeno": 35080
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63995,
+            "gpslong": 126.6439,
+            "nodeid": "GGB232000007",
+            "nodenm": "마산119안전센터",
+            "nodeno": 35084
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6402667,
+            "gpslong": 126.6427333,
+            "nodeid": "GGB232000777",
+            "nodenm": "마산역",
+            "nodeno": 35684
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64055,
+            "gpslong": 126.64255,
+            "nodeid": "GGB232000781",
+            "nodenm": "마산역",
+            "nodeno": 35685
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6363167,
+            "gpslong": 126.6430833,
+            "nodeid": "GGB232000342",
+            "nodenm": "은여울마을입구사거리",
+            "nodeno": 35969
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6359333,
+            "gpslong": 126.64315,
+            "nodeid": "GGB232000343",
+            "nodenm": "은여울마을입구사거리",
+            "nodeno": 35970
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6410833,
+            "gpslong": 126.64355,
+            "nodeid": "GGB232000009",
+            "nodenm": "마산역",
+            "nodeno": 35086
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64115,
+            "gpslong": 126.6432,
+            "nodeid": "GGB232000008",
+            "nodenm": "마산역",
+            "nodeno": 35085
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6408667,
+            "gpslong": 126.64565,
+            "nodeid": "GGB232000784",
+            "nodenm": "김포생활체육관",
+            "nodeno": 35695
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.642,
+            "gpslong": 126.6429,
+            "nodeid": "GGB232000834",
+            "nodenm": "자이더빌리지",
+            "nodeno": 35781
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6412167,
+            "gpslong": 126.6458667,
+            "nodeid": "GGB232000783",
+            "nodenm": "김포생활체육관",
+            "nodeno": 35694
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6422333,
+            "gpslong": 126.6431167,
+            "nodeid": "GGB232000832",
+            "nodenm": "자이더빌리지",
+            "nodeno": 35779
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6371167,
+            "gpslong": 126.6379167,
+            "nodeid": "GGB232000970",
+            "nodenm": "은여울중학교.경남아너스빌",
+            "nodeno": 35920
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6392333,
+            "gpslong": 126.6375167,
+            "nodeid": "GGB232000741",
+            "nodenm": "힐스테이트.경남아너스빌",
+            "nodeno": 35659
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6368833,
+            "gpslong": 126.6378,
+            "nodeid": "GGB232000969",
+            "nodenm": "은여울중학교.경남아너스빌",
+            "nodeno": 35919
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 19
+    }
+  }
+}

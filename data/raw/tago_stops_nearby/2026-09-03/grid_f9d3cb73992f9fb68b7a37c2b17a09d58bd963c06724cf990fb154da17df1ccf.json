@@ -1,0 +1,217 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31120,
+            "gpslati": 37.6062833,
+            "gpslong": 127.14585,
+            "nodeid": "GGB221000284",
+            "nodenm": "인창중고등학교",
+            "nodeno": 22101
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6061,
+            "gpslong": 127.1457333,
+            "nodeid": "GGB221000274",
+            "nodenm": "인창중고등학교",
+            "nodeno": 22063
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6049833,
+            "gpslong": 127.1447333,
+            "nodeid": "GGB221000272",
+            "nodenm": "구리보건소.인창도서관",
+            "nodeno": 22094
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.60685,
+            "gpslong": 127.1443333,
+            "nodeid": "GGB221000318",
+            "nodenm": "인창주공6단지",
+            "nodeno": 22197
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6069333,
+            "gpslong": 127.1443667,
+            "nodeid": "GGB221000315",
+            "nodenm": "인창주공4단지",
+            "nodeno": 22223
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.60505,
+            "gpslong": 127.1443333,
+            "nodeid": "GGB221000283",
+            "nodenm": "구리보건소.인창도서관",
+            "nodeno": 22103
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6042167,
+            "gpslong": 127.1479833,
+            "nodeid": "GGB221000383",
+            "nodenm": "왕숙교(마을)",
+            "nodeno": 22183
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6043,
+            "gpslong": 127.1494,
+            "nodeid": "GGB277104247",
+            "nodenm": "왕숙교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6085167,
+            "gpslong": 127.1444167,
+            "nodeid": "GGB221000360",
+            "nodenm": "수산물시장입구",
+            "nodeno": 22291
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6040167,
+            "gpslong": 127.1495167,
+            "nodeid": "GGB277104248",
+            "nodenm": "왕숙교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6047333,
+            "gpslong": 127.1429667,
+            "nodeid": "GGB221000273",
+            "nodenm": "삼환.신일아파트",
+            "nodeno": 22084
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6086833,
+            "gpslong": 127.1444333,
+            "nodeid": "GGB221000361",
+            "nodenm": "수산물시장입구",
+            "nodeno": 22292
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6030167,
+            "gpslong": 127.14805,
+            "nodeid": "GGB221000384",
+            "nodenm": "한양수자인구리역",
+            "nodeno": 22205
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6045167,
+            "gpslong": 127.1427,
+            "nodeid": "GGB221000295",
+            "nodenm": "구리우체국",
+            "nodeno": 22176
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6026,
+            "gpslong": 127.1446,
+            "nodeid": "GGB221000266",
+            "nodenm": "롯데백화점(강변역.강동방면)(중)",
+            "nodeno": 22248
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6053,
+            "gpslong": 127.14185,
+            "nodeid": "GGB221000117",
+            "nodenm": "인창지구대앞",
+            "nodeno": 22192
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.60855,
+            "gpslong": 127.1428,
+            "nodeid": "GGB221000296",
+            "nodenm": "인창포레리움.주공4단지",
+            "nodeno": 22178
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.60525,
+            "gpslong": 127.1417,
+            "nodeid": "GGB221000118",
+            "nodenm": "인창지구대앞",
+            "nodeno": 22193
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6086833,
+            "gpslong": 127.1427667,
+            "nodeid": "GGB221000286",
+            "nodenm": "인창포레리움.주공4단지",
+            "nodeno": 22218
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6024167,
+            "gpslong": 127.1442167,
+            "nodeid": "GGB221000239",
+            "nodenm": "롯데백화점.구리역입구(청량리.인창동방면)(중)",
+            "nodeno": 22231
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6071333,
+            "gpslong": 127.1416333,
+            "nodeid": "GGB221000278",
+            "nodenm": "삼보아파트",
+            "nodeno": 22030
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6069,
+            "gpslong": 127.1415333,
+            "nodeid": "GGB221000319",
+            "nodenm": "삼보아파트",
+            "nodeno": 22182
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6031833,
+            "gpslong": 127.14275,
+            "nodeid": "GGB221000304",
+            "nodenm": "구리역.롯데백화점",
+            "nodeno": 22211
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6030333,
+            "gpslong": 127.1426333,
+            "nodeid": "GGB221000303",
+            "nodenm": "구리역.롯데백화점",
+            "nodeno": 22210
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6043667,
+            "gpslong": 127.1413667,
+            "nodeid": "GGB221000302",
+            "nodenm": "인창119안전센터.광역면접교섭센터",
+            "nodeno": 22209
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 25
+    }
+  }
+}

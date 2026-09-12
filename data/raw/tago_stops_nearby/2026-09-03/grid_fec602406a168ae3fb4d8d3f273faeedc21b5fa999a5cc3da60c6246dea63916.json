@@ -1,0 +1,121 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6473833,
+            "gpslong": 126.6746,
+            "nodeid": "GGB232000808",
+            "nodenm": "금빛수로",
+            "nodeno": 35717
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6475667,
+            "gpslong": 126.6724833,
+            "nodeid": "GGB232000543",
+            "nodenm": "고창초등학교",
+            "nodeno": 35495
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6473833,
+            "gpslong": 126.6718333,
+            "nodeid": "GGB232000544",
+            "nodenm": "고창초등학교",
+            "nodeno": 35499
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6476167,
+            "gpslong": 126.6746833,
+            "nodeid": "GGB232000807",
+            "nodenm": "금빛수로",
+            "nodeno": 35716
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6455333,
+            "gpslong": 126.6700667,
+            "nodeid": "GGB232000518",
+            "nodenm": "장기역4번출구",
+            "nodeno": 35313
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6451333,
+            "gpslong": 126.6702,
+            "nodeid": "GGB232000517",
+            "nodenm": "장기역4번출구",
+            "nodeno": 35314
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6440667,
+            "gpslong": 126.6763667,
+            "nodeid": "GGB232000797",
+            "nodenm": "운양중학교",
+            "nodeno": 35706
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6473,
+            "gpslong": 126.6770667,
+            "nodeid": "GGB232000367",
+            "nodenm": "지경",
+            "nodeno": 35209
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64375,
+            "gpslong": 126.6764,
+            "nodeid": "GGB232000799",
+            "nodenm": "운양중학교",
+            "nodeno": 35708
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6434333,
+            "gpslong": 126.6705,
+            "nodeid": "GGB232000691",
+            "nodenm": "장기역5번출구",
+            "nodeno": 35634
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6474833,
+            "gpslong": 126.6776,
+            "nodeid": "GGB232000421",
+            "nodenm": "지경",
+            "nodeno": 35208
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64315,
+            "gpslong": 126.6702333,
+            "nodeid": "GGB232000692",
+            "nodenm": "고창중학교",
+            "nodeno": 35636
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64775,
+            "gpslong": 126.6784833,
+            "nodeid": "GGB232000753",
+            "nodenm": "한강신도시푸르지오",
+            "nodeno": 35665
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 13
+    }
+  }
+}

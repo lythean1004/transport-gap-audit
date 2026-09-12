@@ -1,0 +1,2 @@
+source_id,source_type,title,publisher,url,local_path,sha256,file_size_bytes,file_mtime,retrieved_at,notes
+KAPT_EXCEL_LATEST,참고자료(주간 갱신),K-apt 단지 기본정보,K-apt,,data/raw/kapt/20260821_kapt.xlsx,043321ead941629822b9cbd6c383c5b18ddf4122992f294d85c7df8e8c36be86,11633054,2026-08-26 17:21:08,2026-09-02 22:45:42,"K-apt는 본 엑셀을 참고자료로 명시, 최신 확정값은 K-apt OpenAPI 기준"

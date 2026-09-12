@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1874667,
+            "gpslong": 127.14175,
+            "nodeid": "GGB233000896",
+            "nodenm": "(임시)행복주택",
+            "nodeno": 55972
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1870833,
+            "gpslong": 127.1414,
+            "nodeid": "GGB233002981",
+            "nodenm": "(임시)행복주택",
+            "nodeno": 55973
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1910667,
+            "gpslong": 127.14175,
+            "nodeid": "GGB233002980",
+            "nodenm": "동탄파크릭스",
+            "nodeno": 55974
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1911,
+            "gpslong": 127.1419167,
+            "nodeid": "GGB233003223",
+            "nodenm": "동탄파크릭스",
+            "nodeno": 55982
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.18385,
+            "gpslong": 127.1407833,
+            "nodeid": "GGB233001206",
+            "nodenm": "(임시)55단지",
+            "nodeno": 55971
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1834167,
+            "gpslong": 127.1409667,
+            "nodeid": "GGB233000982",
+            "nodenm": "(임시)55단지",
+            "nodeno": 55970
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6473,
+            "gpslong": 126.6770667,
+            "nodeid": "GGB232000367",
+            "nodenm": "지경",
+            "nodeno": 35209
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6474833,
+            "gpslong": 126.6776,
+            "nodeid": "GGB232000421",
+            "nodenm": "지경",
+            "nodeno": 35208
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6481,
+            "gpslong": 126.67845,
+            "nodeid": "GGB232000756",
+            "nodenm": "한강신도시푸르지오",
+            "nodeno": 35668
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64775,
+            "gpslong": 126.6784833,
+            "nodeid": "GGB232000753",
+            "nodenm": "한강신도시푸르지오",
+            "nodeno": 35665
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6476167,
+            "gpslong": 126.6746833,
+            "nodeid": "GGB232000807",
+            "nodenm": "금빛수로",
+            "nodeno": 35716
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6497833,
+            "gpslong": 126.67795,
+            "nodeid": "GGB232001170",
+            "nodenm": "모담폭포",
+            "nodeno": 35994
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6473833,
+            "gpslong": 126.6746,
+            "nodeid": "GGB232000808",
+            "nodenm": "금빛수로",
+            "nodeno": 35717
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6514,
+            "gpslong": 126.6779,
+            "nodeid": "GGB232000759",
+            "nodenm": "반도유보라2차.김포대학교",
+            "nodeno": 35669
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.650678,
+            "gpslong": 126.673737,
+            "nodeid": "ICB232000730",
+            "nodenm": "한강로사거리",
+            "nodeno": 35291
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.650916,
+            "gpslong": 126.674084,
+            "nodeid": "ICB232000732",
+            "nodenm": "한강로사거리",
+            "nodeno": 35295
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6506667,
+            "gpslong": 126.6737167,
+            "nodeid": "GGB232000730",
+            "nodenm": "한강로사거리",
+            "nodeno": 35291
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6475667,
+            "gpslong": 126.6724833,
+            "nodeid": "GGB232000543",
+            "nodenm": "고창초등학교",
+            "nodeno": 35495
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65095,
+            "gpslong": 126.6741,
+            "nodeid": "GGB232000732",
+            "nodenm": "한강로사거리",
+            "nodeno": 35295
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6462333,
+            "gpslong": 126.6806167,
+            "nodeid": "GGB232000755",
+            "nodenm": "전원마을4단지",
+            "nodeno": 35667
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6518333,
+            "gpslong": 126.6757667,
+            "nodeid": "GGB232000786",
+            "nodenm": "삼성래미안",
+            "nodeno": 35697
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6518833,
+            "gpslong": 126.67595,
+            "nodeid": "GGB232000785",
+            "nodenm": "삼성래미안",
+            "nodeno": 35696
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64605,
+            "gpslong": 126.6806167,
+            "nodeid": "GGB232000754",
+            "nodenm": "전원마을4단지",
+            "nodeno": 35666
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6516667,
+            "gpslong": 126.6788333,
+            "nodeid": "GGB232000758",
+            "nodenm": "반도유보라2차.김포대학교",
+            "nodeno": 35389
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6473833,
+            "gpslong": 126.6718333,
+            "nodeid": "GGB232000544",
+            "nodenm": "고창초등학교",
+            "nodeno": 35499
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6440667,
+            "gpslong": 126.6763667,
+            "nodeid": "GGB232000797",
+            "nodenm": "운양중학교",
+            "nodeno": 35706
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64375,
+            "gpslong": 126.6764,
+            "nodeid": "GGB232000799",
+            "nodenm": "운양중학교",
+            "nodeno": 35708
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 21
+    }
+  }
+}

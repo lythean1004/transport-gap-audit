@@ -1,0 +1,153 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31120,
+            "gpslati": 37.597,
+            "gpslong": 127.14505,
+            "nodeid": "GGB221000069",
+            "nodenm": "남양시장.하이스트빌",
+            "nodeno": 22129
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5968,
+            "gpslong": 127.1449167,
+            "nodeid": "GGB221000089",
+            "nodenm": "남양시장",
+            "nodeno": 22128
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5983833,
+            "gpslong": 127.1429,
+            "nodeid": "GGB221000090",
+            "nodenm": "새마을금고.구리시장입구",
+            "nodeno": 22118
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5990833,
+            "gpslong": 127.1427,
+            "nodeid": "GGB221000068",
+            "nodenm": "새마을금고.구리시장입구",
+            "nodeno": 22117
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5992667,
+            "gpslong": 127.1503833,
+            "nodeid": "GGB221000032",
+            "nodenm": "수택주공뜨란채.남양아파트",
+            "nodeno": 22155
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.60175,
+            "gpslong": 127.1433,
+            "nodeid": "GGB221000269",
+            "nodenm": "구리시시외.공항버스정류장",
+            "nodeno": 22249
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6001167,
+            "gpslong": 127.14195,
+            "nodeid": "GGB221000306",
+            "nodenm": "남양저축은행",
+            "nodeno": 22213
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6019,
+            "gpslong": 127.14335,
+            "nodeid": "GGB221000240",
+            "nodenm": "롯데백화점.구리역입구(중)",
+            "nodeno": 22230
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5956333,
+            "gpslong": 127.1471167,
+            "nodeid": "GGB221000070",
+            "nodenm": "수택1동행정복지센터.축산농협구리지점",
+            "nodeno": 22138
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6024167,
+            "gpslong": 127.1442167,
+            "nodeid": "GGB221000239",
+            "nodenm": "롯데백화점.구리역입구(청량리.인창동방면)(중)",
+            "nodeno": 22231
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5999833,
+            "gpslong": 127.1417333,
+            "nodeid": "GGB221000305",
+            "nodenm": "남양저축은행",
+            "nodeno": 22212
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6026,
+            "gpslong": 127.1446,
+            "nodeid": "GGB221000266",
+            "nodenm": "롯데백화점(강변역.강동방면)(중)",
+            "nodeno": 22248
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5954,
+            "gpslong": 127.14705,
+            "nodeid": "GGB221000088",
+            "nodenm": "수택1동행정복지센터.축산농협구리지점",
+            "nodeno": 22140
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6019,
+            "gpslong": 127.1427667,
+            "nodeid": "GGB221000268",
+            "nodenm": "구리시시외.공항버스정류장",
+            "nodeno": 22247
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.59855,
+            "gpslong": 127.1511833,
+            "nodeid": "GGB221000027",
+            "nodenm": "수택주공뜨란채.남양아파트",
+            "nodeno": 22158
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6030167,
+            "gpslong": 127.14805,
+            "nodeid": "GGB221000384",
+            "nodenm": "한양수자인구리역",
+            "nodeno": 22205
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.59795,
+            "gpslong": 127.1514333,
+            "nodeid": "GGB221000356",
+            "nodenm": "검배체육문화센터",
+            "nodeno": 22287
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 17
+    }
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 23,
+            "gpslati": 37.647086,
+            "gpslong": 126.663865,
+            "nodeid": "ICB232000708",
+            "nodenm": "청송마을.성우오스타",
+            "nodeno": 80329
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6465333,
+            "gpslong": 126.6647833,
+            "nodeid": "GGB232000440",
+            "nodenm": "은혜와진리교회",
+            "nodeno": 35465
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6471,
+            "gpslong": 126.6637167,
+            "nodeid": "GGB232000708",
+            "nodenm": "청송마을.성우오스타",
+            "nodeno": 35193
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6471167,
+            "gpslong": 126.6631167,
+            "nodeid": "GGB232000709",
+            "nodenm": "고창마을.KCC",
+            "nodeno": 35194
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.647234,
+            "gpslong": 126.662967,
+            "nodeid": "ICB232000709",
+            "nodenm": "고창마을.KCC",
+            "nodeno": 80328
+          },
+          {
+            "citycode": 23,
+            "gpslati": "37.648140",
+            "gpslong": 126.666643,
+            "nodeid": "ICB232000315",
+            "nodenm": "청송2.3단지",
+            "nodeno": 80089
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64815,
+            "gpslong": 126.66665,
+            "nodeid": "GGB232000315",
+            "nodenm": "청송2.3단지",
+            "nodeno": 35198
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6483333,
+            "gpslong": 126.6628667,
+            "nodeid": "GGB232001266",
+            "nodenm": "모아미래도엘가",
+            "nodeno": 35998
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6488167,
+            "gpslong": 126.6628833,
+            "nodeid": "GGB232000051",
+            "nodenm": "모아미래도엘가",
+            "nodeno": 35157
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64825,
+            "gpslong": 126.6671833,
+            "nodeid": "GGB232000318",
+            "nodenm": "청송2.3단지",
+            "nodeno": 35200
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.648257,
+            "gpslong": 126.667274,
+            "nodeid": "ICB232000318",
+            "nodenm": "청송2.3단지",
+            "nodeno": 80101
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6471333,
+            "gpslong": 126.6615667,
+            "nodeid": "GGB232000676",
+            "nodenm": "운유초교",
+            "nodeno": 35760
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6482833,
+            "gpslong": 126.6615667,
+            "nodeid": "GGB232000826",
+            "nodenm": "모아.호반아파트",
+            "nodeno": 35738
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6504167,
+            "gpslong": 126.6637167,
+            "nodeid": "GGB232000870",
+            "nodenm": "성우오스타.모아미래도엘가",
+            "nodeno": 35817
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6483833,
+            "gpslong": 126.6607667,
+            "nodeid": "GGB232000827",
+            "nodenm": "모아.호반아파트",
+            "nodeno": 35739
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6448167,
+            "gpslong": 126.6617833,
+            "nodeid": "GGB232000627",
+            "nodenm": "고창마을KCC아파트",
+            "nodeno": 35573
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6449,
+            "gpslong": 126.6678167,
+            "nodeid": "GGB232000541",
+            "nodenm": "장기역.김포고용복지플러스센터",
+            "nodeno": 35508
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6507833,
+            "gpslong": 126.6637833,
+            "nodeid": "GGB232000868",
+            "nodenm": "성우오스타.모아미래도엘가",
+            "nodeno": 35815
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6445833,
+            "gpslong": 126.66765,
+            "nodeid": "GGB232000540",
+            "nodenm": "장기역.김포고용복지플러스센터",
+            "nodeno": 35513
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6442833,
+            "gpslong": 126.66235,
+            "nodeid": "GGB232000876",
+            "nodenm": "한양수자인",
+            "nodeno": 35823
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6453,
+            "gpslong": 126.6604833,
+            "nodeid": "GGB232000875",
+            "nodenm": "호반베르디움앞",
+            "nodeno": 35822
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6506667,
+            "gpslong": 126.6618167,
+            "nodeid": "GGB232000811",
+            "nodenm": "모아미래도",
+            "nodeno": 35723
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6504,
+            "gpslong": 126.6612333,
+            "nodeid": "GGB232000812",
+            "nodenm": "모아미래도",
+            "nodeno": 35724
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 23
+    }
+  }
+}

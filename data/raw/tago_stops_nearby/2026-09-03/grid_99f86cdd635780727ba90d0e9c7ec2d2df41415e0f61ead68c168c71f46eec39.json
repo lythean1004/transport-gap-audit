@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31020,
+            "gpslati": 37.4730833,
+            "gpslong": 127.1368333,
+            "nodeid": "GGB204000327",
+            "nodenm": "위례31단지",
+            "nodeno": 5314
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4733167,
+            "gpslong": 127.1373667,
+            "nodeid": "GGB204000326",
+            "nodenm": "위례센트럴자이",
+            "nodeno": 5313
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.47135,
+            "gpslong": 127.1342,
+            "nodeid": "GGB204000335",
+            "nodenm": "위례중앙초등학교.성남위례36단지",
+            "nodeno": 5325
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.47115,
+            "gpslong": 127.1340833,
+            "nodeid": "GGB204000336",
+            "nodenm": "위례중앙초등학교.성남위례36단지",
+            "nodeno": 5326
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

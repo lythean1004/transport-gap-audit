@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1964,
+            "gpslong": 127.0925167,
+            "nodeid": "GGB233001628",
+            "nodenm": "반도5차.파라곤",
+            "nodeno": 55491
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1964167,
+            "gpslong": 127.0930167,
+            "nodeid": "GGB233001625",
+            "nodenm": "반도5차.파라곤",
+            "nodeno": 37687
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1944667,
+            "gpslong": 127.09145,
+            "nodeid": "GGB233001638",
+            "nodenm": "반도5차",
+            "nodeno": 55484
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1991667,
+            "gpslong": 127.0925167,
+            "nodeid": "GGB233001634",
+            "nodenm": "디에트르퍼스티지",
+            "nodeno": 55495
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1993333,
+            "gpslong": 127.0930167,
+            "nodeid": "GGB233001632",
+            "nodenm": "디에트르퍼스티지",
+            "nodeno": 55494
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1941667,
+            "gpslong": 127.0908,
+            "nodeid": "GGB233001641",
+            "nodenm": "반도5차",
+            "nodeno": 55485
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1929667,
+            "gpslong": 127.0929833,
+            "nodeid": "GGB233001649",
+            "nodenm": "신미주아파트",
+            "nodeno": 37965
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1928667,
+            "gpslong": 127.09255,
+            "nodeid": "GGB233001648",
+            "nodenm": "신미주아파트",
+            "nodeno": 36993
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1995833,
+            "gpslong": 127.0960833,
+            "nodeid": "GGB233003084",
+            "nodenm": "동탄역(서측)",
+            "nodeno": 55398
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.19985,
+            "gpslong": 127.0962833,
+            "nodeid": "GGB233003085",
+            "nodenm": "동탄역(동측)",
+            "nodeno": 55399
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

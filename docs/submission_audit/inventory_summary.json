@@ -1,0 +1,16 @@
+{
+  "files": 3950,
+  "bytes": 435404246,
+  "secret_findings": {
+    "private_environment_excluded": 1,
+    "known_secret": 1,
+    "credential_pattern_review": 4,
+    "scan_error_UnicodeDecodeError": 1,
+    "private_credential": 1
+  },
+  "history_findings": {
+    "known_secret": 1
+  },
+  "csv_encoding_issue_resolved": "cp949 MOIS CSV 3619 rows 16 columns",
+  "private_environment_inventory": "excluded"
+}

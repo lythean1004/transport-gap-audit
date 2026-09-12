@@ -1,0 +1,2 @@
+cluster_id,citycode,nodeid,stop_lat,stop_lon,direction_label,coord_verify_method,raw_citycode_response_path,review_status,verified_by,verified_at,notes
+A10022364,31130,GGB222001318,37.605152,127.155684,도농역.동화중고교.다산플루리움,kakao_map_cadastral_crosscheck,evidence/citycode/getCtyCodeList_raw.json,human_verified,박도현,2026-09-03T21:23:00+09:00,pilot smoke 2026-09-03 12:30 KST / evidence expires ~2026-10-03 / coord from OSM node ref=23927 (ODbL) + kakao ID crosscheck

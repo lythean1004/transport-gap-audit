@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6283333,
+            "gpslong": 126.68345,
+            "nodeid": "GGB232000486",
+            "nodenm": "뱀골마을입구",
+            "nodeno": 35363
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6283833,
+            "gpslong": 126.6836,
+            "nodeid": "GGB232000487",
+            "nodenm": "뱀골마을입구",
+            "nodeno": 35403
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6346167,
+            "gpslong": 126.6832167,
+            "nodeid": "GGB232000491",
+            "nodenm": "옹주물",
+            "nodeno": 35401
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63485,
+            "gpslong": 126.6830667,
+            "nodeid": "GGB232000014",
+            "nodenm": "옹주물",
+            "nodeno": 35364
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

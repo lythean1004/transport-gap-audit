@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.57655,
+            "gpslong": 127.1804667,
+            "nodeid": "GGB227000372",
+            "nodenm": "미사강변2차푸르지오북측.미사한강공원",
+            "nodeno": 28606
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5759833,
+            "gpslong": 127.1796667,
+            "nodeid": "GGB227000286",
+            "nodenm": "은가람중학교.리버스위트칸타빌",
+            "nodeno": 28523
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

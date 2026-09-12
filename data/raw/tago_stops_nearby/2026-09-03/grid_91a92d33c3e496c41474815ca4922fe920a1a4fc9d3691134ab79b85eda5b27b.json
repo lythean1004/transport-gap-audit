@@ -1,0 +1,89 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5597833,
+            "gpslong": 127.2045167,
+            "nodeid": "GGB227000234",
+            "nodenm": "미사경정공원입구",
+            "nodeno": 28315
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5625167,
+            "gpslong": 127.2093667,
+            "nodeid": "GGB227000687",
+            "nodenm": "미사동",
+            "nodeno": 28534
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5625833,
+            "gpslong": 127.2094333,
+            "nodeid": "GGB227000688",
+            "nodenm": "미사동",
+            "nodeno": 28535
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.56075,
+            "gpslong": 127.2027667,
+            "nodeid": "GGB227000200",
+            "nodenm": "미사경정공원입구",
+            "nodeno": 28216
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5605833,
+            "gpslong": 127.2014,
+            "nodeid": "GGB227000318",
+            "nodenm": "강변마을.효성해링턴",
+            "nodeno": 28198
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5575333,
+            "gpslong": 127.20485,
+            "nodeid": "GGB227000316",
+            "nodenm": "현대지식산업센터.미사한강마을",
+            "nodeno": 28196
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.56045,
+            "gpslong": 127.20125,
+            "nodeid": "GGB227000319",
+            "nodenm": "강변마을.효성해링턴",
+            "nodeno": 28199
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5623333,
+            "gpslong": 127.2012,
+            "nodeid": "GGB277104469",
+            "nodenm": "조정지하차도진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55725,
+            "gpslong": 127.2074,
+            "nodeid": "GGB277104468",
+            "nodenm": "조정지하차도진입(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 9
+    }
+  }
+}

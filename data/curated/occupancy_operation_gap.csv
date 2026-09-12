@@ -1,0 +1,6 @@
+﻿development,occupancy_source_id,occupancy_event_date,occupancy_lower,occupancy_upper,operation_source_id,operation_event_date,mode,line_name,gap_days_min,gap_days_max,gap_status,precision_note,review_status
+화성 동탄2,SRC-H001,Jan-15,2015-01-01,2015-01-31,SRC-H005,2024-03-30,rail,GTX-A 수서~동탄,3346,3376,closed,입주 날짜 정밀도에 따라 최소~최대 범위로 계산,needs_human
+김포 한강,SRC-H007,Jun-11,2011-06-01,2011-06-30,SRC-H011,2019-09-28,rail,김포도시철도(김포골드라인),3012,3041,closed,입주 날짜 정밀도에 따라 최소~최대 범위로 계산,needs_human
+위례,SRC-H013,Dec-13,2013-12-01,2013-12-31,,,tram,위례선 트램,4628,4658,ongoing_as_of_2026-09-02,입주 날짜 정밀도에 따라 최소~최대 범위로 계산,needs_human
+남양주 다산,SRC-H020,2018,2018-01-01,2018-12-31,SRC-H023,2024-08-10,rail,별내선(8호선 연장),2049,2413,closed,입주 날짜 정밀도에 따라 최소~최대 범위로 계산,needs_human
+하남 미사,SRC-H025,Jun-14,2014-06-01,2014-06-30,SRC-H029,2020-08-08,rail,하남선(5호선 연장),2231,2260,closed,입주 날짜 정밀도에 따라 최소~최대 범위로 계산,needs_human

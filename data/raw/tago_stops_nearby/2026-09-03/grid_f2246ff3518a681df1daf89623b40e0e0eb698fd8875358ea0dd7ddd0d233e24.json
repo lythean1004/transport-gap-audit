@@ -1,0 +1,41 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6265833,
+            "gpslong": 127.1667,
+            "nodeid": "GGB222000421",
+            "nodenm": "은골",
+            "nodeno": 23154
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6261667,
+            "gpslong": 127.16725,
+            "nodeid": "GGB222000417",
+            "nodenm": "은골",
+            "nodeno": 23152
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6286,
+            "gpslong": 127.1584,
+            "nodeid": "GGB222000791",
+            "nodenm": "다산중학교",
+            "nodeno": 49916
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 3
+    }
+  }
+}

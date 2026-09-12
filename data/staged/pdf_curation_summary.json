@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-09-02T18:18:06+09:00",
+  "inventory_files": 112,
+  "unique_documents": 92,
+  "duplicate_files": 20,
+  "target_documents": 82,
+  "context_or_out_of_scope_documents": 10,
+  "curated_event_rows": 90,
+  "strong_registry_matches": 46,
+  "new_or_weak_match_rows": 44,
+  "event_rows_with_date_and_excerpt": 58
+}

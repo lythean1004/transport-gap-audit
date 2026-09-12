@@ -1,0 +1,73 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5756667,
+            "gpslong": 127.1792333,
+            "nodeid": "GGB227000657",
+            "nodenm": "은가람중학교.리버스위트칸타빌",
+            "nodeno": 28463
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5759833,
+            "gpslong": 127.1796667,
+            "nodeid": "GGB227000286",
+            "nodenm": "은가람중학교.리버스위트칸타빌",
+            "nodeno": 28523
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.57655,
+            "gpslong": 127.1804667,
+            "nodeid": "GGB227000372",
+            "nodenm": "미사강변2차푸르지오북측.미사한강공원",
+            "nodeno": 28606
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5740167,
+            "gpslong": 127.17665,
+            "nodeid": "GGB227000339",
+            "nodenm": "미사강변리버뷰자이",
+            "nodeno": 28588
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5762333,
+            "gpslong": 127.1813333,
+            "nodeid": "GGB227000283",
+            "nodenm": "미사강변2차푸르지오.미사강변고등학교",
+            "nodeno": 28310
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5733833,
+            "gpslong": 127.1768833,
+            "nodeid": "GGB227000287",
+            "nodenm": "미사강변리버뷰자이.베라체",
+            "nodeno": 28524
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5747833,
+            "gpslong": 127.1813333,
+            "nodeid": "GGB227000282",
+            "nodenm": "미사강변2차푸르지오.센트리버",
+            "nodeno": 28309
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 7
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31120,
+            "gpslati": 37.6122333,
+            "gpslong": 127.1433,
+            "nodeid": "GGB221000264",
+            "nodenm": "농수산물시장",
+            "nodeno": 22245
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6122333,
+            "gpslong": 127.1430833,
+            "nodeid": "GGB221000265",
+            "nodenm": "농수산물시장",
+            "nodeno": 22246
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6113833,
+            "gpslong": 127.141,
+            "nodeid": "GGB221000058",
+            "nodenm": "동구동행정복지센터.동구릉역4번출구",
+            "nodeno": 22110
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6109833,
+            "gpslong": 127.1409167,
+            "nodeid": "GGB221000056",
+            "nodenm": "동구동행정복지센터.동구릉역5번출구",
+            "nodeno": 22108
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6086833,
+            "gpslong": 127.1444333,
+            "nodeid": "GGB221000361",
+            "nodenm": "수산물시장입구",
+            "nodeno": 22292
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6086833,
+            "gpslong": 127.1427667,
+            "nodeid": "GGB221000286",
+            "nodenm": "인창포레리움.주공4단지",
+            "nodeno": 22218
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6085167,
+            "gpslong": 127.1444167,
+            "nodeid": "GGB221000360",
+            "nodenm": "수산물시장입구",
+            "nodeno": 22291
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.60855,
+            "gpslong": 127.1428,
+            "nodeid": "GGB221000296",
+            "nodenm": "인창포레리움.주공4단지",
+            "nodeno": 22178
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6153333,
+            "gpslong": 127.14195,
+            "nodeid": "GGB277103216",
+            "nodenm": "구리IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6154333,
+            "gpslong": 127.1413,
+            "nodeid": "GGB277103215",
+            "nodenm": "구리IC(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

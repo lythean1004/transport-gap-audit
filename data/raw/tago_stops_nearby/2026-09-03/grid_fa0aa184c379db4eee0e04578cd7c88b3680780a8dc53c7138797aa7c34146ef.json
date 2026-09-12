@@ -1,0 +1,185 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6088167,
+            "gpslong": 127.1569167,
+            "nodeid": "GGB222001638",
+            "nodenm": "이마트다산점.부영프라자",
+            "nodeno": 49518
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.609,
+            "gpslong": 127.15705,
+            "nodeid": "GGB222001639",
+            "nodenm": "플루리움1단지.이마트다산점",
+            "nodeno": 49519
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6116,
+            "gpslong": 127.1561,
+            "nodeid": "GGB222001637",
+            "nodenm": "부영7단지.도농초등학교",
+            "nodeno": 49517
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6054333,
+            "gpslong": 127.1561833,
+            "nodeid": "GGB222001319",
+            "nodenm": "가운휴먼시아.다산효성해링턴타워.새마을금고다산본점(중)",
+            "nodeno": 23931
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6057,
+            "gpslong": 127.1584,
+            "nodeid": "GGB222000945",
+            "nodenm": "가운지구입구",
+            "nodeno": 49163
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.612,
+            "gpslong": 127.15665,
+            "nodeid": "GGB222001640",
+            "nodenm": "부영7단지.도농초.플루리움2단지",
+            "nodeno": 49520
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6084,
+            "gpslong": 127.15215,
+            "nodeid": "GGB222000888",
+            "nodenm": "다산리버팰리체아파트",
+            "nodeno": 23086
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6073833,
+            "gpslong": 127.1606333,
+            "nodeid": "GGB222001885",
+            "nodenm": "도농역시외.공항버스승강장",
+            "nodeno": 49680
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6083333,
+            "gpslong": 127.15205,
+            "nodeid": "GGB222000887",
+            "nodenm": "다산리버팰리체아파트",
+            "nodeno": 23085
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6078333,
+            "gpslong": 127.16085,
+            "nodeid": "GGB222001884",
+            "nodenm": "도농역시외.공항버스승강장",
+            "nodeno": 49545
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6051167,
+            "gpslong": 127.15575,
+            "nodeid": "GGB222001318",
+            "nodenm": "가운휴먼시아.다산효성해링턴타워.새마을금고다산본점(중)",
+            "nodeno": 23927
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6096333,
+            "gpslong": 127.1519667,
+            "nodeid": "GGB222000889",
+            "nodenm": "빙그레",
+            "nodeno": 23084
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6068167,
+            "gpslong": 127.1523333,
+            "nodeid": "GGB222000990",
+            "nodenm": "롯데아파트.다산센트레빌.다산해모로",
+            "nodeno": 23088
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6096333,
+            "gpslong": 127.15185,
+            "nodeid": "GGB222000886",
+            "nodenm": "빙그레앞",
+            "nodeno": 23083
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.60785,
+            "gpslong": 127.1612333,
+            "nodeid": "GGB222001320",
+            "nodenm": "도농역.동화중고교.다산플루리움(중)",
+            "nodeno": 23925
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6052,
+            "gpslong": 127.1587333,
+            "nodeid": "GGB222000944",
+            "nodenm": "가운지구입구",
+            "nodeno": 23113
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.60625,
+            "gpslong": 127.1524667,
+            "nodeid": "GGB222000989",
+            "nodenm": "다산해모로.다산센트레빌.롯데아파트",
+            "nodeno": 23087
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6116167,
+            "gpslong": 127.1531333,
+            "nodeid": "GGB222000851",
+            "nodenm": "도농고앞",
+            "nodeno": 23093
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6113167,
+            "gpslong": 127.1523333,
+            "nodeid": "GGB222000852",
+            "nodenm": "도농고앞",
+            "nodeno": 23092
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6127333,
+            "gpslong": 127.1547333,
+            "nodeid": "GGB222001925",
+            "nodenm": "다산1동주민센터.해링턴플레이스다산파크",
+            "nodeno": 49795
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6083833,
+            "gpslong": 127.1620333,
+            "nodeid": "GGB222001321",
+            "nodenm": "도농역.동화중고교.다산플루리움(중)",
+            "nodeno": 23929
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 21
+    }
+  }
+}

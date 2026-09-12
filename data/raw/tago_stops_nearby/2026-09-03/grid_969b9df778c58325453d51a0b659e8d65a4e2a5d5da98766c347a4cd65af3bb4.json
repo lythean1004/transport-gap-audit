@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6592833,
+            "gpslong": 126.6671167,
+            "nodeid": "GGB232000419",
+            "nodenm": "바리미",
+            "nodeno": 35199
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6585,
+            "gpslong": 126.6671167,
+            "nodeid": "GGB232000369",
+            "nodenm": "바리미",
+            "nodeno": 35201
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1833333,
+            "gpslong": 127.1107,
+            "nodeid": "GGB233001851",
+            "nodenm": "신리천공원",
+            "nodeno": 55510
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1842333,
+            "gpslong": 127.1070833,
+            "nodeid": "GGB233001821",
+            "nodenm": "신리천",
+            "nodeno": 55509
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

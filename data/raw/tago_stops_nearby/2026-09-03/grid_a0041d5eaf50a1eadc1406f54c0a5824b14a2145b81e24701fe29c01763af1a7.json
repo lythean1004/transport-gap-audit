@@ -1,0 +1,145 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 23,
+            "gpslati": "37.636000",
+            "gpslong": 126.627295,
+            "nodeid": "ICB232000611",
+            "nodenm": "구래리",
+            "nodeno": 80007
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.637003,
+            "gpslong": 126.628428,
+            "nodeid": "ICB232000718",
+            "nodenm": "한강센트럴블루힐.모아엘가2차",
+            "nodeno": 80375
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63565,
+            "gpslong": 126.62745,
+            "nodeid": "GGB232000611",
+            "nodenm": "구래리",
+            "nodeno": 35558
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.635732,
+            "gpslong": 126.627763,
+            "nodeid": "ICB232000572",
+            "nodenm": "구래리",
+            "nodeno": 80006
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6357,
+            "gpslong": 126.6255667,
+            "nodeid": "GGB277102540",
+            "nodenm": "구래리차고지(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63565,
+            "gpslong": 126.6255833,
+            "nodeid": "GGB232000647",
+            "nodenm": "구래리차고지",
+            "nodeno": 35618
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6373167,
+            "gpslong": 126.6286167,
+            "nodeid": "GGB232000767",
+            "nodenm": "모아엘가2차.한강센트럴블루힐",
+            "nodeno": 35764
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6370333,
+            "gpslong": 126.6288167,
+            "nodeid": "GGB232000718",
+            "nodenm": "한강센트럴블루힐.모아엘가2차",
+            "nodeno": 35763
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6385667,
+            "gpslong": 126.6267167,
+            "nodeid": "GGB232000975",
+            "nodenm": "나래중학교",
+            "nodeno": 35925
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6351167,
+            "gpslong": 126.6279833,
+            "nodeid": "GGB232000572",
+            "nodenm": "구래리",
+            "nodeno": 35524
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6392,
+            "gpslong": 126.6266167,
+            "nodeid": "GGB232000976",
+            "nodenm": "나래중학교",
+            "nodeno": 35926
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6349167,
+            "gpslong": 126.6298667,
+            "nodeid": "GGB232000974",
+            "nodenm": "한강센트럴블루힐정문",
+            "nodeno": 35924
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63735,
+            "gpslong": 126.6226,
+            "nodeid": "GGB232000847",
+            "nodenm": "금성백조예미지",
+            "nodeno": 35794
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6350333,
+            "gpslong": 126.63075,
+            "nodeid": "GGB232000973",
+            "nodenm": "한강센트럴블루힐정문",
+            "nodeno": 35923
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6376667,
+            "gpslong": 126.6220333,
+            "nodeid": "GGB232000844",
+            "nodenm": "금성백조예미지",
+            "nodeno": 35791
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6376167,
+            "gpslong": 126.63155,
+            "nodeid": "GGB277102614",
+            "nodenm": "솔터마을입구(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 16
+    }
+  }
+}

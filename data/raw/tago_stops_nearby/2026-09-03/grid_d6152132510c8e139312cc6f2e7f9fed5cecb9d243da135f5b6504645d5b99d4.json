@@ -1,0 +1,41 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5620167,
+            "gpslong": 127.1815333,
+            "nodeid": "GGB227000220",
+            "nodenm": "윤슬중학교.강솔초등학교",
+            "nodeno": 28508
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5645833,
+            "gpslong": 127.18015,
+            "nodeid": "GGB227000006",
+            "nodenm": "미사강변17단지.강일리버7단지",
+            "nodeno": 28467
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5597167,
+            "gpslong": 127.1820333,
+            "nodeid": "GGB227000005",
+            "nodenm": "미사강변센텀팰리스.강일리버10단지",
+            "nodeno": 28022
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 3
+    }
+  }
+}

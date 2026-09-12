@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.63495,
+            "gpslong": 126.6750167,
+            "nodeid": "GGB232000631",
+            "nodenm": "한강센트럴자이",
+            "nodeno": 35603
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6346333,
+            "gpslong": 126.6752,
+            "nodeid": "GGB232000818",
+            "nodenm": "한강센트럴자이",
+            "nodeno": 35730
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6371167,
+            "gpslong": 126.678,
+            "nodeid": "GGB232000922",
+            "nodenm": "자이타워",
+            "nodeno": 35872
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6357833,
+            "gpslong": 126.6789833,
+            "nodeid": "GGB232000490",
+            "nodenm": "금빛초등학교",
+            "nodeno": 35402
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63765,
+            "gpslong": 126.6783,
+            "nodeid": "GGB232000921",
+            "nodenm": "자이타워",
+            "nodeno": 35871
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6359667,
+            "gpslong": 126.6796,
+            "nodeid": "GGB232000632",
+            "nodenm": "금빛초등학교",
+            "nodeno": 35604
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6386167,
+            "gpslong": 126.6725167,
+            "nodeid": "GGB232000682",
+            "nodenm": "가현초등학교.장기동행정복지센터",
+            "nodeno": 35629
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6381833,
+            "gpslong": 126.6713667,
+            "nodeid": "GGB232000839",
+            "nodenm": "중흥s클래스.우남퍼스트빌",
+            "nodeno": 35786
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6389,
+            "gpslong": 126.6724667,
+            "nodeid": "GGB232000681",
+            "nodenm": "가현초등학교.장기동행정복지센터",
+            "nodeno": 35628
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6378167,
+            "gpslong": 126.6707167,
+            "nodeid": "GGB232000840",
+            "nodenm": "중흥s클래스.우남퍼스트빌",
+            "nodeno": 35787
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

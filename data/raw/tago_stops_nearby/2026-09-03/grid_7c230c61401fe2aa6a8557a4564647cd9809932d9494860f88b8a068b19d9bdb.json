@@ -1,0 +1,23 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "citycode": 31240,
+          "gpslati": 37.2021833,
+          "gpslong": 127.1256667,
+          "nodeid": "GGB233002426",
+          "nodenm": "치동천힐링마을",
+          "nodeno": 55302
+        }
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 1
+    }
+  }
+}

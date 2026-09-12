@@ -1,0 +1,129 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.16495,
+            "gpslong": 127.1011667,
+            "nodeid": "GGB233002072",
+            "nodenm": "레이크자연앤푸르지오",
+            "nodeno": 55592
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1654833,
+            "gpslong": 127.1018,
+            "nodeid": "GGB233002124",
+            "nodenm": "경기도시공사동탄사업단",
+            "nodeno": 55593
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1655,
+            "gpslong": 127.1046333,
+            "nodeid": "GGB233000092",
+            "nodenm": "계룡리슈빌",
+            "nodeno": 55734
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1658333,
+            "gpslong": 127.1047,
+            "nodeid": "GGB233000091",
+            "nodenm": "동탄그랑파사쥬",
+            "nodeno": 55733
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1646833,
+            "gpslong": 127.0987333,
+            "nodeid": "GGB233000226",
+            "nodenm": "한화포레나",
+            "nodeno": 55763
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1649667,
+            "gpslong": 127.0986833,
+            "nodeid": "GGB233000227",
+            "nodenm": "한화포레나",
+            "nodeno": 55764
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16465,
+            "gpslong": 127.10645,
+            "nodeid": "GGB233003137",
+            "nodenm": "계룡리슈빌.금호어울림",
+            "nodeno": 55533
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1611333,
+            "gpslong": 127.1008,
+            "nodeid": "GGB233001602",
+            "nodenm": "금호어울림2차",
+            "nodeno": 37047
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16095,
+            "gpslong": 127.1006333,
+            "nodeid": "GGB233001587",
+            "nodenm": "금호어울림2차",
+            "nodeno": 37042
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1639,
+            "gpslong": 127.10695,
+            "nodeid": "GGB233003127",
+            "nodenm": "금호어울림.계룡리슈빌",
+            "nodeno": 55523
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1610167,
+            "gpslong": 127.1047833,
+            "nodeid": "GGB233003126",
+            "nodenm": "아이원.호수자이파밀리에",
+            "nodeno": 55522
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1655333,
+            "gpslong": 127.1069,
+            "nodeid": "GGB277103991",
+            "nodenm": "호수공원아이파크(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1607333,
+            "gpslong": 127.1052,
+            "nodeid": "GGB233003132",
+            "nodenm": "호수자이파밀리에.아이원",
+            "nodeno": 55528
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1671667,
+            "gpslong": 127.1064333,
+            "nodeid": "GGB233003136",
+            "nodenm": "동탄호수공원",
+            "nodeno": 55532
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 14
+    }
+  }
+}

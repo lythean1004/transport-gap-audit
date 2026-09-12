@@ -1,0 +1,23 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "citycode": 31240,
+          "gpslati": 37.1833833,
+          "gpslong": 127.11545,
+          "nodeid": "GGB233001785",
+          "nodenm": "의료복합",
+          "nodeno": 55506
+        }
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 1
+    }
+  }
+}

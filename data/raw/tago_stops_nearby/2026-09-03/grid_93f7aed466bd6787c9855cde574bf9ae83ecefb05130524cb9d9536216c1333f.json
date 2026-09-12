@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1813,
+            "gpslong": 127.1052167,
+            "nodeid": "GGB233003049",
+            "nodenm": "반도유보라",
+            "nodeno": 55412
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1812333,
+            "gpslong": 127.1049667,
+            "nodeid": "GGB233003048",
+            "nodenm": "반도유보라",
+            "nodeno": 55411
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1814333,
+            "gpslong": 127.1089833,
+            "nodeid": "GGB233000124",
+            "nodenm": "금강1차.센트럴힐즈",
+            "nodeno": 55400
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1814333,
+            "gpslong": 127.1096167,
+            "nodeid": "GGB233000120",
+            "nodenm": "센트럴힐즈.금강1차",
+            "nodeno": 36409
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1802,
+            "gpslong": 127.1031333,
+            "nodeid": "GGB233000996",
+            "nodenm": "반도3차.금강1차",
+            "nodeno": 36488
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1802667,
+            "gpslong": 127.1112667,
+            "nodeid": "GGB233001900",
+            "nodenm": "금강1차.왕배초",
+            "nodeno": 37072
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1842333,
+            "gpslong": 127.1070833,
+            "nodeid": "GGB233001821",
+            "nodenm": "신리천",
+            "nodeno": 55509
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1804,
+            "gpslong": 127.1114167,
+            "nodeid": "GGB233002289",
+            "nodenm": "왕배초.금강1차",
+            "nodeno": 37112
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1824167,
+            "gpslong": 127.1026833,
+            "nodeid": "GGB233000161",
+            "nodenm": "반도3차.금강1차",
+            "nodeno": 36487
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1833333,
+            "gpslong": 127.1107,
+            "nodeid": "GGB233001851",
+            "nodenm": "신리천공원",
+            "nodeno": 55510
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

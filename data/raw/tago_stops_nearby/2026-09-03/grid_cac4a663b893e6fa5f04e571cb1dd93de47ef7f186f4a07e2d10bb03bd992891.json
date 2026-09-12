@@ -1,0 +1,105 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.5983167,
+            "gpslong": 127.1621333,
+            "nodeid": "GGB222001135",
+            "nodenm": "가운고등학교",
+            "nodeno": 23878
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5994833,
+            "gpslong": 127.1616,
+            "nodeid": "GGB222001136",
+            "nodenm": "가운고등학교",
+            "nodeno": 23879
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5982,
+            "gpslong": 127.1597667,
+            "nodeid": "GGB222001208",
+            "nodenm": "한신더휴6.8단지.가운고교",
+            "nodeno": 49949
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5997,
+            "gpslong": 127.16775,
+            "nodeid": "GGB222001961",
+            "nodenm": "다산한강반도유보라정문",
+            "nodeno": 49840
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5952333,
+            "gpslong": 127.1674167,
+            "nodeid": "GGB222001264",
+            "nodenm": "가운배수펌프장",
+            "nodeno": 23902
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5997667,
+            "gpslong": 127.1679833,
+            "nodeid": "GGB222001960",
+            "nodenm": "다산한강반도유보라정문",
+            "nodeno": 49839
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.59505,
+            "gpslong": 127.1673333,
+            "nodeid": "GGB222001263",
+            "nodenm": "가운배수펌프장",
+            "nodeno": 23900
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5977833,
+            "gpslong": 127.1588,
+            "nodeid": "GGB222001390",
+            "nodenm": "한신더휴6.8단지",
+            "nodeno": 23990
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.60075,
+            "gpslong": 127.1601667,
+            "nodeid": "GGB222001266",
+            "nodenm": "경남아너스빌.더힐포레",
+            "nodeno": 23898
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5935,
+            "gpslong": 127.1636667,
+            "nodeid": "GGB277104784",
+            "nodenm": "토평교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5933167,
+            "gpslong": 127.1637,
+            "nodeid": "GGB277104783",
+            "nodenm": "토평교(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 11
+    }
+  }
+}

@@ -1,0 +1,108 @@
+﻿source_id,development,event_type,review_status,local_exists,attachment_exists,document_verified,required_fields_pass,issues,action
+SRC-E1-A01,화성 동탄2,occupancy_planned_block,needs_human,true,false,,false,version_not_assigned,human citation check
+SRC-E1-A02,화성 동탄2,occupancy_planned_block,needs_human,true,false,,false,block_or_planned_date_missing;version_not_assigned,human citation check
+SRC-E1-A03,김포 한강,occupancy_planned_block,needs_human,true,false,,false,block_or_planned_date_missing;version_not_assigned,human citation check
+SRC-E1-A04,김포 한강,occupancy_planned_block,rejected,false,false,,false,block_or_planned_date_missing;version_not_assigned,retain rejection provenance
+SRC-E1-A05,위례,occupancy_first_planned,needs_human,true,false,,false,occupancy_date_missing,human citation check
+SRC-E1-A06,위례,occupancy_planned_block,needs_human,true,false,,false,version_not_assigned,human citation check
+SRC-E1-A07,남양주 다산,occupancy_planned_block,needs_human,true,false,,false,version_not_assigned,human citation check
+SRC-E1-A08,남양주 다산,occupancy_planned_block,rejected,false,true,,false,version_not_assigned,retain rejection provenance
+SRC-E1-A09,하남 미사,occupancy_planned_block,needs_human,true,false,,false,block_or_planned_date_missing;version_not_assigned,human citation check
+SRC-E1-A10,하남 미사,occupancy_planned_block,rejected,false,false,,false,version_not_assigned,retain rejection provenance
+SRC-E1-B01,화성 동탄2,promise_date,needs_human,true,true,true,true,,human citation check
+SRC-E1-B02,화성 동탄2,promise_date,rejected,true,false,,false,promise_mode_missing,retain rejection provenance
+SRC-E1-B03,김포 한강,promise_date,needs_human,true,false,,true,,human citation check
+SRC-E1-B04,김포 한강,promise_date,needs_human,true,false,,true,,human citation check
+SRC-E1-B05,위례,promise_date,rejected,false,false,,false,promise_mode_missing;promise_line_name_missing,retain rejection provenance
+SRC-E1-B06,위례,promise_date,needs_human,true,false,,true,,human citation check
+SRC-E1-B07,남양주 다산,promise_date,needs_human,true,false,,true,,human citation check
+SRC-E1-B08,남양주 다산,promise_date,rejected,false,false,,false,promise_line_name_missing,retain rejection provenance
+SRC-E1-B09,하남 미사,promise_date,needs_human,true,true,true,true,,human citation check
+SRC-E1-B10,하남 미사,promise_date,rejected,true,false,,false,promise_mode_missing;promise_line_name_missing,retain rejection provenance
+SRC-E1-C01,화성 동탄2,actual_operation,rejected,false,false,,false,operation_mode_or_line_missing,retain rejection provenance
+SRC-E1-C02,화성 동탄2,actual_operation,rejected,false,false,,false,operation_mode_or_line_missing,retain rejection provenance
+SRC-E1-C03,김포 한강,actual_operation,needs_human,true,false,,false,operation_mode_or_line_missing,human citation check
+SRC-E1-C04,김포 한강,actual_operation,rejected,false,false,,false,operation_mode_or_line_missing,retain rejection provenance
+SRC-E1-C05,위례,promise_date,needs_human,true,true,true,true,,human citation check
+SRC-E1-C06,위례,promise_date,needs_human,true,true,true,true,,human citation check
+SRC-E1-C07,남양주 다산,actual_operation,needs_human,true,false,,true,,human citation check
+SRC-E1-C08,남양주 다산,actual_operation,rejected,false,false,,false,operation_mode_or_line_missing,retain rejection provenance
+SRC-E1-C09,하남 미사,actual_operation,needs_human,true,false,,true,,human citation check
+SRC-E1-C10,하남 미사,actual_operation,needs_human,true,false,,true,,human citation check
+SRC-E2-A06,인천 계양,occupancy_planned_block,needs_human,true,true,true,true,,human citation check
+SRC-E2-A07,남양주 왕숙,occupancy_planned_block,needs_human,true,false,,false,version_not_assigned,human citation check
+SRC-E2-A08,하남 교산,occupancy_planned_block,needs_human,true,false,,true,,human citation check
+SRC-E2-A09,고양 창릉,occupancy_planned_block,needs_human,true,false,,false,version_not_assigned,human citation check
+SRC-E2-A10,부천 대장,occupancy_planned_block,needs_human,true,false,,false,version_not_assigned,human citation check
+SRC-E2-B06,인천 계양,promise_date,needs_human,true,false,,true,,human citation check
+SRC-E2-B07,남양주 왕숙,promise_date,needs_human,true,true,attachment_present,true,,human citation check
+SRC-E2-B08,하남 교산,promise_date,needs_human,true,true,true,true,,human citation check
+SRC-E2-B09,고양 창릉,promise_date,needs_human,true,false,,true,,human citation check
+SRC-E2-B10,부천 대장,promise_date,needs_human,true,false,,true,,human citation check
+SRC-E2-C06,인천 계양,actual_operation,needs_human,true,false,,false,operation_mode_or_line_missing,human citation check
+SRC-E2-C07,남양주 왕숙,occupancy_planned_block,rejected,false,false,,false,version_not_assigned,retain rejection provenance
+SRC-E2-C08,하남 교산,occupancy_planned_block,rejected,false,false,,false,block_or_planned_date_missing;version_not_assigned,retain rejection provenance
+SRC-E2-C09,고양 창릉,occupancy_planned_block,rejected,false,false,,false,version_not_assigned,retain rejection provenance
+SRC-E2-C10,부천 대장,occupancy_planned_block,rejected,false,false,,false,version_not_assigned,retain rejection provenance
+SRC-F001,인천 계양,occupancy_planned_block,needs_human,true,false,,true,,human citation check
+SRC-F002,인천 계양,occupancy_planned_block,needs_human,true,false,,false,version_not_assigned,human citation check
+SRC-F003,인천 계양,promise_date,needs_human,true,false,,false,promise_target_date_missing,human citation check
+SRC-F004,인천 계양,promise_date,needs_human,true,false,,false,promise_target_date_missing,human citation check
+SRC-F005,인천 계양,basic_service,needs_human,true,false,,true,,human citation check
+SRC-F006,인천 계양,basic_service,needs_human,true,false,,true,,human citation check
+SRC-F007,남양주 왕숙,occupancy_planned_block,needs_human,true,false,,false,version_not_assigned,human citation check
+SRC-F008,남양주 왕숙,occupancy_planned_block,needs_human,true,false,,false,version_not_assigned,human citation check
+SRC-F009,남양주 왕숙,promise_date,needs_human,true,true,attachment_present,true,,human citation check
+SRC-F010,남양주 왕숙,promise_date,needs_human,true,false,,false,promise_target_date_missing,human citation check
+SRC-F011,남양주 왕숙,basic_service,needs_human,true,false,,true,,human citation check
+SRC-F012,남양주 왕숙,basic_service,needs_human,true,true,true,true,,human citation check
+SRC-F013,하남 교산,occupancy_planned_block,needs_human,true,false,,true,,human citation check
+SRC-F014,하남 교산,occupancy_planned_block,needs_human,true,false,,true,,human citation check
+SRC-F015,하남 교산,promise_date,needs_human,true,true,true,true,,human citation check
+SRC-F016,하남 교산,promise_date,needs_human,true,false,,false,promise_target_date_missing,human citation check
+SRC-F017,하남 교산,basic_service,needs_human,true,false,,true,,human citation check
+SRC-F018,하남 교산,basic_service,needs_human,true,false,,true,,human citation check
+SRC-F019,고양 창릉,occupancy_planned_block,needs_human,true,false,,false,version_not_assigned,human citation check
+SRC-F020,고양 창릉,occupancy_planned_block,needs_human,true,false,,false,version_not_assigned,human citation check
+SRC-F021,고양 창릉,promise_date,needs_human,true,true,attachment_present,false,promise_target_date_missing,human citation check
+SRC-F022,고양 창릉,promise_date,needs_human,true,false,,false,promise_target_date_missing,human citation check
+SRC-F023,고양 창릉,actual_operation,needs_human,true,false,,true,,human citation check
+SRC-F024,고양 창릉,actual_operation,needs_human,true,false,,true,,human citation check
+SRC-F025,부천 대장,occupancy_planned_block,needs_human,true,false,,false,version_not_assigned,human citation check
+SRC-F026,부천 대장,occupancy_planned_block,needs_human,true,false,,false,version_not_assigned,human citation check
+SRC-F027,부천 대장,promise_date,needs_human,true,false,,false,promise_target_date_missing,human citation check
+SRC-F028,부천 대장,promise_date,needs_human,true,false,,false,promise_target_date_missing,human citation check
+SRC-F029,부천 대장,actual_operation,needs_human,true,false,,true,,human citation check
+SRC-F030,부천 대장,actual_operation,needs_human,true,false,,true,,human citation check
+SRC-H001,화성 동탄2,occupancy_first_actual,needs_human,true,true,attachment_present,true,,human citation check
+SRC-H002,화성 동탄2,occupancy_first_planned,needs_human,true,false,,true,,human citation check
+SRC-H003,화성 동탄2,promise_date,needs_human,true,true,true,true,,human citation check
+SRC-H004,화성 동탄2,promise_date,needs_human,true,false,,false,promise_target_date_missing,human citation check
+SRC-H005,화성 동탄2,actual_operation,needs_human,true,false,,true,,human citation check
+SRC-H006,화성 동탄2,actual_operation,needs_human,true,false,,true,,human citation check
+SRC-H007,김포 한강,occupancy_first_actual,needs_human,true,false,,true,,human citation check
+SRC-H008,김포 한강,occupancy_first_actual,needs_human,true,false,,true,,human citation check
+SRC-H009,김포 한강,promise_date,needs_human,true,false,,true,,human citation check
+SRC-H010,김포 한강,promise_date,needs_human,true,false,,true,,human citation check
+SRC-H011,김포 한강,actual_operation,needs_human,true,false,,true,,human citation check
+SRC-H012,김포 한강,actual_operation,needs_human,true,false,,true,,human citation check
+SRC-H013,위례,occupancy_first_actual,needs_human,true,false,,true,,human citation check
+SRC-H014,위례,occupancy_planned_block,needs_human,true,false,,false,block_or_planned_date_missing;version_not_assigned,human citation check
+SRC-H015,위례,promise_date,needs_human,true,false,,true,,human citation check
+SRC-H016,위례,promise_date,needs_human,true,false,,true,,human citation check
+SRC-H017,위례,actual_operation,needs_human,true,false,,true,,human citation check
+SRC-H018,위례,actual_operation,needs_human,true,false,,true,,human citation check
+SRC-H019,남양주 다산,occupancy_first_planned,needs_human,true,false,,true,,human citation check
+SRC-H020,남양주 다산,occupancy_first_actual,needs_human,true,false,,true,,human citation check
+SRC-H021,남양주 다산,promise_date,needs_human,true,false,,false,promise_target_date_missing,human citation check
+SRC-H022,남양주 다산,promise_date,needs_human,true,false,,true,,human citation check
+SRC-H023,남양주 다산,actual_operation,needs_human,true,true,true,true,,human citation check
+SRC-H024,남양주 다산,actual_operation,needs_human,true,true,true,true,,human citation check
+SRC-H025,하남 미사,occupancy_first_actual,needs_human,true,true,attachment_present,true,,human citation check
+SRC-H026,하남 미사,occupancy_planned_block,needs_human,true,false,,false,version_not_assigned,human citation check
+SRC-H027,하남 미사,promise_date,needs_human,true,false,,false,promise_target_date_missing,human citation check
+SRC-H028,하남 미사,promise_date,needs_human,true,false,,true,,human citation check
+SRC-H029,하남 미사,actual_operation,needs_human,true,false,,true,,human citation check
+SRC-H030,하남 미사,actual_operation,needs_human,true,false,,true,,human citation check
+SRC-U001,남양주 왕숙,occupancy_planned_block,needs_human,true,false,true,true,,human citation check
+SRC-U002,하남 교산,occupancy_planned_block,needs_human,true,false,true,true,,human citation check

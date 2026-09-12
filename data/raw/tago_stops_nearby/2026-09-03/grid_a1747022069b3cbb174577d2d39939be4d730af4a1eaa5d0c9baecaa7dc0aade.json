@@ -1,0 +1,113 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1861167,
+            "gpslong": 127.0776,
+            "nodeid": "GGB233001849",
+            "nodenm": "동양파라곤",
+            "nodeno": 37892
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1856167,
+            "gpslong": 127.0787,
+            "nodeid": "GGB233001223",
+            "nodenm": "동탄차고지",
+            "nodeno": 36671
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.18645,
+            "gpslong": 127.0773167,
+            "nodeid": "GGB233001848",
+            "nodenm": "동양파라곤",
+            "nodeno": 37891
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.18575,
+            "gpslong": 127.0788167,
+            "nodeid": "GGB233001222",
+            "nodenm": "동탄차고지",
+            "nodeno": 36670
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1836167,
+            "gpslong": 127.0780333,
+            "nodeid": "GGB233000956",
+            "nodenm": "금곡2리",
+            "nodeno": 36412
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1835833,
+            "gpslong": 127.0781333,
+            "nodeid": "GGB233000155",
+            "nodenm": "금곡2리",
+            "nodeno": 36410
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1868667,
+            "gpslong": 127.0729,
+            "nodeid": "GGB233002653",
+            "nodenm": "나루고등학교",
+            "nodeno": 55272
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1809333,
+            "gpslong": 127.07815,
+            "nodeid": "GGB233000983",
+            "nodenm": "산수유",
+            "nodeno": 36411
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1809,
+            "gpslong": 127.0780667,
+            "nodeid": "GGB233000984",
+            "nodenm": "산수유",
+            "nodeno": 36413
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1890667,
+            "gpslong": 127.0791833,
+            "nodeid": "GGB233001455",
+            "nodenm": "동탄국제고등학교",
+            "nodeno": 36677
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1890167,
+            "gpslong": 127.0794667,
+            "nodeid": "GGB233001447",
+            "nodenm": "동탄국제고등학교",
+            "nodeno": 36676
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.18795,
+            "gpslong": 127.0729333,
+            "nodeid": "GGB233001846",
+            "nodenm": "나루고등학교",
+            "nodeno": 37889
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 12
+    }
+  }
+}

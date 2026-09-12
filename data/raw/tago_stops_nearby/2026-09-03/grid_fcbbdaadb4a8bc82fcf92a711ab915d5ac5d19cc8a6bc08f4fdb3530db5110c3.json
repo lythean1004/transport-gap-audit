@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.17715,
+            "gpslong": 127.1414,
+            "nodeid": "GGB233000331",
+            "nodenm": "제일풍경채.행복주택40단지",
+            "nodeno": 55802
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.17665,
+            "gpslong": 127.1416167,
+            "nodeid": "GGB233000329",
+            "nodenm": "제일풍경채.행복주택40단지",
+            "nodeno": 55801
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1761167,
+            "gpslong": 127.1462167,
+            "nodeid": "GGB233002277",
+            "nodenm": "(임시)e편한세상동탄파크아너스",
+            "nodeno": 55934
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1799833,
+            "gpslong": 127.138,
+            "nodeid": "GGB233000355",
+            "nodenm": "동탄9동행정복지센터",
+            "nodeno": 55817
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

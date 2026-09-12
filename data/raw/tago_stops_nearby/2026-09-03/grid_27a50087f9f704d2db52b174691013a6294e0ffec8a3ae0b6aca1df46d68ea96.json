@@ -1,0 +1,89 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5468833,
+            "gpslong": 127.19115,
+            "nodeid": "GGB227000026",
+            "nodenm": "지역현안1지구",
+            "nodeno": 28031
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5456333,
+            "gpslong": 127.1921333,
+            "nodeid": "GGB227000325",
+            "nodenm": "테크노밸리U1센터",
+            "nodeno": 28247
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5457333,
+            "gpslong": 127.1923333,
+            "nodeid": "GGB227000708",
+            "nodenm": "테크노밸리U1센터",
+            "nodeno": 28555
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5440667,
+            "gpslong": 127.1922667,
+            "nodeid": "GGB227000709",
+            "nodenm": "힐즈파크푸르지오1단지",
+            "nodeno": 28556
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5472,
+            "gpslong": 127.1912667,
+            "nodeid": "GGB227000028",
+            "nodenm": "지역현안1지구",
+            "nodeno": 28032
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5441167,
+            "gpslong": 127.1925167,
+            "nodeid": "GGB227000070",
+            "nodenm": "힐즈파크푸르지오1단지",
+            "nodeno": 28024
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5438833,
+            "gpslong": 127.19395,
+            "nodeid": "GGB227000161",
+            "nodenm": "세미도서관.힐즈파크푸르지오2단지",
+            "nodeno": 28068
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5434,
+            "gpslong": 127.1938,
+            "nodeid": "GGB227000073",
+            "nodenm": "세미도서관.힐즈파크푸르지오1단지",
+            "nodeno": 28028
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5491833,
+            "gpslong": 127.18745,
+            "nodeid": "GGB227000360",
+            "nodenm": "황산사거리",
+            "nodeno": 28594
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 9
+    }
+  }
+}

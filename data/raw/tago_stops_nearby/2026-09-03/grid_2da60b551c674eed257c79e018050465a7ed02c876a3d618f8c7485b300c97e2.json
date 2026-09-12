@@ -1,0 +1,105 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.4874833,
+            "gpslong": 127.15895,
+            "nodeid": "GGB227000349",
+            "nodenm": "위례로제비앙.단독주택단지",
+            "nodeno": 28582
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.48655,
+            "gpslong": 127.1600167,
+            "nodeid": "GGB227000650",
+            "nodenm": "위례포레자이.아너스포레",
+            "nodeno": 28457
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4880833,
+            "gpslong": 127.1587,
+            "nodeid": "GGB227000348",
+            "nodenm": "위례로제비앙.단독주택단지",
+            "nodeno": 28581
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4861167,
+            "gpslong": 127.1601333,
+            "nodeid": "GGB227000350",
+            "nodenm": "위례아너스포레.포레자이",
+            "nodeno": 28583
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.48775,
+            "gpslong": 127.1572167,
+            "nodeid": "GGB227000358",
+            "nodenm": "위례메디프라자",
+            "nodeno": 28592
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.48535,
+            "gpslong": 127.1600833,
+            "nodeid": "GGB227000347",
+            "nodenm": "위례숲초등학교.우미린.중흥S클래스",
+            "nodeno": 28580
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4851167,
+            "gpslong": 127.1593,
+            "nodeid": "GGB227000351",
+            "nodenm": "위례숲초등학교.중흥S클래스.우미린",
+            "nodeno": 28584
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4878667,
+            "gpslong": 127.1565,
+            "nodeid": "GGB227000389",
+            "nodenm": "위례복합체육센터건너편",
+            "nodeno": 28623
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.48795,
+            "gpslong": 127.1561833,
+            "nodeid": "GGB227000390",
+            "nodenm": "위례복합체육센터",
+            "nodeno": 28624
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4843833,
+            "gpslong": 127.1569167,
+            "nodeid": "GGB227000346",
+            "nodenm": "위례숲우미린",
+            "nodeno": 28579
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4847667,
+            "gpslong": 127.1559167,
+            "nodeid": "GGB227000352",
+            "nodenm": "위례숲우미린",
+            "nodeno": 28585
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 11
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31190,
+            "gpslati": 37.2232667,
+            "gpslong": 127.1150833,
+            "nodeid": "GGB228001650",
+            "nodenm": "이케아.리빙파워센터",
+            "nodeno": 47581
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2231667,
+            "gpslong": 127.11525,
+            "nodeid": "GGB228001570",
+            "nodenm": "이케아.리빙파워센터",
+            "nodeno": 47198
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2263167,
+            "gpslong": 127.1117667,
+            "nodeid": "GGB228003323",
+            "nodenm": "노블하우스.기업은행연수원",
+            "nodeno": 56368
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.22665,
+            "gpslong": 127.1157167,
+            "nodeid": "GGB228003321",
+            "nodenm": "레버빌주택단지",
+            "nodeno": 56366
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2264333,
+            "gpslong": 127.1117167,
+            "nodeid": "GGB228003322",
+            "nodenm": "노블하우스.기업은행연수원",
+            "nodeno": 56367
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2240333,
+            "gpslong": 127.1192167,
+            "nodeid": "GGB228003319",
+            "nodenm": "롯데아울렛.코리아퍼블릭",
+            "nodeno": 56364
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2243667,
+            "gpslong": 127.1191,
+            "nodeid": "GGB228003318",
+            "nodenm": "롯데아울렛.코리아퍼블릭",
+            "nodeno": 56363
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2268167,
+            "gpslong": 127.1159833,
+            "nodeid": "GGB228003320",
+            "nodenm": "레버빌주택단지",
+            "nodeno": 56365
+          },
+          {
+            "citycode": 31190,
+            "gpslati": 37.2215833,
+            "gpslong": 127.1086167,
+            "nodeid": "GGB228001709",
+            "nodenm": "KMW복지관",
+            "nodeno": 47076
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 9
+    }
+  }
+}

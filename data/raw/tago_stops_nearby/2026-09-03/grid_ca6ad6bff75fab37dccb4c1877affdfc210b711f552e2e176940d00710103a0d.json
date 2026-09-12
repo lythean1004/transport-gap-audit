@@ -1,0 +1,81 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31140,
+            "gpslati": 37.1589167,
+            "gpslong": 127.0855,
+            "nodeid": "GGB223000465",
+            "nodenm": "오산장례식장",
+            "nodeno": 24141
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1587333,
+            "gpslong": 127.08475,
+            "nodeid": "GGB223000464",
+            "nodenm": "오산장례식장",
+            "nodeno": 24138
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.15965,
+            "gpslong": 127.0866333,
+            "nodeid": "GGB223000471",
+            "nodenm": "오산장례식장후문",
+            "nodeno": 24041
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1586,
+            "gpslong": 127.0895833,
+            "nodeid": "GGB223000188",
+            "nodenm": "롯데인재개발원후문",
+            "nodeno": 24185
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1588167,
+            "gpslong": 127.0900333,
+            "nodeid": "GGB223000210",
+            "nodenm": "롯데인재개발원후문",
+            "nodeno": 24196
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1615333,
+            "gpslong": 127.0869667,
+            "nodeid": "GGB233002366",
+            "nodenm": "장지천",
+            "nodeno": 55243
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.159,
+            "gpslong": 127.0815333,
+            "nodeid": "GGB223000043",
+            "nodenm": "오산센트럴푸르지오",
+            "nodeno": 24014
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1587833,
+            "gpslong": 127.0809833,
+            "nodeid": "GGB223000237",
+            "nodenm": "운암주공1단지후문",
+            "nodeno": 24212
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 8
+    }
+  }
+}

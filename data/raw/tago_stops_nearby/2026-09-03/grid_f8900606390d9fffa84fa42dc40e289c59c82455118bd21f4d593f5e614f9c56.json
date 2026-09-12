@@ -1,0 +1,89 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5330667,
+            "gpslong": 127.2034167,
+            "nodeid": "GGB227000487",
+            "nodenm": "덕산교",
+            "nodeno": 28101
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.53305,
+            "gpslong": 127.20325,
+            "nodeid": "GGB227000516",
+            "nodenm": "덕산교",
+            "nodeno": 28210
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5327667,
+            "gpslong": 127.2022333,
+            "nodeid": "GGB227000099",
+            "nodenm": "덕풍현대아파트",
+            "nodeno": 28065
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5331167,
+            "gpslong": 127.2022167,
+            "nodeid": "GGB227000122",
+            "nodenm": "덕풍현대아파트",
+            "nodeno": 28066
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5356167,
+            "gpslong": 127.2039833,
+            "nodeid": "GGB227000098",
+            "nodenm": "동부중.남한고",
+            "nodeno": 28072
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.53225,
+            "gpslong": 127.20035,
+            "nodeid": "GGB227000160",
+            "nodenm": "덕풍쌍용아파트",
+            "nodeno": 28181
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5361667,
+            "gpslong": 127.2038,
+            "nodeid": "GGB227000123",
+            "nodenm": "동부중.남한고",
+            "nodeno": 28071
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5320667,
+            "gpslong": 127.2002167,
+            "nodeid": "GGB227000015",
+            "nodenm": "덕풍쌍용아파트",
+            "nodeno": 28059
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5367,
+            "gpslong": 127.2039833,
+            "nodeid": "GGB227000384",
+            "nodenm": "남한고정문",
+            "nodeno": 28618
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 9
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1824167,
+            "gpslong": 127.1026833,
+            "nodeid": "GGB233000161",
+            "nodenm": "반도3차.금강1차",
+            "nodeno": 36487
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1830333,
+            "gpslong": 127.0929,
+            "nodeid": "GGB233002364",
+            "nodenm": "방아다리마을",
+            "nodeno": 36704
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1818333,
+            "gpslong": 127.0925333,
+            "nodeid": "GGB233002363",
+            "nodenm": "방아다리마을",
+            "nodeno": 55258
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 3
+    }
+  }
+}

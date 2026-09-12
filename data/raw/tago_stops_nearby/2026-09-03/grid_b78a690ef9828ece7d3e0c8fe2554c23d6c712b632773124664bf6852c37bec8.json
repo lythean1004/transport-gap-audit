@@ -1,0 +1,41 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.18555,
+            "gpslong": 127.0846667,
+            "nodeid": "GGB233001188",
+            "nodenm": "중흥S더테라스3차",
+            "nodeno": 55903
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1868833,
+            "gpslong": 127.08675,
+            "nodeid": "GGB233002499",
+            "nodenm": "중흥S클래스.에일린의뜰",
+            "nodeno": 55410
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1871833,
+            "gpslong": 127.0869333,
+            "nodeid": "GGB233002498",
+            "nodenm": "에일린의뜰.중흥S클래스",
+            "nodeno": 55405
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 3
+    }
+  }
+}

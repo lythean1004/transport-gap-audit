@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2032333,
+            "gpslong": 127.1087667,
+            "nodeid": "GGB233002434",
+            "nodenm": "시범예미지.영천유치원",
+            "nodeno": 55292
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2035167,
+            "gpslong": 127.1087833,
+            "nodeid": "GGB233002435",
+            "nodenm": "영천유치원.시범예미지",
+            "nodeno": 55293
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2031667,
+            "gpslong": 127.1107667,
+            "nodeid": "GGB233000164",
+            "nodenm": "반도1차.경남",
+            "nodeno": 36811
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2035167,
+            "gpslong": 127.1108167,
+            "nodeid": "GGB233000960",
+            "nodenm": "경남.반도1차",
+            "nodeno": 36452
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2039333,
+            "gpslong": 127.1048833,
+            "nodeid": "GGB233000131",
+            "nodenm": "계룡.영천초",
+            "nodeno": 36812
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2034167,
+            "gpslong": 127.11355,
+            "nodeid": "GGB277104808",
+            "nodenm": "치동천5교교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2042833,
+            "gpslong": 127.1049333,
+            "nodeid": "GGB233000961",
+            "nodenm": "영천초.계룡",
+            "nodeno": 36453
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2018833,
+            "gpslong": 127.1141,
+            "nodeid": "GGB233001491",
+            "nodenm": "반도1차.모아아파트",
+            "nodeno": 37551
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2052167,
+            "gpslong": 127.1122333,
+            "nodeid": "GGB233002516",
+            "nodenm": "지산마을",
+            "nodeno": 55070
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.20205,
+            "gpslong": 127.11455,
+            "nodeid": "GGB233000980",
+            "nodenm": "모아.반도1차아파트",
+            "nodeno": 36459
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

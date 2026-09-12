@@ -1,0 +1,121 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.55655,
+            "gpslong": 127.1918667,
+            "nodeid": "GGB227000170",
+            "nodenm": "아란티움.26단지.e편한세상",
+            "nodeno": 28105
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5567333,
+            "gpslong": 127.1920167,
+            "nodeid": "GGB227000162",
+            "nodenm": "아란티움.26단지.e편한세상",
+            "nodeno": 28074
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5529,
+            "gpslong": 127.1911,
+            "nodeid": "GGB227000072",
+            "nodenm": "하남시청소년수련관.한홀중",
+            "nodeno": 28034
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55245,
+            "gpslong": 127.19095,
+            "nodeid": "GGB227000071",
+            "nodenm": "하남시청소년수련관.한홀중건너편",
+            "nodeno": 28033
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5542167,
+            "gpslong": 127.19395,
+            "nodeid": "GGB227000257",
+            "nodenm": "아이테코.이편한세상미사",
+            "nodeno": 28268
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55305,
+            "gpslong": 127.1931833,
+            "nodeid": "GGB227000171",
+            "nodenm": "아이테코",
+            "nodeno": 28107
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5554833,
+            "gpslong": 127.1869,
+            "nodeid": "GGB227000269",
+            "nodenm": "하남고용센터.센트럴자이.더샵센트럴포레",
+            "nodeno": 28301
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.554,
+            "gpslong": 127.1943833,
+            "nodeid": "GGB227000256",
+            "nodenm": "아이테코.이편한세상미사",
+            "nodeno": 28271
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55545,
+            "gpslong": 127.1865167,
+            "nodeid": "GGB227000268",
+            "nodenm": "하남고용센터.센트럴자이.더샵센트럴포레",
+            "nodeno": 28300
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5528167,
+            "gpslong": 127.1936833,
+            "nodeid": "GGB227000174",
+            "nodenm": "아이테코",
+            "nodeno": 28109
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5515833,
+            "gpslong": 127.1933167,
+            "nodeid": "GGB227000368",
+            "nodenm": "보바스병원",
+            "nodeno": 28602
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5516,
+            "gpslong": 127.1935667,
+            "nodeid": "GGB227000367",
+            "nodenm": "보바스병원",
+            "nodeno": 28601
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5551667,
+            "gpslong": 127.1961333,
+            "nodeid": "GGB227000191",
+            "nodenm": "제일풍경채.미사강변신안인스빌",
+            "nodeno": 28215
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 13
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6380833,
+            "gpslong": 126.6901167,
+            "nodeid": "GGB232000365",
+            "nodenm": "장기마을입구.검은다리",
+            "nodeno": 35213
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63655,
+            "gpslong": 126.6922,
+            "nodeid": "GGB277104422",
+            "nodenm": "나진IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6392833,
+            "gpslong": 126.6891333,
+            "nodeid": "GGB232000423",
+            "nodenm": "한옥마을입구.검은다리",
+            "nodeno": 35212
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6416,
+            "gpslong": 126.69265,
+            "nodeid": "GGB232000964",
+            "nodenm": "천현정미소",
+            "nodeno": 35914
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6383333,
+            "gpslong": 126.6887333,
+            "nodeid": "GGB232000135",
+            "nodenm": "검은다리사거리",
+            "nodeno": 35490
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 5
+    }
+  }
+}

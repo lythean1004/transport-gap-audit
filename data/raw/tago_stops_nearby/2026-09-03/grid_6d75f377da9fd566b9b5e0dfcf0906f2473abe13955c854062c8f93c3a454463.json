@@ -1,0 +1,161 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1611333,
+            "gpslong": 127.1008,
+            "nodeid": "GGB233001602",
+            "nodenm": "금호어울림2차",
+            "nodeno": 37047
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16095,
+            "gpslong": 127.1006333,
+            "nodeid": "GGB233001587",
+            "nodenm": "금호어울림2차",
+            "nodeno": 37042
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1610167,
+            "gpslong": 127.1047833,
+            "nodeid": "GGB233003126",
+            "nodenm": "아이원.호수자이파밀리에",
+            "nodeno": 55522
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1607333,
+            "gpslong": 127.1052,
+            "nodeid": "GGB233003132",
+            "nodenm": "호수자이파밀리에.아이원",
+            "nodeno": 55528
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1590833,
+            "gpslong": 127.09995,
+            "nodeid": "GGB233000166",
+            "nodenm": "꽃가마약수터",
+            "nodeno": 36810
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1586,
+            "gpslong": 127.1009333,
+            "nodeid": "GGB233001323",
+            "nodenm": "꽃가마약수터",
+            "nodeno": 36943
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16495,
+            "gpslong": 127.1011667,
+            "nodeid": "GGB233002072",
+            "nodenm": "레이크자연앤푸르지오",
+            "nodeno": 55592
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1654833,
+            "gpslong": 127.1018,
+            "nodeid": "GGB233002124",
+            "nodenm": "경기도시공사동탄사업단",
+            "nodeno": 55593
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1611167,
+            "gpslong": 127.0970667,
+            "nodeid": "GGB233001237",
+            "nodenm": "호수하우스디",
+            "nodeno": 37044
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1646833,
+            "gpslong": 127.0987333,
+            "nodeid": "GGB233000226",
+            "nodenm": "한화포레나",
+            "nodeno": 55763
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16095,
+            "gpslong": 127.0970167,
+            "nodeid": "GGB233001118",
+            "nodenm": "호수하우스디",
+            "nodeno": 37039
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1649667,
+            "gpslong": 127.0986833,
+            "nodeid": "GGB233000227",
+            "nodenm": "한화포레나",
+            "nodeno": 55764
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1578333,
+            "gpslong": 127.1032667,
+            "nodeid": "GGB277104372",
+            "nodenm": "기점진입전(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1592167,
+            "gpslong": 127.1060333,
+            "nodeid": "GGB233003131",
+            "nodenm": "호수자이파밀리에",
+            "nodeno": 55527
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1590667,
+            "gpslong": 127.1059167,
+            "nodeid": "GGB233003163",
+            "nodenm": "호수자이파밀리에",
+            "nodeno": 55560
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1633667,
+            "gpslong": 127.0966333,
+            "nodeid": "GGB233000275",
+            "nodenm": "화남초등학교",
+            "nodeno": 55781
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1655,
+            "gpslong": 127.1046333,
+            "nodeid": "GGB233000092",
+            "nodenm": "계룡리슈빌",
+            "nodeno": 55734
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16395,
+            "gpslong": 127.0968667,
+            "nodeid": "GGB233000238",
+            "nodenm": "화남초등학교",
+            "nodeno": 55768
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 18
+    }
+  }
+}

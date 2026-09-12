@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31120,
+            "gpslati": 37.6122333,
+            "gpslong": 127.1433,
+            "nodeid": "GGB221000264",
+            "nodenm": "농수산물시장",
+            "nodeno": 22245
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6122333,
+            "gpslong": 127.1430833,
+            "nodeid": "GGB221000265",
+            "nodenm": "농수산물시장",
+            "nodeno": 22246
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6086833,
+            "gpslong": 127.1444333,
+            "nodeid": "GGB221000361",
+            "nodenm": "수산물시장입구",
+            "nodeno": 22292
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6113667,
+            "gpslong": 127.1516167,
+            "nodeid": "GGB222001767",
+            "nodenm": "도농고",
+            "nodeno": 49689
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6117833,
+            "gpslong": 127.1517667,
+            "nodeid": "GGB222000903",
+            "nodenm": "도농고",
+            "nodeno": 49810
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6085167,
+            "gpslong": 127.1444167,
+            "nodeid": "GGB221000360",
+            "nodenm": "수산물시장입구",
+            "nodeno": 22291
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

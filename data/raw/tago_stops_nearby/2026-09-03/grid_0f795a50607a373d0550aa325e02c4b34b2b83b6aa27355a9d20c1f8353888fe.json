@@ -1,0 +1,81 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5620167,
+            "gpslong": 127.1815333,
+            "nodeid": "GGB227000220",
+            "nodenm": "윤슬중학교.강솔초등학교",
+            "nodeno": 28508
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5597167,
+            "gpslong": 127.1820333,
+            "nodeid": "GGB227000005",
+            "nodenm": "미사강변센텀팰리스.강일리버10단지",
+            "nodeno": 28022
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5645833,
+            "gpslong": 127.18015,
+            "nodeid": "GGB227000006",
+            "nodenm": "미사강변17단지.강일리버7단지",
+            "nodeno": 28467
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55935,
+            "gpslong": 127.1834667,
+            "nodeid": "GGB227000266",
+            "nodenm": "미사역사일가공원.센텀팰리스.하남고",
+            "nodeno": 28298
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5591833,
+            "gpslong": 127.1840833,
+            "nodeid": "GGB227000354",
+            "nodenm": "미사역사일가공원.동일하이빌.센텀팰리스",
+            "nodeno": 28587
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5595333,
+            "gpslong": 127.1855833,
+            "nodeid": "GGB227000267",
+            "nodenm": "미사강변센트럴자이.하남고등학교",
+            "nodeno": 28299
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5599,
+            "gpslong": 127.1859167,
+            "nodeid": "GGB227000386",
+            "nodenm": "하남고정문",
+            "nodeno": 28620
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5627833,
+            "gpslong": 127.1862167,
+            "nodeid": "GGB227000232",
+            "nodenm": "미사강변푸르지오.하우스디더레이크",
+            "nodeno": 28289
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 8
+    }
+  }
+}

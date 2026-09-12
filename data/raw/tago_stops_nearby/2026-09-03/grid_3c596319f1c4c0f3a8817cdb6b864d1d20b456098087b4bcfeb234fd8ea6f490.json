@@ -1,0 +1,57 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6089333,
+            "gpslong": 127.1833167,
+            "nodeid": "GGB222000348",
+            "nodenm": "왕자궁마을",
+            "nodeno": 23237
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6086833,
+            "gpslong": 127.1834,
+            "nodeid": "GGB222000365",
+            "nodenm": "왕자궁마을",
+            "nodeno": 23236
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6080167,
+            "gpslong": 127.1867833,
+            "nodeid": "GGB222000364",
+            "nodenm": "해질모루.이패방앗간",
+            "nodeno": 23261
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6080667,
+            "gpslong": 127.18735,
+            "nodeid": "GGB222000349",
+            "nodenm": "해질모루.이패방앗간",
+            "nodeno": 23260
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6113333,
+            "gpslong": 127.1806833,
+            "nodeid": "GGB222000366",
+            "nodenm": "명우리마을",
+            "nodeno": 23218
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 5
+    }
+  }
+}

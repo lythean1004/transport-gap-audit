@@ -1,0 +1,169 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5544833,
+            "gpslong": 127.2065333,
+            "nodeid": "GGB227000180",
+            "nodenm": "하남농협.풍산멀티스포츠센터",
+            "nodeno": 28182
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5551167,
+            "gpslong": 127.2051333,
+            "nodeid": "GGB227000576",
+            "nodenm": "삼부르네상스",
+            "nodeno": 28383
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5542333,
+            "gpslong": 127.2057,
+            "nodeid": "GGB227000623",
+            "nodenm": "하남농협.풍산멀티스포츠센터",
+            "nodeno": 28430
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5568667,
+            "gpslong": 127.2052833,
+            "nodeid": "GGB227000317",
+            "nodenm": "현대지식산업센터.미사한강마을",
+            "nodeno": 28197
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5554167,
+            "gpslong": 127.2040167,
+            "nodeid": "GGB227000521",
+            "nodenm": "삼부르네상스",
+            "nodeno": 28326
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5535167,
+            "gpslong": 127.2048333,
+            "nodeid": "GGB227000522",
+            "nodenm": "덕풍3동행정복지센터.이마트",
+            "nodeno": 28327
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55725,
+            "gpslong": 127.2074,
+            "nodeid": "GGB277104468",
+            "nodenm": "조정지하차도진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5575333,
+            "gpslong": 127.20485,
+            "nodeid": "GGB227000316",
+            "nodenm": "현대지식산업센터.미사한강마을",
+            "nodeno": 28196
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5532167,
+            "gpslong": 127.2090833,
+            "nodeid": "GGB227000525",
+            "nodenm": "나룰도서관",
+            "nodeno": 28267
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55335,
+            "gpslong": 127.2092667,
+            "nodeid": "GGB227000621",
+            "nodenm": "나룰도서관",
+            "nodeno": 28428
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5522833,
+            "gpslong": 127.2041833,
+            "nodeid": "GGB227000575",
+            "nodenm": "하남풍산역.덕풍3동행정복지센터.이마트",
+            "nodeno": 28382
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5515,
+            "gpslong": 127.2068833,
+            "nodeid": "GGB227000207",
+            "nodenm": "나룰.풍산근린3호공원",
+            "nodeno": 28219
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5515167,
+            "gpslong": 127.2048833,
+            "nodeid": "GGB227000630",
+            "nodenm": "하남풍산역.덕풍지구대",
+            "nodeno": 28437
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5512667,
+            "gpslong": 127.2065667,
+            "nodeid": "GGB227000208",
+            "nodenm": "나룰.풍산근린3호공원",
+            "nodeno": 28224
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5525667,
+            "gpslong": 127.2025333,
+            "nodeid": "GGB227000209",
+            "nodenm": "하남풍산역.풍산아이파크5단지",
+            "nodeno": 28220
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5516167,
+            "gpslong": 127.2091,
+            "nodeid": "GGB227000517",
+            "nodenm": "풍산센트레빌",
+            "nodeno": 28214
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.555,
+            "gpslong": 127.2012667,
+            "nodeid": "GGB227000513",
+            "nodenm": "풍산초등학교",
+            "nodeno": 28320
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5551333,
+            "gpslong": 127.2011,
+            "nodeid": "GGB227000577",
+            "nodenm": "풍산초등학교",
+            "nodeno": 28384
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5513667,
+            "gpslong": 127.2093,
+            "nodeid": "GGB227000615",
+            "nodenm": "풍산센트레빌",
+            "nodeno": 28422
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 19
+    }
+  }
+}

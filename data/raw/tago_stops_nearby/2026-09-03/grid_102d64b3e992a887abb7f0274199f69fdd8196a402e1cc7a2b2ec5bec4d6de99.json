@@ -1,0 +1,41 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31120,
+            "gpslati": 37.5908,
+            "gpslong": 127.15805,
+            "nodeid": "GGB221000257",
+            "nodenm": "구리영업소",
+            "nodeno": 22242
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5933167,
+            "gpslong": 127.1637,
+            "nodeid": "GGB277104783",
+            "nodenm": "토평교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5935,
+            "gpslong": 127.1636667,
+            "nodeid": "GGB277104784",
+            "nodenm": "토평교(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 3
+    }
+  }
+}

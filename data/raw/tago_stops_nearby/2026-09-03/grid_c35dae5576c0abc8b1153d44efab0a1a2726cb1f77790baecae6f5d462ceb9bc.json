@@ -1,0 +1,23 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "citycode": 31180,
+          "gpslati": 37.5645833,
+          "gpslong": 127.18015,
+          "nodeid": "GGB227000006",
+          "nodenm": "미사강변17단지.강일리버7단지",
+          "nodeno": 28467
+        }
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 1
+    }
+  }
+}

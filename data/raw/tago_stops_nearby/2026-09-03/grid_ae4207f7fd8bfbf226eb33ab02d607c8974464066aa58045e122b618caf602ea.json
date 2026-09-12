@@ -1,0 +1,113 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31120,
+            "gpslati": 37.6328333,
+            "gpslong": 127.1420333,
+            "nodeid": "GGB221000011",
+            "nodenm": "사노리안말",
+            "nodeno": 22115
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6352,
+            "gpslong": 127.1404167,
+            "nodeid": "GGB221000135",
+            "nodenm": "두레물골",
+            "nodeno": 22100
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6319667,
+            "gpslong": 127.14195,
+            "nodeid": "GGB221000134",
+            "nodenm": "사노리안말",
+            "nodeno": 22116
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6365,
+            "gpslong": 127.1403167,
+            "nodeid": "GGB221000010",
+            "nodenm": "두레물골",
+            "nodeno": 22099
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.63105,
+            "gpslong": 127.1386167,
+            "nodeid": "GGB221000023",
+            "nodenm": "구리해오름교회",
+            "nodeno": 22123
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6312333,
+            "gpslong": 127.1382667,
+            "nodeid": "GGB221000341",
+            "nodenm": "사노동.안말",
+            "nodeno": 22272
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6304167,
+            "gpslong": 127.1413333,
+            "nodeid": "GGB221000012",
+            "nodenm": "구리시립묘지",
+            "nodeno": 22113
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.62955,
+            "gpslong": 127.14215,
+            "nodeid": "GGB221000161",
+            "nodenm": "구리왕숙체육공원입구",
+            "nodeno": 22325
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.63795,
+            "gpslong": 127.1394,
+            "nodeid": "GGB221000136",
+            "nodenm": "양지마을.내양초교.시립노인요양원",
+            "nodeno": 22088
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6295833,
+            "gpslong": 127.1429167,
+            "nodeid": "GGB221000169",
+            "nodenm": "구리왕숙체육공원입구",
+            "nodeno": 22331
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6292333,
+            "gpslong": 127.14065,
+            "nodeid": "GGB221000133",
+            "nodenm": "구리시립묘지",
+            "nodeno": 22107
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6377167,
+            "gpslong": 127.1382833,
+            "nodeid": "GGB221000363",
+            "nodenm": "양촌노인정",
+            "nodeno": 22294
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 12
+    }
+  }
+}

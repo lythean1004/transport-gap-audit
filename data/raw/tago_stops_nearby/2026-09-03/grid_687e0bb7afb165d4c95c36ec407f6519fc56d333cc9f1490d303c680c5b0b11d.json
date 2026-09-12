@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.18075,
+            "gpslong": 127.1243167,
+            "nodeid": "GGB233003045",
+            "nodenm": "신리입구",
+            "nodeno": 55576
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1807333,
+            "gpslong": 127.1245333,
+            "nodeid": "GGB233003050",
+            "nodenm": "신리입구",
+            "nodeno": 55579
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1741,
+            "gpslong": 127.12135,
+            "nodeid": "GGB233000328",
+            "nodenm": "쎈트럴써밋",
+            "nodeno": 55800
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1797333,
+            "gpslong": 127.1197,
+            "nodeid": "GGB233002006",
+            "nodenm": "호반3차.창의고",
+            "nodeno": 55445
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1738167,
+            "gpslong": 127.1212667,
+            "nodeid": "GGB233000327",
+            "nodenm": "쎈트럴써밋",
+            "nodeno": 55799
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1742,
+            "gpslong": 127.1260833,
+            "nodeid": "GGB233000333",
+            "nodenm": "디루체",
+            "nodeno": 55804
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1796167,
+            "gpslong": 127.1188833,
+            "nodeid": "GGB233002373",
+            "nodenm": "호반3차.창의고",
+            "nodeno": 55444
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1738833,
+            "gpslong": 127.12575,
+            "nodeid": "GGB233000332",
+            "nodenm": "디루체",
+            "nodeno": 55803
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.18175,
+            "gpslong": 127.1220167,
+            "nodeid": "GGB233000209",
+            "nodenm": "창의고",
+            "nodeno": 55464
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.18185,
+            "gpslong": 127.1225333,
+            "nodeid": "GGB233000374",
+            "nodenm": "창의고",
+            "nodeno": 55465
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

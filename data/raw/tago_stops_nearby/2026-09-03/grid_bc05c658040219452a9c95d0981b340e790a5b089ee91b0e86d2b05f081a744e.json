@@ -1,0 +1,89 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.15635,
+            "gpslong": 127.1115667,
+            "nodeid": "GGB233000973",
+            "nodenm": "호반6차.제일풍경채",
+            "nodeno": 55685
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1556333,
+            "gpslong": 127.11535,
+            "nodeid": "GGB233001320",
+            "nodenm": "장지동",
+            "nodeno": 37508
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.15575,
+            "gpslong": 127.1153667,
+            "nodeid": "GGB233000167",
+            "nodenm": "장지동",
+            "nodeno": 36809
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1565333,
+            "gpslong": 127.1111667,
+            "nodeid": "GGB233000818",
+            "nodenm": "호반6차.제일풍경채",
+            "nodeno": 55684
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1570667,
+            "gpslong": 127.1126833,
+            "nodeid": "GGB233003165",
+            "nodenm": "호반6차",
+            "nodeno": 55562
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1572333,
+            "gpslong": 127.1125167,
+            "nodeid": "GGB233003129",
+            "nodenm": "호반6차",
+            "nodeno": 55525
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1556833,
+            "gpslong": 127.10855,
+            "nodeid": "GGB233001322",
+            "nodenm": "한국제지",
+            "nodeno": 36944
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.15595,
+            "gpslong": 127.10855,
+            "nodeid": "GGB233001319",
+            "nodenm": "한국제지",
+            "nodeno": 37509
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.15505,
+            "gpslong": 127.1179333,
+            "nodeid": "GGB233000168",
+            "nodenm": "장지동농협",
+            "nodeno": 36808
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 9
+    }
+  }
+}

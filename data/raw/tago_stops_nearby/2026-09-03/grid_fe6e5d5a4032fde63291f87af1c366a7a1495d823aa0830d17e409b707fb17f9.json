@@ -1,0 +1,105 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6525333,
+            "gpslong": 126.6397667,
+            "nodeid": "GGB232000323",
+            "nodenm": "장단",
+            "nodeno": 35155
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6525333,
+            "gpslong": 126.6395667,
+            "nodeid": "GGB232000309",
+            "nodenm": "장단",
+            "nodeno": 35154
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6496,
+            "gpslong": 126.6389667,
+            "nodeid": "GGB232000943",
+            "nodenm": "김포시자원화센터",
+            "nodeno": 35893
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6491833,
+            "gpslong": 126.6387,
+            "nodeid": "GGB232000942",
+            "nodenm": "김포시자원화센터",
+            "nodeno": 35892
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6503333,
+            "gpslong": 126.64425,
+            "nodeid": "GGB232000928",
+            "nodenm": "지난마을",
+            "nodeno": 35878
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6505833,
+            "gpslong": 126.64435,
+            "nodeid": "GGB232000927",
+            "nodenm": "지난마을",
+            "nodeno": 35877
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6501833,
+            "gpslong": 126.6361667,
+            "nodeid": "GGB232000945",
+            "nodenm": "호반베르디움5차",
+            "nodeno": 35895
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6533333,
+            "gpslong": 126.6366833,
+            "nodeid": "GGB277102729",
+            "nodenm": "차량대기(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6494,
+            "gpslong": 126.6364833,
+            "nodeid": "GGB232000835",
+            "nodenm": "김포한강스포츠센터.호반베르디움",
+            "nodeno": 35782
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6525333,
+            "gpslong": 126.6359667,
+            "nodeid": "GGB232000574",
+            "nodenm": "김포한강듀클래스",
+            "nodeno": 35521
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6526667,
+            "gpslong": 126.63585,
+            "nodeid": "GGB232000643",
+            "nodenm": "김포한강듀클래스",
+            "nodeno": 35597
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 11
+    }
+  }
+}

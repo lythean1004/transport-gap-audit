@@ -1,0 +1,57 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1905,
+            "gpslong": 127.12285,
+            "nodeid": "GGB233001568",
+            "nodenm": "베라체아파트",
+            "nodeno": 36693
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1945833,
+            "gpslong": 127.1194,
+            "nodeid": "GGB233000965",
+            "nodenm": "청목초.신안1차",
+            "nodeno": 36468
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1886667,
+            "gpslong": 127.1232667,
+            "nodeid": "GGB233001623",
+            "nodenm": "동원로얄듀크2차.목동초",
+            "nodeno": 37682
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1901833,
+            "gpslong": 127.1243167,
+            "nodeid": "GGB233003044",
+            "nodenm": "베라체.목동초",
+            "nodeno": 55550
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1901833,
+            "gpslong": 127.12495,
+            "nodeid": "GGB233003154",
+            "nodenm": "목동초.베라체",
+            "nodeno": 55551
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 5
+    }
+  }
+}

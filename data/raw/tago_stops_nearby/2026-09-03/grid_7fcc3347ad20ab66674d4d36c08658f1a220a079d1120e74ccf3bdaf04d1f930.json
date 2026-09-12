@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6371667,
+            "gpslong": 126.6678667,
+            "nodeid": "GGB232000816",
+            "nodenm": "중흥s클래스후문",
+            "nodeno": 35728
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6377,
+            "gpslong": 126.6677333,
+            "nodeid": "GGB232000821",
+            "nodenm": "중흥s클래스후문",
+            "nodeno": 35733
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6378167,
+            "gpslong": 126.6707167,
+            "nodeid": "GGB232000840",
+            "nodenm": "중흥s클래스.우남퍼스트빌",
+            "nodeno": 35787
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63915,
+            "gpslong": 126.6644667,
+            "nodeid": "GGB277102420",
+            "nodenm": "뉴고려병원(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

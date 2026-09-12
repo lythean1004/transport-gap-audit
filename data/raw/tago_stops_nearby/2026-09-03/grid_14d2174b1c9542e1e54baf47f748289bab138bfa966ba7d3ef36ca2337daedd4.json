@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6418333,
+            "gpslong": 126.6143,
+            "nodeid": "GGB232000452",
+            "nodenm": "양촌역",
+            "nodeno": 35069
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64185,
+            "gpslong": 126.6143833,
+            "nodeid": "GGB232000449",
+            "nodenm": "양촌역",
+            "nodeno": 35390
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6377667,
+            "gpslong": 126.6142667,
+            "nodeid": "GGB232000205",
+            "nodenm": "유현1리",
+            "nodeno": 35087
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6376667,
+            "gpslong": 126.61425,
+            "nodeid": "GGB232000210",
+            "nodenm": "유현1리",
+            "nodeno": 35477
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6431333,
+            "gpslong": 126.6167333,
+            "nodeid": "GGB232000209",
+            "nodenm": "구지",
+            "nodeno": 35309
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6432,
+            "gpslong": 126.6167,
+            "nodeid": "GGB232000206",
+            "nodenm": "구지",
+            "nodeno": 35310
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

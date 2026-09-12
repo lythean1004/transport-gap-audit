@@ -1,0 +1,7 @@
+obs_date,window,median_across_routes,best_single_route,valid_routes_count,included_excluded_routes,analysis_window
+2026-09-07,AM,20.0,17.5,4,False,본안3일
+2026-09-07,PM,20.0,10.0,7,False,본안3일
+2026-09-08,AM,20.0,15.0,9,False,본안3일
+2026-09-08,PM,20.0,10.0,8,False,본안3일
+2026-09-09,AM,18.75,10.0,10,True,본안3일
+2026-09-09,PM,20.0,15.0,9,False,본안3일

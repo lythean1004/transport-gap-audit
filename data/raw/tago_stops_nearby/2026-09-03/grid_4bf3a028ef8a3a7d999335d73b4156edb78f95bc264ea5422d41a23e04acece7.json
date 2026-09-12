@@ -1,0 +1,23 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "citycode": 31180,
+          "gpslati": 37.5440667,
+          "gpslong": 127.1922667,
+          "nodeid": "GGB227000709",
+          "nodenm": "힐즈파크푸르지오1단지",
+          "nodeno": 28556
+        }
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 1
+    }
+  }
+}

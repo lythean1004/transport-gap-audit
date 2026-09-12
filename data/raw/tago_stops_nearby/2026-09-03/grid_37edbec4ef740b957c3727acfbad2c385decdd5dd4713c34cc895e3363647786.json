@@ -1,0 +1,81 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6414333,
+            "gpslong": 126.6602833,
+            "nodeid": "GGB232000545",
+            "nodenm": "뉴고려병원",
+            "nodeno": 35509
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6417833,
+            "gpslong": 126.6604167,
+            "nodeid": "GGB232000546",
+            "nodenm": "뉴고려병원.이니스더원",
+            "nodeno": 35493
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6422833,
+            "gpslong": 126.6578667,
+            "nodeid": "GGB232000965",
+            "nodenm": "한양수자인아파트",
+            "nodeno": 35915
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6401667,
+            "gpslong": 126.6625,
+            "nodeid": "GGB232000547",
+            "nodenm": "타운하우스",
+            "nodeno": 35506
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6426667,
+            "gpslong": 126.6578,
+            "nodeid": "GGB232000966",
+            "nodenm": "한양수자인아파트",
+            "nodeno": 35916
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6399667,
+            "gpslong": 126.66365,
+            "nodeid": "GGB232000548",
+            "nodenm": "고창마을.반도유보라후문",
+            "nodeno": 35504
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6442167,
+            "gpslong": 126.6572833,
+            "nodeid": "GGB232000723",
+            "nodenm": "수자인.호반아파트",
+            "nodeno": 35648
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63915,
+            "gpslong": 126.6644667,
+            "nodeid": "GGB277102420",
+            "nodenm": "뉴고려병원(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 8
+    }
+  }
+}

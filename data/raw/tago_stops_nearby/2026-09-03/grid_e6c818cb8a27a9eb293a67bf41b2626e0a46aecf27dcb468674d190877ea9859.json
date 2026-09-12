@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1730167,
+            "gpslong": 127.13365,
+            "nodeid": "GGB233000353",
+            "nodenm": "호반써밋동탄",
+            "nodeno": 55815
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1741333,
+            "gpslong": 127.13815,
+            "nodeid": "GGB233001305",
+            "nodenm": "금강펜테리움.힐스테이트",
+            "nodeno": 55912
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1732333,
+            "gpslong": 127.1332333,
+            "nodeid": "GGB233000354",
+            "nodenm": "호반써밋동탄",
+            "nodeno": 55816
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1744167,
+            "gpslong": 127.13795,
+            "nodeid": "GGB233001316",
+            "nodenm": "힐스테이트.금강펜테리움",
+            "nodeno": 55913
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1727833,
+            "gpslong": 127.13985,
+            "nodeid": "GGB233003198",
+            "nodenm": "(임시)A59",
+            "nodeno": 55959
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1726833,
+            "gpslong": 127.1403167,
+            "nodeid": "GGB233003199",
+            "nodenm": "(임시)A58",
+            "nodeno": 55960
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

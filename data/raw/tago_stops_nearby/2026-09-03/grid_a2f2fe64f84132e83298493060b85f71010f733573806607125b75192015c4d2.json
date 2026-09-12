@@ -1,0 +1,161 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5424667,
+            "gpslong": 127.1940833,
+            "nodeid": "GGB227000086",
+            "nodenm": "힐즈파크푸르지오3단지",
+            "nodeno": 28044
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5434,
+            "gpslong": 127.1938,
+            "nodeid": "GGB227000073",
+            "nodenm": "세미도서관.힐즈파크푸르지오1단지",
+            "nodeno": 28028
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5438833,
+            "gpslong": 127.19395,
+            "nodeid": "GGB227000161",
+            "nodenm": "세미도서관.힐즈파크푸르지오2단지",
+            "nodeno": 28068
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5422167,
+            "gpslong": 127.1983,
+            "nodeid": "GGB227000703",
+            "nodenm": "덕풍2동행정복지센터.청소년문화의집",
+            "nodeno": 28550
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54355,
+            "gpslong": 127.19835,
+            "nodeid": "GGB227000235",
+            "nodenm": "덕풍2동행정복지센터.청소년문화의집",
+            "nodeno": 28263
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5441167,
+            "gpslong": 127.1925167,
+            "nodeid": "GGB227000070",
+            "nodenm": "힐즈파크푸르지오1단지",
+            "nodeno": 28024
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5427833,
+            "gpslong": 127.1988,
+            "nodeid": "GGB227000702",
+            "nodenm": "덕풍2동행정복지센터.청소년문화의집",
+            "nodeno": 28549
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5440667,
+            "gpslong": 127.1922667,
+            "nodeid": "GGB227000709",
+            "nodenm": "힐즈파크푸르지오1단지",
+            "nodeno": 28556
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5396833,
+            "gpslong": 127.1978167,
+            "nodeid": "GGB227000701",
+            "nodenm": "덕풍초등학교.자이.파크어울림",
+            "nodeno": 28548
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5427667,
+            "gpslong": 127.19925,
+            "nodeid": "GGB227000144",
+            "nodenm": "덕풍2동행정복지센터.청소년문화의집.농협",
+            "nodeno": 28051
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5395,
+            "gpslong": 127.1977,
+            "nodeid": "GGB227000700",
+            "nodenm": "덕풍초등학교.자이.파크어울림",
+            "nodeno": 28547
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5421833,
+            "gpslong": 127.1995333,
+            "nodeid": "GGB227000023",
+            "nodenm": "덕풍초등학교",
+            "nodeno": 28052
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5449833,
+            "gpslong": 127.1980833,
+            "nodeid": "GGB227000143",
+            "nodenm": "덕풍수리골공영주차장",
+            "nodeno": 28047
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5415,
+            "gpslong": 127.2000167,
+            "nodeid": "GGB227000145",
+            "nodenm": "덕풍초등학교",
+            "nodeno": 28053
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5455833,
+            "gpslong": 127.1979333,
+            "nodeid": "GGB227000024",
+            "nodenm": "덕풍수리골공영주차장",
+            "nodeno": 28046
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5457333,
+            "gpslong": 127.1923333,
+            "nodeid": "GGB227000708",
+            "nodenm": "테크노밸리U1센터",
+            "nodeno": 28555
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5456333,
+            "gpslong": 127.1921333,
+            "nodeid": "GGB227000325",
+            "nodenm": "테크노밸리U1센터",
+            "nodeno": 28247
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54055,
+            "gpslong": 127.20045,
+            "nodeid": "GGB227000022",
+            "nodenm": "하남우체국.덕풍시장",
+            "nodeno": 28060
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 18
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31120,
+            "gpslati": 37.59855,
+            "gpslong": 127.1511833,
+            "nodeid": "GGB221000027",
+            "nodenm": "수택주공뜨란채.남양아파트",
+            "nodeno": 22158
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5992667,
+            "gpslong": 127.1503833,
+            "nodeid": "GGB221000032",
+            "nodenm": "수택주공뜨란채.남양아파트",
+            "nodeno": 22155
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.59795,
+            "gpslong": 127.1514333,
+            "nodeid": "GGB221000356",
+            "nodenm": "검배체육문화센터",
+            "nodeno": 22287
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.60085,
+            "gpslong": 127.15385,
+            "nodeid": "GGB277103217",
+            "nodenm": "남양주IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.60085,
+            "gpslong": 127.1542833,
+            "nodeid": "GGB277103218",
+            "nodenm": "남양주IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6018833,
+            "gpslong": 127.15345,
+            "nodeid": "GGB277103213",
+            "nodenm": "남양주IC진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6012667,
+            "gpslong": 127.1545167,
+            "nodeid": "GGB277103214",
+            "nodenm": "남양주IC출입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5956,
+            "gpslong": 127.1515833,
+            "nodeid": "GGB221000028",
+            "nodenm": "검배주공아파트",
+            "nodeno": 22159
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5956833,
+            "gpslong": 127.15335,
+            "nodeid": "GGB221000326",
+            "nodenm": "드림교회(마을)",
+            "nodeno": 22257
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.60155,
+            "gpslong": 127.1561833,
+            "nodeid": "GGB222001394",
+            "nodenm": "휴먼시아1단지.더힐포레.가운초교.강변성산교회",
+            "nodeno": 23989
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6017333,
+            "gpslong": 127.1562833,
+            "nodeid": "GGB222001126",
+            "nodenm": "휴먼시아1단지.더힐포레.가운초교",
+            "nodeno": 49947
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.5952333,
+            "gpslong": 127.15105,
+            "nodeid": "GGB221000031",
+            "nodenm": "검배주공아파트",
+            "nodeno": 22160
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5991667,
+            "gpslong": 127.15745,
+            "nodeid": "GGB222001392",
+            "nodenm": "한신더휴6.7단지.가운중학교",
+            "nodeno": 23991
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 13
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31140,
+            "gpslati": 37.1541167,
+            "gpslong": 127.0921833,
+            "nodeid": "GGB223000447",
+            "nodenm": "계량골",
+            "nodeno": 24473
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1569667,
+            "gpslong": 127.0924,
+            "nodeid": "GGB223000252",
+            "nodenm": "롯데인재개발원",
+            "nodeno": 24235
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1568667,
+            "gpslong": 127.0921167,
+            "nodeid": "GGB223000031",
+            "nodenm": "롯데인재개발원",
+            "nodeno": 24131
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1541,
+            "gpslong": 127.0919667,
+            "nodeid": "GGB223000446",
+            "nodenm": "계량골",
+            "nodeno": 24472
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1586667,
+            "gpslong": 127.0938667,
+            "nodeid": "GGB223000189",
+            "nodenm": "롯데오산물류",
+            "nodeno": 24192
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1585667,
+            "gpslong": 127.0925333,
+            "nodeid": "GGB277104702",
+            "nodenm": "경기동로진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1588833,
+            "gpslong": 127.0933167,
+            "nodeid": "GGB223000209",
+            "nodenm": "롯데오산물류",
+            "nodeno": 24197
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1523333,
+            "gpslong": 127.0918833,
+            "nodeid": "GGB223000276",
+            "nodenm": "오산시티자이2차.다온초교",
+            "nodeno": 24244
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1523333,
+            "gpslong": 127.0916167,
+            "nodeid": "GGB223000249",
+            "nodenm": "오산시티자이2차.다온초교",
+            "nodeno": 24181
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1590667,
+            "gpslong": 127.0966167,
+            "nodeid": "GGB233000249",
+            "nodenm": "진우물류센터",
+            "nodeno": 36368
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

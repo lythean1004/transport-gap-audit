@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1726833,
+            "gpslong": 127.1403167,
+            "nodeid": "GGB233003199",
+            "nodenm": "(임시)A58",
+            "nodeno": 55960
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1727833,
+            "gpslong": 127.13985,
+            "nodeid": "GGB233003198",
+            "nodenm": "(임시)A59",
+            "nodeno": 55959
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

@@ -1,0 +1,144 @@
+================================================================================
+숲과나눔 × 한겨레 교통 데이터 공모전
+source_registry 최종 검수 리포트 (v8 최종본)
+================================================================================
+작성일: 2026-09-02 (KST)
+검증자: parkd
+파일: source_registry_verified_final.csv (197행 × 81컬럼, UTF-8 with BOM)
+
+────────────────────────────────────────────────────────────────────────────────
+[1] 파일 무결성 검증
+────────────────────────────────────────────────────────────────────────────────
+- BOM: ✓ UTF-8 with BOM (Excel에서 한글 정상 표시)
+- NULL bytes: 0건
+- 셀 내 개행: 0건
+- Row length mismatch: 0건
+- 파일 크기: 388,865 bytes
+- 총 행 수: 197 (헤더 제외)
+- 총 컬럼 수: 81 (원본 65 + 신규 16)
+
+신규 16개 컬럼:
+excerpt_source_path, excerpt_char_start, excerpt_char_end,
+plan_confirmed_date, target_completion_date, target_date_precision,
+human_verified, human_verifier, human_verified_at, human_check_items,
+censored, as_of_date, censoring_evidence_source_id,
+clue_url, contradiction_flag, contradiction_note
+
+────────────────────────────────────────────────────────────────────────────────
+[2] event_type 분포
+────────────────────────────────────────────────────────────────────────────────
+occupancy_planned_block  : 59
+promise_date             : 38
+basic_service            : 32
+plan_confirmation        : 22
+actual_operation         : 21
+occupancy_first_actual   : 10
+occupancy_first_planned  :  4
+(공란)                    : 11
+
+────────────────────────────────────────────────────────────────────────────────
+[3] review_status 분포
+────────────────────────────────────────────────────────────────────────────────
+verified   : 131 (human_verified=TRUE 131건과 일치)
+rejected   :  37
+needs_human:  15
+duplicate  :  14
+
+────────────────────────────────────────────────────────────────────────────────
+[4] Day 2 캐논 페어 정합 (사용자 pick 로직 재현 결과)
+────────────────────────────────────────────────────────────────────────────────
+
+■ 화성 동탄2
+  최초 입주:  SRC-H001 (2015-01-23, day)
+  교통 약속:  SRC-H003 (2024-06-30, day, rail, GTX-A 수서~동탄) [latest v_final]
+  실제 개통:  SRC-H005 (2024-03-30, day, rail, GTX-A 수서~동탄)
+  → mode 일치: ✓ (rail vs rail)
+  → 입주→실제 개통 공백: 3,354일
+  → 약속 대비 실제 지연: -92일 (조기개통)
+  ※ v1 근거: SRC-H002 (2012-09-30, plan_confirmation으로 보존)
+
+■ 김포 한강
+  최초 입주:  SRC-H007 (2011-06-17, day, 우남퍼스트빌 1202세대)
+  교통 약속:  SRC-H009 (2018-12-31, year, rail, 김포도시철도)
+  실제 개통:  SRC-H011 (2019-09-28, day, rail, 김포도시철도)
+  → mode 일치: ✓ (rail vs rail)
+  → 입주→실제 개통 공백: 3,025일
+  → 약속 대비 실제 지연: +271일
+
+■ 위례 (censored)
+  최초 입주:  SRC-H013 (2013-12, month)
+  교통 약속:  SRC-E1-C05 (2025-09, month, tram, 위례선 트램) [v2 최신]
+                latest v_final: SRC-E1-C06 (2026-12-26)
+  실제 개통:  (censored) as_of=2026-09-02
+                censoring_evidence_source_id=SRC-E1-C06
+                사유: 2026-09-02 기준 미개통
+  ※ v1 근거: SRC-E1-B06 (2014-05-12 계획 확정, plan_confirmation)
+
+■ 남양주 다산 (DATA_GAP)
+  최초 입주:  SRC-H020 (2018-02-12, contradiction 표기)
+              contradiction_flag=TRUE
+              contradiction_note: 실제 첫 입주는 2017-12-29 진건 B8 한양수자인 640가구
+              (LH 보도자료는 대책일 2018-02-12만 문서화 - 문서화 공백)
+  교통 약속:  SRC-H022 (2022, year, rail, 별내선 8호선 연장) [latest]
+  실제 개통:  SRC-H023 (2024-08-10, day, rail, 별내선 8호선 연장)
+  → mode 일치: ✓ (rail vs rail)
+  → 입주→실제 개통 공백: 2,371일
+  → 약속 대비 실제 지연: +588일
+
+■ 하남 미사
+  최초 입주:  SRC-H025 (2014-06-30, day, A15 파밀리에 976가구)
+  교통 약속:  SRC-H028 (2020-08-08, day, rail, 하남선 5호선 연장) [latest]
+  실제 개통:  SRC-H029 (2020-08-08, day, rail, 하남선 5호선 연장)
+  → mode 일치: ✓ (rail vs rail)
+  → 입주→실제 개통 공백: 2,231일
+  → 약속 대비 실제 지연: +0일 (약속대로 개통)
+  ※ v1 근거: SRC-H027 (2009, plan_confirmation)
+
+────────────────────────────────────────────────────────────────────────────────
+[5] Day 3 게이트 판정 (G1~G7)
+────────────────────────────────────────────────────────────────────────────────
+화성 동탄2:  G1~G7 ALL PASS → 종합 PASS
+김포 한강:   G1~G7 ALL PASS → 종합 PASS
+위례:        G1~G7 ALL PASS (G3=PASS censored) → 종합 PASS
+남양주 다산: G1=DATA_GAP (예외 허용) G2~G7 PASS → 종합 DATA_GAP (문서화됨)
+하남 미사:   G1~G7 ALL PASS → 종합 PASS
+
+Day 3 전방 5곳 라벨:
+- 인천 계양:   target_undated (S-BRT 목표일 미확정)
+- 남양주 왕숙: at_risk (목표 2028-12 > 입주 2028-08, 약속 후행)
+- 하남 교산:   on_track_if_delivered (정상순서)
+- 고양 창릉:   target_undated (고양은평선 목표일 미확정)
+- 부천 대장:   target_undated (계양~대장 S-BRT 목표일 미확정)
+
+────────────────────────────────────────────────────────────────────────────────
+[6] 변경 이력 (v1 → v8)
+────────────────────────────────────────────────────────────────────────────────
+v1~v4: 스키마 확장, human_verified 대량 승격, censored/contradiction 표기
+v5:    31행 승격 (verified=131), 게이트 로직 확정
+v6:    사용자 pick 코드가 review_status 필터 없이 첫 매칭을 뽑는 이슈 대응
+       - non-canon actual_operation 8건을 basic_service로 재분류
+       - non-canon promise_date 2건을 plan_confirmation absent로 재분류
+v7:    잔여 pick 오염 정리
+       - SRC-E1-C02/C07/C08/C10, SRC-PDF-108(x3), SRC-PDF-028-ACTU-2 재분류
+v8:    화성 동탄2 promise mode 정합 (H002 v1 → plan_confirmation)
+       → H003(latest, rail)이 canon actual(H005 rail)과 mode 일치
+
+────────────────────────────────────────────────────────────────────────────────
+[7] 사용자 pick 코드 권고
+────────────────────────────────────────────────────────────────────────────────
+현재 CSV는 review_status 필터 없이도 각 지구·event_type별 첫 매칭 행이
+canon 페어가 되도록 정비됨. 다만 안전성을 위해 다음 필터 권장:
+
+  filtered = df[
+      (df['human_verified']=='TRUE') &
+      (~df['review_status'].isin(['rejected','duplicate']))
+  ]
+
+위례 actual_operation은 CSV상 행 자체가 없음 → 사용자 코드가
+censored 상태 처리 필요:
+  cens = df[(df['development']=='위례') & (df['censored']=='TRUE')]
+  → as_of_date=2026-09-02, evidence=SRC-E1-C06 참조
+
+================================================================================
+END OF REPORT
+================================================================================

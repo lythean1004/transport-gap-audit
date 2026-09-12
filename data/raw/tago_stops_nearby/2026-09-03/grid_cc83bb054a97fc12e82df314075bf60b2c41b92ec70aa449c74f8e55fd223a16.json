@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1780167,
+            "gpslong": 127.07965,
+            "nodeid": "GGB233000985",
+            "nodenm": "대영가든",
+            "nodeno": 36422
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1779667,
+            "gpslong": 127.0797833,
+            "nodeid": "GGB233000156",
+            "nodenm": "대영가든",
+            "nodeno": 36421
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1809,
+            "gpslong": 127.0780667,
+            "nodeid": "GGB233000984",
+            "nodenm": "산수유",
+            "nodeno": 36413
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1809333,
+            "gpslong": 127.07815,
+            "nodeid": "GGB233000983",
+            "nodenm": "산수유",
+            "nodeno": 36411
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1748833,
+            "gpslong": 127.0800167,
+            "nodeid": "GGB233000154",
+            "nodenm": "한증막",
+            "nodeno": 36424
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1748833,
+            "gpslong": 127.0801,
+            "nodeid": "GGB233000955",
+            "nodenm": "한증막",
+            "nodeno": 36423
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1663333,
+            "gpslong": 127.1273667,
+            "nodeid": "GGB233000170",
+            "nodenm": "반도10차",
+            "nodeno": 55750
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1664167,
+            "gpslong": 127.1271667,
+            "nodeid": "GGB233003174",
+            "nodenm": "반도10차",
+            "nodeno": 55701
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

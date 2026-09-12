@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1534667,
+            "gpslong": 127.1211667,
+            "nodeid": "GGB277104804",
+            "nodenm": "장지IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1534333,
+            "gpslong": 127.1213333,
+            "nodeid": "GGB277104805",
+            "nodenm": "장지IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1528167,
+            "gpslong": 127.1220833,
+            "nodeid": "GGB233001321",
+            "nodenm": "한원IC",
+            "nodeno": 36945
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1538333,
+            "gpslong": 127.1210833,
+            "nodeid": "GGB277104803",
+            "nodenm": "장지IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.15295,
+            "gpslong": 127.12245,
+            "nodeid": "GGB233000169",
+            "nodenm": "한원IC",
+            "nodeno": 37403
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.15505,
+            "gpslong": 127.1179333,
+            "nodeid": "GGB233000168",
+            "nodenm": "장지동농협",
+            "nodeno": 36808
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

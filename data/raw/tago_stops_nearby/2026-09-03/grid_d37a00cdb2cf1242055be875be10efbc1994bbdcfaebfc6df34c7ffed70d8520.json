@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1971,
+            "gpslong": 127.1049,
+            "nodeid": "GGB233000139",
+            "nodenm": "한화.호반.대원",
+            "nodeno": 36445
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1967333,
+            "gpslong": 127.1048667,
+            "nodeid": "GGB233002419",
+            "nodenm": "한화.호반.대원",
+            "nodeno": 55296
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

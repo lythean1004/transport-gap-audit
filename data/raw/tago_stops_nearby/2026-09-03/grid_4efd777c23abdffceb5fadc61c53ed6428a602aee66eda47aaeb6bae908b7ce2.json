@@ -1,0 +1,137 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1613667,
+            "gpslong": 127.1117167,
+            "nodeid": "GGB233002952",
+            "nodenm": "서연중고등학교",
+            "nodeno": 37004
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1615333,
+            "gpslong": 127.1116833,
+            "nodeid": "GGB233002953",
+            "nodenm": "서연중고등학교",
+            "nodeno": 37005
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1593167,
+            "gpslong": 127.1132,
+            "nodeid": "GGB233002287",
+            "nodenm": "서연초.제일풍경채",
+            "nodeno": 37082
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1591667,
+            "gpslong": 127.1131333,
+            "nodeid": "GGB233002290",
+            "nodenm": "제일풍경체.서연초",
+            "nodeno": 37091
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1619,
+            "gpslong": 127.1088333,
+            "nodeid": "GGB233000428",
+            "nodenm": "금호어울림레이크.우남더테라스",
+            "nodeno": 55662
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1619,
+            "gpslong": 127.1161167,
+            "nodeid": "GGB233003133",
+            "nodenm": "레이크반도9차",
+            "nodeno": 55529
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1588,
+            "gpslong": 127.1155,
+            "nodeid": "GGB233002531",
+            "nodenm": "서연초",
+            "nodeno": 55938
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1620167,
+            "gpslong": 127.1162333,
+            "nodeid": "GGB233003166",
+            "nodenm": "레이크반도9차",
+            "nodeno": 55563
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1594667,
+            "gpslong": 127.1161,
+            "nodeid": "GGB233002584",
+            "nodenm": "서연초",
+            "nodeno": 55939
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1572333,
+            "gpslong": 127.1125167,
+            "nodeid": "GGB233003129",
+            "nodenm": "호반6차",
+            "nodeno": 55525
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1621833,
+            "gpslong": 127.1076667,
+            "nodeid": "GGB233002445",
+            "nodenm": "금호어울림레이크.우남더테라스",
+            "nodeno": 55661
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1570667,
+            "gpslong": 127.1126833,
+            "nodeid": "GGB233003165",
+            "nodenm": "호반6차",
+            "nodeno": 55562
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1579167,
+            "gpslong": 127.1089,
+            "nodeid": "GGB233003130",
+            "nodenm": "롯데캐슬.제일풍경채",
+            "nodeno": 55526
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1574167,
+            "gpslong": 127.1090833,
+            "nodeid": "GGB233003164",
+            "nodenm": "롯데캐슬.제일풍경채",
+            "nodeno": 55561
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1565333,
+            "gpslong": 127.1111667,
+            "nodeid": "GGB233000818",
+            "nodenm": "호반6차.제일풍경채",
+            "nodeno": 55684
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 15
+    }
+  }
+}

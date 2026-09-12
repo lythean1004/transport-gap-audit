@@ -1,0 +1,113 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5605833,
+            "gpslong": 127.2014,
+            "nodeid": "GGB227000318",
+            "nodenm": "강변마을.효성해링턴",
+            "nodeno": 28198
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.56075,
+            "gpslong": 127.2027667,
+            "nodeid": "GGB227000200",
+            "nodenm": "미사경정공원입구",
+            "nodeno": 28216
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.56045,
+            "gpslong": 127.20125,
+            "nodeid": "GGB227000319",
+            "nodenm": "강변마을.효성해링턴",
+            "nodeno": 28199
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5623333,
+            "gpslong": 127.2012,
+            "nodeid": "GGB277104469",
+            "nodenm": "조정지하차도진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5597833,
+            "gpslong": 127.2045167,
+            "nodeid": "GGB227000234",
+            "nodenm": "미사경정공원입구",
+            "nodeno": 28315
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5642667,
+            "gpslong": 127.20095,
+            "nodeid": "GGB227000264",
+            "nodenm": "미사경정공원관람동",
+            "nodeno": 28191
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5580167,
+            "gpslong": 127.2010333,
+            "nodeid": "GGB227000068",
+            "nodenm": "미사중학교.미사중앙초등학교",
+            "nodeno": 28064
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5635833,
+            "gpslong": 127.1986833,
+            "nodeid": "GGB277104748",
+            "nodenm": "미사강변남로진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5578833,
+            "gpslong": 127.2002833,
+            "nodeid": "GGB227000075",
+            "nodenm": "미사중학교.미사중앙초등학교",
+            "nodeno": 28067
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5631333,
+            "gpslong": 127.1976667,
+            "nodeid": "GGB227000303",
+            "nodenm": "하남디지털도서관.효성해링턴.C3단지",
+            "nodeno": 28193
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5622,
+            "gpslong": 127.19665,
+            "nodeid": "GGB227000074",
+            "nodenm": "하남디지털도서관.효성해링턴.C3단지",
+            "nodeno": 28058
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5575333,
+            "gpslong": 127.20485,
+            "nodeid": "GGB227000316",
+            "nodenm": "현대지식산업센터.미사한강마을",
+            "nodeno": 28196
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 12
+    }
+  }
+}

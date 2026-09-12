@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1555167,
+            "gpslong": 127.1012667,
+            "nodeid": "GGB233003123",
+            "nodenm": "동탄2차고지",
+            "nodeno": 55519
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1554,
+            "gpslong": 127.10165,
+            "nodeid": "GGB233003122",
+            "nodenm": "동탄2차고지",
+            "nodeno": 55518
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1541167,
+            "gpslong": 127.0921833,
+            "nodeid": "GGB223000447",
+            "nodenm": "계량골",
+            "nodeno": 24473
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1541,
+            "gpslong": 127.0919667,
+            "nodeid": "GGB223000446",
+            "nodenm": "계량골",
+            "nodeno": 24472
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

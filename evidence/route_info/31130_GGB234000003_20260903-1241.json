@@ -1,0 +1,24 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "endnodenm": "현대코아",
+          "endvehicletime": 2225,
+          "intervalsattime": 120,
+          "intervalsuntime": 120,
+          "intervaltime": 50,
+          "routeid": "GGB234000003",
+          "routeno": 30,
+          "routetp": "일반버스",
+          "startnodenm": "대성리",
+          "startvehicletime": "0400"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1619,
+            "gpslong": 127.1161167,
+            "nodeid": "GGB233003133",
+            "nodenm": "레이크반도9차",
+            "nodeno": 55529
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1620167,
+            "gpslong": 127.1162333,
+            "nodeid": "GGB233003166",
+            "nodenm": "레이크반도9차",
+            "nodeno": 55563
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1594667,
+            "gpslong": 127.1161,
+            "nodeid": "GGB233002584",
+            "nodenm": "서연초",
+            "nodeno": 55939
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1613167,
+            "gpslong": 127.1194667,
+            "nodeid": "GGB233003134",
+            "nodenm": "동탄2아이파크1단지",
+            "nodeno": 55530
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1588,
+            "gpslong": 127.1155,
+            "nodeid": "GGB233002531",
+            "nodenm": "서연초",
+            "nodeno": 55938
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1613667,
+            "gpslong": 127.1199167,
+            "nodeid": "GGB233003167",
+            "nodenm": "동탄2아이파크1단지",
+            "nodeno": 55564
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1593167,
+            "gpslong": 127.1132,
+            "nodeid": "GGB233002287",
+            "nodenm": "서연초.제일풍경채",
+            "nodeno": 37082
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1613667,
+            "gpslong": 127.1117167,
+            "nodeid": "GGB233002952",
+            "nodenm": "서연중고등학교",
+            "nodeno": 37004
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1615333,
+            "gpslong": 127.1116833,
+            "nodeid": "GGB233002953",
+            "nodenm": "서연중고등학교",
+            "nodeno": 37005
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1591667,
+            "gpslong": 127.1131333,
+            "nodeid": "GGB233002290",
+            "nodenm": "제일풍경체.서연초",
+            "nodeno": 37091
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1600333,
+            "gpslong": 127.1200333,
+            "nodeid": "GGB233003135",
+            "nodenm": "동탄2아이파크2단지",
+            "nodeno": 55531
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16,
+            "gpslong": 127.1202667,
+            "nodeid": "GGB233003168",
+            "nodenm": "동탄2아이파크2단지",
+            "nodeno": 55565
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1659,
+            "gpslong": 127.115,
+            "nodeid": "GGB277103993",
+            "nodenm": "A74블럭(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1657333,
+            "gpslong": 127.1142,
+            "nodeid": "GGB233001748",
+            "nodenm": "자연앤자이.센트리체",
+            "nodeno": 55503
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1660333,
+            "gpslong": 127.1139,
+            "nodeid": "GGB233001741",
+            "nodenm": "센트리체.자연앤자이",
+            "nodeno": 55502
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 15
+    }
+  }
+}

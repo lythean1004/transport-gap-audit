@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.63565,
+            "gpslong": 126.6255833,
+            "nodeid": "GGB232000647",
+            "nodenm": "구래리차고지",
+            "nodeno": 35618
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6357,
+            "gpslong": 126.6255667,
+            "nodeid": "GGB277102540",
+            "nodenm": "구래리차고지(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63735,
+            "gpslong": 126.6226,
+            "nodeid": "GGB232000847",
+            "nodenm": "금성백조예미지",
+            "nodeno": 35794
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6376667,
+            "gpslong": 126.6220333,
+            "nodeid": "GGB232000844",
+            "nodenm": "금성백조예미지",
+            "nodeno": 35791
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

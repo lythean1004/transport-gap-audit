@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5740167,
+            "gpslong": 127.17665,
+            "nodeid": "GGB227000339",
+            "nodenm": "미사강변리버뷰자이",
+            "nodeno": 28588
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5733833,
+            "gpslong": 127.1768833,
+            "nodeid": "GGB227000287",
+            "nodenm": "미사강변리버뷰자이.베라체",
+            "nodeno": 28524
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

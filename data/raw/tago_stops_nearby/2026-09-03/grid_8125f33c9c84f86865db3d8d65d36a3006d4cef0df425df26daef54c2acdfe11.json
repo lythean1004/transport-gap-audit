@@ -1,0 +1,137 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.19575,
+            "gpslong": 127.0774667,
+            "nodeid": "GGB233001487",
+            "nodenm": "노작마을.한화우림",
+            "nodeno": 37553
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1961833,
+            "gpslong": 127.0773333,
+            "nodeid": "GGB233001486",
+            "nodenm": "노작마을.한화우림",
+            "nodeno": 37616
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1959667,
+            "gpslong": 127.076,
+            "nodeid": "GGB233001488",
+            "nodenm": "솔빛마을.신도브래뉴",
+            "nodeno": 37615
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1950833,
+            "gpslong": 127.0753333,
+            "nodeid": "GGB233000433",
+            "nodenm": "나루마을.한화우림",
+            "nodeno": 55667
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1934,
+            "gpslong": 127.0774667,
+            "nodeid": "GGB233001960",
+            "nodenm": "반석초등학교",
+            "nodeno": 37661
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1932167,
+            "gpslong": 127.0773833,
+            "nodeid": "GGB233001961",
+            "nodenm": "반송고등학교",
+            "nodeno": 37669
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1949333,
+            "gpslong": 127.08025,
+            "nodeid": "GGB233001484",
+            "nodenm": "노작마을",
+            "nodeno": 37555
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1946333,
+            "gpslong": 127.0802667,
+            "nodeid": "GGB233001485",
+            "nodenm": "월드반도.노작마을",
+            "nodeno": 37554
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1935833,
+            "gpslong": 127.08085,
+            "nodeid": "GGB233001962",
+            "nodenm": "사랑의교회",
+            "nodeno": 55130
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1931,
+            "gpslong": 127.0804167,
+            "nodeid": "GGB233001706",
+            "nodenm": "월드반도",
+            "nodeno": 37697
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1964167,
+            "gpslong": 127.0728833,
+            "nodeid": "GGB233001639",
+            "nodenm": "동탄2동행정복지센터",
+            "nodeno": 37671
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1934,
+            "gpslong": 127.073,
+            "nodeid": "GGB233001297",
+            "nodenm": "솔빛마을상가",
+            "nodeno": 37510
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1931167,
+            "gpslong": 127.07315,
+            "nodeid": "GGB233001296",
+            "nodenm": "나루마을상가",
+            "nodeno": 36948
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1920333,
+            "gpslong": 127.07385,
+            "nodeid": "GGB233001714",
+            "nodenm": "신도브레뉴아파트",
+            "nodeno": 37748
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.19715,
+            "gpslong": 127.0726,
+            "nodeid": "GGB233001640",
+            "nodenm": "동탄2동행정복지센터",
+            "nodeno": 37662
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 15
+    }
+  }
+}

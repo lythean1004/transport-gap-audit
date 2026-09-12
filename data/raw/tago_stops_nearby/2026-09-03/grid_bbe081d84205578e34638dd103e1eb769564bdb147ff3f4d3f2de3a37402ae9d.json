@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 23,
+            "gpslati": 37.629592,
+            "gpslong": 126.655477,
+            "nodeid": "ICB168001320",
+            "nodenm": "황곡노인정",
+            "nodeno": 89320
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.629676,
+            "gpslong": 126.655284,
+            "nodeid": "ICB168001310",
+            "nodenm": "황곡노인정",
+            "nodeno": 89310
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.628995,
+            "gpslong": 126.657004,
+            "nodeid": "ICB168001330",
+            "nodenm": "황곡상회",
+            "nodeno": 89330
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.628878,
+            "gpslong": 126.656887,
+            "nodeid": "ICB168001311",
+            "nodenm": "황곡상회",
+            "nodeno": 89311
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.629305,
+            "gpslong": 126.658972,
+            "nodeid": "ICB168001329",
+            "nodenm": "안풍산업삼거리",
+            "nodeno": 89329
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.629209,
+            "gpslong": "126.659120",
+            "nodeid": "ICB168001312",
+            "nodenm": "안풍산업삼거리",
+            "nodeno": 89312
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

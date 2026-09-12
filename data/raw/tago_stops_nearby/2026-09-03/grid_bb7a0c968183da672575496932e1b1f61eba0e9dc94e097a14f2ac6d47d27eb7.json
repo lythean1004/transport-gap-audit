@@ -1,0 +1,161 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1908,
+            "gpslong": 127.0765167,
+            "nodeid": "GGB233001448",
+            "nodenm": "나루마을.월드반도",
+            "nodeno": 36678
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1906167,
+            "gpslong": 127.0762333,
+            "nodeid": "GGB233001454",
+            "nodenm": "탄요유적공원",
+            "nodeno": 37586
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1932167,
+            "gpslong": 127.0773833,
+            "nodeid": "GGB233001961",
+            "nodenm": "반송고등학교",
+            "nodeno": 37669
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1934,
+            "gpslong": 127.0774667,
+            "nodeid": "GGB233001960",
+            "nodenm": "반석초등학교",
+            "nodeno": 37661
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1913167,
+            "gpslong": 127.07455,
+            "nodeid": "GGB233001713",
+            "nodenm": "나루마을.한화꿈에그린2차",
+            "nodeno": 37745
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1920333,
+            "gpslong": 127.07385,
+            "nodeid": "GGB233001714",
+            "nodenm": "신도브레뉴아파트",
+            "nodeno": 37748
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1890667,
+            "gpslong": 127.0791833,
+            "nodeid": "GGB233001455",
+            "nodenm": "동탄국제고등학교",
+            "nodeno": 36677
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1890167,
+            "gpslong": 127.0794667,
+            "nodeid": "GGB233001447",
+            "nodenm": "동탄국제고등학교",
+            "nodeno": 36676
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1931,
+            "gpslong": 127.0804167,
+            "nodeid": "GGB233001706",
+            "nodenm": "월드반도",
+            "nodeno": 37697
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1931167,
+            "gpslong": 127.07315,
+            "nodeid": "GGB233001296",
+            "nodenm": "나루마을상가",
+            "nodeno": 36948
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1935833,
+            "gpslong": 127.08085,
+            "nodeid": "GGB233001962",
+            "nodenm": "사랑의교회",
+            "nodeno": 55130
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1934,
+            "gpslong": 127.073,
+            "nodeid": "GGB233001297",
+            "nodenm": "솔빛마을상가",
+            "nodeno": 37510
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1950833,
+            "gpslong": 127.0753333,
+            "nodeid": "GGB233000433",
+            "nodenm": "나루마을.한화우림",
+            "nodeno": 55667
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1946333,
+            "gpslong": 127.0802667,
+            "nodeid": "GGB233001485",
+            "nodenm": "월드반도.노작마을",
+            "nodeno": 37554
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1930333,
+            "gpslong": 127.0724167,
+            "nodeid": "GGB277102522",
+            "nodenm": "새강마을사거리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1949333,
+            "gpslong": 127.08025,
+            "nodeid": "GGB233001484",
+            "nodenm": "노작마을",
+            "nodeno": 37555
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.19575,
+            "gpslong": 127.0774667,
+            "nodeid": "GGB233001487",
+            "nodenm": "노작마을.한화우림",
+            "nodeno": 37553
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1919333,
+            "gpslong": 127.0716667,
+            "nodeid": "GGB233001703",
+            "nodenm": "한화꿈에그린",
+            "nodeno": 37707
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 18
+    }
+  }
+}

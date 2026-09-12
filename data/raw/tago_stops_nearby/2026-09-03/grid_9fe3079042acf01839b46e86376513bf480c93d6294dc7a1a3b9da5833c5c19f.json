@@ -1,0 +1,81 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31020,
+            "gpslati": 37.4603667,
+            "gpslong": 127.13725,
+            "nodeid": "GGB204000169",
+            "nodenm": "복정고.남위례역아테라",
+            "nodeno": 5095
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.46055,
+            "gpslong": 127.1372667,
+            "nodeid": "GGB204000168",
+            "nodenm": "복정고.남위례역아테라",
+            "nodeno": 5087
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4564667,
+            "gpslong": 127.1383,
+            "nodeid": "GGB277100054",
+            "nodenm": "영장산터널출구(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4600333,
+            "gpslong": 127.1403667,
+            "nodeid": "GGB204000172",
+            "nodenm": "위례해솔초등학교.위례해솔유치원",
+            "nodeno": 5119
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4561833,
+            "gpslong": 127.13815,
+            "nodeid": "GGB277100057",
+            "nodenm": "영장산터널진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4599,
+            "gpslong": 127.1405333,
+            "nodeid": "GGB204000173",
+            "nodenm": "남위례역수자인센트럴.엘리프남위례역에듀포레",
+            "nodeno": 5124
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.46155,
+            "gpslong": 127.1394667,
+            "nodeid": "GGB204000171",
+            "nodenm": "남위례역.위례해솔초등학교",
+            "nodeno": 5117
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4616833,
+            "gpslong": 127.1393,
+            "nodeid": "GGB204000170",
+            "nodenm": "남위례역.위례해솔초등학교",
+            "nodeno": 5111
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 8
+    }
+  }
+}

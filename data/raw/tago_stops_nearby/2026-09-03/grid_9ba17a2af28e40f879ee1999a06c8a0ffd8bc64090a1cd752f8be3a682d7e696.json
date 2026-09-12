@@ -1,0 +1,121 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1716333,
+            "gpslong": 127.1172833,
+            "nodeid": "GGB233002038",
+            "nodenm": "레이크파크뷰.서희스타힐스",
+            "nodeno": 55587
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.17195,
+            "gpslong": 127.1173833,
+            "nodeid": "GGB233002027",
+            "nodenm": "서희스타힐스.레이크파크뷰",
+            "nodeno": 55586
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1723167,
+            "gpslong": 127.1129833,
+            "nodeid": "GGB233001953",
+            "nodenm": "정현초.청림중",
+            "nodeno": 55566
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1731,
+            "gpslong": 127.1139167,
+            "nodeid": "GGB233000431",
+            "nodenm": "중흥클래스에듀",
+            "nodeno": 55665
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1726,
+            "gpslong": 127.113,
+            "nodeid": "GGB233000571",
+            "nodenm": "정현초.청림중",
+            "nodeno": 55569
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1734,
+            "gpslong": 127.1141333,
+            "nodeid": "GGB233000432",
+            "nodenm": "중흥클래스에듀",
+            "nodeno": 55666
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1700333,
+            "gpslong": 127.1185333,
+            "nodeid": "GGB233001695",
+            "nodenm": "레이크파크뷰",
+            "nodeno": 37724
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1699167,
+            "gpslong": 127.119,
+            "nodeid": "GGB233001696",
+            "nodenm": "레이크파크뷰",
+            "nodeno": 37696
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1674,
+            "gpslong": 127.1170333,
+            "nodeid": "GGB233001699",
+            "nodenm": "호수부영6차.호수공원행복주택",
+            "nodeno": 55500
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1733167,
+            "gpslong": 127.1195333,
+            "nodeid": "GGB233001572",
+            "nodenm": "서희스타힐스.단독주택",
+            "nodeno": 55488
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1678333,
+            "gpslong": 127.1185833,
+            "nodeid": "GGB233000085",
+            "nodenm": "호수공원행복주택",
+            "nodeno": 55732
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16715,
+            "gpslong": 127.1174,
+            "nodeid": "GGB233001710",
+            "nodenm": "호수공원행복주택.호수부영6차",
+            "nodeno": 55501
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1734167,
+            "gpslong": 127.12005,
+            "nodeid": "GGB233001608",
+            "nodenm": "서희스타힐스.단독주택",
+            "nodeno": 37654
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 13
+    }
+  }
+}

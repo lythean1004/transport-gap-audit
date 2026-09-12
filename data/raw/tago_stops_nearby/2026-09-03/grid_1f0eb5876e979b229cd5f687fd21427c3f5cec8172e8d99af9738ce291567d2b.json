@@ -1,0 +1,57 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6003,
+            "gpslong": 127.1701833,
+            "nodeid": "GGB222001963",
+            "nodenm": "다산한강반도유보라.금강펜테리움2차후문",
+            "nodeno": 49842
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5997667,
+            "gpslong": 127.1679833,
+            "nodeid": "GGB222001960",
+            "nodenm": "다산한강반도유보라정문",
+            "nodeno": 49839
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6001167,
+            "gpslong": 127.1702667,
+            "nodeid": "GGB222001962",
+            "nodenm": "다산한강반도유보라.금강펜테리움2차후문",
+            "nodeno": 49841
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5997,
+            "gpslong": 127.16775,
+            "nodeid": "GGB222001961",
+            "nodenm": "다산한강반도유보라정문",
+            "nodeno": 49840
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6023833,
+            "gpslong": 127.1739167,
+            "nodeid": "GGB222000304",
+            "nodenm": "신안인스빌2차",
+            "nodeno": 23179
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 5
+    }
+  }
+}

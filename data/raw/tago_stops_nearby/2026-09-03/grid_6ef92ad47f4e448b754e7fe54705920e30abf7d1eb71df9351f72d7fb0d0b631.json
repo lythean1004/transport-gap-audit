@@ -1,0 +1,105 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31120,
+            "gpslati": 37.6219833,
+            "gpslong": 127.1411667,
+            "nodeid": "GGB221000013",
+            "nodenm": "샘말.성신양회",
+            "nodeno": 22114
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6220333,
+            "gpslong": 127.1408667,
+            "nodeid": "GGB221000131",
+            "nodenm": "샘말.성신양회",
+            "nodeno": 22111
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62255,
+            "gpslong": 127.1467667,
+            "nodeid": "GGB222001153",
+            "nodenm": "유승한내들골든뷰.다산메트로3단지",
+            "nodeno": 49264
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62465,
+            "gpslong": 127.1467833,
+            "nodeid": "GGB222001935",
+            "nodenm": "한양수자인1차입구",
+            "nodeno": 49806
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6223833,
+            "gpslong": 127.14705,
+            "nodeid": "GGB222000907",
+            "nodenm": "다산메트로3단지.유승한내들골든뷰",
+            "nodeno": 49157
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6248,
+            "gpslong": 127.1470667,
+            "nodeid": "GGB222001936",
+            "nodenm": "한양수자인1차입구",
+            "nodeno": 49807
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6193667,
+            "gpslong": 127.1416,
+            "nodeid": "GGB221000163",
+            "nodenm": "인창해모로아파트",
+            "nodeno": 22177
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6207833,
+            "gpslong": 127.14715,
+            "nodeid": "GGB222000910",
+            "nodenm": "한양수자인2차",
+            "nodeno": 49781
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6269833,
+            "gpslong": 127.1403333,
+            "nodeid": "GGB221000096",
+            "nodenm": "돌무들",
+            "nodeno": 22096
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6268333,
+            "gpslong": 127.1399833,
+            "nodeid": "GGB221000132",
+            "nodenm": "돌무들",
+            "nodeno": 22093
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.61895,
+            "gpslong": 127.1413,
+            "nodeid": "GGB221000033",
+            "nodenm": "인창해모로아파트",
+            "nodeno": 22112
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 11
+    }
+  }
+}

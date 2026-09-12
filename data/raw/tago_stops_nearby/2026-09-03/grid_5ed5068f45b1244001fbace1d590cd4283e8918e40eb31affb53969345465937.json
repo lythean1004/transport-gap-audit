@@ -1,0 +1,57 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31120,
+            "gpslati": 37.6268333,
+            "gpslong": 127.1399833,
+            "nodeid": "GGB221000132",
+            "nodenm": "돌무들",
+            "nodeno": 22093
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6269833,
+            "gpslong": 127.1403333,
+            "nodeid": "GGB221000096",
+            "nodenm": "돌무들",
+            "nodeno": 22096
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6220333,
+            "gpslong": 127.1408667,
+            "nodeid": "GGB221000131",
+            "nodenm": "샘말.성신양회",
+            "nodeno": 22111
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6219833,
+            "gpslong": 127.1411667,
+            "nodeid": "GGB221000013",
+            "nodenm": "샘말.성신양회",
+            "nodeno": 22114
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6292333,
+            "gpslong": 127.14065,
+            "nodeid": "GGB221000133",
+            "nodenm": "구리시립묘지",
+            "nodeno": 22107
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 5
+    }
+  }
+}

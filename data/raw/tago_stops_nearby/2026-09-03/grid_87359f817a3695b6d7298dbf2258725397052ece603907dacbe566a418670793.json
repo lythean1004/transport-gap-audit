@@ -1,0 +1,105 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5681167,
+            "gpslong": 127.1793333,
+            "nodeid": "GGB227000340",
+            "nodenm": "미사강변루나리움.강일리버5단지",
+            "nodeno": 28573
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5667167,
+            "gpslong": 127.18085,
+            "nodeid": "GGB227000196",
+            "nodenm": "미사강변루나리움.17단지",
+            "nodeno": 28018
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.56645,
+            "gpslong": 127.1811833,
+            "nodeid": "GGB227000199",
+            "nodenm": "미사강변루나리움.17단지",
+            "nodeno": 28017
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5710333,
+            "gpslong": 127.1796833,
+            "nodeid": "GGB227000313",
+            "nodenm": "망월초등학교.베라체",
+            "nodeno": 28483
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5701167,
+            "gpslong": 127.1831667,
+            "nodeid": "GGB227000656",
+            "nodenm": "미사강변스타힐스.금빛마을",
+            "nodeno": 28462
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5645833,
+            "gpslong": 127.18015,
+            "nodeid": "GGB227000006",
+            "nodenm": "미사강변17단지.강일리버7단지",
+            "nodeno": 28467
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5719,
+            "gpslong": 127.1815833,
+            "nodeid": "GGB227000290",
+            "nodenm": "망월초등학교.미사강변리슈빌",
+            "nodeno": 28487
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5713167,
+            "gpslong": 127.1829333,
+            "nodeid": "GGB227000291",
+            "nodenm": "미사강변스타힐스.금빛마을",
+            "nodeno": 28486
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5673667,
+            "gpslong": 127.1848833,
+            "nodeid": "GGB227000484",
+            "nodenm": "미사2동행정복지센터.하남시미사보건센터",
+            "nodeno": 28484
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5676167,
+            "gpslong": 127.1851833,
+            "nodeid": "GGB227000485",
+            "nodenm": "미사2동행정복지센터.하남시미사보건센터",
+            "nodeno": 28485
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5725667,
+            "gpslong": 127.1777667,
+            "nodeid": "GGB227000655",
+            "nodenm": "미사강변도시베라체",
+            "nodeno": 28461
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 11
+    }
+  }
+}

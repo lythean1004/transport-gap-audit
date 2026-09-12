@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.4768333,
+            "gpslong": 127.1472,
+            "nodeid": "GGB227000309",
+            "nodenm": "위례중학교.위례센트로엘",
+            "nodeno": 28479
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4737333,
+            "gpslong": 127.14095,
+            "nodeid": "GGB204000145",
+            "nodenm": "한화오벨리스크",
+            "nodeno": 5318
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.47705,
+            "gpslong": 127.1476333,
+            "nodeid": "GGB227000296",
+            "nodenm": "위례중학교.위례센트로엘",
+            "nodeno": 28373
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4746667,
+            "gpslong": 127.1475,
+            "nodeid": "GGB227000535",
+            "nodenm": "플로리체위례.신안인스빌아스트로",
+            "nodeno": 28338
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.47215,
+            "gpslong": 127.1431167,
+            "nodeid": "GGB204000329",
+            "nodenm": "위례35단지아파트",
+            "nodeno": 5316
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4780167,
+            "gpslong": 127.1484667,
+            "nodeid": "GGB227000673",
+            "nodenm": "위례초.위례중.효성해링턴타워",
+            "nodeno": 28498
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

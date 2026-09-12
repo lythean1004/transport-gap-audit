@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31020,
+            "gpslati": 37.4697333,
+            "gpslong": 127.1523,
+            "nodeid": "GGB204000239",
+            "nodenm": "위례더힐남문.위례푸른초등학교",
+            "nodeno": 5174
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4709,
+            "gpslong": 127.15415,
+            "nodeid": "GGB204000312",
+            "nodenm": "위례더힐정문",
+            "nodeno": 5290
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.47095,
+            "gpslong": 127.1538667,
+            "nodeid": "GGB204000313",
+            "nodenm": "위례센트럴푸르지오",
+            "nodeno": 5293
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.46995,
+            "gpslong": 127.1513167,
+            "nodeid": "GGB204000048",
+            "nodenm": "위례센트럴푸르지오.위례푸른초등학교",
+            "nodeno": 5294
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

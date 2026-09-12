@@ -1,0 +1,23 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "citycode": 31230,
+          "gpslati": 37.65395,
+          "gpslong": 126.6984,
+          "nodeid": "GGB232000044",
+          "nodenm": "에코센터",
+          "nodeno": 35132
+        }
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 1
+    }
+  }
+}

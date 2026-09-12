@@ -1,0 +1,89 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6409667,
+            "gpslong": 126.6214167,
+            "nodeid": "GGB232000558",
+            "nodenm": "김포한강3차푸르지오",
+            "nodeno": 35054
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6415667,
+            "gpslong": 126.6208,
+            "nodeid": "GGB232000849",
+            "nodenm": "김포한강3차푸르지오",
+            "nodeno": 35796
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6376667,
+            "gpslong": 126.6220333,
+            "nodeid": "GGB232000844",
+            "nodenm": "금성백조예미지",
+            "nodeno": 35791
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63735,
+            "gpslong": 126.6226,
+            "nodeid": "GGB232000847",
+            "nodenm": "금성백조예미지",
+            "nodeno": 35794
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6428167,
+            "gpslong": 126.6208833,
+            "nodeid": "GGB232000848",
+            "nodenm": "나비마을삼거리",
+            "nodeno": 35795
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6392,
+            "gpslong": 126.6266167,
+            "nodeid": "GGB232000976",
+            "nodenm": "나래중학교",
+            "nodeno": 35926
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6415,
+            "gpslong": 126.6263333,
+            "nodeid": "GGB232000978",
+            "nodenm": "나비마을3단지",
+            "nodeno": 35928
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6418833,
+            "gpslong": 126.6264167,
+            "nodeid": "GGB232000977",
+            "nodenm": "나비마을3단지",
+            "nodeno": 35927
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6385667,
+            "gpslong": 126.6267167,
+            "nodeid": "GGB232000975",
+            "nodenm": "나래중학교",
+            "nodeno": 35925
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 9
+    }
+  }
+}

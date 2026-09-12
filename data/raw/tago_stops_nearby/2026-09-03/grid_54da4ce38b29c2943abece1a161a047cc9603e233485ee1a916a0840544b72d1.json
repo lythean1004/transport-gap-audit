@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1835333,
+            "gpslong": 127.1329667,
+            "nodeid": "GGB233003187",
+            "nodenm": "동탄아테라파밀리에",
+            "nodeno": 55956
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1834167,
+            "gpslong": 127.1327333,
+            "nodeid": "GGB233003188",
+            "nodenm": "동탄아테라파밀리에",
+            "nodeno": 55957
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6507833,
+            "gpslong": 126.6637833,
+            "nodeid": "GGB232000868",
+            "nodenm": "성우오스타.모아미래도엘가",
+            "nodeno": 35815
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6523,
+            "gpslong": 126.66565,
+            "nodeid": "GGB232000871",
+            "nodenm": "푸른솔초교",
+            "nodeno": 35818
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6504167,
+            "gpslong": 126.6637167,
+            "nodeid": "GGB232000870",
+            "nodenm": "성우오스타.모아미래도엘가",
+            "nodeno": 35817
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6525,
+            "gpslong": 126.66565,
+            "nodeid": "GGB232000867",
+            "nodenm": "푸른솔초교",
+            "nodeno": 35814
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6506667,
+            "gpslong": 126.6618167,
+            "nodeid": "GGB232000811",
+            "nodenm": "모아미래도",
+            "nodeno": 35723
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6504,
+            "gpslong": 126.6612333,
+            "nodeid": "GGB232000812",
+            "nodenm": "모아미래도",
+            "nodeno": 35724
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6488167,
+            "gpslong": 126.6628833,
+            "nodeid": "GGB232000051",
+            "nodenm": "모아미래도엘가",
+            "nodeno": 35157
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6483333,
+            "gpslong": 126.6628667,
+            "nodeid": "GGB232001266",
+            "nodenm": "모아미래도엘가",
+            "nodeno": 35998
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6482833,
+            "gpslong": 126.6615667,
+            "nodeid": "GGB232000826",
+            "nodenm": "모아.호반아파트",
+            "nodeno": 35738
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65215,
+            "gpslong": 126.66895,
+            "nodeid": "GGB232000872",
+            "nodenm": "중흥S클래스.호반더퍼스트",
+            "nodeno": 35819
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6483833,
+            "gpslong": 126.6607667,
+            "nodeid": "GGB232000827",
+            "nodenm": "모아.호반아파트",
+            "nodeno": 35739
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65225,
+            "gpslong": 126.6691167,
+            "nodeid": "GGB232000866",
+            "nodenm": "중흥S클래스.호반더퍼스트",
+            "nodeno": 35813
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 12
+    }
+  }
+}

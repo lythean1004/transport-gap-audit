@@ -1,0 +1,121 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.19625,
+            "gpslong": 127.0985167,
+            "nodeid": "GGB233001637",
+            "nodenm": "린스트라우스.한화",
+            "nodeno": 37658
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1953833,
+            "gpslong": 127.0990833,
+            "nodeid": "GGB233000978",
+            "nodenm": "한화.린스트라우스",
+            "nodeno": 36466
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1964167,
+            "gpslong": 127.0930167,
+            "nodeid": "GGB233001625",
+            "nodenm": "반도5차.파라곤",
+            "nodeno": 37687
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1948167,
+            "gpslong": 127.1003333,
+            "nodeid": "GGB233002437",
+            "nodenm": "한화꿈에그린",
+            "nodeno": 55309
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1995833,
+            "gpslong": 127.0960833,
+            "nodeid": "GGB233003084",
+            "nodenm": "동탄역(서측)",
+            "nodeno": 55398
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.19985,
+            "gpslong": 127.0962833,
+            "nodeid": "GGB233003085",
+            "nodenm": "동탄역(동측)",
+            "nodeno": 55399
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1997,
+            "gpslong": 127.0984667,
+            "nodeid": "GGB233000137",
+            "nodenm": "롯데캐슬.포스코더샵",
+            "nodeno": 36436
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1944333,
+            "gpslong": 127.1004833,
+            "nodeid": "GGB233002438",
+            "nodenm": "한화꿈에그린",
+            "nodeno": 55310
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1933667,
+            "gpslong": 127.0991,
+            "nodeid": "GGB233000305",
+            "nodenm": "그란비아스타",
+            "nodeno": 36384
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1964,
+            "gpslong": 127.0925167,
+            "nodeid": "GGB233001628",
+            "nodenm": "반도5차.파라곤",
+            "nodeno": 55491
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1999333,
+            "gpslong": 127.0991,
+            "nodeid": "GGB233000979",
+            "nodenm": "포스코더샵.롯데캐슬",
+            "nodeno": 36465
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1993333,
+            "gpslong": 127.0930167,
+            "nodeid": "GGB233001632",
+            "nodenm": "디에트르퍼스티지",
+            "nodeno": 55494
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1991667,
+            "gpslong": 127.0925167,
+            "nodeid": "GGB233001634",
+            "nodenm": "디에트르퍼스티지",
+            "nodeno": 55495
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 13
+    }
+  }
+}

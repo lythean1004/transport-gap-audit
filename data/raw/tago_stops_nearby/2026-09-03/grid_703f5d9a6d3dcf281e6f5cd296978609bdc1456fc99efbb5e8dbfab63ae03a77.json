@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5766667,
+            "gpslong": 127.1903333,
+            "nodeid": "GGB227000194",
+            "nodenm": "구산문화마을.구산성당",
+            "nodeno": 28507
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.57645,
+            "gpslong": 127.1905333,
+            "nodeid": "GGB227000172",
+            "nodenm": "구산문화마을.구산성당",
+            "nodeno": 28506
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

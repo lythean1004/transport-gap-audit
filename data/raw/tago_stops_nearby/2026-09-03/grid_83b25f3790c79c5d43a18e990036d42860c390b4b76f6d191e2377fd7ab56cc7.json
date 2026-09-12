@@ -1,0 +1,23 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "citycode": 31180,
+          "gpslati": 37.5757667,
+          "gpslong": 127.2038833,
+          "nodeid": "GGB227000064",
+          "nodenm": "미사동차고지.한강뚝방모랫길",
+          "nodeno": 28070
+        }
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 1
+    }
+  }
+}

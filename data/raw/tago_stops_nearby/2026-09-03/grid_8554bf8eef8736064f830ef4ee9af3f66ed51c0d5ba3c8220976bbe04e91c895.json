@@ -1,0 +1,193 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6480333,
+            "gpslong": 126.6277667,
+            "nodeid": "GGB277102725",
+            "nodenm": "김포한강7로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6492333,
+            "gpslong": 126.6277333,
+            "nodeid": "GGB232000705",
+            "nodenm": "호수마을이편한세상.한가람우미린",
+            "nodeno": 35640
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6495167,
+            "gpslong": 126.6273333,
+            "nodeid": "GGB232000704",
+            "nodenm": "한가람마을우미린.호수이편한세상",
+            "nodeno": 35641
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.649463,
+            "gpslong": 126.627685,
+            "nodeid": "ICB232000705",
+            "nodenm": "호수마을이편한세상.한가람우미린",
+            "nodeno": 80319
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.649623,
+            "gpslong": 126.627387,
+            "nodeid": "ICB232000704",
+            "nodenm": "한가람마을우미린.호수이편한세상",
+            "nodeno": 80318
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6465,
+            "gpslong": 126.6267333,
+            "nodeid": "GGB232000073",
+            "nodenm": "한강반도유보라5차",
+            "nodeno": 35473
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6461167,
+            "gpslong": 126.6264167,
+            "nodeid": "GGB232000027",
+            "nodenm": "한강반도유보라5차",
+            "nodeno": 35590
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65065,
+            "gpslong": 126.6255333,
+            "nodeid": "GGB232001165",
+            "nodenm": "우미린아파트후문",
+            "nodeno": 35849
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6509333,
+            "gpslong": 126.6271667,
+            "nodeid": "GGB277102391",
+            "nodenm": "김포한강7로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6509,
+            "gpslong": 126.6249833,
+            "nodeid": "GGB232001164",
+            "nodenm": "세계로식자재마트",
+            "nodeno": 35848
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65125,
+            "gpslong": 126.6258333,
+            "nodeid": "GGB232000809",
+            "nodenm": "양곡터미널",
+            "nodeno": 35718
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6513833,
+            "gpslong": 126.6260333,
+            "nodeid": "GGB277102724",
+            "nodenm": "양곡터미널(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64875,
+            "gpslong": 126.6305833,
+            "nodeid": "GGB232000946",
+            "nodenm": "호수마을2.3.5단지",
+            "nodeno": 35896
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6514333,
+            "gpslong": 126.62615,
+            "nodeid": "GGB232000810",
+            "nodenm": "양곡터미널",
+            "nodeno": 35719
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64875,
+            "gpslong": 126.6308,
+            "nodeid": "GGB232000537",
+            "nodenm": "호수마을2.3.5단지",
+            "nodeno": 35758
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6450833,
+            "gpslong": 126.6287,
+            "nodeid": "GGB232000725",
+            "nodenm": "구래역",
+            "nodeno": 35196
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6452,
+            "gpslong": 126.629,
+            "nodeid": "GGB232000724",
+            "nodenm": "구래역",
+            "nodeno": 35195
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.645057,
+            "gpslong": 126.629008,
+            "nodeid": "ICB232000724",
+            "nodenm": "구래역",
+            "nodeno": 80338
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.644936,
+            "gpslong": 126.628786,
+            "nodeid": "ICB232000725",
+            "nodenm": "구래역",
+            "nodeno": 80337
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6514833,
+            "gpslong": 126.6292,
+            "nodeid": "GGB232000961",
+            "nodenm": "이편한세상.한강아이파크",
+            "nodeno": 35911
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64565,
+            "gpslong": 126.6225,
+            "nodeid": "GGB232000817",
+            "nodenm": "구래동행정복지센터",
+            "nodeno": 35729
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6517667,
+            "gpslong": 126.62935,
+            "nodeid": "GGB232000967",
+            "nodenm": "휴먼시아9단지",
+            "nodeno": 35917
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 22
+    }
+  }
+}

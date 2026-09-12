@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2095833,
+            "gpslong": 127.1189667,
+            "nodeid": "GGB233001993",
+            "nodenm": "동탄행복마을푸르지오아파트",
+            "nodeno": 55584
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2085833,
+            "gpslong": 127.1248667,
+            "nodeid": "GGB277104710",
+            "nodenm": "중리IC(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

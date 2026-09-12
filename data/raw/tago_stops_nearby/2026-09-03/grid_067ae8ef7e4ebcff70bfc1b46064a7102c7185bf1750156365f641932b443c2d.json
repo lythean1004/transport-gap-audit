@@ -1,0 +1,145 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5699,
+            "gpslong": 127.1990333,
+            "nodeid": "GGB227000322",
+            "nodenm": "미사동.미사경정공원후문",
+            "nodeno": 28204
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.56975,
+            "gpslong": 127.1991833,
+            "nodeid": "GGB227000321",
+            "nodenm": "미사동.미사경정공원후문",
+            "nodeno": 28201
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5705333,
+            "gpslong": 127.20075,
+            "nodeid": "GGB227000526",
+            "nodenm": "경정장후문",
+            "nodeno": 28270
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5704,
+            "gpslong": 127.20095,
+            "nodeid": "GGB227000157",
+            "nodenm": "경정장후문",
+            "nodeno": 28175
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5698833,
+            "gpslong": 127.1965,
+            "nodeid": "GGB227000077",
+            "nodenm": "미사동입구.한강유역환경청",
+            "nodeno": 28042
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.57205,
+            "gpslong": 127.2017667,
+            "nodeid": "GGB227000078",
+            "nodenm": "미사동입구",
+            "nodeno": 28061
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5722,
+            "gpslong": 127.2020333,
+            "nodeid": "GGB227000065",
+            "nodenm": "미사동입구",
+            "nodeno": 28062
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5682,
+            "gpslong": 127.1976333,
+            "nodeid": "GGB227000066",
+            "nodenm": "미사동입구.한강유역환경청",
+            "nodeno": 28174
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5703833,
+            "gpslong": 127.1945167,
+            "nodeid": "GGB227000219",
+            "nodenm": "한강유역환경청.미사고등학교.미사가람마을",
+            "nodeno": 28505
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5702,
+            "gpslong": 127.1943,
+            "nodeid": "GGB227000190",
+            "nodenm": "한강유역환경청.미사고등학교.미사가람마을",
+            "nodeno": 28503
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5695,
+            "gpslong": 127.2025333,
+            "nodeid": "GGB227000616",
+            "nodenm": "고부레앞",
+            "nodeno": 28423
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5694667,
+            "gpslong": 127.2026167,
+            "nodeid": "GGB227000617",
+            "nodenm": "고부레앞",
+            "nodeno": 28424
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5725167,
+            "gpslong": 127.1936333,
+            "nodeid": "GGB227000271",
+            "nodenm": "미사강변트래지안.미사초등학교",
+            "nodeno": 28212
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5739,
+            "gpslong": 127.20275,
+            "nodeid": "GGB227000079",
+            "nodenm": "미사동뒷벌",
+            "nodeno": 28069
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5739167,
+            "gpslong": 127.2028333,
+            "nodeid": "GGB227000622",
+            "nodenm": "미사동뒷벌",
+            "nodeno": 28429
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5676833,
+            "gpslong": 127.1959667,
+            "nodeid": "GGB227000294",
+            "nodenm": "하남종합운동장.국민체육센터",
+            "nodeno": 28313
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 16
+    }
+  }
+}

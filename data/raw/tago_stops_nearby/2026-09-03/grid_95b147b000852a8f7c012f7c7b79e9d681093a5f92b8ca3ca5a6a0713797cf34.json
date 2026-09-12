@@ -1,0 +1,137 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6525333,
+            "gpslong": 126.6395667,
+            "nodeid": "GGB232000309",
+            "nodenm": "장단",
+            "nodeno": 35154
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6533333,
+            "gpslong": 126.6366833,
+            "nodeid": "GGB277102729",
+            "nodenm": "차량대기(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6525333,
+            "gpslong": 126.6397667,
+            "nodeid": "GGB232000323",
+            "nodenm": "장단",
+            "nodeno": 35155
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6525333,
+            "gpslong": 126.6359667,
+            "nodeid": "GGB232000574",
+            "nodenm": "김포한강듀클래스",
+            "nodeno": 35521
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6526667,
+            "gpslong": 126.63585,
+            "nodeid": "GGB232000643",
+            "nodenm": "김포한강듀클래스",
+            "nodeno": 35597
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6501833,
+            "gpslong": 126.6361667,
+            "nodeid": "GGB232000945",
+            "nodenm": "호반베르디움5차",
+            "nodeno": 35895
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6496,
+            "gpslong": 126.6389667,
+            "nodeid": "GGB232000943",
+            "nodenm": "김포시자원화센터",
+            "nodeno": 35893
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6538667,
+            "gpslong": 126.6340667,
+            "nodeid": "GGB232000664",
+            "nodenm": "고다니8단지",
+            "nodeno": 35608
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6494,
+            "gpslong": 126.6364833,
+            "nodeid": "GGB232000835",
+            "nodenm": "김포한강스포츠센터.호반베르디움",
+            "nodeno": 35782
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6491833,
+            "gpslong": 126.6387,
+            "nodeid": "GGB232000942",
+            "nodenm": "김포시자원화센터",
+            "nodeno": 35892
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6536,
+            "gpslong": 126.6336833,
+            "nodeid": "GGB232000663",
+            "nodenm": "고다니8단지",
+            "nodeno": 35306
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6504,
+            "gpslong": 126.6336833,
+            "nodeid": "GGB232000538",
+            "nodenm": "김포호수초교.한강아이파크",
+            "nodeno": 35759
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65645,
+            "gpslong": 126.63545,
+            "nodeid": "GGB232000638",
+            "nodenm": "신양초교.신양고교",
+            "nodeno": 35592
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6562833,
+            "gpslong": 126.6350833,
+            "nodeid": "GGB232000637",
+            "nodenm": "신양초교.신양고교",
+            "nodeno": 35595
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6504667,
+            "gpslong": 126.6331167,
+            "nodeid": "GGB232000947",
+            "nodenm": "김포호수초교.한강아이파크",
+            "nodeno": 35897
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 15
+    }
+  }
+}

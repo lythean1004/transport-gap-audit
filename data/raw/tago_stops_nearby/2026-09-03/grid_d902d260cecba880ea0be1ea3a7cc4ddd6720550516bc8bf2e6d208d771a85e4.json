@@ -1,0 +1,57 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1790667,
+            "gpslong": 127.0915167,
+            "nodeid": "GGB233002361",
+            "nodenm": "방교동",
+            "nodeno": 36269
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1778833,
+            "gpslong": 127.0957833,
+            "nodeid": "GGB277103444",
+            "nodenm": "동탄JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1803,
+            "gpslong": 127.0923833,
+            "nodeid": "GGB233002362",
+            "nodenm": "방교동",
+            "nodeno": 55257
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1774333,
+            "gpslong": 127.0962,
+            "nodeid": "GGB277103445",
+            "nodenm": "동탄JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1818333,
+            "gpslong": 127.0925333,
+            "nodeid": "GGB233002363",
+            "nodenm": "방아다리마을",
+            "nodeno": 55258
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 5
+    }
+  }
+}

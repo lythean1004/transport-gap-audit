@@ -1,0 +1,24 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "endnodenm": "금곡동주민센터.인정프린스.남양주시자원봉사센터",
+          "endvehicletime": 2200,
+          "intervalsattime": 60,
+          "intervalsuntime": 60,
+          "intervaltime": 12,
+          "routeid": "GGB222000199",
+          "routeno": "땡큐50",
+          "routetp": "일반버스",
+          "startnodenm": "청학리",
+          "startvehicletime": "0525"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+﻿check_id,status,severity,observed,expected,notes
+raw_pdf_count,PASS,critical,112,112,recursive PDF count is inventory-driven because the user may add files
+inventory_row_count,PASS,critical,112,112,one row per raw PDF file
+unique_pdf_hashes,PASS,high,92,92,duplicate copies are retained but not double-counted
+raw_hash_reconciliation,PASS,critical,112,112,raw PDFs remain byte-consistent with inventory
+extraction_failures,PASS,critical,0,0,one scanned document used Windows Korean OCR
+unique_pdf_registry_coverage,PASS,critical,92,92,every unique PDF represented in registry
+source_id_uniqueness,PASS,critical,197,197,registry primary key
+day1_required_fields,PASS_WITH_CAVEATS,medium,117/180,180/180,failed rows remain in review_queue; not fabricated
+linkage_rows_and_status,PASS,critical,10,10,five historical plus five forward
+gap_nonnegative,PASS,critical,5,5,same promised facility endpoint
+forward_monitoring_rows,PASS,high,5,5,all named 3G developments
+strict_gate_no_ai_promotion,PASS,critical,0,0,AI extraction remains draft
+review_queue_alignment,PASS,high,197,197,all needs_human/rejected rows queued
+central_evidence_manifest,PASS,critical,237,237,PDF/HTML/HWP/HWPX physical files mapped by filename and hash
+registry_paths_centralized,PASS,critical,366,366,all registry evidence paths resolve under data/raw/evidence
+targeted_source_coverage,PASS,critical,17,17,15 requested source rows plus two block-specific splits

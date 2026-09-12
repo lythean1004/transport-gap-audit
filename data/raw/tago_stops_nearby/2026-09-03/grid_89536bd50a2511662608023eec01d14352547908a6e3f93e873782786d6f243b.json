@@ -1,0 +1,23 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "citycode": 31240,
+          "gpslati": 37.1761167,
+          "gpslong": 127.1462167,
+          "nodeid": "GGB233002277",
+          "nodenm": "(임시)e편한세상동탄파크아너스",
+          "nodeno": 55934
+        }
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 1
+    }
+  }
+}

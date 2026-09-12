@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6525,
+            "gpslong": 126.66565,
+            "nodeid": "GGB232000867",
+            "nodenm": "푸른솔초교",
+            "nodeno": 35814
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6523,
+            "gpslong": 126.66565,
+            "nodeid": "GGB232000871",
+            "nodenm": "푸른솔초교",
+            "nodeno": 35818
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6507833,
+            "gpslong": 126.6637833,
+            "nodeid": "GGB232000868",
+            "nodenm": "성우오스타.모아미래도엘가",
+            "nodeno": 35815
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6504167,
+            "gpslong": 126.6637167,
+            "nodeid": "GGB232000870",
+            "nodenm": "성우오스타.모아미래도엘가",
+            "nodeno": 35817
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6558833,
+            "gpslong": 126.6684167,
+            "nodeid": "GGB232000740",
+            "nodenm": "김포패션아울렛",
+            "nodeno": 35658
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65215,
+            "gpslong": 126.66895,
+            "nodeid": "GGB232000872",
+            "nodenm": "중흥S클래스.호반더퍼스트",
+            "nodeno": 35819
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65225,
+            "gpslong": 126.6691167,
+            "nodeid": "GGB232000866",
+            "nodenm": "중흥S클래스.호반더퍼스트",
+            "nodeno": 35813
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6506667,
+            "gpslong": 126.6618167,
+            "nodeid": "GGB232000811",
+            "nodenm": "모아미래도",
+            "nodeno": 35723
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6561833,
+            "gpslong": 126.6687,
+            "nodeid": "GGB232000733",
+            "nodenm": "김포패션아울렛",
+            "nodeno": 35654
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6504,
+            "gpslong": 126.6612333,
+            "nodeid": "GGB232000812",
+            "nodenm": "모아미래도",
+            "nodeno": 35724
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

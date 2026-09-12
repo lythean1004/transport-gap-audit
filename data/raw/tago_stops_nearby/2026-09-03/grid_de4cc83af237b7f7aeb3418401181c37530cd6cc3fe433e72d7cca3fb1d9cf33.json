@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6387833,
+            "gpslong": 126.70325,
+            "nodeid": "GGB277103994",
+            "nodenm": "서촌교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6404667,
+            "gpslong": 126.7026,
+            "nodeid": "GGB232000699",
+            "nodenm": "걸포동",
+            "nodeno": 35311
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6404667,
+            "gpslong": 126.70275,
+            "nodeid": "GGB232000700",
+            "nodenm": "걸포동",
+            "nodeno": 35583
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.63595,
+            "gpslong": 126.7041667,
+            "nodeid": "GGB232000697",
+            "nodenm": "걸포공원후문",
+            "nodeno": 35638
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6360667,
+            "gpslong": 126.7044333,
+            "nodeid": "GGB232000698",
+            "nodenm": "걸포공원후문",
+            "nodeno": 35637
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6430167,
+            "gpslong": 126.70155,
+            "nodeid": "GGB277102577",
+            "nodenm": "걸포교(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

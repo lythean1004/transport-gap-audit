@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2123667,
+            "gpslong": 127.1118333,
+            "nodeid": "GGB233002178",
+            "nodenm": "다원초.파크자이",
+            "nodeno": 55775
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.21235,
+            "gpslong": 127.1116167,
+            "nodeid": "GGB233002176",
+            "nodenm": "다원초.파크자이",
+            "nodeno": 55774
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2112833,
+            "gpslong": 127.1118333,
+            "nodeid": "GGB233000242",
+            "nodenm": "동탄파크자이정문",
+            "nodeno": 55608
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2113,
+            "gpslong": 127.1116167,
+            "nodeid": "GGB233000243",
+            "nodenm": "동탄파크자이정문",
+            "nodeno": 55607
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2101667,
+            "gpslong": 127.1120333,
+            "nodeid": "GGB233002181",
+            "nodenm": "동탄파크자이.이지더원후문",
+            "nodeno": 55610
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2100667,
+            "gpslong": 127.11185,
+            "nodeid": "GGB233002179",
+            "nodenm": "동탄파크이지더원.자이후문",
+            "nodeno": 55609
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2167667,
+            "gpslong": 127.11425,
+            "nodeid": "GGB233002169",
+            "nodenm": "LH1단지.한양수자인",
+            "nodeno": 55605
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.21665,
+            "gpslong": 127.1128333,
+            "nodeid": "GGB233002182",
+            "nodenm": "한양수자인.파크푸르지오",
+            "nodeno": 55611
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.21675,
+            "gpslong": 127.1127167,
+            "nodeid": "GGB233002187",
+            "nodenm": "파크푸르지오.한양수자인",
+            "nodeno": 55612
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2162,
+            "gpslong": 127.1111,
+            "nodeid": "GGB233002059",
+            "nodenm": "늘봄초교.중흥더테라스",
+            "nodeno": 55036
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

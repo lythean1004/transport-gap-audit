@@ -1,0 +1,23 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "citycode": 23,
+          "gpslati": 37.629676,
+          "gpslong": 126.655284,
+          "nodeid": "ICB168001310",
+          "nodenm": "황곡노인정",
+          "nodeno": 89310
+        }
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 1
+    }
+  }
+}

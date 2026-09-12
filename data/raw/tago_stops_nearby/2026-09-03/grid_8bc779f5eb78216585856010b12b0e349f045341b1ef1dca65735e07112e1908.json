@@ -1,0 +1,177 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6266667,
+            "gpslong": 127.1471667,
+            "nodeid": "GGB222000818",
+            "nodenm": "다산하늘초.한양수자인1차후문",
+            "nodeno": 49203
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6263667,
+            "gpslong": 127.1473333,
+            "nodeid": "GGB222001475",
+            "nodenm": "다산진건데시앙.경기행복주택",
+            "nodeno": 49392
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62465,
+            "gpslong": 127.1467833,
+            "nodeid": "GGB222001935",
+            "nodenm": "한양수자인1차입구",
+            "nodeno": 49806
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6248,
+            "gpslong": 127.1470667,
+            "nodeid": "GGB222001936",
+            "nodenm": "한양수자인1차입구",
+            "nodeno": 49807
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6269833,
+            "gpslong": 127.1403333,
+            "nodeid": "GGB221000096",
+            "nodenm": "돌무들",
+            "nodeno": 22096
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6295833,
+            "gpslong": 127.1429167,
+            "nodeid": "GGB221000169",
+            "nodenm": "구리왕숙체육공원입구",
+            "nodeno": 22331
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6286167,
+            "gpslong": 127.1476,
+            "nodeid": "GGB277104597",
+            "nodenm": "차고지출발(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6268333,
+            "gpslong": 127.1399833,
+            "nodeid": "GGB221000132",
+            "nodenm": "돌무들",
+            "nodeno": 22093
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.62955,
+            "gpslong": 127.14215,
+            "nodeid": "GGB221000161",
+            "nodenm": "구리왕숙체육공원입구",
+            "nodeno": 22325
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6289833,
+            "gpslong": 127.1475667,
+            "nodeid": "GGB222000373",
+            "nodenm": "다산리코빌",
+            "nodeno": 49850
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6253,
+            "gpslong": 127.1487667,
+            "nodeid": "GGB222000835",
+            "nodenm": "다산역4번출구.경기행복주택",
+            "nodeno": 23035
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6250833,
+            "gpslong": 127.1488667,
+            "nodeid": "GGB222000856",
+            "nodenm": "다산역4번출구.경기행복주택",
+            "nodeno": 23036
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6292333,
+            "gpslong": 127.14065,
+            "nodeid": "GGB221000133",
+            "nodenm": "구리시립묘지",
+            "nodeno": 22107
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6283667,
+            "gpslong": 127.1491,
+            "nodeid": "GGB222000419",
+            "nodenm": "다산진건데시앙",
+            "nodeno": 49847
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6266667,
+            "gpslong": 127.1497167,
+            "nodeid": "GGB222000872",
+            "nodenm": "다산역5번출구.다산진건데시앙",
+            "nodeno": 49922
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6291,
+            "gpslong": 127.14865,
+            "nodeid": "GGB222001920",
+            "nodenm": "다산차고지",
+            "nodeno": 49790
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.62255,
+            "gpslong": 127.1467667,
+            "nodeid": "GGB222001153",
+            "nodenm": "유승한내들골든뷰.다산메트로3단지",
+            "nodeno": 49264
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6285833,
+            "gpslong": 127.1491667,
+            "nodeid": "GGB222001931",
+            "nodenm": "모두랑근린공원.다산진건데시앙",
+            "nodeno": 49801
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6291833,
+            "gpslong": 127.1487,
+            "nodeid": "GGB277104596",
+            "nodenm": "차고지대기(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6268,
+            "gpslong": 127.1499167,
+            "nodeid": "GGB222000873",
+            "nodenm": "다산역5번출구.다산자이아이비플레이스",
+            "nodeno": 49923
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 20
+    }
+  }
+}

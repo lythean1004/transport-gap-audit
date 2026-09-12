@@ -1,0 +1,6 @@
+﻿development,human_verified_sources,has_occupancy_promise_actual_verified,exact_mode_line_pair_verified,cross_validation_consistent,fine_precision_verified_pair,gate_result,candidate_linkage_status,cross_validation_current,blockers
+화성 동탄2,0,false,false,false,false,FAIL,fulfilled,weak,human_verified 3종 미충족; 사람 확인 완료된 약속↔이행 링크 없음; 독립 2축 교차검증 consistent 미충족; 정밀 일수 계산용 검증 링크 미충족
+김포 한강,0,false,false,false,false,FAIL,fulfilled,weak,human_verified 3종 미충족; 사람 확인 완료된 약속↔이행 링크 없음; 독립 2축 교차검증 consistent 미충족; 정밀 일수 계산용 검증 링크 미충족
+위례,0,false,false,false,false,FAIL,unfulfilled,weak,human_verified 3종 미충족; 사람 확인 완료된 약속↔이행 링크 없음; 독립 2축 교차검증 consistent 미충족; 정밀 일수 계산용 검증 링크 미충족
+남양주 다산,0,false,false,false,false,FAIL,fulfilled,weak,human_verified 3종 미충족; 사람 확인 완료된 약속↔이행 링크 없음; 독립 2축 교차검증 consistent 미충족; 정밀 일수 계산용 검증 링크 미충족
+하남 미사,0,false,false,false,false,FAIL,fulfilled,weak,human_verified 3종 미충족; 사람 확인 완료된 약속↔이행 링크 없음; 독립 2축 교차검증 consistent 미충족; 정밀 일수 계산용 검증 링크 미충족

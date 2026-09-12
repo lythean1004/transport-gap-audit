@@ -1,0 +1,153 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1699167,
+            "gpslong": 127.119,
+            "nodeid": "GGB233001696",
+            "nodenm": "레이크파크뷰",
+            "nodeno": 37696
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1700333,
+            "gpslong": 127.1185333,
+            "nodeid": "GGB233001695",
+            "nodenm": "레이크파크뷰",
+            "nodeno": 37724
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1676167,
+            "gpslong": 127.1190333,
+            "nodeid": "GGB233000110",
+            "nodenm": "호수공원행복주택",
+            "nodeno": 55747
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1678333,
+            "gpslong": 127.1185833,
+            "nodeid": "GGB233000085",
+            "nodenm": "호수공원행복주택",
+            "nodeno": 55732
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.167,
+            "gpslong": 127.1211167,
+            "nodeid": "GGB233000090",
+            "nodenm": "행복주택35단지",
+            "nodeno": 55731
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1703167,
+            "gpslong": 127.1232667,
+            "nodeid": "GGB277104773",
+            "nodenm": "신리IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1668,
+            "gpslong": 127.1211833,
+            "nodeid": "GGB233000114",
+            "nodenm": "행복주택35단지",
+            "nodeno": 55748
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16715,
+            "gpslong": 127.1174,
+            "nodeid": "GGB233001710",
+            "nodenm": "호수공원행복주택.호수부영6차",
+            "nodeno": 55501
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1716333,
+            "gpslong": 127.1172833,
+            "nodeid": "GGB233002038",
+            "nodenm": "레이크파크뷰.서희스타힐스",
+            "nodeno": 55587
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1674,
+            "gpslong": 127.1170333,
+            "nodeid": "GGB233001699",
+            "nodenm": "호수부영6차.호수공원행복주택",
+            "nodeno": 55500
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.17075,
+            "gpslong": 127.1238667,
+            "nodeid": "GGB277104772",
+            "nodenm": "신리IC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.17195,
+            "gpslong": 127.1173833,
+            "nodeid": "GGB233002027",
+            "nodenm": "서희스타힐스.레이크파크뷰",
+            "nodeno": 55586
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16785,
+            "gpslong": 127.1244333,
+            "nodeid": "GGB233000123",
+            "nodenm": "세정초.하우스디",
+            "nodeno": 55751
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1733167,
+            "gpslong": 127.1195333,
+            "nodeid": "GGB233001572",
+            "nodenm": "서희스타힐스.단독주택",
+            "nodeno": 55488
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1734167,
+            "gpslong": 127.12005,
+            "nodeid": "GGB233001608",
+            "nodenm": "서희스타힐스.단독주택",
+            "nodeno": 37654
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1676,
+            "gpslong": 127.1248,
+            "nodeid": "GGB233002288",
+            "nodenm": "세정초.하우스디",
+            "nodeno": 37086
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1667,
+            "gpslong": 127.1241167,
+            "nodeid": "GGB233000084",
+            "nodenm": "세정초남측",
+            "nodeno": 55730
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 17
+    }
+  }
+}

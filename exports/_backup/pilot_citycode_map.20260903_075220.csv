@@ -1,0 +1,8 @@
+﻿development_id,sigungu,candidate_cityname,candidate_citycode,match_flag,citycode_confirmed_by
+DEV-DONGTAN2,화성시,화성시,31240,OK,
+DEV-GIMPO-HANGANG,김포시,김포시,31230,OK,
+DEV-WIRYE,송파구,,,NO_MATCH,
+DEV-WIRYE,성남시 수정구,성남시,31020,OK,
+DEV-WIRYE,하남시,하남시,31180,OK,
+DEV-NAMYANGJU-DASAN,남양주시,"MULTIPLE: 남양주시, 양주시",,MULTIPLE_MATCH,
+DEV-HANAM-MISA,하남시,하남시,31180,OK,

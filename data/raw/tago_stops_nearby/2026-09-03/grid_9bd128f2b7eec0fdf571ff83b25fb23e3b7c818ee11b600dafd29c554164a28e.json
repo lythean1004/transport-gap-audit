@@ -1,0 +1,137 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.16115,
+            "gpslong": 127.09365,
+            "nodeid": "GGB233001111",
+            "nodenm": "엘크루아파트",
+            "nodeno": 37037
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1609667,
+            "gpslong": 127.09365,
+            "nodeid": "GGB233001254",
+            "nodenm": "엘크루아파트",
+            "nodeno": 37038
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16095,
+            "gpslong": 127.0970167,
+            "nodeid": "GGB233001118",
+            "nodenm": "호수하우스디",
+            "nodeno": 37039
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1611167,
+            "gpslong": 127.0970667,
+            "nodeid": "GGB233001237",
+            "nodenm": "호수하우스디",
+            "nodeno": 37044
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1633667,
+            "gpslong": 127.0966333,
+            "nodeid": "GGB233000275",
+            "nodenm": "화남초등학교",
+            "nodeno": 55781
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1638833,
+            "gpslong": 127.0934,
+            "nodeid": "GGB233000175",
+            "nodenm": "행복주택28단지",
+            "nodeno": 55752
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1639667,
+            "gpslong": 127.0936333,
+            "nodeid": "GGB233000176",
+            "nodenm": "행복주택28단지",
+            "nodeno": 55753
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1588833,
+            "gpslong": 127.0933167,
+            "nodeid": "GGB223000209",
+            "nodenm": "롯데오산물류",
+            "nodeno": 24197
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1586667,
+            "gpslong": 127.0938667,
+            "nodeid": "GGB223000189",
+            "nodenm": "롯데오산물류",
+            "nodeno": 24192
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1590667,
+            "gpslong": 127.0966167,
+            "nodeid": "GGB233000249",
+            "nodenm": "진우물류센터",
+            "nodeno": 36368
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16395,
+            "gpslong": 127.0968667,
+            "nodeid": "GGB233000238",
+            "nodenm": "화남초등학교",
+            "nodeno": 55768
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16465,
+            "gpslong": 127.0955167,
+            "nodeid": "GGB233002066",
+            "nodenm": "화남초",
+            "nodeno": 55590
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1585667,
+            "gpslong": 127.0925333,
+            "nodeid": "GGB277104702",
+            "nodenm": "경기동로진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1649833,
+            "gpslong": 127.0954,
+            "nodeid": "GGB233002067",
+            "nodenm": "동탄호수마을",
+            "nodeno": 55591
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1588167,
+            "gpslong": 127.0900333,
+            "nodeid": "GGB223000210",
+            "nodenm": "롯데인재개발원후문",
+            "nodeno": 24196
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 15
+    }
+  }
+}

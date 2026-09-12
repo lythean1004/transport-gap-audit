@@ -1,0 +1,105 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2091833,
+            "gpslong": 127.0818167,
+            "nodeid": "GGB233002440",
+            "nodenm": "예당고사거리",
+            "nodeno": 55312
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2099,
+            "gpslong": 127.0806667,
+            "nodeid": "GGB233002439",
+            "nodenm": "예당고사거리",
+            "nodeno": 55311
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.20895,
+            "gpslong": 127.0793,
+            "nodeid": "GGB233001719",
+            "nodenm": "대우푸르지오.예당고등학교",
+            "nodeno": 37846
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2085,
+            "gpslong": 127.07895,
+            "nodeid": "GGB233001736",
+            "nodenm": "대우푸르지오.예당고등학교",
+            "nodeno": 37854
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2105667,
+            "gpslong": 127.0776667,
+            "nodeid": "GGB233001682",
+            "nodenm": "예당예원초",
+            "nodeno": 37711
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2107,
+            "gpslong": 127.0775833,
+            "nodeid": "GGB233001652",
+            "nodenm": "예당예원초",
+            "nodeno": 37758
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2121333,
+            "gpslong": 127.0793833,
+            "nodeid": "GGB233003186",
+            "nodenm": "우미제일.전하리교회",
+            "nodeno": 37760
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2071,
+            "gpslong": 127.0765667,
+            "nodeid": "GGB233001735",
+            "nodenm": "동탄보건지소.우체국",
+            "nodeno": 37853
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.21315,
+            "gpslong": 127.0792833,
+            "nodeid": "GGB233001683",
+            "nodenm": "전하리교회.우미제일",
+            "nodeno": 37712
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2051,
+            "gpslong": 127.0836,
+            "nodeid": "GGB277104957",
+            "nodenm": "동탄원천로진입(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2051833,
+            "gpslong": 127.0838833,
+            "nodeid": "GGB277104956",
+            "nodenm": "삼성1로진입(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 11
+    }
+  }
+}

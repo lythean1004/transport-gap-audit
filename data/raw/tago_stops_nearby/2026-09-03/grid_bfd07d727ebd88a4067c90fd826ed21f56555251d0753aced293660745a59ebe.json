@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.631,
+            "gpslong": 127.1536,
+            "nodeid": "GGB222001930",
+            "nodenm": "반도유보라후문",
+            "nodeno": 49800
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6295667,
+            "gpslong": 127.1555833,
+            "nodeid": "GGB222001922",
+            "nodenm": "반도유보라정문.다산포레스트2단지",
+            "nodeno": 49792
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6308167,
+            "gpslong": 127.1534,
+            "nodeid": "GGB222001921",
+            "nodenm": "반도유보라후문",
+            "nodeno": 49791
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6294333,
+            "gpslong": 127.1558167,
+            "nodeid": "GGB222001929",
+            "nodenm": "다산포레스트2단지.반도유보라입구",
+            "nodeno": 49799
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6283667,
+            "gpslong": 127.1566833,
+            "nodeid": "GGB222000790",
+            "nodenm": "다산중학교.성산플레이스1",
+            "nodeno": 49915
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6286167,
+            "gpslong": 127.1545333,
+            "nodeid": "GGB222000313",
+            "nodenm": "다산롯데캐슬.반도유보라",
+            "nodeno": 49786
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6286,
+            "gpslong": 127.1584,
+            "nodeid": "GGB222000791",
+            "nodenm": "다산중학교",
+            "nodeno": 49916
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6296333,
+            "gpslong": 127.1523333,
+            "nodeid": "GGB222001933",
+            "nodenm": "다산자이폴라리스.반도유보라",
+            "nodeno": 49803
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6283667,
+            "gpslong": 127.1542333,
+            "nodeid": "GGB222000278",
+            "nodenm": "다산롯데캐슬.반도유보라",
+            "nodeno": 49785
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6295833,
+            "gpslong": 127.1520333,
+            "nodeid": "GGB222001932",
+            "nodenm": "다산자이폴라리스.반도유보라",
+            "nodeno": 49802
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

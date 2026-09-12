@@ -1,0 +1,161 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5666667,
+            "gpslong": 127.1877167,
+            "nodeid": "GGB227000231",
+            "nodenm": "하남시미사도서관.미사2동행정복지센터",
+            "nodeno": 28290
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5638,
+            "gpslong": 127.1860167,
+            "nodeid": "GGB227000230",
+            "nodenm": "미사강변푸르지오.하우스디더레이크",
+            "nodeno": 28287
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5668833,
+            "gpslong": 127.1871667,
+            "nodeid": "GGB227000233",
+            "nodenm": "하남시미사도서관.미사2동행정복지센터",
+            "nodeno": 28302
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5627833,
+            "gpslong": 127.1862167,
+            "nodeid": "GGB227000232",
+            "nodenm": "미사강변푸르지오.하우스디더레이크",
+            "nodeno": 28289
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5669333,
+            "gpslong": 127.1909667,
+            "nodeid": "GGB227000279",
+            "nodenm": "미사지구대.종합운동장",
+            "nodeno": 28308
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5663,
+            "gpslong": 127.1916833,
+            "nodeid": "GGB227000326",
+            "nodenm": "하남종합운동장",
+            "nodeno": 28256
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.56705,
+            "gpslong": 127.1913,
+            "nodeid": "GGB227000278",
+            "nodenm": "미사지구대.종합운동장",
+            "nodeno": 28307
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5650167,
+            "gpslong": 127.1924667,
+            "nodeid": "GGB277104749",
+            "nodenm": "기점진입전(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.56365,
+            "gpslong": 127.1924833,
+            "nodeid": "GGB227511270",
+            "nodenm": "(종점)미사역",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5673667,
+            "gpslong": 127.1848833,
+            "nodeid": "GGB227000484",
+            "nodenm": "미사2동행정복지센터.하남시미사보건센터",
+            "nodeno": 28484
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5676167,
+            "gpslong": 127.1851833,
+            "nodeid": "GGB227000485",
+            "nodenm": "미사2동행정복지센터.하남시미사보건센터",
+            "nodeno": 28485
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5635333,
+            "gpslong": 127.1925333,
+            "nodeid": "GGB227000682",
+            "nodenm": "미사역",
+            "nodeno": 28529
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5633833,
+            "gpslong": 127.1925833,
+            "nodeid": "GGB227000660",
+            "nodenm": "미사역",
+            "nodeno": 28466
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5637,
+            "gpslong": 127.1928333,
+            "nodeid": "GGB227000658",
+            "nodenm": "미사역",
+            "nodeno": 28464
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5634833,
+            "gpslong": 127.1929167,
+            "nodeid": "GGB227000683",
+            "nodenm": "미사역",
+            "nodeno": 28530
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5634,
+            "gpslong": 127.19295,
+            "nodeid": "GGB227511280",
+            "nodenm": "(종점)미사역",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5606333,
+            "gpslong": 127.1876,
+            "nodeid": "GGB227000280",
+            "nodenm": "미사1동행정복지센터.하남고등학교.노인장애인복지관",
+            "nodeno": 28512
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5605833,
+            "gpslong": 127.1872333,
+            "nodeid": "GGB227000661",
+            "nodenm": "하남고등학교",
+            "nodeno": 28472
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 18
+    }
+  }
+}

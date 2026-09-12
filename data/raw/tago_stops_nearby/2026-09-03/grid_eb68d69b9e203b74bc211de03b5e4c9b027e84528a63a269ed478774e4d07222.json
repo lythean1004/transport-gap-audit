@@ -1,0 +1,241 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6563833,
+            "gpslong": 126.62725,
+            "nodeid": "GGB232001129",
+            "nodenm": "양곡어린이집입구",
+            "nodeno": 35408
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6553167,
+            "gpslong": 126.6267333,
+            "nodeid": "GGB232000307",
+            "nodenm": "천주교양곡성당.양곡중고",
+            "nodeno": 35111
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6552,
+            "gpslong": 126.6266833,
+            "nodeid": "GGB232000678",
+            "nodenm": "천주교양곡성당.양곡중고",
+            "nodeno": 35112
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6556167,
+            "gpslong": 126.6293,
+            "nodeid": "GGB232000634",
+            "nodenm": "희영무지개아파트.고다니마을7단지",
+            "nodeno": 35598
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6545167,
+            "gpslong": 126.6273,
+            "nodeid": "GGB232001090",
+            "nodenm": "세계로마트(마을)",
+            "nodeno": 35596
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6554833,
+            "gpslong": 126.6296667,
+            "nodeid": "GGB232000633",
+            "nodenm": "희영무지개아파트.고다니마을7단지",
+            "nodeno": 35599
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6566667,
+            "gpslong": 126.6256,
+            "nodeid": "GGB232000666",
+            "nodenm": "양촌읍행정복지센터",
+            "nodeno": 35966
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.653729,
+            "gpslong": 126.627032,
+            "nodeid": "ICB232000711",
+            "nodenm": "오라니마을",
+            "nodeno": 80360
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65345,
+            "gpslong": 126.6273333,
+            "nodeid": "GGB232000710",
+            "nodenm": "고다니마을9단지",
+            "nodeno": 35644
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.654962,
+            "gpslong": 126.624971,
+            "nodeid": "ICB232000326",
+            "nodenm": "양곡버스정류장",
+            "nodeno": 80115
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.653385,
+            "gpslong": 126.627329,
+            "nodeid": "ICB232000710",
+            "nodenm": "고다니마을9단지",
+            "nodeno": 80362
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6549667,
+            "gpslong": 126.6249333,
+            "nodeid": "GGB232000326",
+            "nodenm": "양곡버스정류장",
+            "nodeno": 35464
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.658,
+            "gpslong": 126.6269333,
+            "nodeid": "GGB232001128",
+            "nodenm": "삼정그린코아",
+            "nodeno": 35348
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.655084,
+            "gpslong": 126.624794,
+            "nodeid": "ICB232000306",
+            "nodenm": "양곡사거리.양촌터미널",
+            "nodeno": 80116
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6531,
+            "gpslong": 126.62705,
+            "nodeid": "GGB232000711",
+            "nodenm": "오라니마을",
+            "nodeno": 35645
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6550667,
+            "gpslong": 126.6243667,
+            "nodeid": "GGB232000306",
+            "nodenm": "양곡사거리.양촌터미널",
+            "nodeno": 35104
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65545,
+            "gpslong": 126.6321333,
+            "nodeid": "GGB232001089",
+            "nodenm": "고다니마을7단지",
+            "nodeno": 35466
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6555833,
+            "gpslong": 126.6321833,
+            "nodeid": "GGB232001088",
+            "nodenm": "고다니마을7단지",
+            "nodeno": 35428
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65405,
+            "gpslong": 126.6239,
+            "nodeid": "GGB232000293",
+            "nodenm": "김포한강신협.양곡전통시장",
+            "nodeno": 35101
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.653934,
+            "gpslong": 126.623937,
+            "nodeid": "ICB232000293",
+            "nodenm": "김포한강신협",
+            "nodeno": 80035
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.653664,
+            "gpslong": 126.623848,
+            "nodeid": "ICB232000300",
+            "nodenm": "김포한강신협",
+            "nodeno": 80032
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6535167,
+            "gpslong": 126.6239,
+            "nodeid": "GGB232000300",
+            "nodenm": "김포한강신협.양곡전통시장",
+            "nodeno": 35102
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6517667,
+            "gpslong": 126.62935,
+            "nodeid": "GGB232000967",
+            "nodenm": "휴먼시아9단지",
+            "nodeno": 35917
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6583167,
+            "gpslong": 126.6320833,
+            "nodeid": "GGB232000238",
+            "nodenm": "곡촌마을.금호어울림1단지",
+            "nodeno": 35467
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6514833,
+            "gpslong": 126.6292,
+            "nodeid": "GGB232000961",
+            "nodenm": "이편한세상.한강아이파크",
+            "nodeno": 35911
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6597833,
+            "gpslong": 126.6298667,
+            "nodeid": "GGB232001087",
+            "nodenm": "김포양곡5단지",
+            "nodeno": 35415
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6576667,
+            "gpslong": 126.6227,
+            "nodeid": "GGB232000301",
+            "nodenm": "양곡주공아파트.오라니장터시장",
+            "nodeno": 35433
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6514333,
+            "gpslong": 126.62615,
+            "nodeid": "GGB232000810",
+            "nodenm": "양곡터미널",
+            "nodeno": 35719
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 28
+    }
+  }
+}

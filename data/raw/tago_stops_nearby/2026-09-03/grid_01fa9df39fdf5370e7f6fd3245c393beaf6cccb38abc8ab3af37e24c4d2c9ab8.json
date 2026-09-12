@@ -1,0 +1,137 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5528667,
+            "gpslong": 127.1847833,
+            "nodeid": "GGB227000679",
+            "nodenm": "미사우체국.더샵센트럴포레.동원로얄듀크",
+            "nodeno": 28526
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5531667,
+            "gpslong": 127.1834667,
+            "nodeid": "GGB227000488",
+            "nodenm": "미사강변더샵센트럴포레.동원로얄듀크",
+            "nodeno": 28100
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5529667,
+            "gpslong": 127.1851167,
+            "nodeid": "GGB227000678",
+            "nodenm": "미사우체국.더샵센트럴포레.동원로얄듀크",
+            "nodeno": 28525
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55335,
+            "gpslong": 127.1833833,
+            "nodeid": "GGB227000632",
+            "nodenm": "미사강변더샵센트럴포레.동원로얄듀크",
+            "nodeno": 28439
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5500167,
+            "gpslong": 127.1841667,
+            "nodeid": "GGB227000250",
+            "nodenm": "황산사거리.미사센텀비즈",
+            "nodeno": 28276
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5497667,
+            "gpslong": 127.1841833,
+            "nodeid": "GGB227000486",
+            "nodenm": "황산사거리.미사센텀비즈(중)",
+            "nodeno": 28255
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5495,
+            "gpslong": 127.1838,
+            "nodeid": "GGB227000251",
+            "nodenm": "황산사거리.하남수산물시장(중)",
+            "nodeno": 28272
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.54935,
+            "gpslong": 127.1838,
+            "nodeid": "GGB227000027",
+            "nodenm": "황산사거리.하남수산물시장",
+            "nodeno": 28023
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55065,
+            "gpslong": 127.1877667,
+            "nodeid": "GGB227000356",
+            "nodenm": "황산사거리.미사3동공공복합청사",
+            "nodeno": 28590
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5548167,
+            "gpslong": 127.1817333,
+            "nodeid": "GGB227000292",
+            "nodenm": "미사강변동원로얄듀크.고덕어반브릿지.리엔11단지",
+            "nodeno": 28180
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5547167,
+            "gpslong": 127.1815,
+            "nodeid": "GGB227000255",
+            "nodenm": "미사강변동원로얄듀크.고덕어반브릿지.리엔11단지",
+            "nodeno": 28179
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5495833,
+            "gpslong": 127.1876167,
+            "nodeid": "GGB227000221",
+            "nodenm": "황산사거리",
+            "nodeno": 28259
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5491833,
+            "gpslong": 127.18745,
+            "nodeid": "GGB227000360",
+            "nodenm": "황산사거리",
+            "nodeno": 28594
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.55545,
+            "gpslong": 127.1865167,
+            "nodeid": "GGB227000268",
+            "nodenm": "하남고용센터.센트럴자이.더샵센트럴포레",
+            "nodeno": 28300
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5554833,
+            "gpslong": 127.1869,
+            "nodeid": "GGB227000269",
+            "nodenm": "하남고용센터.센트럴자이.더샵센트럴포레",
+            "nodeno": 28301
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 15
+    }
+  }
+}

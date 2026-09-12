@@ -1,0 +1,113 @@
+﻿pdf_id,filename,sha256,disposition,reason,event_types,developments,registry_match
+PDF-001,(250131)고양창릉A-4블록신혼희망타운(공공분양)입주자모집공고문.pdf,e9ecf26d9d265a70fb06ab20847c338f10a9bf24ef3dbf6ed58c57c6a251b931,target_event,housing_recruitment_notice,occupancy_planned_block,고양 창릉,SRC-F019
+PDF-002,(250724)남양주왕숙A-2블록신혼희망타운(공공분양)입주자모집공고문.pdf,70517aa73243cce5a00fb02792ec0a84e4aad3c728a1a5c48546bfa0f8409442,target_event,housing_recruitment_notice,occupancy_planned_block,남양주 왕숙,SRC-F008
+PDF-003,(251127)남양주왕숙_B-17BL_공공분양_입주자모집공고문.pdf,0f2f8e767b8aaf98df7013e0bdfb1f133a23c7e784c22ac5ab774d071ffa4e37,target_event,housing_recruitment_notice,occupancy_planned_block,남양주 왕숙,SRC-U001
+PDF-004,(정정)(정정)고양창릉S-3블록입주자모집공고문.pdf,35fef79a31d18fdeecb52bc6a15e08811e6857245dbd14d220753f3597a10981,target_event,housing_recruitment_notice,occupancy_planned_block,고양 창릉,SRC-E2-A09
+PDF-005,(정정)(정정)고양창릉S-4블록공공분양입주자모집공고문.pdf,25311d447e7f43c48655b96613b1ff2bc56371612a268932071bfb8429e5107d,target_event,housing_recruitment_notice,occupancy_planned_block,고양 창릉,SRC-E2-A09
+PDF-006,(정정)250424_교산푸르지오더퍼스트_입주자모집공고.pdf,08438e6ac19967e88de5ae5dfe94e8f5bd891efefd0eb07195d96045b0707fa6,target_event,housing_recruitment_notice,occupancy_planned_block,하남 교산,SRC-U002
+PDF-007,"(정정)고양창릉S-5,S-6블록공공분양주택입주자모집공고문.pdf",a65a5c4807f9e93fe2cd6c465ccaaccae2657d5b48db24ded879e80b26468319,target_event,housing_recruitment_notice,occupancy_planned_block,고양 창릉,SRC-F020
+PDF-008,(정정)교산푸르지오더퍼스트_입주자모집공고.pdf,17f890d3468fb4f720c33fa6aefb56dd0eb6cfae7df0b4bd9996a5b6f554de4d,target_event,housing_recruitment_notice,occupancy_planned_block,하남 교산,SRC-U002
+PDF-009,(정정공고) 다산신도시 자연앤푸르지오 입주자모집 정정공고(A3).pdf,78e1f182e7fd0b7a08ca5d3c27ae6e6d7fda39a6479c6788bce1f18d7d80e999,target_event,housing_recruitment_notice,occupancy_planned_block,남양주 다산,SRC-H021
+PDF-010,(정정공고)인천계양A-2블록공공분양입주자모집공고문.pdf,f7202e924988f383730f245784e37a1ec66f0f54d655fb3b8171c45314389195,target_event,housing_recruitment_notice,occupancy_planned_block,인천 계양,SRC-E2-A06
+PDF-011,(정정공고)인천계양A3블록단지내상가분양공고문(게시용).pdf,5f2a920d6c4eef88fda95d7fd9fb6692d4f8aed29368d2e5a968886069317666,context_or_out_of_scope,commercial_notice_out_of_scope,,인천 계양,
+PDF-012,(참고자료)김포양곡_행복주택_사회적기업공간_위치_및_공간현황.pdf,a3c74951c8e5c04931fc3d631c069bf6b22718e2978eb0d577e1941c58393e7f,target_event,housing_recruitment_notice,occupancy_planned_block,김포 한강,SRC-H009
+PDF-013,(참고자료)김포한강_행복주택_사회적기업공간_위치_및_공간_현황.pdf,e1ebc0fea640403e26a71cfea8ebace74b5da734ea1371ad0713ba9974d0da49,target_event,housing_recruitment_notice,occupancy_planned_block,김포 한강,SRC-H010
+PDF-014,(최종)250331_교산푸르지오더퍼스트_입주자모집공고.pdf,b247b3e65cb7029821c352a345952c0fb73323ae3462b90b52f5b653dca1a2f5,target_event,housing_recruitment_notice,occupancy_planned_block,하남 교산,SRC-U002
+PDF-015,110624(조간)__11년_6~8월_입주예정_아파트_공개(주택정책과).pdf,dc233154be5b674cb88e215791cc0f37d90bdbe94d06dff17e6fed269a0f7d9f,target_event,regional_move_in_schedule,occupancy_first_actual,김포 한강,
+PDF-016,140630_LH_미사강변도시_첫_입주_시작.pdf,6a368721bcef1b229bfe5bd3bb2d40b5ddf61811dd86483a53841c6ecdfc15a4,target_event,district_move_in_evidence,occupancy_first_actual,하남 미사,SRC-H025
+PDF-017,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,target_event,transport_plan_or_promise,promise_date,하남 교산,SRC-E1-B09
+PDF-018,200521(14시이후)+하남교산+신도시_과천지구+광역교통개선대책+확정(공공택지기획과).pdf,fbe43488370ed17260f5eb6525fcfb25d0453d9a5c2222cb252bf9de41dd62d1,target_event,transport_plan_or_promise,promise_date,하남 교산,SRC-E2-B08
+PDF-019,201230(조간)남양주왕숙_고양창릉 신도시 교통대책 확정(공공택지기획과 광역교통정책과).pdf,ecc470f4fb71a5b29f7499ce815fe4f6605f9de139444664a3134be6e5dcd577,target_event,transport_plan_or_promise,promise_date,남양주 왕숙;고양 창릉,SRC-F021
+PDF-020,20150123_ 동탄2신도시 첫 입주.pdf,5ec7ad2f8fde7650b4723adcec0d6931c2ecdb8af0bd0ccaab60f6db6b6c63e6,target_event,district_move_in_evidence,occupancy_first_actual,화성 동탄2,
+PDF-021,210125 (조간)3기 신도시_패스트트랙_교통대책 조기 확정 등으로 신속 공급(공공택지기획과).pdf,894b933a4fc5a46612a01bb5806599544d52a78c702fdf34203d30d7240bac5b,target_event,transport_plan_or_promise,promise_date,화성 동탄2;인천 계양;부천 대장,SRC-E2-B06
+PDF-022,210629(15시이후)서부권 2기 신도시 (김포한강_인천검단) 교통개선 대책(광역시설운영과).pdf,f54821ed2da56cc09c6281ab080ed96a84252a1fad9af1fff9c07bb78913eb1f,target_event,transport_plan_or_promise,promise_date,김포 한강,SRC-E1-B03
+PDF-023,220318(석간)_진접선_개통_남양주의_새로운_길(철도투자개발과).pdf,5ca5a14c242fdc43aba2946d19a90fd682ecf38054edf2acaaa843cc89f8112b,target_event,actual_operation_notice,actual_operation,남양주 왕숙,
+PDF-024,220617(조간)_호매실_동탄2_광역교통_개선을_위해_주민의견_듣는다(광역교통정책과).pdf,ea078d9bb489eb228f003f5675c7825a8b6223f409e3dad8375bcf6a9e780378,target_event,transport_plan_or_promise,promise_date,화성 동탄2,SRC-E1-B02
+PDF-025,221026(석간)_수원_호매실_화성_동탄2_광역교통특별대책_발표(광역교통정책과).pdf,b289b7a3fb07c631744d95e58f66b47e45e0a4347c138c16684c58554010050c,target_event,transport_plan_or_promise,promise_date,화성 동탄2,SRC-E1-B01
+PDF-026,221111(석간)_수도권_서부지역의_광역교통_확충_등_지역현안_해결_추진(공공택지조사과).pdf,d7e578abba3c7c6fe3592dbebdaef288ee0ace8aeb5d4a35909946668e2838f1,target_event,transport_plan_or_promise,promise_date,김포 한강;하남 미사;하남 교산,SRC-E1-B04
+PDF-027,221128(석간)_위례신도시_노면전차_사업으로_교통이_편리해진다(광역시설정책과).pdf,da11fbf0ece767ab2872f6f40311e00bf7df9bceafc4f9ce045d9c29bb28ed92,target_event,transport_project_promise_and_planned_service,promise_date;basic_service,위례,
+PDF-028,230630(참고)_대곡-소사_복선전철_7월_1일_개통(철도투자개발과).pdf,808adcd9cfba65450c62f6187416790bf6dcca2d2c50af97e8ecee5c8f9a84fc,target_event,actual_operation_notice,actual_operation,고양 창릉;화성 동탄2,SRC-F024
+PDF-029,240329(참고)_GTX-A_수서~동탄_3월_30일_개통(수도권광역급행철도과).pdf,83da19e7f5e189f542899a4ff549fbf2cd6caff6dab96ef41ff11835f4e66734,target_event,actual_operation_notice,actual_operation,화성 동탄2,SRC-H005
+PDF-030,240719(조간)_수도권_동부지역__출퇴근_30분_시대_실현_4.4조원_규모의_철도·도로_사업_본격_추진(광역교통정책과) (1).pdf,c9e00558131c031e6df06cef301f3d81f8c0f0fe4f6eab31b670b0512414feab,target_event,transport_plan_or_promise,promise_date,남양주 다산;하남 미사;하남 교산;남양주 왕숙,
+PDF-031,240809(조간)_남양주~잠실_27분__8월_10일_별내선_개통(광역시설정책과).pdf,e5df2c787de7dcb0a2e0db08463e2f03569396fed88580c86947a2197a284875,target_event,actual_operation_notice,actual_operation;basic_service,남양주 다산,SRC-H024
+PDF-032,241212(조간)_GTX-A_운정중앙~서울역구간__12월_28일_개통(광역급행철도건설과).pdf,d3bdc37aa3e72dd26cd4065e2019ef0154a1f93b16d3f0202d05f03b5fe8c968,target_event,actual_operation_notice,actual_operation;basic_service,화성 동탄2,
+PDF-033,250724(석간) 3기 신도시 남양주왕숙 첫 공급 개시(공공택지관리과).pdf,75b73130d02612d7c1c05f64b5a800a662554d854abc4445e565e0caf2439cb6,target_event,first_supply_with_planned_occupancy,occupancy_planned_block,남양주 왕숙,
+PDF-034,260226(동정) 김용석 대광위원장 위례신도시 광역교통개선대책 점검(광역교통정책과).pdf,dbf2922f167bc6ed4a6e634ca45cd33925611b91d3696fffa35e4263bd88d3ad,target_event,transport_plan_or_promise,promise_date,위례,SRC-E1-C06
+PDF-035,"8849번(하남-미사-김포,인천공항) - 하남시청.pdf",7ffd1f81084ea1df1f970a4b81c950d8c381769be3c0f1ef2ab578354b184249,target_event,service_information,basic_service,하남 미사,SRC-E1-C03
+PDF-036,[공고문]부천대장_A5블록_신혼희망타운_행복주택_입주자모집(`26.07.23.).pdf,6cdd357410777803b9423465738698e06c86d90f2770b19fe8e598acca238bb1,target_event,housing_recruitment_notice,occupancy_planned_block,부천 대장,SRC-F025
+PDF-037,[공고문]부천대장_A6블록_신혼희망타운_행복주택_입주자모집(`26.07.23.).pdf,4c96f574d6f235f71d79e3e067d5d2f666e5895a0c0db9ae0b862e31aa96c14d,target_event,housing_recruitment_notice,occupancy_planned_block,부천 대장,SRC-F025
+PDF-038,bodo_2.pdf,90f107e315964eadde4d306bc9bd50f6b4883562335c9cbb3a6a6c4b486b8c77,target_event,transport_policy_plan,promise_date,화성 동탄2;김포 한강;하남 미사;하남 교산;고양 창릉;남양주 왕숙;인천 계양;부천 대장,SRC-F010
+PDF-039,BRT _ 대도시권광역교통위원회.pdf,7714332a5b225299facb069431a9cd3ca9d7535e10986b2ec3dc5b3a7fc359a5,target_event,transport_plan_or_promise,promise_date,인천 계양;부천 대장,SRC-F004
+PDF-040,buy.gh.or.kr_land_svc_announce_land_announce_html.jsp_strFile=00586_201802271541281.jsp.pdf,7139dab4d1a5071c526396881c1e3160f3ab1957c9f42437a0cf9a3c533885ab,target_event,land_plan_notice,occupancy_first_planned,남양주 다산,SRC-H022
+PDF-041,2024-01-25_신도시_광역교통_개선_투자계획.pdf,90f107e315964eadde4d306bc9bd50f6b4883562335c9cbb3a6a6c4b486b8c77,duplicate,same_sha256_as:PDF-038,,,
+PDF-042,2017_김포양곡_행복주택_지역위치도_교통망도.pdf,a3c74951c8e5c04931fc3d631c069bf6b22718e2978eb0d577e1941c58393e7f,duplicate,same_sha256_as:PDF-012,,,
+PDF-043,2017_김포한강_행복주택_지역위치도_교통망도.pdf,e1ebc0fea640403e26a71cfea8ebace74b5da734ea1371ad0713ba9974d0da49,duplicate,same_sha256_as:PDF-013,,,
+PDF-044,2021-06-29__참고__서부권_2기_신도시_김포한강__인천검단__교통개선_대책.pdf,f73aeb4a71997f5df77ed1b4d5cd616609805096dc5b3333ed61b3dba5b62051,target_event,transport_plan_or_promise,promise_date,김포 한강,SRC-E1-B03
+PDF-045,2022-11-11_수도권_서부지역의_광역교통_확충_등_지역현안_해결_추진.pdf,1bb829548e89c9bc87d68f9d08d8950cbcd1c4a2598056dd77d8bd5a723bab5e,target_event,transport_plan_or_promise,promise_date,김포 한강;하남 미사;하남 교산,SRC-E1-B04
+PDF-046,2025-12_2035년_김포도시기본계획_변경_주요내용.pdf,0fe071799169540ddae02383e3dcd67457b752ddf6d52e1f0881c4811e3aa8c1,context_or_out_of_scope,no_target_event_detected,,김포 한강;하남 미사;하남 교산,
+PDF-047,2019_다산신도시_자연_푸르지오_공공분양주택_입주자모집_정정공고.pdf,78e1f182e7fd0b7a08ca5d3c27ae6e6d7fda39a6479c6788bce1f18d7d80e999,duplicate,same_sha256_as:PDF-009,,,
+PDF-048,2024-01-25_신도시_광역교통_개선_투자계획.pdf,90f107e315964eadde4d306bc9bd50f6b4883562335c9cbb3a6a6c4b486b8c77,duplicate,same_sha256_as:PDF-038,,,
+PDF-049,2020-05-21_하남교산_신도시__과천지구_광역교통개선대책_확정.pdf,5c8bd8f5fb2ae4023300d399bf8deb93f05dd5dff08af27165cd6c6a2201d89c,target_event,transport_plan_or_promise,promise_date,하남 교산,SRC-E2-B08
+PDF-050,2022-06-16_수원_호매실_17일__화성_동탄2지구_21일__광역교통_주민간담회_개최.pdf,a27d8c520db11a7da4c8dc60168a373f40ed7f87cbee81d6da883b550f43e871,target_event,transport_plan_or_promise,promise_date,화성 동탄2,SRC-E1-B02
+PDF-051,2022-10-26__수원호매실_화성동탄2_광역교통_특별대책__발표.pdf,0a6095cb415fbeedd0727303ba11c005733bf4f2d7721122b6d577220077c258,target_event,transport_plan_or_promise,promise_date,화성 동탄2,SRC-E1-B01
+PDF-052,＇25년 상반기 경기행복주택 예비입주자 추가모집 공고.pdf,17e730dc3c2b81cfa2c2e820f79ca45e50b657236b8cb5870235dfbf463083b2,target_event,housing_recruitment_notice,occupancy_planned_block,화성 동탄2;남양주 다산,SRC-E1-A08
+PDF-053,E1-B01.pdf,ee97d54c55cef1585e0d54df1a891d04e68b3dbdc1c8fcde9b4cbc7ef7087556,context_or_out_of_scope,no_target_event_detected,,화성 동탄2,
+PDF-054,E1-B02.pdf,ea078d9bb489eb228f003f5675c7825a8b6223f409e3dad8375bcf6a9e780378,duplicate,same_sha256_as:PDF-024,,,
+PDF-055,E1-B03.pdf,f54821ed2da56cc09c6281ab080ed96a84252a1fad9af1fff9c07bb78913eb1f,duplicate,same_sha256_as:PDF-022,,,
+PDF-056,E1-B04.pdf,d7e578abba3c7c6fe3592dbebdaef288ee0ace8aeb5d4a35909946668e2838f1,duplicate,same_sha256_as:PDF-026,,,
+PDF-057,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,duplicate,same_sha256_as:PDF-017,,,
+PDF-058,E1-B09.pdf,bc80d2e3ee3dadbec345a636c7840673b07f8bc9da12f3a14d21a33c94ed5d33,context_or_out_of_scope,no_target_event_detected,,위례;남양주 왕숙;하남 교산;고양 창릉,
+PDF-059,(정정공고)인천계양A-2블록공공분양입주자모집공고문.pdf,f7202e924988f383730f245784e37a1ec66f0f54d655fb3b8171c45314389195,duplicate,same_sha256_as:PDF-010,,,
+PDF-060,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,duplicate,same_sha256_as:PDF-017,,,
+PDF-061,200521(14시이후) 하남교산 신도시_과천지구 광역교통개선대책 확정(공공택지기획과).pdf,fb08785a7962ad8088d930c4598ac1d095187eb34f7a52ea2b675bb0f5fc72cc,duplicate,same_sha256_as:PDF-017,,,
+PDF-062,(251127)남양주왕숙_B-17BL_공공분양_입주자모집공고문.pdf,0f2f8e767b8aaf98df7013e0bdfb1f133a23c7e784c22ac5ab774d071ffa4e37,duplicate,same_sha256_as:PDF-003,,,
+PDF-063,(정정)250424_교산푸르지오더퍼스트_입주자모집공고.pdf,08438e6ac19967e88de5ae5dfe94e8f5bd891efefd0eb07195d96045b0707fa6,duplicate,same_sha256_as:PDF-006,,,
+PDF-064,E1-B01.pdf,ee97d54c55cef1585e0d54df1a891d04e68b3dbdc1c8fcde9b4cbc7ef7087556,duplicate,same_sha256_as:PDF-053,,,
+PDF-065,E1-B02.pdf,ea078d9bb489eb228f003f5675c7825a8b6223f409e3dad8375bcf6a9e780378,duplicate,same_sha256_as:PDF-024,,,
+PDF-066,E1-B03.pdf,f54821ed2da56cc09c6281ab080ed96a84252a1fad9af1fff9c07bb78913eb1f,duplicate,same_sha256_as:PDF-022,,,
+PDF-067,E1-B04.pdf,d7e578abba3c7c6fe3592dbebdaef288ee0ace8aeb5d4a35909946668e2838f1,duplicate,same_sha256_as:PDF-026,,,
+PDF-068,E1-B09.pdf,bc80d2e3ee3dadbec345a636c7840673b07f8bc9da12f3a14d21a33c94ed5d33,duplicate,same_sha256_as:PDF-058,,,
+PDF-069,★(정정)남양주왕숙A-1BL공공분양입주자모집공고문.pdf,9f8e43212a22fdd573254ea59bd1cd1ba3f8d1ac7a1494b97682b50c65adc95b,target_event,housing_recruitment_notice,occupancy_planned_block,남양주 왕숙,SRC-F007
+PDF-070,★하남시지역국민임대주택예비입주자모집공고(20250314)_최종.pdf,2759529f5e28ddedc459b8499ccd88c52df2a3be5388dd8afaab954540cad938,target_event,housing_recruitment_notice,occupancy_planned_block,하남 미사,
+PDF-071,★화성동탄2C-27블록공공분양주택입주자모집공고문.pdf,7566afe81be70a79ee692a52f0438da0bfc935eb971e853654613533d09d55c7,target_event,housing_recruitment_notice,occupancy_planned_block,화성 동탄2,SRC-E1-A01
+PDF-072,"경기도, 별내선 개통. 남양주 별내에서 잠실까지 27분이면 간다. 김동연, “구리, 남양주. 경기동북부 주민들 교통 숨통 확 트일 것”.pdf",6725ccec06129673dcd030a56859bb9c08dc0d33fa297914ba75e9197c95f38b,target_event,actual_operation_notice,actual_operation;basic_service,남양주 다산;하남 미사;하남 교산;남양주 왕숙,SRC-F012
+PDF-073,고양창릉S-4블록공공분양입주자모집공고문(안).pdf,565721aa8e656d20e2b2edb9c8db64b0ffdab8bfd02ea4e2ad8119bc9b76e5d9,target_event,housing_recruitment_notice,occupancy_planned_block,고양 창릉,SRC-E2-A09
+PDF-074,"김상호 하남시장, “5호선 개통은 마을, 도시, 일자리 잇는 촉진제”.pdf",a462e80e674ef097b025a5d6a1fd147bba70fc5ecd04a37c12c03435d394b18d,target_event,actual_operation_notice,actual_operation,하남 미사;하남 교산,
+PDF-075,김포한강Ac-01a블록(데세리브)10년공공임대주택리츠예비입주자모집공고문(26.06.19).pdf,5fae342e3aebe93b2118cd32e37d603c71670b7b78aad88b4b859e882a73ee3c,target_event,housing_recruitment_notice,occupancy_planned_block,김포 한강,SRC-E1-A03
+PDF-076,김포한강Ac-05블록(센트럴블루힐)10년공공임대주택리츠예비입주자모집공고문(26.08.25).pdf,bff83f4d343364fcf84955d49a59748b9f82b4116f02cfbfb70ca9e5c3ba6b9d,target_event,housing_recruitment_notice,occupancy_planned_block,김포 한강,SRC-E1-A04
+PDF-077,김포한강센트럴블루힐10년공공임대주택리츠예비입주자모집공고(25.10.28).pdf,b0c5c614416bcefdea6f27d7eb88f9a6be6c9a728f9a8bc0380f9356db04e18d,target_event,housing_recruitment_notice,occupancy_planned_block,김포 한강,SRC-E1-A04
+PDF-078,"남양주시, 땡큐버스 등 6개 노선 개편으로 시민 불편 해소.pdf",70e61cf108214fb5b0a5bb9c687aa196fbffbb203a42f2b527b9f9a14f88e4a7,target_event,service_information,basic_service,,
+PDF-079,남양주왕숙A-1BL공공분양입주자모집공고문(250724).pdf,1dac689d7133335f0bd75cc2a88000f862410209efa5bcfc9ea429ca4dc19515,target_event,housing_recruitment_notice,occupancy_planned_block,남양주 왕숙,SRC-E2-A07
+PDF-080,"내년 개통 앞둔 위례선 트램, 실제 차량 대공개! 승하차 태그는 어떻게_ _ 서울시 - 내 손안에 서울.pdf",720b75ef0bff8893c739dde9a900298f9a9b9f95ec74db696ec8841b828d5850,target_event,future_or_trial_operation_notice,promise_date,위례,
+PDF-081,다산신도시 상업ㆍ주유소용지 공급공고.pdf,21afbf75fd6243f1e1b87d13d67fdab22fb686efa11024477c8f375e79286055,context_or_out_of_scope,no_target_event_detected,,남양주 다산,
+PDF-082,다산지금A1블록 국민임대주택 입주자모집공고문(200827).pdf,b742188f7e7a4d25e76a9e308fece038462ad1460e35f54b631a7ac587408d8d,target_event,housing_recruitment_notice,occupancy_planned_block,남양주 다산,SRC-E1-A07
+PDF-083,"달려간다,미사위례신도시 대중교통.pdf",083f8f6b7c56a257a98f0d1266285c1d0f002be24c227c16f382d5bcdd3f1386,context_or_out_of_scope,no_target_event_detected,,위례,
+PDF-084,미사강변도시 A24블록 10년 공공임대주택리츠 입주자 모집.pdf,fe6a75eea6be0515dd7aae147197495ec4ecbc0e96e953f867d6a3d269c7dcbd,target_event,housing_recruitment_notice,occupancy_planned_block,하남 미사,SRC-E1-A10
+PDF-085,미사강변도시 A25블록 10년 공공임대주택리츠 입주자 모집.pdf,90fcc484062c53afba4d33beaa9b5e0e5027ca7eea745254829727621b4dea52,target_event,housing_recruitment_notice,occupancy_planned_block,하남 미사,SRC-E1-A10
+PDF-086,민생토론회(교통) _ 국토교통부.pdf,8f0fe3faf922f11b696f2037df4e39f81f0469ee14c22ff396095a3bede4965c,target_event,transport_policy_plan,promise_date,화성 동탄2;김포 한강,SRC-F016
+PDF-087,변경 노선도（다산역）-홈페이지 게시용.pdf,672466fe557eca52389b61cf8eb9697e0f4110033cbb0418bbe8d3193d9dc68c,target_event,service_information,basic_service,남양주 다산,
+PDF-088,보도자료 - 김포시뉴스포털.pdf,dbf7426f5af96c441bb07cbbd80a31ca690cde79a1dc426fac9700ba227bf998,target_event,actual_operation_notice,actual_operation;basic_service,김포 한강,SRC-H011
+PDF-089,보도자료 다산신도시 입주지원 특별대책반 가동.pdf,548a8ff7ef6d0fd6ce3db6989f1392e926873d063fe4344760061cb9d3637fea,target_event,district_move_in_evidence,occupancy_first_actual,남양주 다산,SRC-H020
+PDF-090,보도자료_final_동탄2신도시_070601.pdf,14d43f72c1bb4607b6cff9727d014a71548ad15d99861b90d0da6b55c76c35d8,target_event,district_master_plan_baseline,occupancy_first_planned,화성 동탄2,
+PDF-091,부천대장A7블록공공분양주택입주자모집공고문_최종.pdf,1fb52b9e26ce23b6131d05e4dcf6b2e8c294a5b4aafe585c9b8b4313d706d3f6,target_event,housing_recruitment_notice,occupancy_planned_block,부천 대장,SRC-E2-A10
+PDF-092,부천대장A8블록공공분양주택입주자모집공고문.pdf,d225b71e078de3e7903d26ef108379f624797a80735d28f23efba6334c373912,target_event,housing_recruitment_notice,occupancy_planned_block,부천 대장,SRC-F026
+PDF-093,송파구청 - 분야별정보 - 주택_도시 - 교통대책 - 위례신도시 광역교통 개선대책.pdf,7e77caac8ab8aadaad63f26fe2d9c7bb2754b437be598bcb82795b95a75c5d21,target_event,transport_plan_or_promise,promise_date,위례,SRC-E1-B06
+PDF-094,"예비입주자모집공고문(미사12,16)(2).pdf",5f78b95ae640847279af2e71ce967b3b8f2160776ac08cf24f46e5d731c0aca5,target_event,housing_recruitment_notice,occupancy_planned_block,하남 미사,
+PDF-095,"오 시장, 12월 개통 '위례선 트램' 현장점검… _교통체계 혁신, 지역상권 활성화_ _ 시정뉴스 _ 소통공간 _ 서울특별시장.pdf",91764a04183cf52a403ab40f3f4eb7de4a23120b84df4d271aa7ae5fcc0d0b83,target_event,future_or_trial_operation_notice,promise_date,위례,SRC-H016
+PDF-096,"위례신도시 1,676세대 공공분양…분양가·청약조건은_ _ 서울시 - 내 손안에 서울.pdf",1c78338e3624cbdc6b2e58a875448c9fb1f5e6cecb6fba1b8bb7317940bd0094,target_event,housing_recruitment_notice,occupancy_planned_block,위례,
+PDF-097,인쇄하기 - 하남시청.pdf,ade438681fd2b080ed26cbafd823416f4d95a0df7fed95a67f508db4ccb0ac7c,target_event,municipal_service_context,basic_service,위례;하남 미사,
+PDF-098,"인천시, 6월 27일 검단연장선 개통 기념행사 개최 … 28일 첫 운행.pdf",dfdccd29d1cffe983af2ea5d909ff6fc9c5ea5aabe1a4167e04d8ce4029f36c4,target_event,actual_operation_notice,actual_operation,인천 계양,SRC-F006
+PDF-099,정책브리핑 _ 기사인쇄하기.pdf,543077ecbacfb56aba75f592cde54280c508f1c5653cf9a25b3196a9c060df3d,target_event,district_planned_move_in_baseline,occupancy_first_planned,위례,
+PDF-100,제259회 제1차 본회의(2011.05.03. 화요일) _ 경기도의회 회의록 _ 경기도의회.pdf,a7dd2379b5b5c8ef62f841f11759dc858b2f3a120b4f0f27f9ff50b737a17289,context_or_out_of_scope,context_only_requires_manual_scope_review,,김포 한강,
+PDF-101,제312회 제2차 기획재정위원회(2016.07.18. 월요일) _ 경기도의회 회의록 _ 경기도의회.pdf,662cae34a3c8e14374c392303378b0ba439c99f3c2adc01123332b85f12a931f,context_or_out_of_scope,context_only_requires_manual_scope_review,,,
+PDF-102,지하철 8호선 남위례역 18일 개통…잠실까지 15분 _ 서울시 - 내 손안에 서울.pdf,c527d0ab39cb4e427fa62ce8c97d7f7b5074d06dcf2ac3af96ae616ddf7fdcc9,target_event,actual_operation_notice,actual_operation;basic_service,위례,SRC-H017
+PDF-103,지하철 하남선 개통에 대하여.pdf,64d6f55fad58be64ef283ac365cab3c13752d7b05688569522b570c1f4438157,target_event,actual_operation_notice,actual_operation,하남 미사;하남 교산,SRC-H028
+PDF-104,청정하남-10월호-최종 단면-저해상.pdf,f7d1029283830f3ac7dfd255ec4b2f248fd38cb22aa444baaff4f759b04d80d0,context_or_out_of_scope,newsletter_context_only,,하남 미사;하남 교산,
+PDF-105,친환경 트램 '위례선' 시범운행 시작…내년 하반기 개통 _ 서울시 - 내 손안에 서울.pdf,a9beb607d64a9ebdabe680bf68c20f0f2cfd347c8d24d9a0a3d82b30fa1094bc,target_event,future_or_trial_operation_notice,promise_date,위례,
+PDF-106,"하남미사지구 광역교통개선대책 변경, 확정된 바 없어.pdf",8c8756bf0041e944a8ce2c1e3d1d8e3aa16e34722cd7c5643a68f09fb3e5a5d9,target_event,transport_plan_or_promise,promise_date,하남 미사,SRC-E1-B10
+PDF-107,하남시 시내버스 - 하남시청.pdf,8ac431b91d3d060832a9e275cef5f02f8f259cf1b8a41b8716d2cd3bc3ab32d2,target_event,service_information,basic_service,위례;하남 미사,SRC-E1-C09
+PDF-108,"하남시, 2021년 ‘빛나는 하남’ 10대 뉴스 선정.pdf",ec903ff08af3f81b601966e19ded4bbc7ec874605458f51aa9d213ffc322d3aa,target_event,municipal_year_end_recap,actual_operation;promise_date,하남 미사;하남 교산;남양주 왕숙,SRC-H027
+PDF-109,"하남시, 미사순환 마을버스 노선 개통.pdf",35c0ffd16b7581c3888e2559c2e9d9d71dc598c9243d1ff23162619533ae7729,target_event,actual_operation_notice,actual_operation,위례;하남 미사,SRC-E1-C09
+PDF-110,홈_열린시장실_의견공감 _ 인천은 소통이 가득.pdf,2a3f750b161fd40b3fe721027885cc698b4e8456e20cc2ded266c64a03eb85ca,context_or_out_of_scope,context_only_requires_manual_scope_review,,김포 한강;인천 계양;부천 대장,
+PDF-111,화성 동탄신도시∼김포공항 버스 노선 내달 1일부터 운행 _ 연합뉴스.pdf,e8f57f80285b5bdd4a7c065b26e86816a49adf47b0621eb892b91b0ed574c58a,target_event,media_clue_requires_official_source,actual_operation;basic_service,화성 동탄2,SRC-E1-C01
+PDF-112,＇25년 상반기 경기행복주택 예비입주자 추가모집 공고.pdf,17e730dc3c2b81cfa2c2e820f79ca45e50b657236b8cb5870235dfbf463083b2,duplicate,same_sha256_as:PDF-052,,,

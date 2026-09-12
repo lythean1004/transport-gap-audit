@@ -1,0 +1,73 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 23,
+            "gpslati": 37.655009,
+            "gpslong": 126.614801,
+            "nodeid": "ICB232000661",
+            "nodenm": "가오대입구",
+            "nodeno": 80033
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6549833,
+            "gpslong": 126.6148,
+            "nodeid": "GGB232000661",
+            "nodenm": "가오대입구",
+            "nodeno": 35589
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.655158,
+            "gpslong": 126.614579,
+            "nodeid": "ICB232000660",
+            "nodenm": "가오대입구",
+            "nodeno": 80034
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6551667,
+            "gpslong": 126.6145667,
+            "nodeid": "GGB232000660",
+            "nodenm": "가오대입구",
+            "nodeno": 35588
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6595,
+            "gpslong": 126.6179667,
+            "nodeid": "GGB232001154",
+            "nodenm": "오니산교",
+            "nodeno": 35485
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65975,
+            "gpslong": 126.6178833,
+            "nodeid": "GGB232001155",
+            "nodenm": "오니산교",
+            "nodeno": 35489
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6576667,
+            "gpslong": 126.6227,
+            "nodeid": "GGB232000301",
+            "nodenm": "양곡주공아파트.오라니장터시장",
+            "nodeno": 35433
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 7
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "endnodenm": "서울아산병원동관",
+          "endvehicletime": 2215,
+          "intervalsattime": 70,
+          "intervalsuntime": 70,
+          "intervaltime": 25,
+          "routeid": "GGB222000027",
+          "routeno": 97,
+          "routetp": "일반버스",
+          "startnodenm": "호평동차고지",
+          "startvehicletime": "0445"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31020,
+            "gpslati": 37.4709,
+            "gpslong": 127.15415,
+            "nodeid": "GGB204000312",
+            "nodenm": "위례더힐정문",
+            "nodeno": 5290
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.47095,
+            "gpslong": 127.1538667,
+            "nodeid": "GGB204000313",
+            "nodenm": "위례센트럴푸르지오",
+            "nodeno": 5293
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4697333,
+            "gpslong": 127.1523,
+            "nodeid": "GGB204000239",
+            "nodenm": "위례더힐남문.위례푸른초등학교",
+            "nodeno": 5174
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4722833,
+            "gpslong": 127.1542,
+            "nodeid": "GGB204000237",
+            "nodenm": "위례호반써밋에비뉴",
+            "nodeno": 5292
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.46995,
+            "gpslong": 127.1513167,
+            "nodeid": "GGB204000048",
+            "nodenm": "위례센트럴푸르지오.위례푸른초등학교",
+            "nodeno": 5294
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4729667,
+            "gpslong": 127.15455,
+            "nodeid": "GGB204000346",
+            "nodenm": "위례그린파크푸르지오",
+            "nodeno": 5291
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4692833,
+            "gpslong": 127.1503167,
+            "nodeid": "GGB204000095",
+            "nodenm": "위례평생학습관",
+            "nodeno": 5289
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.46895,
+            "gpslong": 127.1501167,
+            "nodeid": "GGB204000098",
+            "nodenm": "위례평생학습관",
+            "nodeno": 5295
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.4743833,
+            "gpslong": 127.1543333,
+            "nodeid": "GGB227000302",
+            "nodenm": "위례롯데캐슬.그린파크푸르지오.남한산성입구",
+            "nodeno": 28471
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 9
+    }
+  }
+}

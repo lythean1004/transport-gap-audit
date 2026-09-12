@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31140,
+            "gpslati": 37.1523333,
+            "gpslong": 127.0918833,
+            "nodeid": "GGB223000276",
+            "nodenm": "오산시티자이2차.다온초교",
+            "nodeno": 24244
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1523333,
+            "gpslong": 127.0916167,
+            "nodeid": "GGB223000249",
+            "nodenm": "오산시티자이2차.다온초교",
+            "nodeno": 24181
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1541167,
+            "gpslong": 127.0921833,
+            "nodeid": "GGB223000447",
+            "nodenm": "계량골",
+            "nodeno": 24473
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1541,
+            "gpslong": 127.0919667,
+            "nodeid": "GGB223000446",
+            "nodenm": "계량골",
+            "nodeno": 24472
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

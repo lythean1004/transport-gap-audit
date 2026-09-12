@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.5944833,
+            "gpslong": 127.18445,
+            "nodeid": "GGB222000119",
+            "nodenm": "강북정수장",
+            "nodeno": 23245
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5947,
+            "gpslong": 127.1844167,
+            "nodeid": "GGB222000122",
+            "nodenm": "강북정수장",
+            "nodeno": 23244
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5947667,
+            "gpslong": 127.1799333,
+            "nodeid": "GGB222000121",
+            "nodenm": "석실마을",
+            "nodeno": 23193
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.5946,
+            "gpslong": 127.1795333,
+            "nodeid": "GGB222000120",
+            "nodenm": "석실마을",
+            "nodeno": 23207
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

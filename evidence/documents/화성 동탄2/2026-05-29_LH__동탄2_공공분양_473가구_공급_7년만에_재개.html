@@ -1,0 +1,76 @@
+<!DOCTYPE html><html lang="ko"><head><title>시스템안내</title><meta charset="utf-8">
+<script>
+alert('비정상적인 경로로 접근하셨습니다. 이전 페이지로 돌아갑니다.')
+history.back(0)
+</script>
+</head></html>
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
+	<link rel="stylesheet" href="/00_common/css/basic.css" media="all">
+	<title>오류알림!</title>
+	
+	<script>
+		function fncGoAfterErrorPage() {
+			history.back(-2);
+		}
+	</script>
+</head>
+<script>
+	function fncGoAfterErrorPage() {
+		history.back(-2);
+	}
+</script>
+<body>
+<div id="wrap">
+	<h2>LH청약플러스</h2>
+	<div class="errorWrap">
+		<p class="img"><img src="/00_common/images/layout/error_img.png" alt=""></p>
+		<div class="btns">
+			<a href="javascript:fncGoAfterErrorPage();" class="btn_blL"><i class="xi-angle-left-min" aria-hidden="true"></i> 이전페이지</a>
+			<a href="/lhapply/main.do" class="btn_bl">LH청약플러스 홈으로. <i class="xi-angle-right-min" aria-hidden="true"></i></a>
+		</div>
+	</div>
+</div>
+</body>
+
+<style>
+	body{ min-height:100vh; display:flex; align-items:center; justify-content:center; background:#efefef;}
+
+	#wrap{ flex:1; max-width:62rem; padding:0 1rem; margin:2rem auto;}
+	#wrap h2{ font-size:1.25rem; font-weight:800; text-align:left;}
+
+	.errorWrap{ display:flex; flex-wrap: wrap; align-content:center; justify-content:center; min-height:65vh; padding:3rem 1.5em; margin-top:1rem; border-radius:1rem; border:1px solid #bdbecb;; background:#fff;}
+	.errorWrap > *{ width:100%;}
+	.errorWrap .img{  text-align:center; margin-bottom:-1px;}
+	.errorWrap .img img{ max-width:80%;}
+	.errorWrap .inner{ padding:2rem 1rem; max-width:30rem; text-align:center; word-break: keep-all; border-radius:0.5rem; border:1px solid #bdbecb; }
+	.errorWrap .inner > p{ color:#ff5050;}
+	.errorWrap .inner > span{ font-size:1.25rem; font-weight:200; line-height:1.2;}
+	.errorWrap .inner > span strong{ font-weight:600;}
+	.errorWrap .btns{ text-align:center; margin-top:1rem;}
+
+	.btns a{ display:inline-block; border-radius:0.25rem; margin:0.15rem; padding:0.5rem 1rem; border:2px solid #5267cc; transition: all .2s; -webkit-transition: all .2s;}
+	.btns a.btn_blL{ color:#5267cc; }
+	.btns a.btn_bl{ color:#fff; background:#5267cc}
+	.btns a:hover,
+	.btns a:focus{ box-shadow:2px 2px 5px rgba(0,0,0,0.3);}
+
+	@media screen and (max-width: 768px){
+		.errorWrap .inner > p{ font-size:0.75rem;}
+		.errorWrap .inner > span{ font-size:1.1rem;}
+	}
+
+@media screen and (max-width: 360px){
+	.errorWrap .inner > span{ font-size:1rem;}
+	.btns a{ padding:0.35rem 0.75rem; font-size:0.75rem;}
+}
+</style>
+</html>

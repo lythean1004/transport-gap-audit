@@ -1,0 +1,153 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31180,
+            "gpslati": 37.5354,
+            "gpslong": 127.19605,
+            "nodeid": "GGB227000007",
+            "nodenm": "한솔리치빌2.3단지",
+            "nodeno": 28037
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.53495,
+            "gpslong": 127.1961167,
+            "nodeid": "GGB227000017",
+            "nodenm": "한솔리치빌2.3단지",
+            "nodeno": 28038
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5340167,
+            "gpslong": 127.1971,
+            "nodeid": "GGB227000008",
+            "nodenm": "한솔리치빌1.5단지",
+            "nodeno": 28041
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5337333,
+            "gpslong": 127.1970667,
+            "nodeid": "GGB227000016",
+            "nodenm": "한솔리치빌1.5단지",
+            "nodeno": 28045
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5378333,
+            "gpslong": 127.1979167,
+            "nodeid": "GGB227000699",
+            "nodenm": "덕풍공원입구",
+            "nodeno": 28546
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5353,
+            "gpslong": 127.1989,
+            "nodeid": "GGB227000695",
+            "nodenm": "덕풍1동행정복지센터",
+            "nodeno": 28542
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5373,
+            "gpslong": 127.1988833,
+            "nodeid": "GGB227000698",
+            "nodenm": "덕풍공원입구",
+            "nodeno": 28545
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5356333,
+            "gpslong": 127.19935,
+            "nodeid": "GGB227000694",
+            "nodenm": "덕풍1동행정복지센터",
+            "nodeno": 28541
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.53345,
+            "gpslong": 127.1983167,
+            "nodeid": "GGB227000693",
+            "nodenm": "한솔리치빌5단지.그린나래아파트",
+            "nodeno": 28540
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.53305,
+            "gpslong": 127.1978167,
+            "nodeid": "GGB227000600",
+            "nodenm": "한솔리치빌.그린나래아파트",
+            "nodeno": 28407
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5335333,
+            "gpslong": 127.1985167,
+            "nodeid": "GGB227000692",
+            "nodenm": "한솔리치빌5단지.그린나래아파트",
+            "nodeno": 28539
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5322,
+            "gpslong": 127.1957667,
+            "nodeid": "GGB277103275",
+            "nodenm": "하남JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5321167,
+            "gpslong": 127.1960667,
+            "nodeid": "GGB277102518",
+            "nodenm": "하남JC(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5370833,
+            "gpslong": 127.1999833,
+            "nodeid": "GGB227000697",
+            "nodenm": "덕풍공원.제1공영주차장",
+            "nodeno": 28544
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5371667,
+            "gpslong": 127.2000333,
+            "nodeid": "GGB227000696",
+            "nodenm": "덕풍공원.제1공영주차장",
+            "nodeno": 28543
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5395,
+            "gpslong": 127.1977,
+            "nodeid": "GGB227000700",
+            "nodenm": "덕풍초등학교.자이.파크어울림",
+            "nodeno": 28547
+          },
+          {
+            "citycode": 31180,
+            "gpslati": 37.5396833,
+            "gpslong": 127.1978167,
+            "nodeid": "GGB227000701",
+            "nodenm": "덕풍초등학교.자이.파크어울림",
+            "nodeno": 28548
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 17
+    }
+  }
+}

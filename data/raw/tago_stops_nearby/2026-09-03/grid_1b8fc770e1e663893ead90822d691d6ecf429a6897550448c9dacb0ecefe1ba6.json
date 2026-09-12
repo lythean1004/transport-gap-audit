@@ -1,0 +1,97 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2155,
+            "gpslong": 127.0802,
+            "nodeid": "GGB233002444",
+            "nodenm": "한림대성심병원",
+            "nodeno": 55316
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2153167,
+            "gpslong": 127.0791333,
+            "nodeid": "GGB233001817",
+            "nodenm": "이마트.한림대병원",
+            "nodeno": 37879
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2173,
+            "gpslong": 127.0806333,
+            "nodeid": "GGB233002559",
+            "nodenm": "한림대성심병원",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.21315,
+            "gpslong": 127.0792833,
+            "nodeid": "GGB233001683",
+            "nodenm": "전하리교회.우미제일",
+            "nodeno": 37712
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2144833,
+            "gpslong": 127.0778333,
+            "nodeid": "GGB233001619",
+            "nodenm": "동탄이마트.한림대병원",
+            "nodeno": 37692
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2140333,
+            "gpslong": 127.0779333,
+            "nodeid": "GGB233001618",
+            "nodenm": "동탄이마트.한림대병원",
+            "nodeno": 37684
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2167833,
+            "gpslong": 127.0784,
+            "nodeid": "GGB233000916",
+            "nodenm": "동탄제일병원",
+            "nodeno": 55619
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2166333,
+            "gpslong": 127.0781167,
+            "nodeid": "GGB233001782",
+            "nodenm": "한림대병원(중)",
+            "nodeno": 37864
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2121333,
+            "gpslong": 127.0793833,
+            "nodeid": "GGB233003186",
+            "nodenm": "우미제일.전하리교회",
+            "nodeno": 37760
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2173167,
+            "gpslong": 127.07775,
+            "nodeid": "GGB233001225",
+            "nodenm": "한림대병원(중)",
+            "nodeno": 36414
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 10
+    }
+  }
+}

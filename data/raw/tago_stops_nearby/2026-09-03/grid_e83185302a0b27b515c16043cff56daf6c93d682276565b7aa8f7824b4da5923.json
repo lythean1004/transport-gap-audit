@@ -1,0 +1,185 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 23,
+            "gpslati": 37.647678,
+            "gpslong": 126.632619,
+            "nodeid": "ICB232000074",
+            "nodenm": "호수마을5단지후문",
+            "nodeno": 35270
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64765,
+            "gpslong": 126.6326,
+            "nodeid": "GGB232000074",
+            "nodenm": "호수마을5단지.호반베르디움2차",
+            "nodeno": 35270
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.647449,
+            "gpslong": 126.632773,
+            "nodeid": "ICB232000823",
+            "nodenm": "호수마을5단지후문",
+            "nodeno": 35735
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6473667,
+            "gpslong": 126.6328667,
+            "nodeid": "GGB232000823",
+            "nodenm": "호수마을5단지.호반베르디움2차",
+            "nodeno": 35735
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64875,
+            "gpslong": 126.6308,
+            "nodeid": "GGB232000537",
+            "nodenm": "호수마을2.3.5단지",
+            "nodeno": 35758
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.64875,
+            "gpslong": 126.6305833,
+            "nodeid": "GGB232000946",
+            "nodenm": "호수마을2.3.5단지",
+            "nodeno": 35896
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6504667,
+            "gpslong": 126.6331167,
+            "nodeid": "GGB232000947",
+            "nodenm": "김포호수초교.한강아이파크",
+            "nodeno": 35897
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6504,
+            "gpslong": 126.6336833,
+            "nodeid": "GGB232000538",
+            "nodenm": "김포호수초교.한강아이파크",
+            "nodeno": 35759
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6494,
+            "gpslong": 126.6364833,
+            "nodeid": "GGB232000835",
+            "nodenm": "김포한강스포츠센터.호반베르디움",
+            "nodeno": 35782
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6501833,
+            "gpslong": 126.6361667,
+            "nodeid": "GGB232000945",
+            "nodenm": "호반베르디움5차",
+            "nodeno": 35895
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6480333,
+            "gpslong": 126.6277667,
+            "nodeid": "GGB277102725",
+            "nodenm": "김포한강7로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6492333,
+            "gpslong": 126.6277333,
+            "nodeid": "GGB232000705",
+            "nodenm": "호수마을이편한세상.한가람우미린",
+            "nodeno": 35640
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.649463,
+            "gpslong": 126.627685,
+            "nodeid": "ICB232000705",
+            "nodenm": "호수마을이편한세상.한가람우미린",
+            "nodeno": 80319
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6514833,
+            "gpslong": 126.6292,
+            "nodeid": "GGB232000961",
+            "nodenm": "이편한세상.한강아이파크",
+            "nodeno": 35911
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6452,
+            "gpslong": 126.629,
+            "nodeid": "GGB232000724",
+            "nodenm": "구래역",
+            "nodeno": 35195
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.645057,
+            "gpslong": 126.629008,
+            "nodeid": "ICB232000724",
+            "nodenm": "구래역",
+            "nodeno": 80338
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6517667,
+            "gpslong": 126.62935,
+            "nodeid": "GGB232000967",
+            "nodenm": "휴먼시아9단지",
+            "nodeno": 35917
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.649623,
+            "gpslong": 126.627387,
+            "nodeid": "ICB232000704",
+            "nodenm": "한가람마을우미린.호수이편한세상",
+            "nodeno": 80318
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6441833,
+            "gpslong": 126.6307833,
+            "nodeid": "GGB232000494",
+            "nodenm": "솔터3단지.이마트",
+            "nodeno": 35755
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6495167,
+            "gpslong": 126.6273333,
+            "nodeid": "GGB232000704",
+            "nodenm": "한가람마을우미린.호수이편한세상",
+            "nodeno": 35641
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6450833,
+            "gpslong": 126.6287,
+            "nodeid": "GGB232000725",
+            "nodenm": "구래역",
+            "nodeno": 35196
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 21
+    }
+  }
+}

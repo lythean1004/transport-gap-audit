@@ -1,0 +1,89 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1741,
+            "gpslong": 127.12135,
+            "nodeid": "GGB233000328",
+            "nodenm": "쎈트럴써밋",
+            "nodeno": 55800
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1738167,
+            "gpslong": 127.1212667,
+            "nodeid": "GGB233000327",
+            "nodenm": "쎈트럴써밋",
+            "nodeno": 55799
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1734167,
+            "gpslong": 127.12005,
+            "nodeid": "GGB233001608",
+            "nodenm": "서희스타힐스.단독주택",
+            "nodeno": 37654
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1733167,
+            "gpslong": 127.1195333,
+            "nodeid": "GGB233001572",
+            "nodenm": "서희스타힐스.단독주택",
+            "nodeno": 55488
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1796167,
+            "gpslong": 127.1188833,
+            "nodeid": "GGB233002373",
+            "nodenm": "호반3차.창의고",
+            "nodeno": 55444
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1797333,
+            "gpslong": 127.1197,
+            "nodeid": "GGB233002006",
+            "nodenm": "호반3차.창의고",
+            "nodeno": 55445
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.17685,
+            "gpslong": 127.1148833,
+            "nodeid": "GGB233003046",
+            "nodenm": "금강펜테리움2차",
+            "nodeno": 55577
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.17195,
+            "gpslong": 127.1173833,
+            "nodeid": "GGB233002027",
+            "nodenm": "서희스타힐스.레이크파크뷰",
+            "nodeno": 55586
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1767,
+            "gpslong": 127.11475,
+            "nodeid": "GGB233003047",
+            "nodenm": "금강펜테리움2차",
+            "nodeno": 55578
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 9
+    }
+  }
+}

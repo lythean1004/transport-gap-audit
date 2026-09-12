@@ -1,0 +1,10 @@
+{
+  "generated_at": "2026-09-02T18:18:20+09:00",
+  "archive_root": "data\\raw\\evidence",
+  "physical_files": 237,
+  "unique_hashes": 199,
+  "duplicate_copies": 38,
+  "downloaded_html": 11,
+  "mapped_source_ids": 192,
+  "normalized_registry_paths": 116
+}

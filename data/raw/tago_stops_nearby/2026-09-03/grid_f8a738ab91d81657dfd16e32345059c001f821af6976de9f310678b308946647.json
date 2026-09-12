@@ -1,0 +1,65 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31020,
+            "gpslati": 37.4658667,
+            "gpslong": 127.1352667,
+            "nodeid": "GGB204000147",
+            "nodenm": "복정고등학교.복정지구",
+            "nodeno": 5158
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.46625,
+            "gpslong": 127.1266167,
+            "nodeid": "GGB204000114",
+            "nodenm": "복정동행정복지센터",
+            "nodeno": 5027
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4651,
+            "gpslong": 127.1360167,
+            "nodeid": "GGB204000148",
+            "nodenm": "복정고등학교.복정지구",
+            "nodeno": 5159
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4682,
+            "gpslong": 127.1325,
+            "nodeid": "GGB277104240",
+            "nodenm": "복정삼거리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4617833,
+            "gpslong": 127.1262167,
+            "nodeid": "GGB204000115",
+            "nodenm": "복정초등학교",
+            "nodeno": 5142
+          },
+          {
+            "citycode": 31020,
+            "gpslati": 37.4661,
+            "gpslong": 127.1260833,
+            "nodeid": "GGB204000113",
+            "nodenm": "복정동행정복지센터",
+            "nodeno": 5026
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 6
+    }
+  }
+}

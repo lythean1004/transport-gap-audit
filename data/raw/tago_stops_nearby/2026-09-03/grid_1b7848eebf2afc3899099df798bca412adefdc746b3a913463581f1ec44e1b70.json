@@ -1,0 +1,137 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6430167,
+            "gpslong": 126.6817,
+            "nodeid": "GGB232000366",
+            "nodenm": "장기사거리.수정마을",
+            "nodeno": 35211
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.643041,
+            "gpslong": 126.681729,
+            "nodeid": "ICB232000366",
+            "nodenm": "장기사거리.수정마을",
+            "nodeno": 35211
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6411333,
+            "gpslong": 126.6797667,
+            "nodeid": "GGB232000803",
+            "nodenm": "라베니체.쌍용예가",
+            "nodeno": 35712
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6396333,
+            "gpslong": 126.6850167,
+            "nodeid": "GGB232000140",
+            "nodenm": "국민건강보험공단",
+            "nodeno": 35497
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.643911,
+            "gpslong": 126.681462,
+            "nodeid": "ICB232000422",
+            "nodenm": "전원마을.김포한강롯데캐슬",
+            "nodeno": 35210
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6439167,
+            "gpslong": 126.68145,
+            "nodeid": "GGB232000422",
+            "nodenm": "전원마을.김포한강롯데캐슬",
+            "nodeno": 35210
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6421667,
+            "gpslong": 126.67955,
+            "nodeid": "GGB232000798",
+            "nodenm": "라베니체.쌍용예가",
+            "nodeno": 35707
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6394667,
+            "gpslong": 126.6803333,
+            "nodeid": "GGB232000820",
+            "nodenm": "김포경찰서후문",
+            "nodeno": 35732
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6388,
+            "gpslong": 126.6843667,
+            "nodeid": "GGB232000154",
+            "nodenm": "국민건강보험공단",
+            "nodeno": 35498
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6389833,
+            "gpslong": 126.6803167,
+            "nodeid": "GGB232000819",
+            "nodenm": "김포경찰서후문",
+            "nodeno": 35731
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6433333,
+            "gpslong": 126.6787667,
+            "nodeid": "GGB232000684",
+            "nodenm": "수정마을.쌍용예가",
+            "nodeno": 35622
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6453,
+            "gpslong": 126.6836,
+            "nodeid": "GGB232000743",
+            "nodenm": "전원마을1단지.김포한강롯데캐슬",
+            "nodeno": 35577
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6433333,
+            "gpslong": 126.6784,
+            "nodeid": "GGB232000683",
+            "nodenm": "수정마을.휴먼시아",
+            "nodeno": 35623
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6454667,
+            "gpslong": 126.6836167,
+            "nodeid": "GGB232000744",
+            "nodenm": "전원마을1단지.김포한강롯데캐슬",
+            "nodeno": 35578
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6371167,
+            "gpslong": 126.6819833,
+            "nodeid": "GGB232000685",
+            "nodenm": "김포경찰서",
+            "nodeno": 35631
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 15
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.60775,
+            "gpslong": 127.17155,
+            "nodeid": "GGB222001417",
+            "nodenm": "에일린의뜰아파트정문",
+            "nodeno": 49856
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6078333,
+            "gpslong": 127.1715,
+            "nodeid": "GGB222000761",
+            "nodenm": "에일린의뜰아파트정문",
+            "nodeno": 49857
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6075667,
+            "gpslong": 127.17295,
+            "nodeid": "GGB222001608",
+            "nodenm": "센트럴.한화아파트",
+            "nodeno": 49491
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6076333,
+            "gpslong": 127.1732833,
+            "nodeid": "GGB222001607",
+            "nodenm": "이패야구장.센트럴",
+            "nodeno": 49490
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.60815,
+            "gpslong": 127.1690833,
+            "nodeid": "GGB222001472",
+            "nodenm": "다산2동주민센터.한화꿈에그린아파트",
+            "nodeno": 49389
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6079667,
+            "gpslong": 127.1689167,
+            "nodeid": "GGB222001471",
+            "nodenm": "한화꿈에그린아파트.다산2동주민센터",
+            "nodeno": 49388
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6056,
+            "gpslong": 127.174,
+            "nodeid": "GGB222000305",
+            "nodenm": "남양주체육문화센터.에일린의뜰",
+            "nodeno": 23182
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6094333,
+            "gpslong": 127.1701833,
+            "nodeid": "GGB222001416",
+            "nodenm": "남양주도로관리사업소",
+            "nodeno": 49855
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6093833,
+            "gpslong": 127.17005,
+            "nodeid": "GGB222000308",
+            "nodenm": "남양주도로관리사업소",
+            "nodeno": 49854
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6055667,
+            "gpslong": 127.17435,
+            "nodeid": "GGB222000298",
+            "nodenm": "남양주체육문화센터.에일린의뜰",
+            "nodeno": 23183
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6103333,
+            "gpslong": 127.1724667,
+            "nodeid": "GGB222001317",
+            "nodenm": "남양주제2청사.남양주남부경찰서.남양주보건소",
+            "nodeno": 23926
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6103833,
+            "gpslong": 127.17275,
+            "nodeid": "GGB222001316",
+            "nodenm": "남양주제2청사.남양주남부경찰서.남양주보건소",
+            "nodeno": 23928
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 12
+    }
+  }
+}

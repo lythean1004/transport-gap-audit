@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.63565,
+            "gpslong": 126.6255833,
+            "nodeid": "GGB232000647",
+            "nodenm": "구래리차고지",
+            "nodeno": 35618
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6357,
+            "gpslong": 126.6255667,
+            "nodeid": "GGB277102540",
+            "nodenm": "구래리차고지(미정차)",
+            "nodeno": 0
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

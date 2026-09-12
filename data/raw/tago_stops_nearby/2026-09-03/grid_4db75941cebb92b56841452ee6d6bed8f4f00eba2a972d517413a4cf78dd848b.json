@@ -1,0 +1,57 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6301,
+            "gpslong": 126.6280833,
+            "nodeid": "GGB277102732",
+            "nodenm": "구래리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6299833,
+            "gpslong": 126.6277333,
+            "nodeid": "GGB277102733",
+            "nodenm": "구래리(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6349167,
+            "gpslong": 126.6298667,
+            "nodeid": "GGB232000974",
+            "nodenm": "한강센트럴블루힐정문",
+            "nodeno": 35924
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6350333,
+            "gpslong": 126.63075,
+            "nodeid": "GGB232000973",
+            "nodenm": "한강센트럴블루힐정문",
+            "nodeno": 35923
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6351167,
+            "gpslong": 126.6279833,
+            "nodeid": "GGB232000572",
+            "nodenm": "구래리",
+            "nodeno": 35524
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 5
+    }
+  }
+}

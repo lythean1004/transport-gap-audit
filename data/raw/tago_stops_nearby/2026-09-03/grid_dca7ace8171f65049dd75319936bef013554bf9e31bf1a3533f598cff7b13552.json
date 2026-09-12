@@ -1,0 +1,185 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6536,
+            "gpslong": 126.6336833,
+            "nodeid": "GGB232000663",
+            "nodenm": "고다니8단지",
+            "nodeno": 35306
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6538667,
+            "gpslong": 126.6340667,
+            "nodeid": "GGB232000664",
+            "nodenm": "고다니8단지",
+            "nodeno": 35608
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65545,
+            "gpslong": 126.6321333,
+            "nodeid": "GGB232001089",
+            "nodenm": "고다니마을7단지",
+            "nodeno": 35466
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6555833,
+            "gpslong": 126.6321833,
+            "nodeid": "GGB232001088",
+            "nodenm": "고다니마을7단지",
+            "nodeno": 35428
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6526667,
+            "gpslong": 126.63585,
+            "nodeid": "GGB232000643",
+            "nodenm": "김포한강듀클래스",
+            "nodeno": 35597
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6504667,
+            "gpslong": 126.6331167,
+            "nodeid": "GGB232000947",
+            "nodenm": "김포호수초교.한강아이파크",
+            "nodeno": 35897
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6525333,
+            "gpslong": 126.6359667,
+            "nodeid": "GGB232000574",
+            "nodenm": "김포한강듀클래스",
+            "nodeno": 35521
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6517667,
+            "gpslong": 126.62935,
+            "nodeid": "GGB232000967",
+            "nodenm": "휴먼시아9단지",
+            "nodeno": 35917
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6504,
+            "gpslong": 126.6336833,
+            "nodeid": "GGB232000538",
+            "nodenm": "김포호수초교.한강아이파크",
+            "nodeno": 35759
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6514833,
+            "gpslong": 126.6292,
+            "nodeid": "GGB232000961",
+            "nodenm": "이편한세상.한강아이파크",
+            "nodeno": 35911
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6554833,
+            "gpslong": 126.6296667,
+            "nodeid": "GGB232000633",
+            "nodenm": "희영무지개아파트.고다니마을7단지",
+            "nodeno": 35599
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6533333,
+            "gpslong": 126.6366833,
+            "nodeid": "GGB277102729",
+            "nodenm": "차량대기(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6556167,
+            "gpslong": 126.6293,
+            "nodeid": "GGB232000634",
+            "nodenm": "희영무지개아파트.고다니마을7단지",
+            "nodeno": 35598
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6562833,
+            "gpslong": 126.6350833,
+            "nodeid": "GGB232000637",
+            "nodenm": "신양초교.신양고교",
+            "nodeno": 35595
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65645,
+            "gpslong": 126.63545,
+            "nodeid": "GGB232000638",
+            "nodenm": "신양초교.신양고교",
+            "nodeno": 35592
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.653385,
+            "gpslong": 126.627329,
+            "nodeid": "ICB232000710",
+            "nodenm": "고다니마을9단지",
+            "nodeno": 80362
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.65345,
+            "gpslong": 126.6273333,
+            "nodeid": "GGB232000710",
+            "nodenm": "고다니마을9단지",
+            "nodeno": 35644
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6501833,
+            "gpslong": 126.6361667,
+            "nodeid": "GGB232000945",
+            "nodenm": "호반베르디움5차",
+            "nodeno": 35895
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6531,
+            "gpslong": 126.62705,
+            "nodeid": "GGB232000711",
+            "nodenm": "오라니마을",
+            "nodeno": 35645
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6545167,
+            "gpslong": 126.6273,
+            "nodeid": "GGB232001090",
+            "nodenm": "세계로마트(마을)",
+            "nodeno": 35596
+          },
+          {
+            "citycode": 23,
+            "gpslati": 37.653729,
+            "gpslong": 126.627032,
+            "nodeid": "ICB232000711",
+            "nodenm": "오라니마을",
+            "nodeno": 80360
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 21
+    }
+  }
+}

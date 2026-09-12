@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-09-02T18:18:06+09:00",
+  "base_registry_rows": 107,
+  "curated_registry_rows": 195,
+  "new_rows": 88,
+  "review_queue_rows": 195,
+  "unique_pdf_ids_represented": 92,
+  "unique_pdf_ids_expected": 92,
+  "duplicate_pdf_files": 20,
+  "registry_sha256": "4c0a68413530f05bba51490cabbdd50b1579b594f4e029809d2c73f7c93141f8",
+  "queue_sha256": "725a74a8830cbb78e9066730f066403bc94ddd52fae4e2c5821bb11d3303a062"
+}

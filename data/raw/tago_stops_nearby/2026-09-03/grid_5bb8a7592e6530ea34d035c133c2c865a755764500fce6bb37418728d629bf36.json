@@ -1,0 +1,23 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "citycode": 31070,
+          "gpslati": 37.13435,
+          "gpslong": 127.1081333,
+          "nodeid": "GGB214001878",
+          "nodenm": "동천보건진료소",
+          "nodeno": 48861
+        }
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 1
+    }
+  }
+}

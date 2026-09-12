@@ -1,0 +1,185 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2042667,
+            "gpslong": 127.1192,
+            "nodeid": "GGB233002500",
+            "nodenm": "LH4단지후문",
+            "nodeno": 55406
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2041,
+            "gpslong": 127.1196167,
+            "nodeid": "GGB233002501",
+            "nodenm": "LH4단지후문",
+            "nodeno": 55407
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.20345,
+            "gpslong": 127.1172833,
+            "nodeid": "GGB233002422",
+            "nodenm": "무봉초",
+            "nodeno": 55298
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2051667,
+            "gpslong": 127.1161833,
+            "nodeid": "GGB233001506",
+            "nodenm": "포레너스아파트",
+            "nodeno": 37582
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2053667,
+            "gpslong": 127.1158667,
+            "nodeid": "GGB233000981",
+            "nodenm": "포레너스아파트",
+            "nodeno": 36434
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2056333,
+            "gpslong": 127.12265,
+            "nodeid": "GGB233000959",
+            "nodenm": "동탄2LH4단지",
+            "nodeno": 36437
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2038333,
+            "gpslong": 127.115,
+            "nodeid": "GGB233002423",
+            "nodenm": "무봉초",
+            "nodeno": 55299
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2055833,
+            "gpslong": 127.1227833,
+            "nodeid": "GGB233001505",
+            "nodenm": "동탄2LH4단지",
+            "nodeno": 37583
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2083,
+            "gpslong": 127.1172,
+            "nodeid": "GGB233001162",
+            "nodenm": "반도유보라정문",
+            "nodeno": 36448
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2060333,
+            "gpslong": 127.1231167,
+            "nodeid": "GGB233001173",
+            "nodenm": "LH4단지.치동천복지관",
+            "nodeno": 55899
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2025,
+            "gpslong": 127.1222167,
+            "nodeid": "GGB233002425",
+            "nodenm": "단독주택",
+            "nodeno": 55301
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2083667,
+            "gpslong": 127.1168,
+            "nodeid": "GGB233001169",
+            "nodenm": "반도유보라정문",
+            "nodeno": 36450
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2060667,
+            "gpslong": 127.1233333,
+            "nodeid": "GGB233001176",
+            "nodenm": "LH4단지.치동천복지관",
+            "nodeno": 55900
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2087833,
+            "gpslong": 127.1183167,
+            "nodeid": "GGB233001306",
+            "nodenm": "반도유보라후문",
+            "nodeno": 36482
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2088333,
+            "gpslong": 127.1181833,
+            "nodeid": "GGB233001172",
+            "nodenm": "반도유보라후문",
+            "nodeno": 36785
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.20275,
+            "gpslong": 127.1227167,
+            "nodeid": "GGB233002424",
+            "nodenm": "단독주택",
+            "nodeno": 55300
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.20705,
+            "gpslong": 127.1146667,
+            "nodeid": "GGB233000135",
+            "nodenm": "한백초중교",
+            "nodeno": 36513
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2011167,
+            "gpslong": 127.1188667,
+            "nodeid": "GGB233002427",
+            "nodenm": "KCC스위첸",
+            "nodeno": 55303
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2072333,
+            "gpslong": 127.1147667,
+            "nodeid": "GGB233000149",
+            "nodenm": "한백초중교",
+            "nodeno": 36514
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2034167,
+            "gpslong": 127.11355,
+            "nodeid": "GGB277104808",
+            "nodenm": "치동천5교교차로(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.20205,
+            "gpslong": 127.11455,
+            "nodeid": "GGB233000980",
+            "nodenm": "모아.반도1차아파트",
+            "nodeno": 36459
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 21
+    }
+  }
+}

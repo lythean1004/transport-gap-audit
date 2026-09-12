@@ -1,0 +1,181 @@
+﻿source_id,pdf_id,development,event_type,review_status,local_exists,sha256_match,excerpt_found,required_fields_pass,issues,action
+SRC-E1-A01,,화성 동탄2,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-E1-A02,,화성 동탄2,occupancy_planned_block,needs_human,True,True,True,False,missing_block_name,repair_then_human_verify
+SRC-E1-A03,,김포 한강,occupancy_planned_block,needs_human,True,True,True,False,missing_block_name,repair_then_human_verify
+SRC-E1-A04,PDF-076,김포 한강,occupancy_planned_block,needs_human,True,True,False,False,excerpt_not_found_in_extracted_text,repair_then_human_verify
+SRC-E1-A05,,위례,occupancy_first_planned,needs_human,True,True,True,True,,human_verify
+SRC-E1-A06,,위례,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-E1-A07,,남양주 다산,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-E1-A08,PDF-052,남양주 다산,occupancy_planned_block,needs_human,True,True,True,False,missing_event_date,repair_then_human_verify
+SRC-E1-A09,,하남 미사,occupancy_planned_block,needs_human,True,True,True,False,missing_block_name,repair_then_human_verify
+SRC-E1-A10,,하남 미사,occupancy_planned_block,needs_human,True,True,False,False,excerpt_not_found_in_extracted_text,repair_then_human_verify
+SRC-E1-B01,,화성 동탄2,promise_date,needs_human,True,True,False,False,excerpt_not_found_in_extracted_text,repair_then_human_verify
+SRC-E1-B03,PDF-022,김포 한강,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-E1-B04,PDF-026,김포 한강,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-E1-B06,PDF-093,위례,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-E1-B07,,남양주 다산,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-E1-B08,,남양주 다산,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-E1-B09,PDF-017,하남 미사,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-E1-C03,PDF-035,김포 한강,actual_operation,needs_human,True,True,True,False,missing_line_name,repair_then_human_verify
+SRC-E1-C05,,위례,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-E1-C06,PDF-034,위례,promise_date,needs_human,True,True,False,False,excerpt_not_found_in_extracted_text,repair_then_human_verify
+SRC-E1-C07,,남양주 다산,actual_operation,needs_human,True,True,True,True,,human_verify
+SRC-E1-C08,,남양주 다산,actual_operation,needs_human,True,True,False,False,excerpt_not_found_in_extracted_text,repair_then_human_verify
+SRC-E1-C09,PDF-107,하남 미사,actual_operation,needs_human,True,True,False,False,excerpt_not_found_in_extracted_text,repair_then_human_verify
+SRC-E1-C10,,하남 미사,actual_operation,needs_human,True,True,True,True,,human_verify
+SRC-E2-A06,PDF-010,인천 계양,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-E2-A07,,남양주 왕숙,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-E2-A08,,하남 교산,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-E2-A09,,고양 창릉,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-E2-A10,,부천 대장,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-E2-B06,,인천 계양,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-E2-B07,,남양주 왕숙,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-E2-B08,,하남 교산,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-E2-B09,,고양 창릉,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-E2-B10,,부천 대장,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-E2-C06,,인천 계양,actual_operation,needs_human,True,True,True,False,missing_line_name,repair_then_human_verify
+SRC-E2-C07,,남양주 왕숙,occupancy_planned_block,needs_human,True,True,False,False,excerpt_not_found_in_extracted_text,repair_then_human_verify
+SRC-E2-C08,PDF-014,하남 교산,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-E2-C09,,고양 창릉,occupancy_planned_block,needs_human,True,True,False,False,excerpt_not_found_in_extracted_text,repair_then_human_verify
+SRC-F001,,인천 계양,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-F002,,인천 계양,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-F003,,인천 계양,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-F004,PDF-039,인천 계양,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-F005,,인천 계양,basic_service,needs_human,True,True,True,True,,human_verify
+SRC-F006,PDF-098,인천 계양,basic_service,needs_human,True,True,True,True,,human_verify
+SRC-F007,,남양주 왕숙,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-F008,,남양주 왕숙,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-F009,,남양주 왕숙,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-F010,PDF-038,남양주 왕숙,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-F011,,남양주 왕숙,basic_service,needs_human,True,True,True,True,,human_verify
+SRC-F012,PDF-072,남양주 왕숙,basic_service,needs_human,True,True,True,True,,human_verify
+SRC-F013,,하남 교산,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-F014,,하남 교산,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-F015,,하남 교산,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-F016,PDF-086,하남 교산,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-F017,,하남 교산,basic_service,needs_human,True,True,True,True,,human_verify
+SRC-F018,,하남 교산,basic_service,needs_human,True,True,True,True,,human_verify
+SRC-F019,,고양 창릉,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-F020,,고양 창릉,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-F021,,고양 창릉,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-F022,,고양 창릉,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-F023,,고양 창릉,actual_operation,needs_human,True,True,True,True,,human_verify
+SRC-F024,,고양 창릉,actual_operation,needs_human,True,True,True,True,,human_verify
+SRC-F025,,부천 대장,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-F026,,부천 대장,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-F027,,부천 대장,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-F028,,부천 대장,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-F029,,부천 대장,actual_operation,needs_human,True,True,True,True,,human_verify
+SRC-F030,,부천 대장,actual_operation,needs_human,True,True,True,True,,human_verify
+SRC-H001,,화성 동탄2,occupancy_first_actual,needs_human,True,True,True,True,,human_verify
+SRC-H002,,화성 동탄2,occupancy_first_planned,needs_human,True,True,True,True,,human_verify
+SRC-H003,,화성 동탄2,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-H004,,화성 동탄2,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-H005,,화성 동탄2,actual_operation,needs_human,True,True,True,True,,human_verify
+SRC-H006,,화성 동탄2,actual_operation,needs_human,True,True,True,True,,human_verify
+SRC-H007,,김포 한강,occupancy_first_actual,needs_human,True,True,True,True,,human_verify
+SRC-H008,,김포 한강,occupancy_first_actual,needs_human,True,True,True,True,,human_verify
+SRC-H009,PDF-012,김포 한강,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-H010,PDF-013,김포 한강,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-H011,PDF-088,김포 한강,actual_operation,needs_human,True,True,True,True,,human_verify
+SRC-H012,,김포 한강,actual_operation,needs_human,True,True,True,True,,human_verify
+SRC-H013,,위례,occupancy_first_actual,needs_human,True,True,True,True,,human_verify
+SRC-H014,,위례,occupancy_planned_block,needs_human,True,True,True,False,missing_block_name,repair_then_human_verify
+SRC-H015,,위례,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-H016,PDF-095,위례,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-H017,,위례,actual_operation,needs_human,True,True,True,True,,human_verify
+SRC-H018,,위례,actual_operation,needs_human,True,True,True,True,,human_verify
+SRC-H019,,남양주 다산,occupancy_first_planned,needs_human,True,True,True,True,,human_verify
+SRC-H020,,남양주 다산,occupancy_first_actual,needs_human,True,True,True,True,,human_verify
+SRC-H021,PDF-009,남양주 다산,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-H022,PDF-040,남양주 다산,promise_date,needs_human,True,True,False,False,excerpt_not_found_in_extracted_text,repair_then_human_verify
+SRC-H023,,남양주 다산,actual_operation,needs_human,True,True,True,True,,human_verify
+SRC-H024,,남양주 다산,actual_operation,needs_human,True,True,True,True,,human_verify
+SRC-H025,,하남 미사,occupancy_first_actual,needs_human,True,True,True,True,,human_verify
+SRC-H026,,하남 미사,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-H027,,하남 미사,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-H028,PDF-103,하남 미사,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-H029,,하남 미사,actual_operation,needs_human,True,True,True,True,,human_verify
+SRC-H030,,하남 미사,actual_operation,needs_human,True,True,True,True,,human_verify
+SRC-U001,PDF-003,남양주 왕숙,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-U002,PDF-006,하남 교산,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-PDF-001-OCCU-1,PDF-001,고양 창릉,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-PDF-002-OCCU-1,PDF-002,남양주 왕숙,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-PDF-004-OCCU-1,PDF-004,고양 창릉,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-PDF-005-OCCU-1,PDF-005,고양 창릉,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-PDF-007-OCCU-1,PDF-007,고양 창릉,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-PDF-008-OCCU-1,PDF-008,하남 교산,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-PDF-014-OCCU-1,PDF-014,하남 교산,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-PDF-015-OCCU-1,PDF-015,김포 한강,occupancy_first_actual,needs_human,True,True,True,False,missing_direct_source_url;missing_event_date,repair_then_human_verify
+SRC-PDF-016-OCCU-1,PDF-016,하남 미사,occupancy_first_actual,needs_human,True,True,True,False,missing_direct_source_url,repair_then_human_verify
+SRC-PDF-018-PROM-1,PDF-018,하남 교산,promise_date,needs_human,True,True,True,False,missing_direct_source_url;missing_event_date;missing_mode;missing_line_name,repair_then_human_verify
+SRC-PDF-019-PROM-1,PDF-019,남양주 왕숙,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-PDF-019-PROM-2,PDF-019,고양 창릉,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-PDF-020-OCCU-1,PDF-020,화성 동탄2,occupancy_first_actual,needs_human,True,True,True,False,missing_direct_source_url,repair_then_human_verify
+SRC-PDF-021-PROM-1,PDF-021,화성 동탄2,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-PDF-021-PROM-2,PDF-021,인천 계양,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-PDF-021-PROM-3,PDF-021,부천 대장,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-PDF-023-ACTU-1,PDF-023,남양주 왕숙,actual_operation,needs_human,True,True,True,False,missing_event_date,repair_then_human_verify
+SRC-PDF-025-PROM-1,PDF-025,화성 동탄2,promise_date,needs_human,True,True,True,False,missing_direct_source_url,repair_then_human_verify
+SRC-PDF-027-PROM-1,PDF-027,위례,promise_date,needs_human,True,True,True,False,missing_direct_source_url,repair_then_human_verify
+SRC-PDF-027-BASI-1,PDF-027,위례,basic_service,needs_human,True,True,False,False,missing_direct_source_url;missing_page_or_section;missing_exact_excerpt;missing_event_date;missing_timetable_effective_date;missing_service_level,repair_then_human_verify
+SRC-PDF-028-ACTU-1,PDF-028,고양 창릉,actual_operation,needs_human,True,True,True,True,,human_verify
+SRC-PDF-028-ACTU-2,PDF-028,화성 동탄2,actual_operation,needs_human,True,True,True,True,,human_verify
+SRC-PDF-029-ACTU-1,PDF-029,화성 동탄2,actual_operation,needs_human,True,True,True,True,,human_verify
+SRC-PDF-030-PROM-1,PDF-030,남양주 다산,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-PDF-030-PROM-2,PDF-030,하남 미사,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-PDF-030-PROM-3,PDF-030,하남 교산,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-PDF-030-PROM-4,PDF-030,남양주 왕숙,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-PDF-031-ACTU-1,PDF-031,남양주 다산,actual_operation,needs_human,True,True,True,False,missing_direct_source_url,repair_then_human_verify
+SRC-PDF-031-BASI-1,PDF-031,남양주 다산,basic_service,needs_human,True,True,True,False,missing_direct_source_url;missing_event_date;missing_timetable_effective_date;missing_service_level,repair_then_human_verify
+SRC-PDF-032-ACTU-1,PDF-032,화성 동탄2,actual_operation,needs_human,True,True,True,True,,human_verify
+SRC-PDF-032-BASI-1,PDF-032,화성 동탄2,basic_service,needs_human,True,True,True,False,missing_event_date;missing_timetable_effective_date;missing_service_level,repair_then_human_verify
+SRC-PDF-033-OCCU-1,PDF-033,남양주 왕숙,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-PDF-036-OCCU-1,PDF-036,부천 대장,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-PDF-037-OCCU-1,PDF-037,부천 대장,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-PDF-044-PROM-1,PDF-044,김포 한강,promise_date,needs_human,True,True,True,False,missing_direct_source_url,repair_then_human_verify
+SRC-PDF-045-PROM-1,PDF-045,김포 한강,promise_date,needs_human,True,True,True,False,missing_direct_source_url,repair_then_human_verify
+SRC-PDF-045-PROM-2,PDF-045,하남 미사,promise_date,needs_human,True,True,True,False,missing_direct_source_url,repair_then_human_verify
+SRC-PDF-045-PROM-3,PDF-045,하남 교산,promise_date,needs_human,True,True,True,False,missing_direct_source_url,repair_then_human_verify
+SRC-PDF-049-PROM-1,PDF-049,하남 교산,promise_date,needs_human,True,True,True,False,missing_direct_source_url;missing_mode;missing_line_name,repair_then_human_verify
+SRC-PDF-050-PROM-1,PDF-050,화성 동탄2,promise_date,needs_human,True,True,False,False,missing_direct_source_url;missing_page_or_section;missing_exact_excerpt;missing_event_date;missing_mode;missing_line_name;missing_promise_verb_원문표기,repair_then_human_verify
+SRC-PDF-051-PROM-1,PDF-051,화성 동탄2,promise_date,needs_human,True,True,False,False,missing_direct_source_url;missing_page_or_section;missing_exact_excerpt;missing_event_date;missing_mode;missing_line_name;missing_promise_verb_원문표기,repair_then_human_verify
+SRC-PDF-069-OCCU-1,PDF-069,남양주 왕숙,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-PDF-070-OCCU-1,PDF-070,하남 미사,occupancy_planned_block,needs_human,True,True,False,False,missing_page_or_section;missing_exact_excerpt;missing_event_date;missing_block_name,repair_then_human_verify
+SRC-PDF-071-OCCU-1,PDF-071,화성 동탄2,occupancy_planned_block,needs_human,True,True,True,False,missing_event_date,repair_then_human_verify
+SRC-PDF-073-OCCU-1,PDF-073,고양 창릉,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-PDF-074-ACTU-1,PDF-074,하남 미사,actual_operation,needs_human,True,True,True,False,missing_direct_source_url,repair_then_human_verify
+SRC-PDF-074-ACTU-2,PDF-074,하남 교산,actual_operation,needs_human,True,True,True,False,missing_direct_source_url,repair_then_human_verify
+SRC-PDF-075-OCCU-1,PDF-075,김포 한강,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-PDF-076-OCCU-1,PDF-076,김포 한강,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-PDF-077-OCCU-1,PDF-077,김포 한강,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-PDF-078-BASI-1,PDF-078,,basic_service,needs_human,True,True,False,False,missing_development;missing_direct_source_url;missing_page_or_section;missing_exact_excerpt;missing_event_date;missing_timetable_effective_date;missing_service_level,repair_then_human_verify
+SRC-PDF-079-OCCU-1,PDF-079,남양주 왕숙,occupancy_planned_block,needs_human,True,True,True,True,,human_verify
+SRC-PDF-080-PROM-1,PDF-080,위례,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-PDF-082-OCCU-1,PDF-082,남양주 다산,occupancy_planned_block,needs_human,True,True,True,False,missing_event_date,repair_then_human_verify
+SRC-PDF-084-OCCU-1,PDF-084,하남 미사,occupancy_planned_block,needs_human,True,True,False,False,missing_direct_source_url;missing_page_or_section;missing_exact_excerpt;missing_event_date,repair_then_human_verify
+SRC-PDF-085-OCCU-1,PDF-085,하남 미사,occupancy_planned_block,needs_human,True,True,False,False,missing_direct_source_url;missing_page_or_section;missing_exact_excerpt;missing_event_date,repair_then_human_verify
+SRC-PDF-087-BASI-1,PDF-087,남양주 다산,basic_service,needs_human,True,True,False,False,missing_page_or_section;missing_exact_excerpt;missing_event_date;missing_timetable_effective_date;missing_service_level,repair_then_human_verify
+SRC-PDF-089-OCCU-1,PDF-089,남양주 다산,occupancy_first_actual,needs_human,True,True,True,True,,human_verify
+SRC-PDF-090-OCCU-1,PDF-090,화성 동탄2,occupancy_first_planned,needs_human,True,True,True,False,missing_direct_source_url,repair_then_human_verify
+SRC-PDF-091-OCCU-1,PDF-091,부천 대장,occupancy_planned_block,needs_human,True,True,True,False,missing_event_date,repair_then_human_verify
+SRC-PDF-092-OCCU-1,PDF-092,부천 대장,occupancy_planned_block,needs_human,True,True,True,False,missing_event_date,repair_then_human_verify
+SRC-PDF-094-OCCU-1,PDF-094,하남 미사,occupancy_planned_block,needs_human,True,True,False,False,missing_page_or_section;missing_exact_excerpt;missing_event_date;missing_block_name,repair_then_human_verify
+SRC-PDF-096-OCCU-1,PDF-096,위례,occupancy_planned_block,needs_human,True,True,False,False,missing_page_or_section;missing_exact_excerpt;missing_event_date;missing_block_name,repair_then_human_verify
+SRC-PDF-097-BASI-1,PDF-097,위례,basic_service,needs_human,True,True,False,False,missing_page_or_section;missing_exact_excerpt;missing_event_date;missing_timetable_effective_date;missing_service_level,repair_then_human_verify
+SRC-PDF-097-BASI-2,PDF-097,하남 미사,basic_service,needs_human,True,True,False,False,missing_page_or_section;missing_exact_excerpt;missing_event_date;missing_timetable_effective_date;missing_service_level,repair_then_human_verify
+SRC-PDF-099-OCCU-1,PDF-099,위례,occupancy_first_planned,needs_human,True,True,False,False,missing_page_or_section;missing_exact_excerpt;missing_event_date,repair_then_human_verify
+SRC-PDF-102-ACTU-1,PDF-102,위례,actual_operation,needs_human,True,True,True,True,,human_verify
+SRC-PDF-102-BASI-1,PDF-102,위례,basic_service,needs_human,True,True,True,False,missing_timetable_effective_date;missing_service_level,repair_then_human_verify
+SRC-PDF-105-PROM-1,PDF-105,위례,promise_date,needs_human,True,True,True,True,,human_verify
+SRC-PDF-106-PROM-1,PDF-106,하남 미사,promise_date,needs_human,True,True,True,False,missing_mode;missing_line_name,repair_then_human_verify
+SRC-PDF-108-ACTU-1,PDF-108,하남 미사,actual_operation,needs_human,True,True,True,False,missing_direct_source_url;missing_event_date,repair_then_human_verify
+SRC-PDF-108-ACTU-2,PDF-108,하남 교산,actual_operation,needs_human,True,True,True,False,missing_direct_source_url;missing_event_date,repair_then_human_verify
+SRC-PDF-108-ACTU-3,PDF-108,남양주 왕숙,actual_operation,needs_human,True,True,True,False,missing_direct_source_url;missing_event_date,repair_then_human_verify
+SRC-PDF-108-PROM-1,PDF-108,하남 미사,promise_date,needs_human,True,True,True,False,missing_direct_source_url,repair_then_human_verify
+SRC-PDF-108-PROM-2,PDF-108,하남 교산,promise_date,needs_human,True,True,True,False,missing_direct_source_url,repair_then_human_verify
+SRC-PDF-108-PROM-3,PDF-108,남양주 왕숙,promise_date,needs_human,True,True,True,False,missing_direct_source_url,repair_then_human_verify
+SRC-PDF-109-ACTU-1,PDF-109,위례,actual_operation,needs_human,True,True,True,False,missing_direct_source_url;missing_mode;missing_line_name,repair_then_human_verify
+SRC-PDF-109-ACTU-2,PDF-109,하남 미사,actual_operation,needs_human,True,True,True,False,missing_direct_source_url;missing_mode;missing_line_name,repair_then_human_verify
+SRC-E1-A10-A25,,하남 미사,occupancy_planned_block,needs_human,True,True,False,False,excerpt_not_found_in_extracted_text,repair_then_human_verify
+SRC-E2-C09-S3,,고양 창릉,occupancy_planned_block,needs_human,True,True,False,False,excerpt_not_found_in_extracted_text,repair_then_human_verify

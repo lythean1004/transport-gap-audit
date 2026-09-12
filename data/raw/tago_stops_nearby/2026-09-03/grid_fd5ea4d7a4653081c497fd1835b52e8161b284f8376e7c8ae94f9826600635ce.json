@@ -1,0 +1,81 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6503333,
+            "gpslong": 126.64425,
+            "nodeid": "GGB232000928",
+            "nodenm": "지난마을",
+            "nodeno": 35878
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6505833,
+            "gpslong": 126.64435,
+            "nodeid": "GGB232000927",
+            "nodenm": "지난마을",
+            "nodeno": 35877
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6496,
+            "gpslong": 126.6389667,
+            "nodeid": "GGB232000943",
+            "nodenm": "김포시자원화센터",
+            "nodeno": 35893
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6491833,
+            "gpslong": 126.6387,
+            "nodeid": "GGB232000942",
+            "nodenm": "김포시자원화센터",
+            "nodeno": 35892
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6525333,
+            "gpslong": 126.6397667,
+            "nodeid": "GGB232000323",
+            "nodenm": "장단",
+            "nodeno": 35155
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6525333,
+            "gpslong": 126.6395667,
+            "nodeid": "GGB232000309",
+            "nodenm": "장단",
+            "nodeno": 35154
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6521667,
+            "gpslong": 126.6462333,
+            "nodeid": "GGB232000322",
+            "nodenm": "지난",
+            "nodeno": 35167
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6522667,
+            "gpslong": 126.6462167,
+            "nodeid": "GGB232000310",
+            "nodenm": "지난",
+            "nodeno": 35166
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 8
+    }
+  }
+}

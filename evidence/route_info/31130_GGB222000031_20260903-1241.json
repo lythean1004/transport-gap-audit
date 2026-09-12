@@ -1,0 +1,24 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "endnodenm": "경동시장앞",
+          "endvehicletime": 2310,
+          "intervalsattime": 40,
+          "intervalsuntime": 40,
+          "intervaltime": 15,
+          "routeid": "GGB222000031",
+          "routeno": 65,
+          "routetp": "일반버스",
+          "startnodenm": "차산리",
+          "startvehicletime": "0500"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31130,
+            "gpslati": 37.6193667,
+            "gpslong": 127.16815,
+            "nodeid": "GGB222001630",
+            "nodenm": "다산신도시입구",
+            "nodeno": 49514
+          },
+          {
+            "citycode": 31130,
+            "gpslati": 37.6187333,
+            "gpslong": 127.168,
+            "nodeid": "GGB222001550",
+            "nodenm": "다산신도시입구",
+            "nodeno": 49817
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 2
+    }
+  }
+}

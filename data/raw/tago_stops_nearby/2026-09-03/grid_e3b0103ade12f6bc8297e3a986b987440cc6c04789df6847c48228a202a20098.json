@@ -1,0 +1,169 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1611167,
+            "gpslong": 127.0970667,
+            "nodeid": "GGB233001237",
+            "nodenm": "호수하우스디",
+            "nodeno": 37044
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16095,
+            "gpslong": 127.0970167,
+            "nodeid": "GGB233001118",
+            "nodenm": "호수하우스디",
+            "nodeno": 37039
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1633667,
+            "gpslong": 127.0966333,
+            "nodeid": "GGB233000275",
+            "nodenm": "화남초등학교",
+            "nodeno": 55781
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16395,
+            "gpslong": 127.0968667,
+            "nodeid": "GGB233000238",
+            "nodenm": "화남초등학교",
+            "nodeno": 55768
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1646833,
+            "gpslong": 127.0987333,
+            "nodeid": "GGB233000226",
+            "nodenm": "한화포레나",
+            "nodeno": 55763
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16095,
+            "gpslong": 127.1006333,
+            "nodeid": "GGB233001587",
+            "nodenm": "금호어울림2차",
+            "nodeno": 37042
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16465,
+            "gpslong": 127.0955167,
+            "nodeid": "GGB233002066",
+            "nodenm": "화남초",
+            "nodeno": 55590
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1611333,
+            "gpslong": 127.1008,
+            "nodeid": "GGB233001602",
+            "nodenm": "금호어울림2차",
+            "nodeno": 37047
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16115,
+            "gpslong": 127.09365,
+            "nodeid": "GGB233001111",
+            "nodenm": "엘크루아파트",
+            "nodeno": 37037
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1590667,
+            "gpslong": 127.0966167,
+            "nodeid": "GGB233000249",
+            "nodenm": "진우물류센터",
+            "nodeno": 36368
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1609667,
+            "gpslong": 127.09365,
+            "nodeid": "GGB233001254",
+            "nodenm": "엘크루아파트",
+            "nodeno": 37038
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1649667,
+            "gpslong": 127.0986833,
+            "nodeid": "GGB233000227",
+            "nodenm": "한화포레나",
+            "nodeno": 55764
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1649833,
+            "gpslong": 127.0954,
+            "nodeid": "GGB233002067",
+            "nodenm": "동탄호수마을",
+            "nodeno": 55591
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1639667,
+            "gpslong": 127.0936333,
+            "nodeid": "GGB233000176",
+            "nodenm": "행복주택28단지",
+            "nodeno": 55753
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1638833,
+            "gpslong": 127.0934,
+            "nodeid": "GGB233000175",
+            "nodenm": "행복주택28단지",
+            "nodeno": 55752
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1590833,
+            "gpslong": 127.09995,
+            "nodeid": "GGB233000166",
+            "nodenm": "꽃가마약수터",
+            "nodeno": 36810
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16495,
+            "gpslong": 127.1011667,
+            "nodeid": "GGB233002072",
+            "nodenm": "레이크자연앤푸르지오",
+            "nodeno": 55592
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1586667,
+            "gpslong": 127.0938667,
+            "nodeid": "GGB223000189",
+            "nodenm": "롯데오산물류",
+            "nodeno": 24192
+          },
+          {
+            "citycode": 31140,
+            "gpslati": 37.1588833,
+            "gpslong": 127.0933167,
+            "nodeid": "GGB223000209",
+            "nodenm": "롯데오산물류",
+            "nodeno": 24197
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 19
+    }
+  }
+}

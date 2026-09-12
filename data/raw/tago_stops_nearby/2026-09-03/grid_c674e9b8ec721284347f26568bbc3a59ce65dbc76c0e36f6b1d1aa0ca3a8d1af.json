@@ -1,0 +1,73 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31120,
+            "gpslati": 37.6220333,
+            "gpslong": 127.1408667,
+            "nodeid": "GGB221000131",
+            "nodenm": "샘말.성신양회",
+            "nodeno": 22111
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6219833,
+            "gpslong": 127.1411667,
+            "nodeid": "GGB221000013",
+            "nodenm": "샘말.성신양회",
+            "nodeno": 22114
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6192667,
+            "gpslong": 127.1397333,
+            "nodeid": "GGB221000130",
+            "nodenm": "동창마을.해모로.어울림아파트",
+            "nodeno": 22091
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6191,
+            "gpslong": 127.1399167,
+            "nodeid": "GGB221000014",
+            "nodenm": "동창마을.해모로.어울림아파트",
+            "nodeno": 22092
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6268333,
+            "gpslong": 127.1399833,
+            "nodeid": "GGB221000132",
+            "nodenm": "돌무들",
+            "nodeno": 22093
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6193667,
+            "gpslong": 127.1416,
+            "nodeid": "GGB221000163",
+            "nodenm": "인창해모로아파트",
+            "nodeno": 22177
+          },
+          {
+            "citycode": 31120,
+            "gpslati": 37.6269833,
+            "gpslong": 127.1403333,
+            "nodeid": "GGB221000096",
+            "nodenm": "돌무들",
+            "nodeno": 22096
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 7
+    }
+  }
+}

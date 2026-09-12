@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31230,
+            "gpslati": 37.6516167,
+            "gpslong": 126.6516333,
+            "nodeid": "GGB232000311",
+            "nodenm": "모산.연운사",
+            "nodeno": 35185
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6513667,
+            "gpslong": 126.6517833,
+            "nodeid": "GGB232000321",
+            "nodenm": "모산.연운사",
+            "nodeno": 35186
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6522667,
+            "gpslong": 126.6462167,
+            "nodeid": "GGB232000310",
+            "nodenm": "지난",
+            "nodeno": 35166
+          },
+          {
+            "citycode": 31230,
+            "gpslati": 37.6521667,
+            "gpslong": 126.6462333,
+            "nodeid": "GGB232000322",
+            "nodenm": "지난",
+            "nodeno": 35167
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.2167667,
+            "gpslong": 127.11425,
+            "nodeid": "GGB233002169",
+            "nodenm": "LH1단지.한양수자인",
+            "nodeno": 55605
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2169,
+            "gpslong": 127.1148,
+            "nodeid": "GGB233002173",
+            "nodenm": "LH1단지.한양수자인",
+            "nodeno": 55606
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.21665,
+            "gpslong": 127.1128333,
+            "nodeid": "GGB233002182",
+            "nodenm": "한양수자인.파크푸르지오",
+            "nodeno": 55611
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.21675,
+            "gpslong": 127.1127167,
+            "nodeid": "GGB233002187",
+            "nodenm": "파크푸르지오.한양수자인",
+            "nodeno": 55612
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2163667,
+            "gpslong": 127.1111833,
+            "nodeid": "GGB233002060",
+            "nodenm": "늘봄초교.파크푸르지오",
+            "nodeno": 55030
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2162,
+            "gpslong": 127.1111,
+            "nodeid": "GGB233002059",
+            "nodenm": "늘봄초교.중흥더테라스",
+            "nodeno": 55036
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2193833,
+            "gpslong": 127.1179333,
+            "nodeid": "GGB277104709",
+            "nodenm": "고매1교(미정차)",
+            "nodeno": 0
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2123667,
+            "gpslong": 127.1118333,
+            "nodeid": "GGB233002178",
+            "nodenm": "다원초.파크자이",
+            "nodeno": 55775
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 8
+    }
+  }
+}

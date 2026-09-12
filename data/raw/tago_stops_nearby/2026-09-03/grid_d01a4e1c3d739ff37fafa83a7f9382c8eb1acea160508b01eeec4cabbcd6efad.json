@@ -1,0 +1,89 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1991667,
+            "gpslong": 127.0925167,
+            "nodeid": "GGB233001634",
+            "nodenm": "디에트르퍼스티지",
+            "nodeno": 55495
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1964,
+            "gpslong": 127.0925167,
+            "nodeid": "GGB233001628",
+            "nodenm": "반도5차.파라곤",
+            "nodeno": 55491
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1993333,
+            "gpslong": 127.0930167,
+            "nodeid": "GGB233001632",
+            "nodenm": "디에트르퍼스티지",
+            "nodeno": 55494
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1964167,
+            "gpslong": 127.0930167,
+            "nodeid": "GGB233001625",
+            "nodenm": "반도5차.파라곤",
+            "nodeno": 37687
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2013333,
+            "gpslong": 127.0904,
+            "nodeid": "GGB233003211",
+            "nodenm": "반도유보라.삼정그린코아",
+            "nodeno": 55969
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2015667,
+            "gpslong": 127.09035,
+            "nodeid": "GGB233003210",
+            "nodenm": "반도유보라.삼정그린코아",
+            "nodeno": 55968
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1944667,
+            "gpslong": 127.09145,
+            "nodeid": "GGB233001638",
+            "nodenm": "반도5차",
+            "nodeno": 55484
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1941667,
+            "gpslong": 127.0908,
+            "nodeid": "GGB233001641",
+            "nodenm": "반도5차",
+            "nodeno": 55485
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.2018667,
+            "gpslong": 127.0925167,
+            "nodeid": "GGB233002294",
+            "nodenm": "반도8차",
+            "nodeno": 37134
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 9
+    }
+  }
+}

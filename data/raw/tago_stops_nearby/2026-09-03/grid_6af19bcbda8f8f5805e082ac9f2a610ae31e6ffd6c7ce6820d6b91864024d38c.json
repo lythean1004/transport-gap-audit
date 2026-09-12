@@ -1,0 +1,49 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": [
+          {
+            "citycode": 31240,
+            "gpslati": 37.1613667,
+            "gpslong": 127.1199167,
+            "nodeid": "GGB233003167",
+            "nodenm": "동탄2아이파크1단지",
+            "nodeno": 55564
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.16,
+            "gpslong": 127.1202667,
+            "nodeid": "GGB233003168",
+            "nodenm": "동탄2아이파크2단지",
+            "nodeno": 55565
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1600333,
+            "gpslong": 127.1200333,
+            "nodeid": "GGB233003135",
+            "nodenm": "동탄2아이파크2단지",
+            "nodeno": 55531
+          },
+          {
+            "citycode": 31240,
+            "gpslati": 37.1613167,
+            "gpslong": 127.1194667,
+            "nodeid": "GGB233003134",
+            "nodenm": "동탄2아이파크1단지",
+            "nodeno": 55530
+          }
+        ]
+      },
+      "numOfRows": 1000,
+      "pageNo": 1,
+      "totalCount": 4
+    }
+  }
+}
